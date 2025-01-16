@@ -1,0 +1,182 @@
+@keyframes ser-carousel-3 {
+
+    0%,
+    to {
+        transform: translateX(-50%);
+        z-index: 2
+    }
+
+    10%,
+    90% {
+        z-index: 2
+    }
+
+    11% {
+        z-index: 1
+    }
+
+    33% {
+        transform: translateX(-140%) scale(.8);
+        z-index: 0
+    }
+
+    66% {
+        transform: translateX(40%) scale(.8);
+        z-index: 0
+    }
+}
+
+@keyframes ser-carousel-4 {
+
+    0%,
+    to {
+        transform: translateX(-50%);
+        z-index: 2
+    }
+
+    12%,
+    90% {
+        z-index: 2
+    }
+
+    13% {
+        z-index: 1
+    }
+
+    25% {
+        transform: translateX(-140%) scale(.8);
+        z-index: 1
+    }
+
+    50% {
+        transform: translateX(-50%) scale(.8);
+        z-index: 0
+    }
+
+    75% {
+        transform: translateX(40%) scale(.8);
+        z-index: 1
+    }
+}
+
+@keyframes ser-carousel-5 {
+
+    0%,
+    to {
+        transform: translateX(-50%);
+        z-index: 2
+    }
+
+    10%,
+    90% {
+        z-index: 2
+    }
+
+    11% {
+        z-index: 1
+    }
+
+    20% {
+        transform: translateX(-140%) scale(.8);
+        z-index: 1
+    }
+
+    40%,
+    60% {
+        transform: translateX(-50%) scale(.8);
+        z-index: 0
+    }
+
+    80% {
+        transform: translateX(40%) scale(.8);
+        z-index: 1
+    }
+}
+
+.ce_sercarousel .ser-carousel {
+    margin: 25px auto;
+    position: relative;
+    height: 150px;
+    max-width: 400px;
+    --base-animation-time: 4s
+}
+
+.ce_sercarousel .ser-carousel img {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 150px;
+    width: auto
+}
+
+.ce_sercarousel .ser-carousel:hover img {
+    animation-play-state: paused
+}
+
+.ser-carousel.ser-carousel-3 {
+    --animation-time: calc(var(--base-animation-time) * 3)
+}
+
+.ser-carousel.ser-carousel-4 {
+    --animation-time: calc(var(--base-animation-time) * 4)
+}
+
+.ser-carousel.ser-carousel-5 {
+    --animation-time: calc(var(--base-animation-time) * 5)
+}
+
+.ser-carousel.ser-carousel-3 img {
+    animation: ser-carousel-3 var(--animation-time) infinite
+}
+
+.ser-carousel.ser-carousel-4 img {
+    animation: ser-carousel-4 var(--animation-time) infinite
+}
+
+.ser-carousel.ser-carousel-5 img {
+    animation: ser-carousel-5 var(--animation-time) infinite
+}
+
+.ser-carousel.ser-carousel-3 img:first-child {
+    animation-delay: calc(var(--animation-time)/-3)
+}
+
+.ser-carousel.ser-carousel-3 img:last-child {
+    animation-delay: calc(var(--animation-time)/-3*2)
+}
+
+.ser-carousel.ser-carousel-4 img:first-child {
+    animation-delay: calc(var(--animation-time)/-2)
+}
+
+.ser-carousel.ser-carousel-4 img:nth-child(2) {
+    animation-delay: calc(var(--animation-time)/-4)
+}
+
+.ser-carousel.ser-carousel-4 img:last-child {
+    animation-delay: calc(var(--animation-time)/-4*3)
+}
+
+.ser-carousel.ser-carousel-5 img:first-child {
+    animation-delay: calc(var(--animation-time)/-5*3)
+}
+
+.ser-carousel.ser-carousel-5 img:nth-child(2) {
+    animation-delay: calc(var(--animation-time)/-5*2)
+}
+
+.ser-carousel.ser-carousel-5 img:nth-child(3) {
+    animation-delay: calc(var(--animation-time)/-5)
+}
+
+.ser-carousel.ser-carousel-5 img:last-child {
+    animation-delay: calc(var(--animation-time)/-5*4)
+}
+
+@media screen and (max-width:600px) {
+
+    .ce_sercarousel .ser-carousel,
+    .ce_sercarousel .ser-carousel img {
+        height: 120px
+    }
+}
