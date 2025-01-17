@@ -467,7 +467,7 @@
                 <div class="col-md-6">
                     <div class="content-image text-center mb-4 mb-md-0">
                         <figure class="shadow-lg rounded-lg overflow-hidden">
-                            <img src="assets/images/SmartIDP/image.png" alt="Business Process Management" title="One business process management (BPM) software for all processes" class="img-fluid" />
+                            <img src="assets/images/SmartIDP/image.png" alt="Business Process Management" title="One business process management (BPM) software for all processes" class="img-fluid"  style="border-radius: 20px;"/>
                         </figure>
                     </div>
                 </div>
@@ -508,7 +508,7 @@
                             <button data-splash-screen>
                                 <!-- Video with Autoplay and Muted Attributes -->
                                 <video width="100%" height="100%" autoplay muted loop>
-                                    <source src="assets/images/explanation-vid.mp4" type="video/mp4">
+                                    <source src="assets/images/explanation-vid.mp4" type="video/mp4" >
                                     Your browser does not support the video tag.
                                 </video>
                             </button>

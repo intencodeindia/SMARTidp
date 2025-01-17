@@ -516,7 +516,7 @@
                 <!-- Image Section -->
                 <div class="col-12 col-md-6 mb-4 text-center">
                     <div class="position-relative">
-                        <img src="assets/images/SmartIDP/all_docs.png" class="img-fluid shadow-lg rounded-3" alt="Adesso Group HR Management" style=" border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <img src="assets/images/SmartIDP/all_docs.png" class="img-fluid shadow-lg rounded-3" alt="Adesso Group HR Management" style=" border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
                     </div>
                 </div>
             </div>

@@ -461,7 +461,7 @@
               <div class="ce_rs_column_start rs-column -large-col-3-1 -large-first -large-first-row -medium-col-3-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                 <div class="content-image">
                   <figure>
-                    <img src="assets/images/sap/flexible.webp" alt="smartIDP offers standout usability" title="smartIDP is all about usability" width="250" height="412">
+                    <img src="assets/images/sap/flexible.webp" alt="smartIDP offers standout usability" title="smartIDP is all about usability" width="250" height="412" style="border-radius: 20px;">
                   </figure>
                 </div>
               </div>
@@ -515,7 +515,7 @@
                 <div class="ser-hide-mobile">
                   <div class="content-image">
                     <figure>
-                      <img src="https://cdn.sergroup.com/assets/images/x/ser-sap-partner-logo3-z748nzpy6sgzz22.jpg" alt="" width="267" height="300">
+                      <img src="https://cdn.sergroup.com/assets/images/x/ser-sap-partner-logo3-z748nzpy6sgzz22.jpg" alt="" width="267" height="300" style="border-radius: 20px;">
                     </figure>
                   </div>
                 </div>

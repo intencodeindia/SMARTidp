@@ -150,7 +150,7 @@
                         <p class="lead mb-4 responsive-paragraph" style="color: #333; font-weight: bold;">
                             Empower your employees' daily work, improve document understanding, and supercharge business processes with SmartIDP Intelligent Content Automation's next-generation ECM capabilities.
                         </p>
-                        <a class="btn" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); color: white; padding: 10px 30px; text-decoration: none; border-radius: 50px;">
+                        <a class="btn" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); color: white; padding: 10px 30px; text-decoration: none; border-radius: 50px; ">
                             Experience Advice
                         </a>
                     </div>
@@ -217,7 +217,7 @@
                         <div class="col">
                             <div class="card h-100 border-0 text-center custom-card-shadow">
                                 <div class="card-body">
-                                    <i class="fas fa-laptop fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <i class="fas fa-laptop fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent; "></i>
                                     <h3 class="h5">Intelligent Digital Workplace</h3>
                                     <p>Empower your workforce with AI for enhanced productivity, streamlined workspaces, smarter decision-making, better collaboration, and a trusty assistant at your side.</p>
                                 </div>
@@ -676,7 +676,7 @@
                     <!-- Content Section -->
                     <div class="row align-items-stretch">
                         <!-- Text Column -->
-                        <div class="col-12 col-md-6 mb-4 text-justify" style="font-size: 1rem; line-height: 1.6; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div class="col-12 col-lg-6 mb-4 text-justify" style="font-size: 1rem; line-height: 1.6; display: flex; flex-direction: column; justify-content: space-between;">
                             <div>
                                 <p><strong>SmartIDP</strong> Intelligent Content Automation stands as a pioneer and <strong>leader</strong> among content services platforms with AI embedded into the core. Our goal is to empower our customers to get maximum value from their information.</p>
                                 <p>SmartIDP enables them to make the right decisions, enhance employee and customer experiences and ultimately manage content in ways that are smarter, more connected and context-aware.</p>
@@ -695,9 +695,9 @@
                         </div>
 
                         <!-- Image Column -->
-                        <div class="col-12 col-md-6 mb-4">
+                        <div class="col-12 col-lg-6 mb-4">
                             <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                                <img src="assets/images/SmartIDP/Intelligent_doc.png" alt="meets AI" class="img-fluid rounded shadow-lg" style="max-width: 100%; height: 100%; object-fit: cover; border-radius: 15px;">
+                                <img src="assets/images/SmartIDP/Intelligent_doc.png" alt="meets AI" class="img-fluid shadow-lg" style="max-width: 100%; height: 100%;  border-radius: 20px;">
                             </div>
                         </div>
                     </div>
@@ -763,7 +763,7 @@
                                         <figure>
                                             <picture>
                                                 <source srcset="assets/images/SmartIDP/intelligent-document-processing.png" type="image/webp" width="580" height="304">
-                                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3">
+                                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px;">
                                             </picture>
                                         </figure>
                                     </div>
@@ -779,7 +779,7 @@
                                         <figure>
                                             <picture>
                                                 <source srcset="assets/images/artificial_intelligence/3_ways.webp" type="image/webp" width="580" height="304">
-                                                <img src="assets/images/artificial_intelligence/3_ways.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3">
+                                                <img src="assets/images/artificial_intelligence/3_ways.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px;">
                                             </picture>
                                         </figure>
                                     </div>
@@ -795,7 +795,7 @@
                                         <figure>
                                             <picture>
                                                 <source srcset="assets/images/artificial_intelligence/management.webp" type="image/webp" width="580" height="304">
-                                                <img src="assets/images/artificial_intelligence/management.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3">
+                                                <img src="assets/images/artificial_intelligence/management.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px;">
                                             </picture>
                                         </figure>
                                     </div>

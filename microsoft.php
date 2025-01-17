@@ -92,7 +92,7 @@
 <div class="content-wrapper">
     <main role="main" class="main-content">
         <!-- Hero Section -->
-        <div class="container-fluid cover" id="article-43622" style="background-image: url('assets/images/microsoft/1.jpg'); background-size: cover; background-position: center center; height: 60vh;">
+        <div class="container-fluid cover" id="article-43622" style="background-image: url('assets/images/microsoft/1.jpg'); background-size: cover; background-position: center center; height: 60vh;" >
             <div class="container h-100 d-flex justify-content-center align-items-center">
                 <div class="row w-100 justify-content-center">
                     <!-- Left Column (Text Content) -->

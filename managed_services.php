@@ -6,7 +6,7 @@
             <div class="mod_article_inner">
                 <div class="rs-columns ce_rs_columns_start align-items-center d-flex">
                     <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
-                        <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start max-width-600 h-lg-500  -vertical-centered" style=" ">
+                        <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start max-width-600 h-lg-500  -vertical-centered">
                             <div class="centered-wrapper-inner ">
                                 <div class="headline-box ser-headline-box -align-left ce_rsce_ser_headline_box campaign-page-headline">
                                     <h1 class="headline -extra-large ">More service — <br>less work</h1>
@@ -25,8 +25,8 @@
                         </div>
                     </div>
                     <div class="ce_rs_column_start hide-tablet rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
-                        <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start h-lg-500  -height-medium" style=" ">
-                            <div class="centered-wrapper-background" style="background-image: url(&quot;https://cdn.sergroup.com/files/content/images/services/managed_services/SER_banner_doxis_ica_service_bundles.jpg&quot;);" data-image-url="https://cdn.sergroup.com/files/content/images/services/managed_services/SER_banner_doxis_ica_service_bundles.jpg"></div>
+                        <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start h-lg-500  -height-medium">
+                            <div class="centered-wrapper-background" style="background-image: url(&quot;https://cdn.sergroup.com/files/content/images/services/managed_services/SER_banner_doxis_ica_service_bundles.jpg&quot;);border-radius: 20px;" data-image-url="https://cdn.sergroup.com/files/content/images/services/managed_services/SER_banner_doxis_ica_service_bundles.jpg" style="border-radius: 20px;"></div>
                             <div class="centered-wrapper-inner "></div>
                         </div>
                     </div>
@@ -163,10 +163,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="ser-icon-boxes-item icon-boxes-item  -inverted-icon-no-border " style="">
-                                        <div class="ser-icon-boxes-element icon-boxes-item  -inverted-icon-no-border " style="">
-                                            <div class="ser-icon-boxes-element-inner icon-boxes-item  -inverted-icon-no-border " style="">
-                                                <span class="icon-boxes-item-icon" style="" data-icon="&#xe91a;"></span>
+                                    <div class="ser-icon-boxes-item icon-boxes-item  -inverted-icon-no-border ">
+                                        <div class="ser-icon-boxes-element icon-boxes-item  -inverted-icon-no-border">
+                                            <div class="ser-icon-boxes-element-inner icon-boxes-item  -inverted-icon-no-border">
+                                                <span class="icon-boxes-item-icon"  data-icon="&#xe91a;"></span>
                                                 <div class="ser-icon-boxes-description">
                                                     <h3 class="-medium">Support Services</h3>
                                                     <div class="ser-icon-boxes-text">
@@ -176,10 +176,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="ser-icon-boxes-item icon-boxes-item  -inverted-icon-no-border " style="">
-                                        <div class="ser-icon-boxes-element icon-boxes-item  -inverted-icon-no-border " style="">
-                                            <div class="ser-icon-boxes-element-inner icon-boxes-item  -inverted-icon-no-border " style="">
-                                                <span class="icon-boxes-item-icon" style="" data-icon="&#xe969;"></span>
+                                    <div class="ser-icon-boxes-item icon-boxes-item  -inverted-icon-no-border " >
+                                        <div class="ser-icon-boxes-element icon-boxes-item  -inverted-icon-no-border " >
+                                            <div class="ser-icon-boxes-element-inner icon-boxes-item  -inverted-icon-no-border " >
+                                                <span class="icon-boxes-item-icon"  data-icon="&#xe969;"></span>
                                                 <div class="ser-icon-boxes-description">
                                                     <h3 class="-medium">Mentoring Services</h3>
                                                     <div class="ser-icon-boxes-text">
@@ -207,7 +207,7 @@
                                     <figure>
                                         <picture>
                                             <source srcset="https://cdn.sergroup.com/assets/images/s/AK7B7884-qntn4hta3syj531.webp" type="image/webp" width="374" height="249">
-                                            <img src="https://cdn.sergroup.com/assets/images/5/AK7B7884-4ekv5n6mv15qaba.jpg" alt width="374" height="249" loading="lazy">
+                                            <img src="https://cdn.sergroup.com/assets/images/5/AK7B7884-4ekv5n6mv15qaba.jpg" alt width="374" height="249" loading="lazy" style="border-radius: 20px;">
                                         </picture>
                                         <figcaption>Philipp Gunzer <br>VP Customer Operations, SER</figcaption>
                                     </figure>

@@ -45,6 +45,12 @@
             transform: translateX(-100%);
         }
     }
+    .carousel-item {
+        height: 800px;
+    }
+    @media (max-width:768){
+
+    }
 </style>
 
 <div class="content-wrapper">
@@ -57,21 +63,22 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="assets/images/inbound_mail_automation/email1.webp" class="d-block w-100 mt-1 my-3 g-2" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
+        <h1>The digital workbasket was quickly embraced by all users, resulting in a 75% reduction in the time and resources spent on mail distribution.</h1>
+        <h5>Learn More</h5>
         <p>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="assets/images/111/1.webp" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Some representative placeholder content for the second slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="assets/images/111/1.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         <p>Some representative placeholder content for the third slide.</p>

@@ -385,7 +385,7 @@
                                 <div class="content-image">
                                     <figure>
                                         <img src="assets/images/invoice_automation/inv9.png"
-                                        alt="eInvoicing Compliance" style="max-width: 140%;margin-left: 40px;">
+                                        alt="eInvoicing Compliance" style="max-width: 140%;margin-left: 40px;border-radius: 20px;">
                                     </figure>
                                 </div>
                             </div>
@@ -466,7 +466,7 @@
                     <div class="col-md-5 d-flex align-items-center aos-init aos-animate" data-aos="zoom-out"
                         data-aos-delay="100">
                         <img src="assets/images/invoice_automation/inv10.webp" class="img-fluid"
-                            alt="SmartIDP Group Collaboration">
+                            alt="SmartIDP Group Collaboration" style="border-radius: 20px;">
                     </div>
                     <div class="col-md-7 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <h3 class="responsive-heading1 fw-bold">Streamlined Invoice Receipt with SmartIDP</h3>
@@ -484,7 +484,7 @@
                     <div class="col-md-5 order-1 order-md-2 d-flex align-items-center aos-init aos-animate" data-aos="zoom-out"
                         data-aos-delay="200">
                         <img src="assets/images/invoice_automation/inv11.png" class="img-fluid mb-10"
-                            alt="SmartIDP Collaboration Features">
+                            alt="SmartIDP Collaboration Features" style="border-radius: 20px;">
                     </div>
                     <div class="col-md-7 order-2 order-md-1 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                         <h3 class="responsive-heading1 fw-bold">Automated Data Extraction with SmartIDP </h3>
@@ -509,7 +509,7 @@
                 <div class="row gy-4 align-items-center features-item">
                     <div class="col-md-5 d-flex align-items-center aos-init aos-animate" data-aos="zoom-out">
                         <img src="assets/images/invoice_automation/inv5.png" class="img-fluid"
-                            alt="SmartIDP Document Management">
+                            alt="SmartIDP Document Management" style="border-radius: 20px;">
                     </div>
                     <div class="col-md-7 aos-init aos-animate" data-aos="fade-up">
                         <h3 class="responsive-heading1 fw-bold">Automated Invoice Verification with SmartIDPnced</h3>
@@ -534,7 +534,7 @@
                 <div class="row gy-4 align-items-center features-item">
                     <div class="col-md-5 order-1 order-md-2 d-flex align-items-center aos-init aos-animate" data-aos="zoom-out">
                         <img src="assets/images/invoice_automation/invoi1.webp" class="img-fluid"
-                            alt="SmartIDP Group Member Features">
+                            alt="SmartIDP Group Member Features" style="border-radius: 20px;">
                     </div>
                     <div class="col-md-7 order-2 order-md-1 aos-init aos-animate" data-aos="fade-up">
                         <h3 class="responsive-heading1 fw-bold">Efficient Invoice Release with SmartIDP</h3>
@@ -630,7 +630,7 @@
                             <div class="col-12 col-lg-6 d-none d-lg-block d-flex justify-content-end align-content-center">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="assets/images/invoice_automation/inv6.png" alt="Invoice Automation" style="max-width: 140%;margin-left: 40px;">
+                                        <img src="assets/images/invoice_automation/inv6.png" alt="Invoice Automation" style="max-width: 140%;margin-left: 40px;border-radius: 20px;">
                                     </figure>
                                 </div>
                             </div>

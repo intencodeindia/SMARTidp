@@ -334,7 +334,7 @@
                                     More details </a>
                             </div>
                             <a class="feature-box-image not-animated " href="">
-                                <img src="https://cdn.sergroup.com/assets/images/p/ser_cloud_brochuere_en_3d-2by22rst5980mfr.png" width="406" height="550" alt="">
+                                <img src="https://cdn.sergroup.com/assets/images/p/ser_cloud_brochuere_en_3d-2by22rst5980mfr.png" width="406" height="550"  style="border-radius: 20px;" alt="">
                             </a>
                         </section>
                     </div>
