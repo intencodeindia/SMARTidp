@@ -29,7 +29,6 @@
         <div class="serhead-main-headline">
             <h2 class="fw-bold text-center"><span class="gradient">Salesforce integration</span> with smartIDP</h2>
         </div>
-
         <div class="mod_article max-width-viewport block" id="article-29449">
             <div class="mod_article_inner">
                 <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start -vertical-centered">

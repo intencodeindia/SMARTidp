@@ -1,9 +1,9 @@
 <?php
 $production_URL = 'https://www.smartidp.ai';
-$development_URL = 'http://192.168.1.12/Git Hub/smart_idp/';
+$development_URL = 'http://192.168.1.5/Git Hub/smart_idp/';
 
 // Determine the environment
-if ($_SERVER['SERVER_NAME'] == '192.168.1.12') {
+if ($_SERVER['SERVER_NAME'] == '192.168.1.5') {
     define('BASE_PATH', $development_URL);
 } else {
     define('BASE_PATH', $production_URL);

@@ -173,7 +173,7 @@
                                                     <a href="/en/solutions/contract-management.html" class="">
                                                         Contract management </a>
                                                 </li>
-                                                <!-- <li class="">
+                                                <li class="">
                                                             <a href="/en/business-platform/archiving.html" class="">
                                                                 Archiving </a>
                                                         </li>
@@ -185,7 +185,7 @@
                                                         <li class="">
                                                             <a href="/en/solutions/case-management.html" class="">
                                                                 Case management </a>
-                                                        </li> -->
+                                                        </li>
                                                 <li class="menu-overview-page sibling">
                                                     <a href="/en/solutions.html"
                                                         class="menu-overview-page sibling">

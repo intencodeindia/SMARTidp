@@ -398,7 +398,19 @@
                                                             <a href="<?php echo BASE_PATH; ?>contract_management" class="">
                                                                 Contract management </a>
                                                         </li>
-
+                                                        <li class="">
+                                                            <a href="<?php echo BASE_PATH; ?>archiving" class="">
+                                                                Archiving </a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="<?php echo BASE_PATH; ?>inbound_mail_automation"
+                                                                class="">
+                                                                Inbound mail automation </a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="<?php echo BASE_PATH; ?>case_management" class="">
+                                                                Case management </a>
+                                                        </li>
                                                     </ul>
                                                 </section>
                                                 <section class="mega-dropdown-column  rs-column -large-col-3-1 -large-first-row -medium-col-3-1 -medium-first-row -small-col-1-1 -small-first -small-last">

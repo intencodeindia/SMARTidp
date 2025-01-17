@@ -105,8 +105,9 @@
             /* Adjust button padding */
         }
     }
-     /* Unique class for shadow effect */
-     .custom-card-shadow {
+
+    /* Unique class for shadow effect */
+    .custom-card-shadow {
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
         transition: transform 0.3s ease, box-shadow 0.3s ease;
         border-radius: 1.25rem;
@@ -116,22 +117,33 @@
         transform: translateY(-5px);
         box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
     }
+    @media (max-width: 768px) {
+        #article-43622{
+            background-position: center;
 
+        }
+    }
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content">
+        <!-- Hero Section -->
+        <div class="container-fluid cover" id="article-43622" style="background-image: url('assets/images/banking_financial/fin4.png'); background-size: cover; background-position: center center; height: 60vh;">
+            <div class="container h-100 d-flex justify-content-center align-items-center">
+                <div class="row w-100 justify-content-center">
+                    <!-- Left Column (Text Content) -->
+                    <div class="col-12 text-white text-center">
+                        <div class="mb-4">
+                            <h2 class="subheadline text-uppercase fw-bold fs-1 fs-md-2 fs-lg-3 text-whitext-dark-emphasiste" style="line-height: normal;">
+                                SmartIDP for Banks and Financial Services: Revolutionizing Document and Data Management
+                            </h2>
+                        </div>
 
-        <div class="container-fluid py-5" id="article-43622"
-            style="background-image: url('assets/images/banking_financial/fin4.png'); 
-                    background-size: cover; background-position: center; height: 80vh; position: relative;">
-            <h2 class="subheadline text-uppercase d-flex justify-content-start">
-                <span class="text-body-emphasis" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2rem; text-align: center; color: white;">
-                    SmartIDP for Banks and Financial Services
-                </span>
-            </h2>
+                    </div>
+                </div>
+            </div>
         </div>
 
-        <div class="container-fluid pt-3" id="article-43622" style="background-color: #eaedfa;">
+        <div class="container-fluid pt-3" id="article-436221" style="background-color: #eaedfa;">
             <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
             </div>
             <div class="customer-logos-marquee">
@@ -337,114 +349,96 @@
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start infobox max-width-800 -vertical-centered">
-                <div class="centered-wrapper-inner">
-                    <div class="row">
-                        <div class="col-12 col-md-6">
-                            <div class="content-text">
-                                <h3>SmartIDP in Banking and Financial Services </h3>
-                                <div class="rte text-justify">
-                                    <p>Feeling overwhelmed by information overload? SmartIDP helps you work smarter, more efficiently, and faster. Managing large volumes of customer data can be challenging, but SmartIDP ensures error-free data capture and streamlines your key processes, like loan management, to ensure nothing is overlooked. With SmartIDP, you have the support you need to stay organized and efficient.</p>
-                                    <h3>Want to learn more about SmartIDP?</h3>
+        <div class="mod_article max-width-viewport block" id="article-44383">
+            <div class="mod_article_inner">
+                <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start infobox max-width-800">
+                    <div class="centered-wrapper-inner">
+                        <!-- Content Section -->
+                        <div class="content-text">
+                            <h3 class="fw-bold">SmartIDP in Banking and Financial Services</h3>
+                            <div class="rte">
+                                <p>Feeling overwhelmed by information overload? SmartIDP helps you work smarter, faster, and more efficiently. Managing large volumes of customer data can be challenging, but SmartIDP ensures error-free data entry and streamlines key processes like loan management, so no steps are missed. Let SmartIDP be your trusted solution for smoother operations.</p>
+                                <p>Want to learn more about smartIDP?</p>
+                            </div>
+                        </div>
+
+                        <!-- Button Section to Experience smartIDP -->
+                        <div class="button-box ce_rsce_oneo_button -left">
+                            <a class="button ce_rsce_oneo_button -left" href="contact">
+                                Experience smartIDP
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container pb-5">
+            <div id="article-43617">
+                <div class="mod_article_inner">
+                    <div class="container">
+                        <div class="text-center mb-5">
+                            <!-- Headline Section -->
+                            <h2 class="responsive-heading1 fw-bold">Solutions <span class="gradient">for Banks & Financial</span> Service Providers</h2>
+                        </div>
+                        <!-- Icon Boxes Section -->
+                        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
+                            <!-- Box 1: Set your own standards -->
+                            <div class="col">
+                                <div class="card custom-card-shadow h-100 text-center p-2">
+                                    <div class="icon m-2">
+                                        <i class="fa-solid fa-bars-progress fa-3x custom-icon my-2 gradient"></i>
+                                    </div>
+                                    <h5>SmartIDP for Loan & Lease Management</h5>
+                                    <p>SmartIDP consolidates electronic files for loans, leases, and property financing, bringing together all relevant documents and customer data to streamline the decision-making process.</p>
                                 </div>
                             </div>
-                            <div class="button-box ce_rsce_oneo_button -left">
-                                <a class="button ce_rsce_oneo_button -left" href="contact.php">
-                                    Experience SmartIDP
-                                </a>
+
+                            <!-- Box 2: Stay agile -->
+                            <div class="col">
+                                <div class="card custom-card-shadow h-100 text-center p-2">
+                                    <div class="icon m-2">
+                                        <i class="fa-solid fa-money-bill fa-3x custom-icon my-2 gradient"></i>
+                                    </div>
+                                    <h5>SmartIDP Integration with Banking Systems</h5>
+                                    <p>SmartIDP allows seamless transfer of information from integrated banking applications to index electronic credit files, contract documents, and more, ensuring easy retrieval of credit files directly from the core banking system.</p>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-12 col-md-6">
-                            <div class="content-image">
-                                <figure>
-                                    <img src="assets/images/banking_financial/fin5.png" class="img-fluid" alt="SmartIDP in Banking">
-                                </figure>
+
+                            <!-- Box 3: Create context -->
+                            <div class="col">
+                                <div class="card custom-card-shadow h-100 text-center p-2">
+                                    <div class="icon m-2">
+                                        <i class="fa-solid fa-folder-open fa-3x custom-icon my-2 gradient"></i>
+                                    </div>
+                                    <h5>SmartIDP: Streamlined Document Management</h5>
+                                    <p>SmartIDP enables location-independent and efficient loan processing, automated digital statements, monthly payment plans, and more, all through secure customer portals.</p>
+                                </div>
+                            </div>
+
+                            <!-- Box 4: Combine processes -->
+                            <div class="col">
+                                <div class="card custom-card-shadow h-100 text-center p-2">
+                                    <div class="icon m-2">
+                                        <i class="fa-regular fa-circle-check fa-3x custom-icon my-2 gradient"></i>
+                                    </div>
+                                    <h5>SmartIDP: GRC Solutions</h5>
+                                    <p>With SmartIDP, publishing and managing risk management specifications and official documents is simple and efficient, helping you meet quality management requirements with ease.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-
-
-
-        <div class="container py-3" id="article-43660 ">
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-10">
-                    <!-- Headline Box -->
-                    <div class="headline-box text-center mb-4">
-                        <h2 class="headline -extra-large fw-bold" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;">
-                            <span class="gradient">Solutions for</span> <span class="gradient">Banks & Financial Service</span> Providers
-                        </h2>
-                    </div>
-
-                    <!-- Icon Boxes Section -->
-                   <section class="row">
-    <!-- Icon Box 1 -->
-    <div class="col-12 col-md-6 mb-4">
-        <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-            <div class="card-body d-flex align-items-center">
-                <i class="fa-solid fa-file-alt fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                <div>
-                    <h3 class="card-title">Loan & Lease Files with SmartIDP</h3>
-                    <p class="card-text text-justify">SmartIDP consolidates electronic files for loans, leases, or property financing, bringing together all relevant documents and customer data to support informed decision-making.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Icon Box 2 -->
-    <div class="col-12 col-md-6 mb-4">
-        <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-            <div class="card-body d-flex align-items-center">
-                <i class="fa-solid fa-plug fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                <div>
-                    <h3 class="card-title">Integration in Bank Systems</h3>
-                    <p class="card-text text-justify">SmartIDP enables seamless transfer of information from integrated core applications to index electronic credit files, contract files, and more, while also allowing easy retrieval of credit files from the primary system.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Icon Box 3 -->
-    <div class="col-12 col-md-6 mb-4">
-        <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-            <div class="card-body d-flex align-items-center">
-                <i class="fa-solid fa-cogs fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                <div>
-                    <h3 class="card-title">Manage and Process Documents with SmartIDP</h3>
-                    <p class="card-text text-justify">SmartIDP enables location-independent and efficient processing of loans, automated digital statements of account, monthly payment plans, and more, all through secure customer portals.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Icon Box 4 -->
-    <div class="col-12 col-md-6 mb-4">
-        <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-            <div class="card-body d-flex align-items-center">
-                <i class="fa-solid fa-shield-alt fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                <div>
-                    <h3 class="card-title">Governance, Risk & Compliance (GRC) with SmartIDP</h3>
-                    <p class="card-text text-justify">With SmartIDP, publishing and managing specifications and official documents for risk management becomes easy and efficient, helping you meet quality management requirements seamlessly.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
                 </div>
             </div>
         </div>
 
         <div class="content-wrapper">
             <main role="main" class="main-content mb-5">
-                <div class="container-fluid py-3 cover" id="article-43622" style="background-image: url('assets/images/document_management/cove_pic.png'); background-size: cover; background-position: center center;">
+                <div class="container-fluid p-3 img-fluid" id="article-43622" style="background-image: url('assets/images/document_management/cove_pic.png'); background-size:cover; background-position: center;">
                     <div class="container">
                         <div class="row align-items-center">
                             <!-- Left Column (Text Content) -->
-                            <div class="col-lg-8 text-white">
+                            <div class="col-lg-8 text-white py-md-5">
                                 <div class="mb-4">
                                     <h1 class="display-3 text-white  fw-bold ">"Building a Lean, Modern, and Future-Proof Business with SmartIDP"</h1>
                                     <h3 class="text-white">"Your Essential Guide to SmartIDP Shows You:"</h3>
@@ -462,7 +456,7 @@
                                 </ul>
 
                                 <div class="mt-4">
-                                    <a class="btn rounded-pill px-4 text-white fw-bold" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Download Your Free Copy</a>
+                                    <a class="btn rounded-pill px-4 text-white fw-bold" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -484,16 +478,17 @@
 
         <div class="container py-md-3" id="best-practice-smartidp">
             <hr>
-            <h2 class=" mb-4">Is Your Legacy System Limiting Your Efficiency? Upgrade to SmartIDP for Seamless Transformation
+            <h2 class=" mb-4 fw-bold">Is Your Legacy System Limiting Your Efficiency? Upgrade to SmartIDP for Seamless Transformation
             </h2>
             <section class="row align-items-center">
                 <!-- Text Section -->
                 <div class="col-md-6">
                     <blockquote class="">
                         <p>Discontinued support, scalability limitations, and security risks — SmartIDP helps you break free from the constraints of legacy systems, enabling you to retire outdated, inefficient applications. Our proven migration strategy guides you to the scalable, flexible SmartIDP platform. You have the flexibility to choose how your solution is deployed: on-premises, in the cloud, or through a hybrid model. Whether you’re migrating ten gigabytes or hundreds of terabytes, SmartIDP ensures a smooth and seamless transition.</p>
-                    </blockquote>
-                    <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 10px 30px; text-decoration: none; 
+                        <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold
+                    " style="background-color: #0090f9; color: white; padding: 10px 30px; text-decoration: none; 
               border-radius: 50px;">Learn How Migration Works with SmartIDP</a>
+                    </blockquote>
                 </div>
 
                 <!-- Image Section -->
@@ -504,18 +499,18 @@
             <hr>
         </div>
 
-        <div class="container">
+        <div class="container-fluid">
             <div id="article-43617">
                 <div class="mod_article_inner">
-                    <div class="container py-5">
-                        <div class="text-center mb-5">
+                    <div class="container-fluid py-5">
+                        <div class="text-center">
                             <!-- Headline Section -->
                             <h2 class="responsive-heading1 fw-bold">Boost Productivity <span class="gradient">with the SmartIDP Platform</span></h2>
                             <!-- Icon Boxes Section -->
                             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 py-5">
                                 <!-- Box 1: Make Smarter Decisions -->
                                 <div class="col">
-                                    <div class="card custom-card-shadow h-100 text-center">
+                                    <div class="card custom-card-shadow px-2 h-100 text-center">
                                         <div class="icon m-2">
                                             <i class="fa-solid fa-play custom-icon fa-3x me-3 gradient"></i>
                                         </div>
@@ -526,7 +521,7 @@
 
                                 <!-- Box 2: Reduce Response Times -->
                                 <div class="col">
-                                    <div class="card custom-card-shadow h-100 text-center">
+                                    <div class="card custom-card-shadow px-2 h-100 text-center">
                                         <div class="icon m-2">
                                             <i class="fa-brands fa-soundcloud custom-icon my-2 fa-3x me-3 gradient"></i>
                                         </div>
@@ -537,7 +532,7 @@
 
                                 <!-- Box 3: Optimized Verification -->
                                 <div class="col">
-                                    <div class="card custom-card-shadow h-100 text-center">
+                                    <div class="card custom-card-shadow px-2 h-100 text-center">
                                         <div class="icon m-2">
                                             <i class="fa-solid fa-check fa-3x custom-icon my-2 gradient"></i>
                                         </div>
@@ -548,7 +543,7 @@
 
                                 <!-- Box 4: Mitigate Legal Risks -->
                                 <div class="col">
-                                    <div class="card custom-card-shadow h-100 text-center ">
+                                    <div class="card custom-card-shadow px-2 h-100 text-center ">
                                         <div class="icon m-2">
                                             <i class="fa-brands fa-stack-overflow fa-3x custom-icon my-2 gradient"></i>
                                         </div>

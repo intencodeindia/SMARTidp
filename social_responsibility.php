@@ -23,7 +23,7 @@
     /* Additional responsiveness for mobile */
     @media (max-width: 767px) {
         #article-43622 {
-            height: 25vh;
+            height: 46vh;
             /* Adjust height for smaller screens */
         }
 
@@ -34,7 +34,18 @@
             /* Keep image centered */
         }
     }
-
+    @media (max-width: 640px) {
+        #article-43622 {
+            height: 38vh;
+            /* Adjust height for smaller screens */
+        }
+    }
+    @media (max-width: 536px) {
+        #article-43622 {
+            height: 28vh;
+            /* Adjust height for smaller screens */
+        }
+    }
     /* Gradient text styling */
     .gradient {
         background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
@@ -52,7 +63,7 @@
             We care about the future
         </h6>
 
-        <div class="container py-5">
+        <div class="container">
             <section class="row text-center">
                 <!-- Equal opportunities -->
                 <div class="col-md-4 mb-4">
@@ -82,7 +93,7 @@
                 </div>
             </section>
         </div>
-        <div class="container my-5">
+        <div class="container my-md-5">
             <div class="row align-items-center">
                 <!-- Left Column (Headline) -->
                 <div class="col-lg-6 col-md-6 col-12 mb-4">
@@ -95,7 +106,7 @@
                 <!-- Right Column (Text Content) -->
                 <div class="col-lg-6 col-md-6 col-12 mb-4">
                     <div class="d-flex align-items-center mb-3">
-                        <i class="fas fa-heart fa-2x me-3 text-danger"></i>
+                        <!-- <i class="fas fa-heart fa-2x me-3 text-danger"></i> -->
                         <p class="h5 mb-0"><strong><em>Commitment</em></strong> to people and to the future.</p>
                     </div>
                     <p>
@@ -104,7 +115,7 @@
                 </div>
             </div>
         </div>
-        <div class="container my-5">
+        <div class="container my-md-5">
             <div class="row">
                 <!-- Left Column: Icon Boxes Section in Rows -->
                 <div class="col-lg-6 col-12 mb-4">
@@ -145,12 +156,12 @@
                 <!-- Right Column: Image Section (Centered) -->
                 <div class="col-lg-6 col-12 mb-4 d-flex justify-content-center align-items-center">
                     <div class="text-center">
-                        <img src="assets/images/social_responsibility/Research_methods.jpg" alt="Image Description" class="img-fluid shadow-lg" />
+                        <img src="assets/images/social_responsibility/Research_methods.jpg" alt="Image Description" class="img-fluid shadow-lg" style="border-radius: 20px;" />
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container my-5">
+        <div class="container my-md-5">
             <div class="row align-items-center">
                 <!-- Left Column: Image (Hidden on mobile) -->
                 <div class="col-lg-6 col-md-6 d-none d-md-block mb-4">
@@ -158,7 +169,7 @@
                         <img
                             src="assets/images/social_responsibility/sustain.webp"
                             alt="Green Building"
-                            class="img-fluid rounded" />
+                            class="img-fluid" style="border-radius: 20px;"/>
                     </div>
                 </div>
 
@@ -184,7 +195,7 @@
             </div>
         </div>
 
-        <div class="container my-5">
+        <div class="container my-md-5">
             <div class="row align-items-center">
                 <!-- Left Column: Text Content -->
                 <div class="col-lg-6 col-md-6 col-12 mb-4">
@@ -203,7 +214,7 @@
                         <img
                             src="assets/images/social_responsibility/charity.jpg"
                             alt="Charitable Causes"
-                            class="img-fluid rounded" />
+                            class="img-fluid" style="border-radius: 20px;"/>
                     </div>
                 </div>
             </div>
