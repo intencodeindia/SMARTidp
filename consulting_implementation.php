@@ -16,7 +16,7 @@
                 <style> 
                   #slide-1 {
                     background-image: url(https://cdn.sergroup.com/files/content/images/services/Professional-Service/header-professional-service.jpg);
-                  }
+                  }  
 
                   @media screen and (max-width: 1024px) {
                     .type_1 #slide-1 {
