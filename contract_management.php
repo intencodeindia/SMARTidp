@@ -248,7 +248,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                     <div class="text-center">
                         <div class="card-body">
-                            <i class="fa-solid fa-file-signature fa-3x mb-3 gradient"></i> <!-- Font Awesome Icon -->
+                            <i class="fa-solid fa-file-signature fa-3x mb-3 linear gradient"></i> <!-- Font Awesome Icon -->
                             <h4 class="card-title fw-bold">Consistent, organization-wide contract management</h4>
                             <p class="card-text">Utilize SmartIDP and AI to streamline contract management across the organization,
                                 speeding up processing and decision-making. This enhances efficiency and drives customer satisfaction.</p>

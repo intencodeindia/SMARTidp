@@ -359,19 +359,19 @@
                                                     <p class="mega-dropdown-heading">
                                                         Product knowledge </p>
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>saas.php" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>saas.php">
                                                                 SaaS </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>cop.php"
-                                                                class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>cloud-on-premises-hybrid"
+                                                            >
                                                                 Cloud, on-premises & hybrid </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="/en/business-platform/certification.html" class="">
+                                                        <!-- <li>
+                                                            <a href="">
                                                                 Certification </a>
-                                                        </li>
+                                                        </li> -->
                                                     </ul>
                                                 </section>
                                             </div>
@@ -386,29 +386,29 @@
                                                     <p class="mega-dropdown-heading">
                                                         Use Cases </p>
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="javascript:void(0)" class="">
+                                                        <li>
+                                                            <a href="javascript:void(0)">
                                                                 Document management </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>invoice_automation" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>invoice_automation">
                                                                 Invoice automation </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>contract_management" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>contract_management">
                                                                 Contract management </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>archiving" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>archiving">
                                                                 Archiving </a>
                                                         </li>
-                                                        <li class="">
+                                                        <li>
                                                             <a href="<?php echo BASE_PATH; ?>inbound_mail_automation"
-                                                                class="">
+                                                            >
                                                                 Inbound mail automation </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>case_management" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>case_management">
                                                                 Case management </a>
                                                         </li>
                                                     </ul>
@@ -417,12 +417,12 @@
                                                     <p class="mega-dropdown-heading">
                                                         Industries </p>
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="javascript:void(0)" class="">
+                                                        <li>
+                                                            <a href="javascript:void(0)">
                                                                 Manufacturing </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>banking_financial" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>banking_financial">
                                                                 Banking & financial services </a>
                                                         </li>
 

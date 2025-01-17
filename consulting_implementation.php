@@ -210,7 +210,7 @@
 
     <div class="mod_article_inner container">
       <div class="headline-box -align-left ce_rsce_oneo_headline_box">
-        <h2 class="fw-bold text-center text-sm-start">This is how we help you succeed</h2>
+        <h2 class="fw-bold text-center text-sm-start">This is how we help you <span class="gradient">succeed</span></h2>
       </div>
       <div class="content-text">
         <div class="rte">
@@ -240,7 +240,7 @@
               <p class="text-justify px-2 px-md-0">Following the status quo check, our specialists create a detailed specification sheet for your hardware and software. This document outlines all desired functions, adjustments, and use cases, with you determining the required system configuration.</p>
             </div>
           </div>
-          <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -medium-col-2-1 -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+          <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -medium-col-2-1 -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon mb-3">
             <span class="icon-boxes-item-icon"><i class="fas fa-project-diagram fa-md"></i></span>
             <h3>Project implementation</h3>
             <div class="icon-boxes-item-text">
@@ -251,8 +251,57 @@
       </section>
     </div>
 
-
-
+    <div class="mod_article block" id="article-27767">
+      <div class="mod_article_inner container">
+        <h2 class="headline-hr ce_rsce_oneo_separator fw-bold"> You can rely on us for these <span class="gradient">services</span> </h2>
+        <div class="rs-columns ce_rs_columns_start">
+          <div class="ce_rs_column_start rs-column -large-col-1-1 -large-first -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+            <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-globe fa-md"></i></span> <!-- Changed to 'fa-globe' for Global project management -->
+                <h3>Global project management</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-clipboard-list fa-md"></i></span> <!-- Changed to 'fa-clipboard-list' for Business process consulting -->
+                <h3>Business process consulting</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-first -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-lightbulb fa-md"></i></span> <!-- Changed to 'fa-lightbulb' for Rough & well-defined concepts -->
+                <h3>Rough & well-defined concepts</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-tools fa-md"></i></span> <!-- Changed to 'fa-tools' for Software adjustments & maintenance -->
+                <h3>Software adjustments & maintenance</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-first -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-cloud fa-md"></i></span> <!-- Changed to 'fa-cloud' for Implementation (on-premises, cloud) -->
+                <h3>Implementation (on-premises, cloud)</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-plug fa-md"></i></span> <!-- Changed to 'fa-plug' for Integration into multiple applications -->
+                <h3>Integration into multiple applications</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-first -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-laptop-code fa-md"></i></span> <!-- Changed to 'fa-laptop-code' for System launch in productive systems -->
+                <h3>System launch in productive systems</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-globe fa-md"></i></span> <!-- Changed to 'fa-globe' for Go-live support around the globe -->
+                <h3>Go-live support around the globe</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-first -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-file-alt fa-md"></i></span> <!-- Changed to 'fa-file-alt' for Creation of procedural documentation -->
+                <h3>Creation of procedural documentation</h3>
+              </div>
+              <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                <span class="icon-boxes-item-icon"><i class="fas fa-certificate fa-md"></i></span> <!-- Changed to 'fa-certificate' for Support in international certification measures -->
+                <h3>Support in international certification measures</h3>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
 
 
   </main>
