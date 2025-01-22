@@ -32,7 +32,7 @@
         </div>
         <!-- Content Section -->
         <div class="container mt-5">
-            <h2 class="text-center mb-5 fw-bold">Case Management with <span class="gradient">SmartIDP</span></h2>
+            <h2 class="text-center fw-bold">Case Management with <span class="gradient">SmartIDP</span></h2>
             <section class="row text-center">
                 <!-- First Card -->
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
@@ -76,7 +76,7 @@
             </section>
         </div>
 
-        <div class="container text-center py-5">
+        <div class="container text-center">
             <hr>
             <h2 class="fw-bold mb-3"><span class="gradient">Experience smartIDP Live!</span></h2>
             <p class="text-dark fw-bold">Join a live demo or schedule a personalized session at your workplace.</p>
@@ -85,8 +85,7 @@
             <hr>
         </div>
 
-        <div class="container py-md-5">
-
+        <div class="container py-md-3">
             <div class="row">
                 <div class="col">
                     <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
@@ -142,193 +141,188 @@
                     </section>
                 </div>
             </div>
+        </div>
 
-            <div class="container py-md-3">
-                <h2 class="text-center fw-bold mb-3">Customers who are intergrated with <span
-                        class="gradient">smartIDP</span></h2>
-                <hr>
-                <?php include_once("smartidp_logos.php"); ?>
-                <hr>
-            </div>
 
-            <div class="container py-md-5">
-                <div class="row align-items-center">
-                    <!-- Left Column: Headline -->
-                    <div class="col-lg-6 mb-4 mb-lg-0">
-                        <div class="headline-box">
-                            <h2 class="display-4 fw-bold" style="font-size: 35px;">Boost productivity and drive success
-                                in <span class="gradient">Case management</span></h2>
-                        </div>
-                    </div>
+        <div class="container py-md-3">
+            <h2 class="text-center fw-bold mb-3">Customers who are intergrated with <span
+                    class="gradient">smartIDP</span></h2>
+            <hr>
+            <?php include_once("smartidp_logos.php"); ?>
+            <hr>
+        </div>
 
-                    <!-- Right Column: Content Text -->
-                    <div class="col-lg-6">
-                        <div class="content-text">
-                            <p>Project approvals, service cases, and risk assessments are just a few examples of
-                                processes that often require deviations from standard procedures. This flexibility is
-                                essential for fostering productive, service-oriented work that enhances your company's
-                                performance. By integrating structured processes with ad hoc tasks, you can efficiently
-                                manage processes across departments and strengthen customer focus. Additionally,
-                                ensuring that all processes are documented in an audit-proof manner guarantees
-                                accountability, quick response capabilities, and minimizes compliance risks.</p>
-                        </div>
+        <div class="container py-md-5">
+            <div class="row align-items-center">
+                <!-- Left Column: Headline -->
+                <div class="col-lg-6 mb-4 mb-lg-0">
+                    <div class="headline-box">
+                        <h2 class="display-4 fw-bold" style="font-size: 35px;">Boost productivity and drive success
+                            in <span class="gradient">Case management</span></h2>
                     </div>
                 </div>
-            </div>
-            <div class="container py-md-3" id="best-practice-smartidp">
-                <hr>
-                <h2 class="text-center mb-4 fw-bold">Optimal Practice
-                </h2>
-                <section class="row align-items-center">
-                    <!-- Text Section -->
-                    <div class="col-md-6">
-                        <blockquote class="">
-                            <p>Our advanced eFiles serve as centralized hubs for seamlessly accessing documents from a
-                                variety of sources, including SAP, emails, MS Office, and more. This integration
-                                streamlines case management, significantly boosting efficiency and collaboration across
-                                departments, such as customer service, and ensuring faster, more informed
-                                decision-making.</p>
-                        </blockquote>
 
+                <!-- Right Column: Content Text -->
+                <div class="col-lg-6">
+                    <div class="content-text">
+                        <p>Project approvals, service cases, and risk assessments are just a few examples of
+                            processes that often require deviations from standard procedures. This flexibility is
+                            essential for fostering productive, service-oriented work that enhances your company's
+                            performance. By integrating structured processes with ad hoc tasks, you can efficiently
+                            manage processes across departments and strengthen customer focus. Additionally,
+                            ensuring that all processes are documented in an audit-proof manner guarantees
+                            accountability, quick response capabilities, and minimizes compliance risks.</p>
                     </div>
-
-                    <!-- Image Section -->
-                    <div class="col-md-6 py-3 text-center">
-                        <img src="assets/images/case_management/logo1.png" class="img-fluid" alt="Logistics"
-                            style="max-width: 65%;border-radius: 25px;">
-                    </div>
-                </section>
-                <hr>
-            </div>
-
-            <div class="container py-md-5" id="article-29420">
-                <div class="row align-items-center">
-                    <!-- Left Column: Headline -->
-                    <div class="col-md-6 mb-4 mb-md-0">
-                        <h2 class="display-4 fw-bold" style="font-size: 35px;">A Clearer Overview & Improved
-                            Organization for <span class="gradient">Case management</span></h2>
-                    </div>
-
-                    <!-- Right Column: Content Text -->
-                    <div class="col-md-6">
-                        <p>Are your case-related documents, spreadsheets, and presentations scattered across various
-                            locations? It’s easy to lose track of what’s where. With smartIDP, we simplify case
-                            management by providing a clear overview and organized structure. Version control ensures
-                            that all changes are traceable. In eFiles, you can quickly access related information
-                            connected to your cases. The intuitive DMS functions from smartIDP are seamlessly integrated
-                            into your Microsoft applications, offering a more efficient way to manage cases.</p>
-                        <ul>
-                            <li><strong>Add-in</strong>: Easily search and manage case documents for better organization
-                                and efficiency.</li>
-                            <li><strong>Annotations</strong>: Collaborate more effectively and organize case documents
-                                for better coordination and efficiency.</li>
-                            <li><strong>Workflows</strong>: Approvals, task follow-ups, and deadline reminders for
-                                streamlined case management and improved organization.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="container" id="article-29421">
-                <h2 class="text-left mb-4 fw-bold">Flexible<span class="gradient"> case management </span> tailored to
-                    your processes.</h2>
-                <div class="row align-items-center">
-                    <!-- Left Column: Icon Boxes -->
-                    <div class="col-md-6">
-                        <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
-                            <div class="row">
-                                <!-- streamline workflows -->
-                                <div
-                                    class="icon-boxes-item mb-4  -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
-                                    <span class="icon-boxes-item-icon"><i class="fas fa-archive fa-lg"></i></span>
-                                    <h3 class="fw-bold">Streamline workflows through automation</h3>
-                                    <p>Automate recurring tasks like approving or reviewing customer orders: Ensure no
-                                        steps are missed, and team members can easily identify the right person for the
-                                        next task, speeding up the process.</p>
-                                </div>
-                            </div>
-                            <div class="row">
-
-                                <!-- manage and plan -->
-                                <div
-                                    class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                    <span class="icon-boxes-item-icon"><i class="fas fa-folder-open fa-lg"></i></span>
-                                    <h3 class="fw-bold">Manage and plan ad hoc tasks efficiently</h3>
-                                    <p>Share emails across departments and teams with smartIDP: smartIDP eFiles bundle
-                                        all information about a business case, such as inquiries, orders, and contracts.
-                                        With the integrated add-in, filing and searching can be done directly from
-                                        Outlook.</p>
-                                </div>
-                            </div>
-                            <div class="row">
-
-                                <!-- locate case document -->
-                                <div
-                                    class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                    <span class="icon-boxes-item-icon"><i class="fas fa-plug fa-lg"></i></span>
-                                    <h3 class="fw-bold">Locate case documents quickly</h3>
-                                    <p>To swiftly resolve claims, make quick adjustments to a project, or begin working
-                                        on service cases, you have all the information you need at your fingertips:
-                                        contracts, emails, conversation logs, and related cases are instantly
-                                        accessible.</p>
-                                </div>
-                            </div>
-
-                        </section>
-                    </div>
-                    <!-- Right Column: Image -->
-                    <div class="col-md-6 mt-4 mt-md-0">
-                        <div class="content-image text-center">
-                            <figure>
-                                <img src="assets/images/case_management/cm030.jpeg" alt="Microsoft Outlook Integration"
-                                    class="img-fluid">
-                            </figure>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="container pt-md-5" id="article-29420">
-                <div class="row align-items-center">
-                    <!-- Left Column: Headline -->
-                    <div class="col-md-6 mb-4 mb-md-0">
-                        <h2 class="display-4 fw-bold" style="font-size: 35px;"> Document process in <span
-                                class="gradient">Case management</span></h2>
-                    </div>
-
-                    <!-- Right Column: Content Text -->
-                    <div class="col-md-6">
-                        <p>Who completed each task, and which steps of the case are finished? You always have a complete
-                            overview. With all processes and cases fully documented, you remain accountable in liability
-                            matters. The system complies with numerous regulations and requirements.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div
-                class="ce_rs_column_start rs-column -large-col-3-2 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
-                <div class="headline-box -align-left ce_rsce_oneo_headline_box">
-                    <h2 class="fw-bold mt-5"><span class="gradient">Case Management</span></h2>
-                </div>
-                <div class="content-text">
-                    <div class="rte">
-                        <p>
-                            SmartIDP enhances<b> case management</b> by streamlining processes, automating tasks, and
-                            providing centralized access to relevant documents. It enables better organization,
-                            accountability, and efficiency by ensuring all case activities are documented and easy to
-                            track. With<b> SmartIDP</b>, you can manage cases more effectively, reduce manual work, and
-                            stay compliant with regulations.</p>
-                        <p>The platform also integrates seamlessly with existing systems, offering a flexible solution
-                            tailored to your needs. This leads to faster decision-making and improved overall
-                            performance in case management.
-                        </p>
-                    </div>
-                </div>
-                <div class="button-box ce_rsce_oneo_button -left">
-                    <a class="button ce_rsce_oneo_button -left" href="contact">Learn More</a>
                 </div>
             </div>
         </div>
+        <div class="container py-md-3" id="best-practice-smartidp">
+            <hr>
+            <h2 class="text-center mb-4 fw-bold">Optimal Practice
+            </h2>
+            <section class="row align-items-center">
+                <!-- Text Section -->
+                <div class="col-md-6">
+                    <blockquote class="">
+                        <p>Our advanced eFiles serve as centralized hubs for seamlessly accessing documents from a
+                            variety of sources, including SAP, emails, MS Office, and more. This integration
+                            streamlines case management, significantly boosting efficiency and collaboration across
+                            departments, such as customer service, and ensuring faster, more informed
+                            decision-making.</p>
+                    </blockquote>
+
+                </div>
+
+                <!-- Image Section -->
+                <div class="col-md-6 py-3 text-center">
+                    <img src="assets/images/case_management/logo1.png" class="img-fluid" alt="Logistics"
+                        style="max-width: 65%;border-radius: 25px;">
+                </div>
+            </section>
+            <hr>
+        </div>
+
+        <div class="container py-md-5" id="article-29420">
+            <div class="row align-items-center">
+                <!-- Left Column: Headline -->
+                <div class="col-md-6 mb-4 mb-md-0">
+                    <h2 class="display-4 fw-bold" style="font-size: 35px;">A Clearer Overview & Improved
+                        Organization for <span class="gradient">Case management</span></h2>
+                </div>
+
+                <!-- Right Column: Content Text -->
+                <div class="col-md-6">
+                    <p>Are your case-related documents, spreadsheets, and presentations scattered across various
+                        locations? It’s easy to lose track of what’s where. With smartIDP, we simplify case
+                        management by providing a clear overview and organized structure. Version control ensures
+                        that all changes are traceable. In eFiles, you can quickly access related information
+                        connected to your cases. The intuitive DMS functions from smartIDP are seamlessly integrated
+                        into your Microsoft applications, offering a more efficient way to manage cases.</p>
+                    <ul>
+                        <li><strong>Add-in</strong>: Easily search and manage case documents for better organization
+                            and efficiency.</li>
+                        <li><strong>Annotations</strong>: Collaborate more effectively and organize case documents
+                            for better coordination and efficiency.</li>
+                        <li><strong>Workflows</strong>: Approvals, task follow-ups, and deadline reminders for
+                            streamlined case management and improved organization.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container" id="article-29421">
+            <h2 class="text-left mb-4 fw-bold">Flexible<span class="gradient"> case management </span> tailored to
+                your processes.</h2>
+            <div class="row align-items-center">
+                <!-- Left Column: Icon Boxes -->
+                <div class="col-md-6">
+                    <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
+                        <div class="row">
+                            <!-- streamline workflows -->
+                            <div
+                                class="icon-boxes-item mb-4  -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
+                                <span class="icon-boxes-item-icon"><i class="fas fa-archive fa-lg"></i></span>
+                                <h3 class="fw-bold">Streamline workflows through automation</h3>
+                                <p>Automate recurring tasks like approving or reviewing customer orders: Ensure no
+                                    steps are missed, and team members can easily identify the right person for the
+                                    next task, speeding up the process.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+
+                            <!-- manage and plan -->
+                            <div
+                                class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                                <span class="icon-boxes-item-icon"><i class="fas fa-folder-open fa-lg"></i></span>
+                                <h3 class="fw-bold">Manage and plan ad hoc tasks efficiently</h3>
+                                <p>Share emails across departments and teams with smartIDP: smartIDP eFiles bundle
+                                    all information about a business case, such as inquiries, orders, and contracts.
+                                    With the integrated add-in, filing and searching can be done directly from
+                                    Outlook.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+
+                            <!-- locate case document -->
+                            <div
+                                class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                                <span class="icon-boxes-item-icon"><i class="fas fa-plug fa-lg"></i></span>
+                                <h3 class="fw-bold">Locate case documents quickly</h3>
+                                <p>To swiftly resolve claims, make quick adjustments to a project, or begin working
+                                    on service cases, you have all the information you need at your fingertips:
+                                    contracts, emails, conversation logs, and related cases are instantly
+                                    accessible.</p>
+                            </div>
+                        </div>
+
+                    </section>
+                </div>
+                <!-- Right Column: Image -->
+                <div class="col-md-6 mt-4 mt-md-0">
+                    <div class="content-image text-center">
+                        <figure>
+                            <img src="assets/images/case_management/cm030.jpeg" alt="Microsoft Outlook Integration"
+                                class="img-fluid" style="height: 350px;">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container pt-md-5" id="article-29420">
+            <div class="row align-items-center">
+                <!-- Left Column: Headline -->
+                <div class="col-md-6 mb-4 mb-md-0">
+                    <h2 class="display-4 fw-bold" style="font-size: 35px;"> Document process in <span
+                            class="gradient">Case management</span></h2>
+                </div>
+
+                <!-- Right Column: Content Text -->
+                <div class="col-md-6">
+                    <p>Who completed each task, and which steps of the case are finished? You always have a complete
+                        overview. With all processes and cases fully documented, you remain accountable in liability
+                        matters. The system complies with numerous regulations and requirements.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container ">
+            <div class="row text-center ">
+                <h2 class="responsive-heading1 fw-bold">
+                    <span class="gradient fw-bold"> Case Management<br>
+                </h2>
+                <p> SmartIDP enhances<b> case management</b> by streamlining processes, automating tasks, and
+                    providing centralized access to relevant documents. It enables better organization,
+                    accountability, and efficiency by ensuring all case activities are documented and easy to
+                    track. With<b> SmartIDP</b>, you can manage cases more effectively, reduce manual work, and
+                    stay compliant with regulations.
+                    The platform also integrates seamlessly with existing systems, offering a flexible solution
+                    tailored to your needs. This leads to faster decision-making and improved overall
+                    performance in case management.</p>
+            </div>
+
+        </div>
     </main>
 </div>
+
 
 <?php include_once("includes/footer.php"); ?>

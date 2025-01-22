@@ -416,7 +416,7 @@
                                                         Industries </p>
                                                     <ul>
                                                         <li>
-                                                            <a href="javascript:void(0)">
+                                                            <a href="<?php echo BASE_PATH; ?>manufacturing">
                                                                 Manufacturing </a>
                                                         </li>
                                                         <li>
@@ -432,7 +432,7 @@
                                                                 Logistics </a>
                                                         </li>
                                                         <li class="">
-                                                            <a href="javascript:void(0)" class="">
+                                                            <a href="<?php echo BASE_PATH; ?>healthcare" class="">
                                                                 Healthcare </a>
                                                         </li>
                                                     </ul>

@@ -41,13 +41,14 @@
                                         <p>5900 Balcones Drive STE 13688<br>Austin, TX 78731<br>USA</p>
                                     </div>
                                 </div>
-                                <p>Email: <a style="text-decoration: underline;" href="javascript:void(0)">info@smartidp.com</a></p>
+                                <p>Email: <a style="text-decoration: underline;" href="javascript:void(0)">info@smartidp.ai</a></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        
         <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start footer-legal  -color-inverted">
             <div class="centered-wrapper-inner ">
                 <div class="rs-columns ce_rs_columns_start">
