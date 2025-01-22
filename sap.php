@@ -427,7 +427,7 @@
     </div>
     <div class="mod_article max-width-viewport block" id="article-29436">
       <div class="mod_article_inner">
-        <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start" style=" ">
+        <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start">
           <div class="centered-wrapper-inner">
             <hr>
             <div class="rs-columns ce_rs_columns_start">
@@ -508,7 +508,7 @@
                 </div>
                 <div class="button-box ce_rsce_oneo_button -left">
                   <a class="button ce_rsce_oneo_button -left" href="contact">
-                    Learn more </a>
+                    More details</a>
                 </div>
               </div>
               <div class="ce_rs_column_start rs-column -large-col-3-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">

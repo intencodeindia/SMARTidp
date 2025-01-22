@@ -92,7 +92,7 @@
 <div class="content-wrapper">
     <main role="main" class="main-content">
         <!-- Hero Section -->
-        <div class="container-fluid cover" id="article-43622" style="background-image: url('assets/images/microsoft/1.jpg'); background-size: cover; background-position: center center; height: 60vh;" >
+        <div class="container-fluid cover" id="article-43622" style="background-image: url('assets/images/microsoft/1.jpg'); background-size: cover; background-position: center center; height: 60vh;">
             <div class="container h-100 d-flex justify-content-center align-items-center">
                 <div class="row w-100 justify-content-center">
                     <!-- Left Column (Text Content) -->
@@ -492,7 +492,7 @@
         </div>
 
         <div class="mod_article max-width-viewport block" id="article-29427">
-            <div class="mod_article_inner"> 
+            <div class="mod_article_inner">
                 <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start -vertical-centered">
                     <div class="centered-wrapper-inner">
                         <!-- Article Content Section -->
@@ -519,9 +519,7 @@
                                     <a class="button ce_rsce_oneo_button -left" href="contact">Learn More</a>
                                 </div>
                             </div>
-
-                            <!-- Right Column: Image -->
-                            <div class="ce_rs_column_start rs-column -large-col-3-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
+                            <div class="centered-wrapper -vertical-centered">
                                 <div class="ser-hide-mobile">
                                     <div class="content-image">
                                         <figure>
@@ -535,8 +533,7 @@
                 </div>
             </div>
         </div>
-
-
     </main>
 </div>
+
 <?php include_once("includes/footer.php"); ?>

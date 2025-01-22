@@ -400,10 +400,13 @@
                         <div class="row text-center">
                             <h2 class="responsive-heading1 fw-bold">Frequently Asked Questions about <span class="gradient">Contract Management</span></h2>
 
+                            <!-- accordion bootstrap -->
+                            <div class="accordion" id="accordionFAQ">
+
                             <!-- Accordion Item 1 -->
                             <div class="accordion-item border-0 pt-4">
                                 <div class="accordion-header" id="headingOne">
-                                <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="style.color='white'">
                                         <strong>What is Contract Lifecycle Management (CLM)?</strong>
                                     </button>
                                 </div>
@@ -417,7 +420,7 @@
                             <!-- Accordion Item 2 -->
                             <div class="accordion-item border-0 mt-2">
                                 <div class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
                                         <strong>Comprehensive overview of all contract data.</strong>
                                     </button>
                                 </div>
@@ -431,7 +434,7 @@
                             <!-- Accordion Item 3 -->
                             <div class="accordion-item border-0 mt-2">
                                 <div class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
                                         <strong>What is contract management?</strong>
                                     </button>
                                 </div>
@@ -443,9 +446,10 @@
                             </div>
 
                             <!-- Accordion Item 4 -->
+
                             <div class="accordion-item border-0 mt-2">
-                                <div class="accordion-header " id="headingFour">
-                                <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                                <div class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
                                         <strong>Why is contract management important?</strong>
                                     </button>
                                 </div>
@@ -455,27 +459,29 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
 
-                            <!-- Accordion Item 5 -->
-                            <div class="accordion-item border-0 mt-2 pb-2">
-                                <div class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
-                                        <strong>Which software is best for contract management?</strong>
-                                    </button>
-                                </div>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body bg-light p-4 rounded-3 text-justify">
-                                        There are several software options for contract management, including DocuSign, ContractWorks, and Icertis, each offering features for document storage, e-signatures, and workflow automation. These tools help streamline contract creation, tracking, and compliance, improving efficiency and reducing manual errors. Choosing the right software depends on your organization's specific needs, such as integration capabilities and scalability.
-                                    </div>
+
+                        <!-- Accordion Item 5 -->
+                        <div class="accordion-item border-0 mt-2 pb-2">
+                            <div class="accordion-header" id="headingFive">
+                                <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                                    <strong>Which software is best for contract management?</strong>
+                                </button>
+                            </div>
+                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionFAQ">
+                                <div class="accordion-body bg-light p-4 rounded-3 text-justify">
+                                    There are several software options for contract management, including DocuSign, ContractWorks, and Icertis, each offering features for document storage, e-signatures, and workflow automation. These tools help streamline contract creation, tracking, and compliance, improving efficiency and reducing manual errors. Choosing the right software depends on your organization's specific needs, such as integration capabilities and scalability.
                                 </div>
                             </div>
                         </div>
                     </div>
-
                 </div>
+
             </div>
         </div>
-    </main>
+</div>
+</main>
 </div>
 
 <?php include_once("includes/footer.php"); ?>

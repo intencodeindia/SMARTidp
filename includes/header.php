@@ -322,16 +322,16 @@
                                                         Integrations </p>
                                                     <ul>
                                                         <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>microsoft" class="">
-                                                                Microsoft </a>
-                                                        </li>
-                                                        <li class="">
                                                             <a href="<?php echo BASE_PATH; ?>sap" class="">
                                                                 SAP </a>
                                                         </li>
                                                         <li class="">
                                                             <a href="<?php echo BASE_PATH; ?>sap_sucess_factor" class="">
                                                                 SAP SuccessFactors </a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="<?php echo BASE_PATH; ?>microsoft" class="">
+                                                                Microsoft </a>
                                                         </li>
                                                         <li class="">
                                                             <a href="<?php echo BASE_PATH; ?>salesforce" class="">
@@ -364,8 +364,7 @@
                                                                 SaaS </a>
                                                         </li>
                                                         <li>
-                                                            <a href="<?php echo BASE_PATH; ?>cloud-on-premises-hybrid"
-                                                            >
+                                                            <a href="<?php echo BASE_PATH; ?>cloud-on-premises-hybrid">
                                                                 Cloud, on-premises & hybrid </a>
                                                         </li>
                                                         <!-- <li>
@@ -387,7 +386,7 @@
                                                         Use Cases </p>
                                                     <ul>
                                                         <li>
-                                                            <a href="javascript:void(0)">
+                                                            <a href="<?php echo BASE_PATH; ?>solutions_document_management.php">
                                                                 Document management </a>
                                                         </li>
                                                         <li>
@@ -403,8 +402,7 @@
                                                                 Archiving </a>
                                                         </li>
                                                         <li>
-                                                            <a href="<?php echo BASE_PATH; ?>inbound_mail_automation"
-                                                            >
+                                                            <a href="<?php echo BASE_PATH; ?>inbound_mail_automation">
                                                                 Inbound mail automation </a>
                                                         </li>
                                                         <li>
@@ -425,7 +423,18 @@
                                                             <a href="<?php echo BASE_PATH; ?>banking_financial">
                                                                 Banking & financial services </a>
                                                         </li>
-
+                                                        <li class="">
+                                                            <a href="javascript:void(0)" class="">
+                                                                Insurance </a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="javascript:void(0)" class="">
+                                                                Logistics </a>
+                                                        </li>
+                                                        <li class="">
+                                                            <a href="javascript:void(0)" class="">
+                                                                Healthcare </a>
+                                                        </li>
                                                     </ul>
                                                 </section>
                                                 <section class="mega-dropdown-column  rs-column -large-col-3-1 -large-last -large-first-row -medium-col-3-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
@@ -542,25 +551,142 @@
                             <button class="main-navigation-mobile-expand">expand</button>
                             <ul class="level_2" style="display: none;">
                                 <li class="menu-doxi"><a href="<?php echo BASE_PATH; ?>intelligent_content_automation" title="SmartIDP Intelligent Content Automation" class="menu-doxi">SmartIDP Intelligent Content Automation</a></li>
+                                <li><strong>Hot Topics</strong></li>
                                 <li><a href="<?php echo BASE_PATH; ?>artificial_intelligence" title="Artificial Intelligence">Artificial intelligence in SmartIDP</a></li>
                                 <li><a href="<?php echo BASE_PATH; ?>process_automation" title="SmartIDP Fast Starters - Your quick &amp; easy content apps">Process Automation</a></li>
-                                <li><a href="<?php echo BASE_PATH; ?>sap_sucess_factor" title="SAP Solution">SAP</a></li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>document_management" title="Document Management">
+                                        Document management </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>fast_starters" title="Fast Starters">
+                                        Fast Starters </a>
+                                </li>
+                                <li><strong>Integrations</strong></li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>sap">
+                                        SAP </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>sap_sucess_factor">
+                                        SAP SuccessFactors </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>microsoft">
+                                        Microsoft </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>salesforce">
+                                        Salesforce </a>
+                                </li>
+                                <li><strong>Services</strong></li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>consulting_implementation">
+                                        Consulting & implementation </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>managed_services">
+                                        Managed services </a>
+                                </li>
+                                <li><strong>Product Knowledge</strong></li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>saas.php">
+                                        SaaS </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>cloud-on-premises-hybrid">
+                                        Cloud, on-premises & hybrid </a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="submenu sibling is-collapsed">
+                            <a href="javascript:void(0)" title="SmartIDP Content Services Platform for ECM, BPM &amp; Collaboration" class="submenu sibling" aria-haspopup="true">Solutions</a>
+                            <button class="main-navigation-mobile-expand">expand</button>
+                            <ul class="level_2" style="display: none;">
+                                <li><strong>Use Cases</strong></li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>solutions_document_management.php">
+                                        Document management </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>invoice_automation">
+                                        Invoice automation </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>contract_management">
+                                        Contract management </a>
+                                </li>
+                                <!-- <li>
+                                    <a href="<?php echo BASE_PATH; ?>archiving">
+                                        Archiving </a>
+                                </li> -->
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>inbound_mail_automation">
+                                        Inbound mail automation </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>case_management">
+                                        Case management </a>
+                                </li>
+                                <!-- <li><strong>Industries</strong></li>
+                                <li>
+                                    <a href="javascript:void(0)">
+                                        Manufacturing </a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>banking_financial">
+                                        Banking & financial services </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)">
+                                        Insurance </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)">
+                                        Logistics </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)">
+                                        Healthcare </a>
+                                </li>
+                                <li><strong>Departments</strong></li>
+                                <li>
+                                    <a href="javascript:void(0)">
+                                        Purchasing & procurement </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)">
+                                        Human resources </a>
+                                </li> -->
                             </ul>
                         </li>
                         <li class="submenu sibling is-collapsed">
                             <a href="javascript:void(0)" title="Services – We are here for you!" class="submenu sibling" aria-haspopup="true">Customers & Partners</a>
                             <button class="main-navigation-mobile-expand">expand</button>
                             <ul class="level_2" style="display: none;">
+                                <li><strong>Customers</strong></li>
                                 <li><a href="<?php echo BASE_PATH; ?>user_group" title="Professional Service SmartIDP">SmartIDP Group</a></li>
+                                <li><strong>Partner</strong></li>
                                 <li><a href="<?php echo BASE_PATH; ?>becomming_partner" title="Becoming a Partner">Becoming a Partner</a></li>
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>finding_partner">
+                                        Finding a partner </a>
+                                </li>
                             </ul>
                         </li>
                         <li class="submenu sibling is-collapsed">
                             <a href="javascript:void(0)" title="About the SER Group" class="submenu sibling" aria-haspopup="true">About Us</a>
                             <button class="main-navigation-mobile-expand">expand</button>
                             <ul class="level_2" style="display: none;">
-                                <li><a href="javascript:void(0)" title="The SmartIDP Group Management Team">Management</a></li>
-                                <li><a href="javascript:void(0)" title="Social responsibility">Social responsibility</a></li>
+                                <li class="">
+                                    <a href="<?php echo BASE_PATH; ?>social_responsibility" class="">
+                                        Social responsibility </a>
+                                </li>
+                                <li class="">
+                                    <a href="<?php echo BASE_PATH; ?>locations" class="">
+                                        Locations </a>
+                                </li>
                             </ul>
                         </li>
                         <li class="sibling"><a href="<?php echo BASE_PATH; ?>contact" title="Contact" class="sibling">Contact Us</a></li>
