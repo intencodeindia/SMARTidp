@@ -152,7 +152,6 @@
           <img src="assets/images/egslogo.png" alt="Equilon Global Synergies Trading Logo" class="img-fluid" width="180"
             height="162" loading="laz">
         </div>
-
         <!-- Text Column -->
         <div class="col-md-8">
           <blockquote class="blockquote">

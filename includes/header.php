@@ -617,10 +617,10 @@
                                     <a href="<?php echo BASE_PATH; ?>contract_management">
                                         Contract management </a>
                                 </li>
-                                <!-- <li>
+                                <li>
                                     <a href="<?php echo BASE_PATH; ?>archiving">
                                         Archiving </a>
-                                </li> -->
+                                </li>
                                 <li>
                                     <a href="<?php echo BASE_PATH; ?>inbound_mail_automation">
                                         Inbound mail automation </a>
@@ -629,9 +629,9 @@
                                     <a href="<?php echo BASE_PATH; ?>case_management">
                                         Case management </a>
                                 </li>
-                                <!-- <li><strong>Industries</strong></li>
+                                <li><strong>Industries</strong></li>
                                 <li>
-                                    <a href="javascript:void(0)">
+                                    <a href="<?php echo BASE_PATH; ?>manufacturing.php">
                                         Manufacturing </a>
                                 </li>
                                 <li>
@@ -639,26 +639,26 @@
                                         Banking & financial services </a>
                                 </li>
                                 <li>
-                                    <a href="javascript:void(0)">
+                                    <a href="<?php echo BASE_PATH; ?>insurance.php">
                                         Insurance </a>
                                 </li>
                                 <li>
-                                    <a href="javascript:void(0)">
+                                    <a href="<?php echo BASE_PATH; ?>logistics.php">
                                         Logistics </a>
                                 </li>
                                 <li>
-                                    <a href="javascript:void(0)">
+                                    <a href="<?php echo BASE_PATH; ?>healthcare.php">
                                         Healthcare </a>
                                 </li>
                                 <li><strong>Departments</strong></li>
                                 <li>
-                                    <a href="javascript:void(0)">
+                                    <a href="<?php echo BASE_PATH; ?>purchasing_procurement.php">
                                         Purchasing & procurement </a>
                                 </li>
                                 <li>
-                                    <a href="javascript:void(0)">
+                                    <a href="<?php echo BASE_PATH; ?>human_resources.php">
                                         Human resources </a>
-                                </li> -->
+                                </li>
                             </ul>
                         </li>
                         <li class="submenu sibling is-collapsed">

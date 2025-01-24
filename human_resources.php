@@ -48,7 +48,7 @@
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/purchasing_procurement/img1.png" class="img-fluid"loading="lazy" alt="SmartIDP" style="max-width: 65%; height: auto;">
+                        <img src="assets/images/human_resource/12.png" class="img-fluid"loading="lazy" alt="SmartIDP" style="max-width: 85%; height: auto;">
                     </div>
                 </div>
             </div>

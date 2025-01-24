@@ -76,7 +76,7 @@
         <?php include_once("smartidp_logos.php"); ?>
 
         <!-- first card -->
-        <div class="mt-6"></div>
+        <div class="mt-3"></div>
         <?php include_once("smartidp_logos.php"); ?>
         <div class="container mt-6">
             <h2 class="fw-bold fs-2 text-center justify-content-center py-6">Enterprise content management for <span class="gradient">logistics</span></h2>
@@ -126,7 +126,7 @@
             </div>
         </div>
 
-        <div class="container py-5">
+        <div class="container py-md-5">
             <div class="row align-items-center">
                 <!-- Left Column: Headline and Content -->
                 <h2 class="fw-bold">Streamline Information Management in <span class="gradient"> Global Logistics with SmartIDP</span></h2>
@@ -146,41 +146,42 @@
                 </div>
             </div>
         </div>
-
-        <div class="container" id="article-29421 py-5">
-            <h2 class="text-left mb-4 fw-bold"> Advanced ECM Solutions for Streamlined <span class="gradient">Logistics Operations</span></h2>
-            <div class="row align-items-center">
-                <!-- Left Column: Icon Boxes -->
-                <div class="col-md-6">
-                    <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
-                        <div class="row">
-                            <!-- Streamlining Files for Shipping, Freight & Transportation Management -->
-                            <div class="icon-boxes-item mb-4  -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-shipping-fast fa-lg"></i></span>
-                                <h3 class="fw-bold">Streamlining Files for Shipping, Freight & Transportation Management</h3>
-                                <p>With SmartIDP, users can access electronic files globally, including consignment notes, customs papers, hazardous goods documentation, import/export declarations, and data from TMS, ERP, CRM, and resource planning systems. SmartIDP ensures seamless and efficient management of all critical documents and data in real-time.</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <!-- Streamlined Process Management -->
-                            <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-tasks fa-lg"></i></span>
-                                <h3 class="fw-bold">Streamlined Process Management with SmartIDP</h3>
-                                <p>Manage your order verifications, contract approvals, dispatch of supporting documents, and more with SmartIDP. SmartIDP automatically generates and sends receipt confirmations, streamlining your entire workflow.</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <!-- Seamless Customer Service Integration -->
-                            <div class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-plug fa-lg"></i></span>
-                                <h3 class="fw-bold">Seamless Customer Service Integration with SmartIDP</h3>
-                                <p>Integrating SmartIDP into your customer portals and apps further elevates your service offerings: Provide real-time access to orders, delivery notes, tracking information, and more to your customers, enhancing their experience and satisfaction.</p>
-                            </div>
-                        </div>
-                    </section>
+        <div class="container" id="article-29421 py-5 px-1">
+    <h2 class="text-left mb-4 fw-bold"> Advanced ECM Solutions for Streamlined <span class="gradient">Logistics Operations</span></h2>
+    <div class="row align-items-center">
+        <!-- Left Column: Icon Boxes -->
+        <div class="col-md-6 px-3">
+            <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
+                <div class="row">
+                    <!-- Streamlining Files for Shipping, Freight & Transportation Management -->
+                    <div class="icon-boxes-item mb-4 -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
+                        <span class="icon-boxes-item-icon"><i class="fas fa-truck fa-md"></i></span> <!-- Truck Icon for Logistics -->
+                        <h3 class="fw-bold">Streamlining Files for Shipping, Freight & Transportation Management</h3>
+                        <p class="px-3 ">With SmartIDP, users can access electronic files globally, including consignment notes, customs papers, hazardous goods documentation, import/export declarations, and data from TMS, ERP, CRM, and resource planning systems. SmartIDP ensures seamless and efficient management of all critical documents and data in real-time.</p>
+                    </div>
                 </div>
+                <div class="row">
+                    <!-- Streamlined Process Management with SmartIDP -->
+                    <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                        <span class="icon-boxes-item-icon"><i class="fas fa-cogs fa-md"></i></span> <!-- Cogs Icon for Process Management -->
+                        <h3 class="fw-bold">Streamlined Process Management with SmartIDP</h3>
+                        <p class="px-3">Manage your order verifications, contract approvals, dispatch of supporting documents, and more with SmartIDP. SmartIDP automatically generates and sends receipt confirmations, streamlining your entire workflow.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <!-- Seamless Customer Service Integration with SmartIDP -->
+                    <div class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                        <span class="icon-boxes-item-icon"><i class="fas fa-headset fa-md"></i></span> <!-- Headset Icon for Customer Service -->
+                        <h3 class="fw-bold">Seamless Customer Service Integration with SmartIDP</h3>
+                        <p class="px-2">Integrating SmartIDP into your customer portals and apps further elevates your service offerings: Provide real-time access to orders, delivery notes, tracking information, and more to your customers, enhancing their experience and satisfaction.</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    
+
                 <!-- Right Column: Image -->
-                <div class="col-md-6 mt-4 mt-md-0">
+                <div class="col-md-6 mt-4 mt-md-0 py-5">
                     <div class="content-image text-center">
                         <figure>
                         <img src="assets/images/logistic/logic5.jpg" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius:50%; height:450px;width:450px" loading="lazy">
@@ -190,88 +191,81 @@
                 </div>
             </div>
         </div>
-        <div class="container my-md-5">
-            <h2 class="fw-bold fs-2 text-center justify-content-center py-1">The <span class="gradient">Advantages</span> of the SmartIDP ECM Platform</h2>
-            <div class="row text-center mt-5 justify-content-center">
-                <!-- Access Billions of Documents Worldwide -->
-                <div class="col-6 col-md-2 mb-4">
-                    <div class="card custom-card-shadow h-100" style="height: 200px;">
-                        <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
-                                <!-- Check mark icon -->
-                                <i class="fas fa-check fa-sm"></i>
-                            </div>
-                            <p class="card-text ">Access Billions of Documents Worldwide with SmartIDP</p>
+        <div class="container-fluid py-3" style="background-color: #eaedfc;">
+    <div class="container">
+        <h2 class="fw-bold mb-md-5 text-center py-1">The <span class="gradient">Advantages</span> of the SmartIDP ECM Platform</h2>
+        <div class="row">
+            <!-- Intelligent Document Processing -->
+            <div class="col-12 col-xl-2 col-lg-3 col-md-4 mb-4">
+                <div class="card h-100 custom-card-shadow">
+                    <div class="card-body">
+                        <div class="icon-box-circle rounded-circle">
+                        <i class="fas fa-check fa-md"></i>
                         </div>
+                        <h3 class="card-title text-center">Access Billions of Documents Worldwide</h3>
                     </div>
                 </div>
-
-                <!-- Optimize Your Ability to Provide Customers with Real-Time Information -->
-                <div class="col-6 col-md-2 mb-4">
-                    <div class="card custom-card-shadow h-100" style="height: 200px;">
-                        <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
-                                <!-- Check mark icon -->
-                                <i class="fas fa-check fa-md"></i>
-                            </div>
-                            <p class="card-text">Optimize Your Ability to Provide Customers with Real-Time Information Using SmartIDP</p>
+            </div>
+            <!-- Automated Data Extraction -->
+            <div class="col-12 col-xl-2 col-lg-3 col-md-4 mb-4">
+                <div class="card h-100 custom-card-shadow">
+                    <div class="card-body">
+                        <div class="icon-box-circle rounded-circle">
+                        <i class="fas fa-check fa-md"></i>
                         </div>
+                        <h3 class="card-title text-center">Optimize Real-Time Customer Information</h3>
                     </div>
                 </div>
-
-                <!-- Transparently Document and Manage the Entire Supply Chain -->
-                <div class="col-6 col-md-2 mb-4">
-                    <div class="card custom-card-shadow h-100" style="height: 200px;">
-                        <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
-                                <!-- Check mark icon -->
-                                <i class="fas fa-check fa-md"></i>
-                            </div>
-                            <p class="card-text">Transparently Document and Manage the Entire Supply Chain with SmartIDP</p>
+            </div>
+            <!-- Workflow Automation -->
+            <div class="col-12 col-xl-2 col-lg-3 col-md-4 mb-4">
+                <div class="card h-100 custom-card-shadow">
+                    <div class="card-body">
+                        <div class="icon-box-circle rounded-circle">
+                        <i class="fas fa-check fa-md"></i>
                         </div>
+                        <h3 class="card-title text-center">Manage Supply ChainTransparently</h3>
                     </div>
                 </div>
-
-                <!-- Ensure Compliance by Archiving All Relevant Documents -->
-                <div class="col-6 col-md-2 mb-4">
-                    <div class="card custom-card-shadow h-100" style="height: 200px;">
-                        <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
-                                <!-- Check mark icon -->
-                                <i class="fas fa-check fa-md"></i>
-                            </div>
-                            <p class="card-text">Ensure Compliance by Archiving All Relevant Documents in Line with Audit Requirements Using SmartIDP</p>
+            </div>
+            <!-- Real-time Collaboration -->
+            <div class="col-12 col-xl-2 col-lg-3 col-md-4 mb-4">
+                <div class="card h-100 custom-card-shadow">
+                    <div class="card-body">
+                        <div class="icon-box-circle rounded-circle">
+                        <i class="fas fa-check fa-md"></i>
                         </div>
+                        <h3 class="card-title text-center">Ensure Compliance with Archiving</h3>
                     </div>
                 </div>
-
-                <!-- Manage Documents and Processes Across Locations and Countries -->
-                <div class="col-6 col-md-2 mb-4">
-                    <div class="card custom-card-shadow h-100" style="height: 200px;">
-                        <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
-                                <!-- Check mark icon -->
-                                <i class="fas fa-check fa-md"></i>
-                            </div>
-                            <p class="card-text">Manage Documents and Processes Seamlessly Across Locations and Countries with SmartIDP</p>
+            </div>
+            <!-- Contract Lifecycle Management -->
+            <div class="col-12 col-xl-2 col-lg-3 col-md-4 mb-4">
+                <div class="card h-100 custom-card-shadow">
+                    <div class="card-body">
+                        <div class="icon-box-circle rounded-circle">
+                        <i class="fas fa-check fa-md"></i>
                         </div>
+                        <h3 class="card-title text-center">Seamlessly Manage Documents Globally</h3>
                     </div>
                 </div>
-
-                <!-- Offer Digital Customer Services -->
-                <div class="col-6 col-md-2 mb-4">
-                    <div class="card custom-card-shadow h-100" style="height: 200px;">
-                        <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
-                                <!-- Check mark icon -->
-                                <i class="fas fa-check fa-md"></i>
-                            </div>
-                            <p class="card-text">Offer Digital Customer Services with Information in Real Time</p>
+            </div>
+            <!-- Secure Digital Archiving -->
+            <div class="col-12 col-xl-2 col-lg-3 col-md-4 mb-4">
+                <div class="card h-100 custom-card-shadow">
+                    <div class="card-body">
+                        <div class="icon-box-circle rounded-circle mb-3 d-flex justify-content-center align-items-center">
+                            <i class="fas fa-check fa-md"></i>
                         </div>
+                        <h3 class="card-title text-center">Provide Real-Time Digital Services</h3>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
+
         <div class="container">
             <div class="mod_article max-width-viewport block mb-0" id="article-44383">
                 <div class="mod_article_inner">
@@ -308,7 +302,7 @@
                             <!-- Left Column (Text and Button) -->
                             <div class="col-lg-6 col-md-12 text-center">
                                 <div class="headline-box ser-headline-box ce_rsce_ser_headline_box">
-                                    <h2 class="headline -extra-large responsive-heading1 text-center" style="font-size: 2.5em; font-weight: 600;">
+                                    <h2 class="headline -extra-large responsive-heading1 text-center" style="font-size: 1.5em; font-weight: 600;">
                                         <span class="gradient">"Customers and analysts rate SmartIDP & its intelligent automation solutions highly"</span>
                                 </div>
                                 <div class="button-box ce_rsce_oneo_button" style="margin-bottom: 30px;">
@@ -330,39 +324,42 @@
             </div>
         </div>
         <div class="container" id="article-29421 py-5">
-            <h2 class="mb-4 fw-bold text-center"> Digital files tailored to meet your business needs</h2>
-            <p class="text-center">When it comes to managing your information, SmartIDP offers a variety of eFile solutions</p>
-            <p class="text-center">Well-structured and easily accessible from anywhere, anytime.</p>
-            <div class="row align-items-center">
-                <!-- Left Column: Icon Boxes -->
-                <div class="col-md-6">
-                    <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
-                        <div class="row">
-                            <!-- Contract Files Managed with SmartIDP -->
-                            <div class="icon-boxes-item mb-4  -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-file-contract fa-lg"></i></span>
-                                <h3>Contract files managed with SmartIDP >></h3>
-                                <p class="py-3">Centralize all contracts with customers and business partners using SmartIDP, and let the platform automatically remind you of upcoming contract deadlines, ensuring timely actions and seamless contract management.</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <!-- Centralized Customer File Management -->
-                            <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-users fa-lg"></i></span>
-                                <h3>Centralized Customer File Management with SmartIDP >></h3>
-                                <p class="py-3">Access the complete customer history—from inquiries and offers to CRM data and notes—quickly and from anywhere with SmartIDP.</p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <!-- Seamless Lease File Management -->
-                            <div class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-cogs fa-lg"></i></span>
-                                <h3>Seamlessly Manage and Access Your Lease Files with SmartIDP >></h3>
-                                <p class="py-3">SmartIDP centralizes all information related to your leased assets, such as vehicle fleets, airplanes, and more. With SmartIDP, managing your lease contracts and ensuring compliance with IFRS 16 becomes simple and automated.</p>
-                            </div>
-                        </div>
-                    </section>
+    <h2 class="mb-4 fw-bold text-center"> Digital files tailored to meet your business needs</h2>
+    <p class="text-center">When it comes to managing your information, SmartIDP offers a variety of eFile solutions</p>
+    <p class="text-center">Well-structured and easily accessible from anywhere, anytime.</p>
+    <div class="row align-items-center">
+        <!-- Left Column: Icon Boxes -->
+        <div class="col-md-6">
+            <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
+                <div class="row">
+                    <!-- Contract files managed with SmartIDP -->
+                    <div class="icon-boxes-item mb-4 -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
+                        <span class="icon-boxes-item-icon"><i class="fas fa-file-contract fa-md"></i></span> <!-- Contract Icon -->
+                        <h3 class="fw-bold">Contract files managed with SmartIDP >></h3>
+                        <p class="px-3">Centralize all contracts with customers and business partners using SmartIDP, and let the platform automatically remind you of upcoming contract deadlines, ensuring timely actions and seamless contract management.</p>
+                    </div>
                 </div>
+                <div class="row">
+                    <!-- Centralized Customer File Management -->
+                    <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                        <span class="icon-boxes-item-icon"><i class="fas fa-users fa-md"></i></span> <!-- Users Icon -->
+                        <h3 class="fw-bold">Centralized Customer File Management with SmartIDP >></h3>
+                        <p class="px-3">Access the complete customer history—from inquiries and offers to CRM data and notes—quickly and from anywhere with SmartIDP.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <!-- Manage Lease Files with SmartIDP -->
+                    <div class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+                        <span class="icon-boxes-item-icon"><i class="fas fa-warehouse fa-md"></i></span> <!-- Warehouse Icon (for assets) -->
+                        <h3 class="fw-bold px-3" >Seamlessly Manage and Access Your Lease Files with SmartIDP >></h3>
+                        <p class="px-3">SmartIDP centralizes all information related to your leased assets, such as vehicle fleets, airplanes, and more. With SmartIDP, managing your lease contracts and ensuring compliance with IFRS 16 becomes simple and automated.</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    
+
+
                 <!-- Right Column: Image -->
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
@@ -382,28 +379,33 @@
             <hr>
         </div>
 
-        <div class="container-fluid py-md-2">
-            <div class="row align-items-center">
-                <!-- Column 1: Text Content -->
-                <div class="col-lg-5 offset-md-1 col-md-12 mb-4">
-                    <div class="headline-box text-left">
-                        <h2 class="fw-bold">SmartIDP is available in 13 languages, ensuring global accessibility and seamless communication across regions.</h2>
+        <div class="container-fluid py-1" style="background-color: #eaedfc;">
+            <div class="container my-md-5 my-3">
+                <div class="row align-items-center">
+                    <!-- Text Content Column -->
+                    <div class="col-md-8 d-flex flex-column justify-content-center">
+                        <h2 class="fw-bold mt-0">SmartIDP: <span class="gradient">Tailored Language Solutions</span> for Your Needs</h2>
+                        <p class="font-italic">
+                            Multilingualism & Unicode capability make SmartIDP the ideal ECM platform for multinational deployment.
+                        </p>
+                        <p>
+                            SmartIDP is highly scalable with a multi-tenant architecture that can be rolled out globally and managed centrally. While SmartIDP does not come pre-packaged in 13 languages, we offer customizable solutions to meet your specific language requirements. This means that multinational companies can provide their decentralized purchasing teams with user interfaces and metadata tailored to their respective local languages, ensuring seamless integration and usability.
+                        </p>
                     </div>
-                    <div class="mb-4">
-                        <p>Multilingual support and Unicode capability make SmartIDP the perfect ECM platform for global deployment, enabling seamless integration and collaboration across diverse languages and regions.</p>
-                        <p>SmartIDP is highly scalable with a multitenant architecture, enabling global deployment and centralized management. Available in multiple languages including German, English, French, Spanish, Portuguese, Italian, Polish, Russian, Turkish, Chinese, Hungarian, Dutch, and Arabic, SmartIDP ensures that international companies can provide employees with user interfaces and metadata in their preferred local languages.</p>
+
+                    <!-- Image Column -->
+                    <div class="col-md-4">
+                        <div class="d-flex flex-column align-items-center justify-content-center">
+                            <figure>
+                                <img src="assets/images/logistic/logic8.avif" class="img-fluid" alt="SmartIDP Customization"loading="lazy" style="border-radius: 20px;">
+                            </figure>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-6 col-md-12 d-flex justify-content-center align-items-center">
-                    <img src="assets/images/logistic/logic8.avif" alt="Smart Automation" class="img-fluid" style="border-radius:50%; height:450px; width:450px"loading="lazy">
                 </div>
             </div>
         </div>
 
-
-
-
-
     </main>
 </div>
+<div class="py-4"></div>
 <?php include_once("includes/footer.php"); ?>

@@ -6,6 +6,18 @@
         -webkit-background-clip: text;
         color: transparent;
     }
+        /* Unique class for shadow effect */
+        .custom-card-shadow {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 1.25rem;
+    }
+
+    .custom-card-shadow:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
+    }
+
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content">
@@ -34,7 +46,7 @@
                         <div class="row text-center">
                             <!-- Box 1: Drive Business Opportunities -->
                             <div class="col-lg-4 col-md-6 col-12 mb-4">
-                                <div class="card shadow-lg border-0 rounded">
+                                <div class="card h-100 custom-card-shadow">
                                     <div class="card-body">
                                         <i class="fas fa-business-time fs-1 gradient"></i>
                                         <h4 class="card-title fs-5"><b> Achieve Excellence with SmartIDP</b></h4>
@@ -44,7 +56,7 @@
                             </div>
                             <!-- Box 2: Targeted Approach -->
                             <div class="col-lg-4 col-md-6 col-12 mb-4">
-                                <div class="card shadow-lg border-0 rounded">
+                                <div class="card h-100 custom-card-shadow">
                                     <div class="card-body">
                                         <i class="fas fa-bullseye fs-1 gradient"></i>
                                         <h4 class="card-title fs-5"><b>Tailored Strategies for Every Need</b></h4>
@@ -54,7 +66,7 @@
                             </div>
                             <!-- Box 3: Practical & Effective Training -->
                             <div class="col-lg-4 col-md-6 col-12 mb-4">
-                                <div class="card shadow-lg border-0 rounded">
+                                <div class="card h-100 custom-card-shadow">
                                     <div class="card-body ">
                                         <i class="fas fa-chalkboard-teacher fs-1 gradient"></i>
                                         <h5 class="card-title fs-5"><b>Maximizing Value through Expertise</b></h5>
@@ -96,7 +108,7 @@
                 <div class="col-md-6">
                     <div class="content-image text-center mb-4 mb-md-0">
                         <figure class="shadow-lg rounded-lg overflow-hidden">
-                            <img src="assets/images/partnerfinder/Empowered partners.webp" height="20" alt="Business Process Management" title="Business Process Management with One Tool" class="img-fluid" style="height: 409px !important" loading="lazy">
+                            <img src="assets/images/partnerfinder/Empowered partners.webp" height="20" alt="Business Process Management" title="Business Process Management with One Tool" class="img-fluid" style="height: 409px !important;border-radius: 20px;" loading="lazy">
                         </figure>
                     </div>
                 </div>
@@ -108,7 +120,7 @@
                 <div class="col-md-6">
                     <div class="content-image text-center mb-4 mb-md-0">
                         <figure class="shadow-lg rounded-lg overflow-hidden">
-                            <img src="assets/images/partnerfinder/handshake.jpg" height="20" alt="Business Process Management" title="Business Process Management with One Tool" class="img-fluid" style="height: 350px !important" loading="lazy">
+                            <img src="assets/images/partnerfinder/handshake.jpg" height="20" alt="Business Process Management" title="Business Process Management with One Tool" class="img-fluid" style="height: 350px !important;border-radius: 20px;" loading="lazy">
                         </figure>
                     </div>
                 </div>

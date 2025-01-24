@@ -1,17 +1,47 @@
-
 @font-face {
-  font-family: 'Mokoto';
-  src: url('../fonts/mokoto/mokoto.regular.ttf') format('truetype');
+  font-family: "Mokoto";
+  src: url("../fonts/mokoto/mokoto.regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
-.mokoto-family{
-  font-family: 'Mokoto', sans-serif !important;
+.mokoto-family {
+  font-family: "Mokoto", sans-serif !important;
 }
 /* body {
   font-family: 'CustomFontName', sans-serif;
 } */
+/* @font-face definitions */
+@font-face {
+  font-family: "72-Regular";
+  src: url("../fonts/Web_Fonts/Web_Fonts/WOFF2/W05-full/72-Regular-full.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Body text */
+body {
+  font-family: "72-Regular", sans-serif !important;
+}
+
+/* Headings (h1 to h6) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "72-Regular", sans-serif !important;
+  font-weight: normal;
+}
+
+/* Paragraphs */
+p {
+  font-family: "72-Regular", sans-serif;
+  font-weight: normal;
+}
+
+/* Strong text */
+strong {
+  font-family: "72-Regular", sans-serif;
+  font-weight: normal;
+}
 
 
 .ser-hamburger-menu {
@@ -13364,7 +13394,7 @@ a.text-dark:hover {
     opacity: 1;
   }
 }
-
+/* 
 @font-face {
   font-family: "RockSolid Icons";
   src: url(../../files/oneo/fonts/rocksolid-icons.woff2) format("woff2"),
@@ -13388,7 +13418,7 @@ a.text-dark:hover {
   font-style: normal;
   src: url(../../files/oneo/fonts/EuclidCircularB-Medium-WebXL.woff2)
     format("woff2");
-}
+} */
 
 html {
   position: relative;
@@ -33412,10 +33442,10 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
 
 /* Media query for small screens (mobile devices) */
 @media (max-width: 576px) {
-    .customer-logos {
-      animation: marquee 5s linear infinite; /* Increase the duration for small screens */
-    }
+  .customer-logos {
+    animation: marquee 5s linear infinite; /* Increase the duration for small screens */
   }
+}
 /* Each logo card */
 .customer-logo {
   flex: 0 0 auto;
