@@ -87,7 +87,7 @@
 
     <!-- Hero Section -->
     <div class="container-fluid cover" id="article-43622"
-      style="background-image: url('assets/images/microsoft/1.jpg'); background-size: cover; background-position: center center; height: 60vh;">
+      style="background-image: url('assets/images/microsoft/1.jpg'); background-size: cover; background-position: center center; height: 60vh" loading="lazy">
       <div class="container h-100 d-flex justify-content-center align-items-center">
         <div class="row w-100 justify-content-center">
           <!-- Left Column (Text Content) -->
@@ -150,7 +150,7 @@
         <!-- Image Column -->
         <div class="col-md-4 text-center mb-4 mb-md-0">
           <img src="assets/images/egslogo.png" alt="Equilon Global Synergies Trading Logo" class="img-fluid" width="180"
-            height="162">
+            height="162" loading="laz">
         </div>
 
         <!-- Text Column -->

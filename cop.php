@@ -81,7 +81,7 @@
                             <div class="ce_rs_column_start  rs-column -large-col-3-1 -large-first -large-first-row -medium-col-3-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/q/arv-it-366x330-9cmvwgpt317mpjv.png" alt="Logo of the ARV-IT" width="250" height="225">
+                                        <img src="https://cdn.sergroup.com/assets/images/q/arv-it-366x330-9cmvwgpt317mpjv.png" alt="Logo of the ARV-IT" width="250" height="225" loading="lazy">
                                     </figure>
                                 </div>
                             </div>
@@ -107,7 +107,7 @@
                         <h2 class="headline-hr  ce_rsce_oneo_separator "> Flyer </h2>
                         <section class="feature-box is-animated ce_rsce_oneo_feature_box -vertical-centered -image-left">
                             <a class="feature-box-image -move -fade -move-right" href="https://www.sergroup.com/en/knowledge-center/media-library/doxis-cloud-intelligent-content-automation-in-the-cloud.html">
-                                <img src="https://cdn.sergroup.com/assets/images/5/3D_Mock_up_Doxis_Cloud_EN-8q375tp48544eeb.png" width="400" height="559" alt="">
+                                <img src="https://cdn.sergroup.com/assets/images/5/3D_Mock_up_Doxis_Cloud_EN-8q375tp48544eeb.png" width="400" height="559"  loading=" lazy">
                             </a>
                             <div class="feature-box-text not-animated ">
                                 <h2 class="-small">
@@ -166,7 +166,7 @@
                             <div class="ce_rs_column_start  rs-column -large-col-4-2 -large-last -large-first-row -medium-col-4-2 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/1/doxis4-cloud-deployment-en-66x4az1fae5nzyd.png" alt="Doxis4 licensing and deployment options" title="Doxis4 licensing and deployment options" width="600" height="364">
+                                        <img src="https://cdn.sergroup.com/assets/images/1/doxis4-cloud-deployment-en-66x4az1fae5nzyd.png" alt="Doxis4 licensing and deployment options" title="Doxis4 licensing and deployment options" width="600" height="364" loading="lazy">
                                     </figure>
                                 </div>
                             </div>
@@ -219,7 +219,7 @@
                         <h2 class="headline-hr  ce_rsce_oneo_separator "> Best practice </h2>
                         <section class="feature-box is-animated ce_rsce_oneo_feature_box -vertical-centered -image-left">
                             <a class="feature-box-image -move -fade -move-right" href="https://www.sergroup.com/en/knowledge-center/media-library/deutsche-bahn-ecm-as-a-corporate-standard.html">
-                                <img src="https://cdn.sergroup.com/assets/images/z/best_practice_ecm_db_en-m6fwj03m4qg2wkv.png" width="400" height="541" alt="">
+                                <img src="https://cdn.sergroup.com/assets/images/z/best_practice_ecm_db_en-m6fwj03m4qg2wkv.png" width="400" loading="lazy" height="541" alt="">
                             </a>
                             <div class="feature-box-text not-animated ">
                                 <h2 class="-small">

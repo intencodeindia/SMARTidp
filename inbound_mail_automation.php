@@ -70,7 +70,7 @@
         <!-- First Slide -->
         <div class="carousel-item active">
           <div class="image-container">
-            <img src="assets/images/inbound_mail_automation/emailauto1.webp" class="d-block w-100 mt-1 my-3 g-2 custom-image img-fluid" style="height: 400px;" alt="...">
+            <img src="assets/images/inbound_mail_automation/emailauto1.webp" class="d-block w-100 mt-1 my-3 g-2 custom-image img-fluid"  loading="lazy"style="height: 400px;" alt="...">
             <div class="image-overlay"></div>
           </div>
           <div class="carousel-caption">
@@ -82,7 +82,7 @@
         <!-- Second Slide -->
         <div class="carousel-item">
           <div class="image-container">
-            <img src="assets/images/inbound_mail_automation/emailauto2.webp" class="d-block w-100 img-fluid" style="height:80%;" alt="...">
+            <img src="assets/images/inbound_mail_automation/emailauto2.webp" class="d-block w-100 img-fluid" style="height:80%" loading="lazy" alt="...">
             <div class="image-overlay"></div>
           </div>
           <div class="carousel-caption">
@@ -94,7 +94,7 @@
         <!-- Third Slide -->
         <div class="carousel-item">
           <div class="image-container">
-            <img src="assets/images/inbound_mail_automation/smart2.jpeg" class="d-block w-100 img-fluid" style="height:70%;" alt="...">
+            <img src="assets/images/inbound_mail_automation/smart2.jpeg" class="d-block w-100 img-fluid" style="height:70%"loading="lazy" alt="...">
             <div class="image-overlay">
 
             </div>
@@ -361,7 +361,7 @@
                 <div class="ser-hide-mobile">
                   <div class="content-image">
                     <figure>
-                      <img src="assets/images/inbound_mail_automation/smart1.png" style="border-radius: 20px;">
+                      <img src="assets/images/inbound_mail_automation/smart1.png" style="border-radius: 20px" loading="lazy">
                     </figure>
                   </div>
                 </div>
@@ -450,7 +450,7 @@
                 <div class="ser-hide-mobile">
                   <div class="content-image">
                     <figure>
-                      <img src="assets/images/inbound_mail_automation/mailauto.jpeg" style="border-radius: 20px;">
+                      <img src="assets/images/inbound_mail_automation/mailauto.jpeg" style="border-radius: 20px" loading="lazy">
                     </figure>
                   </div>
                 </div>

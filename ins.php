@@ -27,7 +27,7 @@
                                     <div class="centered-wrapper-inner ">
                                         <div class="content-image">
                                             <figure>
-                                                <a href="https://cdn.sergroup.com/files/content/images/blog/2023/insurance-integrations.png" rel="noreferrer noopener" data-lightbox="lb252848" title="Digitalization for insurance providers with Doxis"> <img src="https://cdn.sergroup.com/assets/images/6/insurance-integrations-6fzk6ymb39kjkrb.png" alt="Digitalization for insurance providers with Doxis" title="Digitalization for insurance providers with Doxis" width="670" height="496">
+                                                <a href="https://cdn.sergroup.com/files/content/images/blog/2023/insurance-integrations.png" rel="noreferrer noopener" data-lightbox="lb252848" title="Digitalization for insurance providers with Doxis"> <img src="https://cdn.sergroup.com/assets/images/6/insurance-integrations-6fzk6ymb39kjkrb.png" alt="Digitalization for insurance providers with Doxis" title="Digitalization for insurance providers with Doxis" width="670" loading="lazy" height="496">
                                                 </a>
                                             </figure>
                                         </div>
@@ -47,52 +47,52 @@
                             <div class="sercustomer_logolist sercustomer_logolist_slide" style="--logos: 5;">
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/d/basler-versicherungen-logo-n5k49mf81tfen00.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/d/basler-versicherungen-logo-n5k49mf81tfen00.png" width="300" loading="lazy" height="169" alt="">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/delvag-versicherungs-ag.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/q/delvag-logo-dwr84k09c6ed0cy.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/q/delvag-logo-dwr84k09c6ed0cy.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/devk-insurance-policies.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/2/DEVK-logo-gz4w5pdph7a8k8f.png" width="300" height="169" alt="DEVK">
+                                        <img src="https://cdn.sergroup.com/assets/images/2/DEVK-logo-gz4w5pdph7a8k8f.png" width="300" height="169" loading="lazy" alt="DEVK">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/3/helvetia-logo-4xrzdzpfw7mg367.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/3/helvetia-logo-4xrzdzpfw7mg367.png" width="300" loading="lazy" height="169" alt="">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/m/ukst-logo-9eqvzpv4854y2j6.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/m/ukst-logo-9eqvzpv4854y2j6.png" width="300" height="169"  loading="lazy" alt="">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/d/basler-versicherungen-logo-n5k49mf81tfen00.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/d/basler-versicherungen-logo-n5k49mf81tfen00.png" width="300" height="169" loading="lazy" alt="">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/delvag-versicherungs-ag.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/q/delvag-logo-dwr84k09c6ed0cy.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/q/delvag-logo-dwr84k09c6ed0cy.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/devk-insurance-policies.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/2/DEVK-logo-gz4w5pdph7a8k8f.png" width="300" height="169" alt="DEVK">
+                                        <img src="https://cdn.sergroup.com/assets/images/2/DEVK-logo-gz4w5pdph7a8k8f.png" width="300" height="169" loading="lazy" alt="DEVK">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/3/helvetia-logo-4xrzdzpfw7mg367.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/3/helvetia-logo-4xrzdzpfw7mg367.png" width="300"  loading="lazy"height="169" alt="">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/m/ukst-logo-9eqvzpv4854y2j6.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/m/ukst-logo-9eqvzpv4854y2j6.png" width="300" height="169" loading="lazy" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -172,7 +172,7 @@
             <div class="mod_article_inner">
                 <div class="doxi-absolute content-image">
                     <figure>
-                        <img src="https://cdn.sergroup.com/assets/images/e/SER_Doxi-e466wa0vv0ef3ew.svg" alt width="150" height="128">
+                        <img src="https://cdn.sergroup.com/assets/images/e/SER_Doxi-e466wa0vv0ef3ew.svg" alt width="150" loading="lazy" height="128">
                     </figure>
                 </div>
                 <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start fade-out-background  -vertical-centered" style=" ">
@@ -199,7 +199,7 @@
                                 <div class="ser-hide-mobile">
                                     <div class="content-image">
                                         <figure>
-                                            <img src="https://cdn.sergroup.com/assets/images/r/BFS_element-sfrq8s952xqfb5x.png" alt width="350" height="350">
+                                            <img src="https://cdn.sergroup.com/assets/images/r/BFS_element-sfrq8s952xqfb5x.png" alt width="350"  loading="lazy" height="350">
                                         </figure>
                                     </div>
                                 </div>
@@ -234,7 +234,7 @@
                                 <div class="ce_rs_column_start  rs-column -large-col-5-2 -large-last -large-first-row -medium-col-3-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last"></div>
                                 <div class="rounded-image content-image">
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/c/digitale-versicherung-onboarding-fakfqnhygt803pw.jpeg" alt="Doxis Content Bridge — Integrations" title="Doxis Content Bridge — Integrations" width="400" height="400">
+                                        <img src="https://cdn.sergroup.com/assets/images/c/digitale-versicherung-onboarding-fakfqnhygt803pw.jpeg" alt="Doxis Content Bridge — Integrations" title="Doxis Content Bridge — Integrations" width="400" height="400" loading="lazy">
                                     </figure>
                                 </div>
                             </div>
@@ -285,7 +285,7 @@
                                 <div class="center content-image">
                                     <h3>AI-powered claims management</h3>
                                     <figure>
-                                        <a href="https://www.sergroup.com/en/knowledge-center/media-library/intelligent-claims-management-in-car-insurance.html" rel="noreferrer noopener"> <img src="https://cdn.sergroup.com/assets/images/n/ser_erklaervideos_digital_business_transformation-7f8xtvfdv93y26s.png" alt="Man archiving a document audit-compliantly via the cloud" title="Claims management in car insurance with Doxis" width="470" height="374">
+                                        <a href="https://www.sergroup.com/en/knowledge-center/media-library/intelligent-claims-management-in-car-insurance.html" rel="noreferrer noopener"> <img src="https://cdn.sergroup.com/assets/images/n/ser_erklaervideos_digital_business_transformation-7f8xtvfdv93y26s.png" alt="Man archiving a document audit-compliantly via the cloud" title="Claims management in car insurance with Doxis" width="470" loading="lazy" height="374">
                                         </a>
                                     </figure>
                                 </div>
@@ -360,7 +360,7 @@
                                 <div class="ce_rs_column_start  rs-column -large-col-5-2 -large-last -large-first-row -medium-col-3-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last"></div>
                                 <div class="rounded-image content-image">
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/5/revisionssicherheit-bei-digitaler-archivierung-tqrezq1fpja5486.jpg" alt="Man archiving a document audit-compliantly via the cloud" width="250" height="250">
+                                        <img src="https://cdn.sergroup.com/assets/images/5/revisionssicherheit-bei-digitaler-archivierung-tqrezq1fpja5486.jpg" alt="Man archiving a document audit-compliantly via the cloud" width="250" loading="lazy" height="250">
                                     </figure>
                                 </div>
                             </div>
@@ -512,7 +512,7 @@
                                                     <figure class="image_container">
                                                         <picture>
                                                             <source srcset="https://cdn.sergroup.com/assets/images/t/delvag_change_management-rvr7bve8axknd0w.webp" type="image/webp" width="580" height="304">
-                                                            <img src="https://cdn.sergroup.com/assets/images/4/delvag_change_management-2ecssyk5m1d2bpb.jpg" width="580" height="304" alt="" loading="lazy">
+                                                            <img src="https://cdn.sergroup.com/assets/images/4/delvag_change_management-2ecssyk5m1d2bpb.jpg" width="580" height="304" loading="lazy" alt="" loading="lazy">
                                                         </picture>
                                                     </figure>
                                                 </a>
@@ -542,7 +542,7 @@
                                                     <figure class="image_container">
                                                         <picture>
                                                             <source srcset="https://cdn.sergroup.com/assets/images/w/pfaff-helvetia-summit-nt6n9wf4mhjh6cr.webp" type="image/webp" width="580" height="304">
-                                                            <img src="https://cdn.sergroup.com/assets/images/5/pfaff-helvetia-summit-g98g5w0byzshtk8.jpg" width="580" height="304" alt="" loading="lazy">
+                                                            <img src="https://cdn.sergroup.com/assets/images/5/pfaff-helvetia-summit-g98g5w0byzshtk8.jpg" width="580" height="304"  loading="lazy" alt="" loading="lazy">
                                                         </picture>
                                                     </figure>
                                                 </a>
@@ -572,7 +572,7 @@
                                                     <figure class="image_container">
                                                         <picture>
                                                             <source srcset="https://cdn.sergroup.com/assets/images/c/devk_best_practice-1dsygzcm9y7qt97.webp" type="image/webp" width="580" height="304">
-                                                            <img src="https://cdn.sergroup.com/assets/images/t/devk_best_practice-mrf9d4s3ycbd1bt.jpg" width="580" height="304" alt="" loading="lazy">
+                                                            <img src="https://cdn.sergroup.com/assets/images/t/devk_best_practice-mrf9d4s3ycbd1bt.jpg" width="580" height="304" loading="lazy" alt="" loading="lazy">
                                                         </picture>
                                                     </figure>
                                                 </a>

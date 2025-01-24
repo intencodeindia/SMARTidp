@@ -9,7 +9,7 @@
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content">
-    <img src="assets/images/partnerfinder/banner-partners-1.jpg" alt="Banner Image" style="width: 100%; height: auto;">
+    <img src="assets/images/partnerfinder/banner-partners-1.jpg" alt="Banner Image" style="width: 100%; height: auto" loading="lazy">
 
 
         </div>
@@ -96,7 +96,7 @@
                 <div class="col-md-6">
                     <div class="content-image text-center mb-4 mb-md-0">
                         <figure class="shadow-lg rounded-lg overflow-hidden">
-                            <img src="assets/images/partnerfinder/Empowered partners.webp" height="20" alt="Business Process Management" title="Business Process Management with One Tool" class="img-fluid" style="height: 409px !important;">
+                            <img src="assets/images/partnerfinder/Empowered partners.webp" height="20" alt="Business Process Management" title="Business Process Management with One Tool" class="img-fluid" style="height: 409px !important" loading="lazy">
                         </figure>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                 <div class="col-md-6">
                     <div class="content-image text-center mb-4 mb-md-0">
                         <figure class="shadow-lg rounded-lg overflow-hidden">
-                            <img src="assets/images/partnerfinder/handshake.jpg" height="20" alt="Business Process Management" title="Business Process Management with One Tool" class="img-fluid" style="height: 350px !important;">
+                            <img src="assets/images/partnerfinder/handshake.jpg" height="20" alt="Business Process Management" title="Business Process Management with One Tool" class="img-fluid" style="height: 350px !important" loading="lazy">
                         </figure>
                     </div>
                 </div>

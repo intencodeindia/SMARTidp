@@ -411,7 +411,7 @@
 
     <div class="content-wrapper">
         <main role="main" class="">
-            <div class="container-fluid" style="background-image: url('assets/images/becoming-partner/banner.png'); background-size: cover; background-position: 0% 90% ; height:60vh;">
+            <div class="container-fluid" style="background-image: url('assets/images/becoming-partner/banner.png'); background-size: cover; background-position: 0% 90% ; height:60vh" loading="lazy">
             </div>
 
             <div class="container" id="page-head">
@@ -570,7 +570,7 @@
                     <!-- Level 1 -->
                     <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                         <div class="custom-card">
-                            <img src="assets/images/becoming-partner/partner.png" alt="Certified Partner" class="custom-card-img">
+                            <img src="assets/images/becoming-partner/partner.png" alt="Certified Partner" class="custom-card-img" loading="lazy">
                             <div class="custom-card-body">
                                 <h5 class="custom-card-title fw-bold" style="color: #0056b3;">Certified Partner</h5>
                                 <p class="custom-card-text">Our entry-level partnership for businesses that are certified to sell and implement SmartIDP solutions.</p>
@@ -581,7 +581,7 @@
                     <!-- Level 2 -->
                     <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                         <div class="custom-card">
-                            <img src="assets/images/becoming-partner/partner1.png" alt="Gold Partner" class="custom-card-img">
+                            <img src="assets/images/becoming-partner/partner1.png" alt="Gold Partner" class="custom-card-img" loading="lazy">
                             <div class="custom-card-body">
                                 <h5 class="custom-card-title fw-bold" style="color: #D4AF37;">Gold Partner</h5>
                                 <p class="custom-card-text">Partners with extensive experience in implementing SmartIDP solutions with a proven track record of success.</p>
@@ -592,7 +592,7 @@
                     <!-- Level 3 -->
                     <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                         <div class="custom-card">
-                            <img src="assets/images/becoming-partner/partner2.png" alt="Platinum Partner" class="custom-card-img">
+                            <img src="assets/images/becoming-partner/partner2.png" alt="Platinum Partner" class="custom-card-img" loading="lazy">
                             <div class="custom-card-body">
                                 <h5 class="custom-card-title fw-bold" style="color: #B8B8B8;">Platinum Partner</h5>
                                 <p class="custom-card-text">Our highest level of partnership for businesses with exceptional expertise and a close relationship with SmartIDP.</p>
@@ -661,7 +661,7 @@
 
                     <!-- Partner Image -->
                     <div class="col-lg-4 col-md-12 text-center">
-                        <img src="assets/images/becoming-partner/napkin-selection-1.svg" alt="Types of Partners" class="img-fluid rounded shadow-sm" style="max-width: 100%; border-radius: 10px;">
+                        <img src="assets/images/becoming-partner/napkin-selection-1.svg" alt="Types of Partners" class="img-fluid rounded shadow-sm" style="max-width: 100%; border-radius: 10px" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -729,7 +729,7 @@
                         <div class="parallelogram content-image">
                             <figure>
                                 <picture>
-                                    <source srcset="assets/images/becoming-partner/partner4.png" type="image/webp" class="img-fluid" alt="SmartIDP Partner">
+                                    <source srcset="assets/images/becoming-partner/partner4.png" type="image/webp" class="img-fluid" alt="SmartIDP Partner" loading="lazy">
                                     <img src="assets/images/becoming-partner/partner4.png" class="img-fluid" alt="SmartIDP Partner" loading="lazy">
                                 </picture>
                             </figure>

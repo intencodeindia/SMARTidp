@@ -205,7 +205,7 @@
                             <div class="col-lg-6 col-md-12 text-center">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="assets/images/health_care/gif_hc2.gif" alt="SmartIDP" class="img-fluid" width="352" height="145" style="border-radius: 15px;">
+                                        <img src="assets/images/health_care/gif_hc2.gif" alt="SmartIDP" class="img-fluid" width="352" height="145"  loading="lazy"style="border-radius: 15px;">
                                     </figure>
                                 </div>
 

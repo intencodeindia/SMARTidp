@@ -11,7 +11,7 @@
 <div class="content-wrapper">
     <main role="main" class="main-content">
         <div class="container-fluid cover" id="article-43622"
-            style="background-image: url('assets/images/case_management/cb04.png'); background-size: cover; background-position: center center; height: 60vh;">
+            style="background-image: url('assets/images/case_management/cb04.png'); background-size: cover; background-position: center center; height: 60vh" loading="lazy">
             <div class="container h-100 d-flex justify-content-center align-items-center">
                 <div class="row w-100 justify-content-center">
                     <!-- Left Column (Text Content) -->
@@ -196,7 +196,7 @@
                 <!-- Image Section -->
                 <div class="col-md-6 py-3 text-center">
                     <img src="assets/images/case_management/logo1.png" class="img-fluid" alt="Logistics"
-                        style="max-width: 65%;border-radius: 25px;">
+                        style="max-width: 65%;border-radius: 25px" loading="lazy">
                 </div>
             </section>
             <hr>
@@ -281,7 +281,7 @@
                     <div class="content-image text-center">
                         <figure>
                             <img src="assets/images/case_management/cm030.jpeg" alt="Microsoft Outlook Integration"
-                                class="img-fluid" style="height: 350px;">
+                                class="img-fluid" style="height: 350px" loading="lazy">
                         </figure>
                     </div>
                 </div>

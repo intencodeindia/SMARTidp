@@ -157,7 +157,7 @@
                 </div>
                 <!-- Right Column (Image) -->
                 <div class="col-lg-6 text-center">
-                    <img src="assets/images/SmartIDP/intelligent-document-processing1.png" alt="SmartIDP" class="img-fluid" id="smartidp-img">
+                    <img src="assets/images/SmartIDP/intelligent-document-processing1.png" alt="SmartIDP" class="img-fluid" id="smartidp-img" loading="lazy">
                 </div>
             </div>
         </div>
@@ -341,7 +341,7 @@
                     <div class="text-center">
                         <div class="position-relative">
                             <button class="btn btn-link p-0" data-splash-screen>
-                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" alt="SmartIDP Video" class="img-fluid" style="max-width: 100%; height: 420px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" alt="SmartIDP Video" class="img-fluid" style="max-width: 100%; height: 420px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s" loading="lazy">
                             </button>
                         </div>
                     </div>
@@ -447,7 +447,7 @@
                         </div>
                         <div class="col-lg-4">
                             <figure>
-                                <img src="assets/images/artificial_intelligence/extract.png" alt="Magic Extraction" class="img-fluid">
+                                <img src="assets/images/artificial_intelligence/extract.png" alt="Magic Extraction" class="img-fluid" loading="lazy">
                             </figure>
                         </div>
                     </div>
@@ -470,7 +470,7 @@
                         </div>
                         <div class="col-lg-4">
                             <figure>
-                                <img src="assets/images/artificial_intelligence/diocalap.jpg" alt="Purchase-to-Pay" class="img-fluid">
+                                <img src="assets/images/artificial_intelligence/diocalap.jpg" alt="Purchase-to-Pay" class="img-fluid" loading="lazy">
                             </figure>
                         </div>
                     </div>
@@ -491,7 +491,7 @@
                         </div>
                         <div class="col-lg-4">
                             <figure>
-                                <img src="assets/images/artificial_intelligence/graph3.png" alt="Document Insights" class="img-fluid">
+                                <img src="assets/images/artificial_intelligence/graph3.png" alt="Document Insights" class="img-fluid" loading="lazy">
                             </figure>
                         </div>
                     </div>
@@ -511,7 +511,7 @@
                         </div>
                         <div class="col-lg-4">
                             <figure>
-                                <img src="assets/images/artificial_intelligence/dashboard.png" alt="Document Insights" class="img-fluid">
+                                <img src="assets/images/artificial_intelligence/dashboard.png" alt="Document Insights" class="img-fluid" loading="lazy">
                             </figure>
                         </div>
 
@@ -697,7 +697,7 @@
                         <!-- Image Column -->
                         <div class="col-12 col-lg-6 mb-4">
                             <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                                <img src="assets/images/SmartIDP/Intelligent_doc.png" alt="meets AI" class="img-fluid shadow-lg" style="max-width: 100%; height: 100%;  border-radius: 20px;">
+                                <img src="assets/images/SmartIDP/Intelligent_doc.png" alt="meets AI" class="img-fluid shadow-lg" style="max-width: 100%; height: 100%;  border-radius: 20px" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -762,7 +762,7 @@
                                     <div>
                                         <figure>
                                             <picture>
-                                                <source srcset="assets/images/SmartIDP/intelligent-document-processing.png" type="image/webp" width="580" height="304">
+                                                <source srcset="assets/images/SmartIDP/intelligent-document-processing.png" type="image/webp" width="580" height="304" loading="lazy">
                                                 <img src="assets/images/SmartIDP/intelligent-document-processing.png" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px;">
                                             </picture>
                                         </figure>
@@ -778,8 +778,8 @@
                                     <div>
                                         <figure>
                                             <picture>
-                                                <source srcset="assets/images/artificial_intelligence/3_ways.webp" type="image/webp" width="580" height="304">
-                                                <img src="assets/images/artificial_intelligence/3_ways.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px;">
+                                                <source srcset="assets/images/artificial_intelligence/3_ways.webp" type="image/webp" width="580" height="304" loading="lazy">
+                                                <img src="assets/images/artificial_intelligence/3_ways.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px" loading="lazy">
                                             </picture>
                                         </figure>
                                     </div>
@@ -794,8 +794,8 @@
                                     <div>
                                         <figure>
                                             <picture>
-                                                <source srcset="assets/images/artificial_intelligence/management.webp" type="image/webp" width="580" height="304">
-                                                <img src="assets/images/artificial_intelligence/management.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px;">
+                                                <source srcset="assets/images/artificial_intelligence/management.webp" type="image/webp" width="580" height="304" loading="lazy">
+                                                <img src="assets/images/artificial_intelligence/management.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px" loading="lazy">
                                             </picture>
                                         </figure>
                                     </div>

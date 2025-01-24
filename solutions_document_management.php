@@ -342,7 +342,7 @@
                             <div class="col-lg-6 col-md-12 text-center">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="assets/images/intelligent_content_Automation/person.gif" alt="SmartIDP" class="img-fluid" width="352" height="145" style="border-radius: 15px;">
+                                        <img src="assets/images/intelligent_content_Automation/person.gif" alt="SmartIDP" class="img-fluid" width="352" height="145" style="border-radius: 15px" loading="lazy">
                                     </figure>
                                 </div>
 
@@ -456,20 +456,20 @@
                 <!-- Left Column: Content -->
                 <div class="col-md-6">
                     <!-- Content Item 1 -->
-                    <div class="content-item p-4" onmouseover="changeImage('img1')" onmouseout="resetImage()" style="border-radius: 20px;">
+                    <div class="content-item p-4" onmouseover="changeImage('img1')" onmouseout="resetImage()" style="border-radius: 20px" loading="lazy">
                         <h5 class="card-title text-dark fw-bold">Achieve Unmatched Efficiency with SmartIDP</h5>
                         <p class="card-text">Discover how SmartIDP enhances your document management processes by automating tedious tasks, streamlining workflows, and providing valuable insights. Our solution significantly boosts productivity while reducing errors and manual work.</p>
                     </div>
                     <hr>
                     <!-- Content Item 2 -->
-                    <div class="content-item p-4" onmouseover="changeImage('img2')" onmouseout="resetImage()"style="border-radius: 20px;">
+                    <div class="content-item p-4" onmouseover="changeImage('img2')" onmouseout="resetImage()"style="border-radius: 20px"loading="lazy">
                         <h5 class="card-title text-dark fw-bold">Case Study: How SmartIDP Transformed Document Management at Global Enterprises</h5>
                         <p class="card-text">Leading global enterprises in finance and healthcare trust SmartIDP to automate the categorization and extraction of vital data from contracts, invoices, and medical records. These companies have achieved a 40% reduction in processing time and enhanced compliance with industry regulations.</p>
                     </div>
                     <hr>
 
                     <!-- Content Item 3 -->
-                    <div class="content-item p-4" onmouseover="changeImage('img3')" onmouseout="resetImage()" style="border-radius: 20px;">
+                    <div class="content-item p-4" onmouseover="changeImage('img3')" onmouseout="resetImage()" style="border-radius: 20px" loading="lazy">
                         <h5 class="card-title text-dark fw-bold">Guide: Revolutionize Your Business with SmartIDP for Document Management</h5>
                         <p class="card-text">Get our comprehensive guide to understanding how SmartIDP’s intelligent automation solutions can transform your document management system. With practical tips, real-world case studies, and checklists, this guide will help you make informed decisions to streamline your processes and reduce costs.</p>
                     </div>
@@ -478,7 +478,7 @@
 
                 <!-- Right Column: Image (Centered) -->
                 <div class="col-md-6 d-flex justify-content-center align-items-center">
-                    <img id="right-img" src="assets/images/document_management/dms-2.png" class="img-fluid rounded" alt="SmartIDP Document Management Solution" style="width: 100%; max-height: 500px; max-width: 500px; border-radius: 20px;">
+                    <img id="right-img" src="assets/images/document_management/dms-2.png" class="img-fluid rounded" alt="SmartIDP Document Management Solution" style="width: 100%; max-height: 500px; max-width: 500px; border-radius: 20px" loading="lazy">
                 </div>
             </div>
         </div>

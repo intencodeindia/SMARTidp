@@ -239,7 +239,7 @@
 
                 <!-- Right Column: Image -->
                 <div class="col-lg-6 col-md-6 text-center">
-                    <img src="assets/images/manufacturing/menu2.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" style="border-radius: 20px;">
+                    <img src="assets/images/manufacturing/menu2.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" loading="lazy" style="border-radius: 20px;">
                 </div>
             </div>
         </div>
@@ -283,7 +283,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/manufacturing/menu3.png" alt="Microsoft Outlook Integration" class="img-fluid shadow-lg imghv" style="border-radius:40px;" height="90px">
+                            <img src="assets/images/manufacturing/menu3.png" alt="Microsoft Outlook Integration" class="img-fluid shadow-lg imghv" loading="lazy" style="border-radius:40px;" height="90px">
                         </figure>
                     </div>
                 </div>
@@ -343,7 +343,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 text-center mt-md-0 mt-4">
-                    <img src="assets/images/manufacturing/menu5.webp" alt="" class="img-fluid shadow-lg imghv" style="border-radius: 20px;">
+                    <img src="assets/images/manufacturing/menu5.webp" alt="" class="img-fluid shadow-lg imghv"loading="lazy" style="border-radius: 20px;">
                 </div>
             </div>
         </div>
@@ -367,7 +367,7 @@
 
                 <!-- Right Column: Image -->
                 <div class="col-lg-6 col-md-6 text-center">
-                    <img src="assets/images/manufacturing/menu4.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" style="border-radius: 20px;">
+                    <img src="assets/images/manufacturing/menu4.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" loading="lazy" style="border-radius: 20px;">
                 </div>
             </div>
         </div>

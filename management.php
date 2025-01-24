@@ -40,7 +40,7 @@
                                         <div class="centered content-image">
                                             <figure>
                                                 <img src="https://cdn.sergroup.com/files/content/images/blog/2023/industrie-digitalisieren-mit-ecm.png"
-                                                    alt width="1123" height="786">
+                                                    alt width="1123" loading="lazy" height="786">
                                             </figure>
                                         </div>
                                     </div>
@@ -63,35 +63,35 @@
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <div>
                                 <img src="<?php echo BASE_PATH; ?>assets/images/ko.png"
-                                    width="300" height="169" alt="">
+                                    width="300" height="169"  loading="lazy"alt="">
                             </div>
                         </div>
                         <div
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <a href="https://www.sergroup.com/en/references/detail/db-systel-310.html">
                                 <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png"
-                                    width="300" height="169" alt="">
+                                    width="300" height="169" loading="lazy" alt="">
                             </a>
                         </div>
                         <div
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <div>
                                 <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png"
-                                    width="300" height="169" alt="Logo Kühne + Nagel">
+                                    width="300" height="169" loading="lazy" alt="Logo Kühne + Nagel">
                             </div>
                         </div>
                         <div
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <div>
                                 <img src="<?php echo BASE_PATH; ?>assets/images/17@4x.png"
-                                    width="300" height="169" alt="Logo Ferrari Financial Services">
+                                    width="300" height="169" loading="lazy" alt="Logo Ferrari Financial Services">
                             </div>
                         </div>
                         <div
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <div>
                                 <img src="<?php echo BASE_PATH; ?>assets/images/Asset 40@4x.png"
-                                    width="300" height="169" alt="">
+                                    width="300" height="169"  loading="lazy" alt="">
                             </div>
                         </div>
                         <div
@@ -99,35 +99,35 @@
                             <a
                                 href="https://www.sergroup.com/en/references/detail/dhl-express-338.html">
                                 <img src="<?php echo BASE_PATH; ?>assets/images/logo-kenz.png"
-                                    width="300" height="169" alt="">
+                                    width="300" height="169" loading="lazy" alt="">
                             </a>
                         </div>
                         <div
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <a href="https://www.sergroup.com/en/references/detail/fraport-ag-339.html">
                                 <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png"
-                                    width="300" height="169" alt="">
+                                    width="300" height="169" loading="lazy" alt="">
                             </a>
                         </div>
                         <div
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <div>
                                 <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png"
-                                    width="300" height="169" alt="">
+                                    width="300" height="169" loading="lazy" alt="">
                             </div>
                         </div>
                         <div
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <div>
                                 <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png"
-                                    width="300" height="169" alt="">
+                                    width="300" height="169" loading="lazy" alt="">
                             </div>
                         </div>
                         <div
                             class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-6">
                             <div>
                                 <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png"
-                                    width="300" height="169" alt="">
+                                    width="300" height="169"  loading="lazy" alt="">
                             </div>
                         </div>
                     </div>
@@ -240,7 +240,7 @@
                                 <div class="content-image">
                                     <figure>
                                         <img src="https://cdn.sergroup.com/assets/images/1/hero-asset-cta-3d-en-8k8a418dzpem5wc.png"
-                                            alt width="350" height="340">
+                                            alt width="350" height="340" loading="lazy">
                                     </figure>
                                 </div>
                             </div>
@@ -291,7 +291,7 @@
                                     <div class="rounded-image content-image">
                                         <figure>
                                             <img src="https://cdn.sergroup.com/assets/images/f/branchen_anlagen_maschinenbau_Industrie-8v6h3nndp5k5qrx.jpg"
-                                                alt title="Ein Archiv für alle Belege" width="350" height="350">
+                                                alt title="Ein Archiv für alle Belege" width="350" height="350" loading="lazy">
                                         </figure>
                                     </div>
                                 </div>
@@ -315,7 +315,7 @@
                                     <div class="rounded-image content-image">
                                         <figure>
                                             <img src="https://cdn.sergroup.com/assets/images/5/industry-5-0-roboter-production-xttz2zb4s0wwg0e.jpeg"
-                                                alt title="Ein Archiv für alle Belege" width="400" height="400">
+                                                alt title="Ein Archiv für alle Belege" width="400" height="400" loading="lazy">
                                         </figure>
                                     </div>
                                 </div>
@@ -466,7 +466,7 @@
                                     <div class="rounded-image content-image">
                                         <figure>
                                             <img src="https://cdn.sergroup.com/assets/images/k/herausforderungen-in-manufacturing-sjt6xe35nc1zac5.jpg"
-                                                alt title="Ein Archiv für alle Belege" width="400" height="400">
+                                                alt title="Ein Archiv für alle Belege" width="400" height="400" loading="lazy">
                                         </figure>
                                     </div>
                                 </div>
@@ -493,7 +493,7 @@
                                                 srcset="<?php echo BASE_PATH; ?>assets/images/3@4x.png"
                                                 type="image/webp" width="208" height="117">
                                             <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png"
-                                                alt width="208" height="117" loading="lazy">
+                                                alt width="208" height="117" loading="lazy" loading="lazy">
                                         </picture>
                                     </figure>
                                 </div>

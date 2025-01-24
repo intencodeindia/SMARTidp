@@ -160,7 +160,7 @@
 
                 <!-- Right Column: Image -->
                 <div class="col-lg-6 col-md-6 text-center">
-                    <img src="assets/images/insurance/ins3.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" style="border-radius: 20px;" height="30px" width="400px">
+                    <img src="assets/images/insurance/ins3.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" style="border-radius: 20px;" height="30px" loading="lazy" width="400px">
                 </div>
             </div>
         </div>
@@ -191,7 +191,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/insurance/ins4.jpg" alt="Microsoft Outlook Integration" style="border-radius: 20px;" class="img-fluid">
+                            <img src="assets/images/insurance/ins4.jpg" alt="Microsoft Outlook Integration"  loading="lazy" style="border-radius: 20px;" class="img-fluid">
                         </figure>
                     </div>
                 </div>
@@ -227,7 +227,7 @@
                     <div class="text-center">
                         <h1>AI-Powered Claims Management with SmartIDP</h1>
                         <div class="position-relative">
-                            <img src="assets/images/insurance/ins5.webp" alt="SmartIDP Video" class="img-fluid" style="max-width: 100%; height: 300px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" style="border-radius: 90px;">
+                            <img src="assets/images/insurance/ins5.webp" alt="SmartIDP Video" class="img-fluid"  loading="lazy"style="max-width: 100%; height: 300px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" style="border-radius: 90px;">
 
                         </div>
                     </div>
@@ -289,7 +289,7 @@
                             <div class="col-lg-6 col-md-12 text-center">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="assets/images/insurance/ins6.png" alt="SmartIDP" class="img-fluid" width="492" height="345" style="border-radius: 30px;">
+                                        <img src="assets/images/insurance/ins6.png" alt="SmartIDP" class="img-fluid" width="492" loading="lazy" height="345" style="border-radius: 30px;">
                                     </figure>
                                 </div>
 

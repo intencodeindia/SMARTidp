@@ -362,7 +362,7 @@
                                 <div class="content-image">
                                     <figure>
                                         <img src="assets/images/salesforce/salesforce1.png"
-                                            alt="smartIDP SmartBridge for Salesforce">
+                                            alt="smartIDP SmartBridge for Salesforce" loading="lazy">
                                     </figure>
                                 </div>
                             </div>

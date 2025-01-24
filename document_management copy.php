@@ -12,13 +12,13 @@
                     <div class="centered-wrapper-background">
                         <figure class="image_container">
                             <picture>
-                                <source srcset="https://cdn.sergroup.com/assets/images/7/background-image-ser-doxis-v8za5ncmteqdxwn.webp" media="(max-width: 512px)" type="image/webp" width="512" height="500">
+                                <source srcset="https://cdn.sergroup.com/assets/images/7/background-image-ser-doxis-v8za5ncmteqdxwn.webp" media="(max-width: 512px)" type="image/webp" width="512" height="500" loading="lazy">
                                 <source srcset="https://cdn.sergroup.com/assets/images/v/background-image-ser-doxis-23476yt1dvb3ch0.png" media="(max-width: 512px)" width="512" height="500">
-                                <source srcset="https://cdn.sergroup.com/assets/images/2/background-image-ser-doxis-cr7q84vffb4avz5.webp" media="(max-width: 1024px)" type="image/webp" width="1024" height="500">
-                                <source srcset="https://cdn.sergroup.com/assets/images/0/background-image-ser-doxis-nxxqf63pz3arx6c.png" media="(max-width: 1024px)" width="1024" height="500">
-                                <source srcset="https://cdn.sergroup.com/assets/images/n/background-image-ser-doxis-0yzfr54vxkcv2f6.webp" media="(min-width: 1921px)" type="image/webp" width="1440" height="281">
-                                <source srcset="https://cdn.sergroup.com/assets/images/r/background-image-ser-doxis-j2zxnaave5vhn3c.png" media="(min-width: 1921px)" width="1440" height="281">
-                                <source srcset="https://cdn.sergroup.com/assets/images/7/background-image-ser-doxis-1a2581qchvhjyz8.webp" type="image/webp" width="1440" height="375">
+                                <source srcset="https://cdn.sergroup.com/assets/images/2/background-image-ser-doxis-cr7q84vffb4avz5.webp" media="(max-width: 1024px)" type="image/webp" width="1024" height="500" loading="lazy">
+                                <source srcset="https://cdn.sergroup.com/assets/images/0/background-image-ser-doxis-nxxqf63pz3arx6c.png" media="(max-width: 1024px)" width="1024" height="500" loading="lazy">
+                                <source srcset="https://cdn.sergroup.com/assets/images/n/background-image-ser-doxis-0yzfr54vxkcv2f6.webp" media="(min-width: 1921px)" type="image/webp" width="1440" height="281" loading="lazy">
+                                <source srcset="https://cdn.sergroup.com/assets/images/r/background-image-ser-doxis-j2zxnaave5vhn3c.png" media="(min-width: 1921px)" width="1440" height="281" loading="lazy">
+                                <source srcset="https://cdn.sergroup.com/assets/images/7/background-image-ser-doxis-1a2581qchvhjyz8.webp" type="image/webp" width="1440" height="375" loading="lazy">
                                 <img src="https://cdn.sergroup.com/assets/images/8/background-image-ser-doxis-7m7dw5f2s99vgm5.png" width="1440" height="375" alt="" loading="lazy">
                             </picture>
                         </figure>
@@ -51,7 +51,7 @@
                                     <div class="centered-wrapper-inner ">
                                         <div class="centered content-image">
                                             <figure>
-                                                <a href="https://cdn.sergroup.com/files/content/images/screenshots/DE/SER-doxis-dashboard.png" rel="noreferrer noopener" data-lightbox="lb253980" title="Purchase-to-pay automation software from SER"> <img src="https://cdn.sergroup.com/assets/images/w/SER-doxis-dashboard-znhb5qkwzxj4tqa.png" alt="Purchase-to-pay automation software" title="Purchase-to-pay automation software from SER" width="700" height="399">
+                                                <a href="https://cdn.sergroup.com/files/content/images/screenshots/DE/SER-doxis-dashboard.png" rel="noreferrer noopener" data-lightbox="lb253980" title="Purchase-to-pay automation software from SER"> <img src="https://cdn.sergroup.com/assets/images/w/SER-doxis-dashboard-znhb5qkwzxj4tqa.png" alt="Purchase-to-pay automation software" title="Purchase-to-pay automation software from SER" width="700" height="399" lioading="lazy">
                                                 </a>
                                             </figure>
                                         </div>
@@ -71,112 +71,112 @@
                             <div class="sercustomer_logolist sercustomer_logolist_slide" style="--logos: 17;">
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/aareal-bank-group.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/8/Aareal-9q0n3135aehvswy.png" width="300" height="169" alt="Logo Aareal Bank">
+                                        <img src="https://cdn.sergroup.com/assets/images/8/Aareal-9q0n3135aehvswy.png" width="300" height="169" alt="Logo Aareal Bank" loading="lazy">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/c/aktion-mensch-logo-n6125nwb3j4rqr4.png" width="300" height="169" alt="Logo Aktion Mensch e.V.">
+                                        <img src="https://cdn.sergroup.com/assets/images/c/aktion-mensch-logo-n6125nwb3j4rqr4.png" width="300" height="169" alt="Logo Aktion Mensch e.V." loading="lazy">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/db-systel-310.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/2/db-logo-57bx8szg0bcn4xs.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/2/db-logo-57bx8szg0bcn4xs.png" width="300" height="169"  loading="lazy">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/deges-deutsche-einheit-fernstrassenplanungs-und-bau-gmbh-1424.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/h/deges-logo-yjgx1sqpj31phn2.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/h/deges-logo-yjgx1sqpj31phn2.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/dhl-express-338.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/j/dhl-express-logo-q8es17tbgsvybb1.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/j/dhl-express-logo-q8es17tbgsvybb1.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/duravit-ag.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/4/duravit-3tp0c8e0jfdzjdd.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/4/duravit-3tp0c8e0jfdzjdd.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/z/Eissmann_Logo_Positive_RGB-5h6k0wv1tc5h0e3.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/z/Eissmann_Logo_Positive_RGB-5h6k0wv1tc5h0e3.png" width="300" height="169" loading="lazy" alt="">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/gefa-bank-gmbh-1876.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/x/GEFA_Bank-logo-bzfp3b4xqk3p4wn.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/x/GEFA_Bank-logo-bzfp3b4xqk3p4wn.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/hansa-flex-ag-1886.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/y/hansa_flex-2t9t014763vnry0.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/y/hansa_flex-2t9t014763vnry0.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/3/helvetia-logo-4xrzdzpfw7mg367.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/3/helvetia-logo-4xrzdzpfw7mg367.png" width="300" height="169" loading="lazy" alt="">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/e/Kuehne-Nagel_300x169-sw1em1ed4p773m6.png" width="300" height="169" alt="Logo Kühne + Nagel">
+                                        <img src="https://cdn.sergroup.com/assets/images/e/Kuehne-Nagel_300x169-sw1em1ed4p773m6.png" width="300" height="169" loading="lazy" alt="Logo Kühne + Nagel">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/lwl-landschaftsverband-westfalen-lippe-296.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/f/lwl-logo-nbr6dgmk8z7rmdw.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/f/lwl-logo-nbr6dgmk8z7rmdw.png" width="300" height="169"  loading="lazy">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/4/stadt-bochum-logo-gpj8n5jsc6w4xqk.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/4/stadt-bochum-logo-gpj8n5jsc6w4xqk.png" width="300" loading="lazy" height="169" alt="" loading="lazy">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/stadtwerke-bielefeld-96-317.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/q/stadtwerke-bilelefeld-logo-nw9sjx6avp1k4fh.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/q/stadtwerke-bilelefeld-logo-nw9sjx6avp1k4fh.png" width="300" loading="lazy" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/steag-fernwaerme-gmbh.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/2/steag_fernwaerme_300x169-5j5zkdfjv9jgea5.png" width="300" height="169" alt="Logo: STEAG Fernwärme GmbH">
+                                        <img src="https://cdn.sergroup.com/assets/images/2/steag_fernwaerme_300x169-5j5zkdfjv9jgea5.png" width="300" loading="lazy" height="169" alt="Logo: STEAG Fernwärme GmbH">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/f/sunrise-logo-dx9cv3gpz56qd78.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/f/sunrise-logo-dx9cv3gpz56qd78.png" width="300" loading="lazy"  height="169" alt="">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/tgw-logistics-group-gmbh.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/t/tgw-logo-ohne-hintergrund-36z961j1sf5jz4g.png" width="300" height="169" alt="Logo TGW Logistics Group GmbH">
+                                        <img src="https://cdn.sergroup.com/assets/images/t/tgw-logo-ohne-hintergrund-36z961j1sf5jz4g.png" width="300" loading="lazy" height="169" alt="Logo TGW Logistics Group GmbH">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/aareal-bank-group.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/8/Aareal-9q0n3135aehvswy.png" width="300" height="169" alt="Logo Aareal Bank">
+                                        <img src="https://cdn.sergroup.com/assets/images/8/Aareal-9q0n3135aehvswy.png" width="300" height="169" loading="lazy" alt="Logo Aareal Bank">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <div>
-                                        <img src="https://cdn.sergroup.com/assets/images/c/aktion-mensch-logo-n6125nwb3j4rqr4.png" width="300" height="169" alt="Logo Aktion Mensch e.V.">
+                                        <img src="https://cdn.sergroup.com/assets/images/c/aktion-mensch-logo-n6125nwb3j4rqr4.png" width="300" height="169" alt="Logo Aktion Mensch e.V." loading="lazy">
                                     </div>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/db-systel-310.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/2/db-logo-57bx8szg0bcn4xs.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/2/db-logo-57bx8szg0bcn4xs.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/deges-deutsche-einheit-fernstrassenplanungs-und-bau-gmbh-1424.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/h/deges-logo-yjgx1sqpj31phn2.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/h/deges-logo-yjgx1sqpj31phn2.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                                 <div class="sercustomer_logo sercustomer_logo-2 sercustomer_logo-m-3 sercustomer_logo-l-5">
                                     <a href="https://www.sergroup.com/en/references/detail/dhl-express-338.html">
-                                        <img src="https://cdn.sergroup.com/assets/images/j/dhl-express-logo-q8es17tbgsvybb1.png" width="300" height="169" alt="">
+                                        <img src="https://cdn.sergroup.com/assets/images/j/dhl-express-logo-q8es17tbgsvybb1.png" width="300" height="169" loading="lazy" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -244,7 +244,7 @@
                             <a class="icon-boxes-item rs-column -large-col-6-1 -large-first -large-first-row -medium-col-3-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left   -boxes-border -icon-align-left -background-color" style="background-color: #ffffff;"
                                 href="/en/digitize-documents.html">
                                 <div class="icon-boxes-item-icon-image">
-                                    <img src="https://cdn.sergroup.com/assets/images/c/icon-dms-3pnmychc222rhjr.svg" width="70" height="68" alt="">
+                                    <img src="https://cdn.sergroup.com/assets/images/c/icon-dms-3pnmychc222rhjr.svg" width="70" height="68" loading="lazy" alt="">
                                 </div>
                                 <h3 class="-medium">Capture <br />documents</h3>
                                 <div class="icon-boxes-item-text">
@@ -254,7 +254,7 @@
                             </a>
                             <a class="icon-boxes-item rs-column -large-col-6-1 -large-first-row -medium-col-3-1 -medium-first-row -small-col-1-1 -small-first -small-last -align-left   -boxes-border -icon-align-left -background-color" style="background-color: #ffffff;" href="/en/business-platform/archiving.html">
                                 <div class="icon-boxes-item-icon-image">
-                                    <img src="https://cdn.sergroup.com/assets/images/q/icon-archive-hns1gkzjb8mafwk.svg" width="70" height="68" alt="">
+                                    <img src="https://cdn.sergroup.com/assets/images/q/icon-archive-hns1gkzjb8mafwk.svg" width="70" height="68" loading="lazy" alt="">
                                 </div>
                                 <h3 class="-medium">Archive <br />documents</h3>
                                 <div class="icon-boxes-item-text">
@@ -265,7 +265,7 @@
                             <a class="icon-boxes-item rs-column -large-col-6-1 -large-first-row -medium-col-3-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left   -boxes-border -icon-align-left -background-color" style="background-color: #ffffff;"
                                 href="/en/solutions/electronic-files.html">
                                 <div class="icon-boxes-item-icon-image">
-                                    <img src="https://cdn.sergroup.com/assets/images/5/icon-bpm-nmv7nvv2zejz8y2.svg" width="70" height="68" alt="">
+                                    <img src="https://cdn.sergroup.com/assets/images/5/icon-bpm-nmv7nvv2zejz8y2.svg" width="70" height="68" loading="lazy" alt="">
                                 </div>
                                 <h3 class="-medium">Organize <br />documents</h3>
                                 <div class="icon-boxes-item-text">
@@ -275,7 +275,7 @@
                             </a>
                             <a class="icon-boxes-item rs-column -large-col-6-1 -large-first-row -medium-col-3-1 -medium-first -small-col-1-1 -small-first -small-last -align-left   -boxes-border -icon-align-left -background-color" style="background-color: #ffffff;" href="/en/business-platform/content-understanding.html">
                                 <div class="icon-boxes-item-icon-image">
-                                    <img src="https://cdn.sergroup.com/assets/images/x/icon-content-understanding-gzqw2yf1xwqgh9m.svg" width="70" height="68" alt="">
+                                    <img src="https://cdn.sergroup.com/assets/images/x/icon-content-understanding-gzqw2yf1xwqgh9m.svg" width="70" loading="lazy" height="68" alt="">
                                 </div>
                                 <h3 class="-medium">Understand <br />documents</h3>
                                 <div class="icon-boxes-item-text">
@@ -285,7 +285,7 @@
                             </a>
                             <a class="icon-boxes-item rs-column -large-col-6-1 -large-first-row -medium-col-3-1 -small-col-1-1 -small-first -small-last -align-left   -boxes-border -icon-align-left -background-color" style="background-color: #ffffff;" href="/en/solutions/enterprise-search.html">
                                 <div class="icon-boxes-item-icon-image">
-                                    <img src="https://cdn.sergroup.com/assets/images/e/icon-integration-qtxym4yc0vj51jt.svg" width="70" height="68" alt="">
+                                    <img src="https://cdn.sergroup.com/assets/images/e/icon-integration-qtxym4yc0vj51jt.svg" loading="lazy" width="70" height="68" alt="">
                                 </div>
                                 <h3 class="-medium">Find <br />documents</h3>
                                 <div class="icon-boxes-item-text">
@@ -329,7 +329,7 @@
                                     <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
                                         <div class="text-center badges content-image">
                                             <figure>
-                                                <img src="https://cdn.sergroup.com/files/content/redesign/images/badges.png" alt width="352" height="145">
+                                                <img src="https://cdn.sergroup.com/files/content/redesign/images/badges.png" alt width="352" loading="lazy" height="145">
                                             </figure>
                                         </div>
                                     </div>
@@ -411,7 +411,7 @@
                             </ul>
                         </nav>
                         <div class="tab-start ce_rsce_oneo_tab_start" id="erfassen">
-                            <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start  -vertical-centered" style=" ">
+                            <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start  -vertical-centered" st>
                                 <div class="centered-wrapper-inner ">
                                     <div class="rs-columns ce_rs_columns_start">
                                         <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
@@ -926,77 +926,77 @@
                             <ul data-list-random data-list-paginate="15,12">
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/8/ADP_inv-aaakbg2z4rcxspd.png" alt width="80" height="36">
+                                        <img src="https://cdn.sergroup.com/assets/images/8/ADP_inv-aaakbg2z4rcxspd.png" alt width="80" loading="lazy" height="36">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/m/Diamant_Software_inv-04g2162hybwbt9k.png" alt width="80" height="35">
+                                        <img src="https://cdn.sergroup.com/assets/images/m/Diamant_Software_inv-04g2162hybwbt9k.png" loading="lazy" alt width="80" height="35">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/n/IBM-Notes-Domino_inv-8tes8j08798qgt7.png" alt width="80" height="41">
+                                        <img src="https://cdn.sergroup.com/assets/images/n/IBM-Notes-Domino_inv-8tes8j08798qgt7.png" loading="lazy" alt width="80" height="41">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/t/infor_inv-6v5jvyycfkprxnd.png" alt width="80" height="31">
+                                        <img src="https://cdn.sergroup.com/assets/images/t/infor_inv-6v5jvyycfkprxnd.png" alt width="80" loading="lazy" height="31">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/0/microsoft_365_logo_invers-pqdrhjm8v4czy3d.png" alt width="80" height="11">
+                                        <img src="https://cdn.sergroup.com/assets/images/0/microsoft_365_logo_invers-pqdrhjm8v4czy3d.png" alt width="80" height="11" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/s/MS-Dynamics_inv-7n74knvh5epndqv.png" alt width="80" height="25">
+                                        <img src="https://cdn.sergroup.com/assets/images/s/MS-Dynamics_inv-7n74knvh5epndqv.png" alt width="80" height="25" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/y/MS-Exchange_inv-p017dkwwy89yncb.png" alt width="80" height="18">
+                                        <img src="https://cdn.sergroup.com/assets/images/y/MS-Exchange_inv-p017dkwwy89yncb.png" alt width="80" height="18" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/h/MS-Office-365_inv-rd8f49cg47chnz3.png" alt width="80" height="18">
+                                        <img src="https://cdn.sergroup.com/assets/images/h/MS-Office-365_inv-rd8f49cg47chnz3.png" alt width="80" height="18" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/5/MS-Sharepoint_inv-k9cswsh14v9qxms.png" alt width="80" height="16">
+                                        <img src="https://cdn.sergroup.com/assets/images/5/MS-Sharepoint_inv-k9cswsh14v9qxms.png" alt width="80" height="16" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/1/Oracle_inv-kvf7zdvghvwwdv7.png" alt width="80" height="11">
+                                        <img src="https://cdn.sergroup.com/assets/images/1/Oracle_inv-kvf7zdvghvwwdv7.png" alt width="80" height="11" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/x/perbit_inv-50jnkapqtb2ftp5.png" alt width="80" height="36">
+                                        <img src="https://cdn.sergroup.com/assets/images/x/perbit_inv-50jnkapqtb2ftp5.png" alt width="80" height="36" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/9/sage_inv-0mdptch80y71312.png" alt width="80" height="34">
+                                        <img src="https://cdn.sergroup.com/assets/images/9/sage_inv-0mdptch80y71312.png" alt width="80" height="34" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/b/salesforce_inv-tn2x6e5c4wd6hv5.png" alt width="80" height="56">
+                                        <img src="https://cdn.sergroup.com/assets/images/b/salesforce_inv-tn2x6e5c4wd6hv5.png" alt width="80" height="56" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/s/SAP_inv-fa1tznstjx0m0be.png" alt width="80" height="40">
+                                        <img src="https://cdn.sergroup.com/assets/images/s/SAP_inv-fa1tznstjx0m0be.png" alt width="80" height="40" loading="lazy">
                                     </figure>
                                 </li>
                                 <li>
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/3/Solid-Edge_inv-2stdprhaztdvm09.png" alt width="80" height="25">
+                                        <img src="https://cdn.sergroup.com/assets/images/3/Solid-Edge_inv-2stdprhaztdvm09.png" alt width="80" height="25" loading="lazy">
                                     </figure>
                                 </li>
                             </ul>

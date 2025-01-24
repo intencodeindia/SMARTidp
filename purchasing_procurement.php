@@ -44,8 +44,8 @@
                         <p class="lead fw-bold text-white mb-4">Save time and money with order processes and supplier management using SmartIDP.</p>
                     </div>
                     <!-- Right Column: Image Section -->
-                    <div class="col-12 col-lg-6 text-center">
-                        <img src="assets/images/purchasing_procurement/img1.png" class="img-fluid" alt="SmartIDP" style="max-width: 65%; height: auto;">
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
+                        <img src="assets/images/purchasing_procurement/img1.png"loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 65%; height: auto;">
                     </div>
                 </div>
             </div>
@@ -233,7 +233,7 @@
                     <!-- Image Column -->
                     <div class="col-md-4">
                         <div class="d-flex align-items-center justify-content-center">
-                            <img src="assets/images/purchasing_procurement/img2.jpg" class="img-fluid" alt="SmartIDP Mobile Work" style="border-radius: 20px;" />
+                            <img src="assets/images/purchasing_procurement/img2.jpg" class="img-fluid" loading="lazy" alt="SmartIDP Mobile Work" style="border-radius: 20px;" />
                         </div>
                     </div>
                 </div>
@@ -280,7 +280,7 @@
                     <div class="col-md-4">
                         <div class="d-flex flex-column align-items-center justify-content-center">
                             <figure>
-                                <img src="assets/images/purchasing_procurement/img3.jpg" class="img-fluid" alt="SmartIDP Customization" style="border-radius: 20px;">
+                                <img src="assets/images/purchasing_procurement/img3.jpg" class="img-fluid" alt="SmartIDP Customization"loading="lazy" style="border-radius: 20px;">
                             </figure>
                         </div>
                     </div>
@@ -329,7 +329,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/purchasing_procurement/img4.jpg" alt="SmartIDP Outlook Integration" class="img-fluid" style="border-radius: 20px;">
+                            <img src="assets/images/purchasing_procurement/img4.jpg"  loading="lazy"alt="SmartIDP Outlook Integration" class="img-fluid" style="border-radius: 20px;">
                         </figure>
                     </div>
                 </div>

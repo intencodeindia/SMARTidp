@@ -381,8 +381,8 @@
                                         <div class="ce_sercarousel badges block">
                                             <div class="ser-carousel ser-carousel-3" style="--base-animation-time: 4s;">
                                                 <img src="https://cdn.sergroup.com/assets/images/w/forrester_wave_badge_2023Q1_content-platforms-2xdzkkwtt90mmq0.png" alt="" loading="lazy" width="150" height="150">
-                                                <img src="https://cdn.sergroup.com/assets/images/k/pur_digital_solutions_2023_badge-3709k8ef9etmczp.jpg" alt="" loading="lazy" width="150" height="150">
-                                                <img src="https://cdn.sergroup.com/assets/images/t/SER_Group_Leader_Badge_Content_Service_Platform_2022-0xc5kr237s0bd5y.jpg" alt="" loading="lazy" width="137" height="150">
+                                                <img src="https://cdn.sergroup.com/assets/images/k/pur_digital_solutions_2023_badge-3709k8ef9etmczp.jpg" alt="" loading="lazy" width="150" height="150" loading="lazy">
+                                                <img src="https://cdn.sergroup.com/assets/images/t/SER_Group_Leader_Badge_Content_Service_Platform_2022-0xc5kr237s0bd5y.jpg" alt="" loading="lazy" width="137" loading="lazy" height="150">
                                             </div>
                                         </div>
                                     </div>

@@ -67,7 +67,7 @@
                 </div>
                 <!-- Column 2: Image -->
                 <div class="col-lg-6 col-md-12 d-flex justify-content-center align-items-center">
-                    <img src="assets/images/managed_services/relaxed1.webp" alt="Smart Automation" class="img-fluid" style="border-radius:20px">
+                    <img src="assets/images/managed_services/relaxed1.webp" alt="Smart Automation" class="img-fluid" style="border-radius:20px" loading="lazy">
                 </div>
             </div>
         </div>
@@ -157,7 +157,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/microsoft/email.png" alt="Microsoft Outlook Integration" class="img-fluid">
+                            <img src="assets/images/microsoft/email.png" alt="Microsoft Outlook Integration" class="img-fluid" loading="lazy">
                         </figure>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                                     <figure>
                                         <picture>
                                             <source srcset="assets/images/managed_services/question.jpg" type="image/webp" width="374" height="249">
-                                            <img src="assets/images/managed_services/question.jpg" alt width="374" height="249" loading="lazy" style="border-radius: 20px;">
+                                            <img src="assets/images/managed_services/question.jpg" alt width="374" height="249"  loading="lazy" style="border-radius: 20px;">
                                         </picture>
 
                                     </figure>

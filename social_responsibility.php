@@ -156,7 +156,7 @@
                 <!-- Right Column: Image Section (Centered) -->
                 <div class="col-lg-6 col-12 mb-4 d-flex justify-content-center align-items-center">
                     <div class="text-center">
-                        <img src="assets/images/social_responsibility/Research_methods.jpg" alt="Image Description" class="img-fluid shadow-lg" style="border-radius: 20px;" />
+                        <img src="assets/images/social_responsibility/Research_methods.jpg" alt="Image Description" class="img-fluid shadow-lg" style="border-radius: 20px" loading="lazy" />
                     </div>
                 </div>
             </div>
@@ -169,9 +169,10 @@
                         <img
                             src="assets/images/social_responsibility/sustain.webp"
                             alt="Green Building"
-                            class="img-fluid" style="border-radius: 20px;"/>
+                            class="img-fluid" style="border-radius: 20px" loading="lazy"/>
                     </div>
                 </div>
+
 
                 <!-- Right Column: Text Content -->
                 <div class="col-lg-6 col-md-6 col-12 mb-4">
@@ -214,7 +215,7 @@
                         <img
                             src="assets/images/social_responsibility/charity.jpg"
                             alt="Charitable Causes"
-                            class="img-fluid" style="border-radius: 20px;"/>
+                            class="img-fluid" style="border-radius: 20px" loading="lazy"/>
                     </div>
                 </div>
             </div>

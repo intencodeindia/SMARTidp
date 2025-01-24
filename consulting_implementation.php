@@ -176,7 +176,7 @@
               <div class="icon-boxes-item mb-4 -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
                 <span class="icon-boxes-item-icon"><i class="fas fa-cogs fa-md"></i></span> <!-- Changed icon to better represent technical consultants -->
                 <h3 class="fw-bold">Specialized consultants</h3>
-                <p class="text-justify px-2 px-md-0">Our technical consultants handle the infrastructure (databases, operating systems, etc.) that powers your smartIDP solutions. Our ECM consultants fine-tune and optimize your smartIDP systems for maximum performance. Organizational consultants, with their expertise in IT projects, complete our comprehensive Professional Services team.</p>
+                <p class="text-justify px-2 px-md-0">Our technical consultants handle the infrastructure (databases, operating systems, etc.) that powers your smartIDP solutions. Our ECM cfonsultants fine-tune and optimize your smartIDP systems for maximum performance. Organizational consultants, with their expertise in IT projects, complete our comprehensive Professional Services team.</p>
               </div>
             </div>
             <div class="row">
@@ -201,7 +201,7 @@
         <div class="col-md-6 mt-4 mt-md-0">
           <div class="content-image text-center">
             <figure>
-              <img src="assets/images/consulting/professionals.jpg" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius: 20px;">
+              <img src="assets/images/consulting/professionals.jpg" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius: 20px" loading="lazy">
             </figure>
           </div>
         </div>

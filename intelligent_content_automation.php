@@ -204,7 +204,7 @@
                                 class="ce_rs_column_start hide-tablet rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
                                 <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start max-100-percent h-lg-500  -height-medium"
                                     style=" ">
-                                    <div class="centered-wrapper-background"
+                                    <div class="centered-wrapper-background" loading="lazy"
                                         style="background-image: url(assets/images/intelligent_content_Automation/slider-img.png);">
                                     </div>
                                     <div class="centered-wrapper-inner "></div>
@@ -892,7 +892,7 @@
                     <div class="content-image">
                         <figure style="margin: 0; position: relative;">
                             <a href="javascript:void(0)" rel="noreferrer noopener" data-lightbox="lb223429" title="The Smart user interface">
-                                <img src="assets/images/ss/graph.png" alt="The Smart user interface" class="laptop_height"
+                                <img src="assets/images/ss/graph.png" alt="The Smart user interface" class="laptop_height"loading="lazy"
                                     style="max-width: 100%; border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease;">
                             </a>
                             <figcaption style="font-size: 1.2rem; color: #555; margin-top: 15px; font-weight: bold;">The SmartIDP user interface</figcaption>
@@ -911,7 +911,7 @@
                 <div class="text-center mt-4">
                     <figure style="position: relative;">
                         <a href="javascript:void(0)" rel="noreferrer noopener" data-lightbox="lb223400">
-                            <img src="assets/images/ss/dashboard2.png" alt="The Smart Intelligent Content Automation platform" class="img-fluid" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
+                            <img src="assets/images/ss/dashboard2.png" alt="The Smart Intelligent Content Automation platform" class="img-fluid"  loading="lazy" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
                         </a>
                     </figure>
                 </div>
@@ -957,7 +957,7 @@
                             <div class="content-image" style="padding: 20px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); background-color: #f9f9f9;">
                                 <figure>
                                     <!-- Optional Image or Icon here -->
-                                    <img src="assets/images/ss/graph2.png" alt="Smart Intelligent Document Processing" class="img-fluid" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+                                    <img src="assets/images/ss/graph2.png" alt="Smart Intelligent Document Processing" class="img-fluid" loading="lazy" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
                                 </figure>
                             </div>
                         </div>

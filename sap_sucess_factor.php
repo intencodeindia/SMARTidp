@@ -148,13 +148,13 @@
 
                     <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 12%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy"  alt="Logo 2">
                         </div>
                     </div>
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy"  alt="Logo 3" style="height: 60px;">
                         </div>
                     </div>
 
@@ -178,23 +178,23 @@
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150"  loading="lazy" height="60" style="width: 150px; height: 50px;">
                         </div>
                     </div>
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60"  loading="lazy" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" loading="lazy"  style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60"  loading="lazy" style="width: 150px; height: 50px;">
                         </div>
                     </div>
 
@@ -202,18 +202,18 @@
 
                     <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy"  alt="Logo 2">
                         </div>
                     </div>
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block"  loading="lazy" alt="Logo 3" style="height: 60px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" loading="lazy"  style="width: 150px; height: 50px;">
                         </div>
                     </div>
 
@@ -221,81 +221,81 @@
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" loading="lazy"  style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" loading="lazy"  style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" loading="lazy"  height="60" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <!-- Logos (only Third set) -->
                     <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy"  alt="Logo 2">
                         </div>
                     </div>
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy"  alt="Logo 3" style="height: 60px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" loading="lazy"  height="60" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60"  loading="lazy" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <!-- Logos (only Fourth set) -->
                     <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
                         </div>
                     </div>
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy" alt="Logo 3" style="height: 60px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" loading="lazy"  height="60" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                 </div>
@@ -404,7 +404,7 @@
                         <div class="carousel-item active">
                             <div class="row align-items-center">
                                 <div class="col-12 col-md-6 mb-4">
-                                    <img src="assets/images/artificial_intelligence/extract.png" class="img-fluid" alt="Screen 1" style="max-width: 100%; height: auto;">
+                                    <img src="assets/images/artificial_intelligence/extract.png" class="img-fluid" alt="Screen 1" loading="lazy" style="max-width: 100%; height: auto;">
                                 </div>
                                 <div class="col-12 col-md-6 mb-4">
                                     <h3 class="h4 fw-bold">Self-service for HR professionals</h3>
@@ -421,7 +421,7 @@
                                     <p class="text-justify">Visibility of information & documents throughout the employee lifecycle is crucial. HR professionals are supported with automatic notifications and reminders of pending deadlines, missing documents, expiring contracts and more in SAP SuccessFactors.</p>
                                 </div>
                                 <div class="col-12 col-md-6 mb-4">
-                                    <img src="assets/images/artificial_intelligence/diocalap.jpg" class="img-fluid" alt="Screen 2" style="max-width: 100%; height: auto;">
+                                    <img src="assets/images/artificial_intelligence/diocalap.jpg" class="img-fluid" alt="Screen 2" loading="lazy" style="max-width: 100%; height: auto;">
                                 </div>
                             </div>
                         </div>
@@ -430,7 +430,7 @@
                         <div class="carousel-item">
                             <div class="row align-items-center">
                                 <div class="col-12 col-md-6 mb-4">
-                                    <img src="assets/images/artificial_intelligence/graph3.png" class="img-fluid" alt="Screen 3" style="max-width: 100%; height: auto;">
+                                    <img src="assets/images/artificial_intelligence/graph3.png" class="img-fluid" alt="Screen 3" loading="lazy" style="max-width: 100%; height: auto;">
                                 </div>
                                 <div class="col-12 col-md-6 mb-4">
                                     <h3 class="h4 fw-bold">Secure & compliant</h3>
@@ -481,7 +481,7 @@
                             <div class="ce_rs_column_start rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last d-none d-sm-block">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="assets/images/SmartIDP/intelligent-document-processing.png" style="width: 500px; height: 350px;">
+                                        <img src="assets/images/SmartIDP/intelligent-document-processing.png" style="width: 500px; height: 350px" loading="lazy">
                                     </figure>
                                 </div>
                             </div>
@@ -516,7 +516,7 @@
                 <!-- Image Section -->
                 <div class="col-12 col-md-6 mb-4 text-center">
                     <div class="position-relative">
-                        <img src="assets/images/SmartIDP/all_docs.png" class="img-fluid shadow-lg rounded-3" alt="Adesso Group HR Management" style=" border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <img src="assets/images/SmartIDP/all_docs.png" class="img-fluid shadow-lg rounded-3" alt="Adesso Group HR Management" loading="lazy" style=" border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
                     </div>
                 </div>
             </div>
@@ -536,7 +536,7 @@
                 <!-- Right Column: Image Section -->
                 <div class="col-12 col-md-6 mb-4 text-center">
                     <div class="shadow-sm rounded-3">
-                        <img src="assets/images/SmartIDP/intelligent-document-processing.png" alt="SmartIDP Integration with SAP" class="img-fluid rounded-3">
+                        <img src="assets/images/SmartIDP/intelligent-document-processing.png" alt="SmartIDP Integration with SAP" class="img-fluid rounded-3" loading="lazy">
                     </div>
                 </div>
             </div>

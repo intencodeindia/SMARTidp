@@ -257,7 +257,7 @@
                                                     <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                                                         <div class="content-image">
                                                             <figure>
-                                                                <img src="https://cdn.sergroup.com/files/extensions/customers/images/logos/aktion-mensch-logo.png" alt width="300" height="169">
+                                                                <img src="https://cdn.sergroup.com/files/extensions/customers/images/logos/aktion-mensch-logo.png" alt width="300" height="169" loading="lazy">
                                                             </figure>
                                                         </div>
                                                     </div>
@@ -285,7 +285,7 @@
                                                     <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                                                         <div class="content-image">
                                                             <figure>
-                                                                <img src="https://cdn.sergroup.com/files/extensions/customers/images/logos/Eissmann_Logo_Positive_RGB.png" alt width="300" height="169">
+                                                                <img src="https://cdn.sergroup.com/files/extensions/customers/images/logos/Eissmann_Logo_Positive_RGB.png" alt width="300" height="169" loading="lazy">
                                                             </figure>
                                                         </div>
                                                     </div>
@@ -387,47 +387,47 @@
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <a href="https://www.sergroup.com/en/references/detail/db-systel-310.html">
-                                                <img src="https://cdn.sergroup.com/assets/images/2/db-logo-57bx8szg0bcn4xs.png" width="300" height="169" alt="">
+                                                <img src="https://cdn.sergroup.com/assets/images/2/db-logo-57bx8szg0bcn4xs.png" width="300" height="169"loading="lazy" alt="">
                                             </a>
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <div>
-                                                <img src="https://cdn.sergroup.com/assets/images/e/Kuehne-Nagel_300x169-sw1em1ed4p773m6.png" width="300" height="169" alt="Logo Kühne + Nagel">
+                                                <img src="https://cdn.sergroup.com/assets/images/e/Kuehne-Nagel_300x169-sw1em1ed4p773m6.png" width="300" loading="lazy" height="169" alt="Logo Kühne + Nagel">
                                             </div>
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <div>
-                                                <img src="https://cdn.sergroup.com/assets/images/5/union_investment_logo_blau-36x6x727vjgk15g.png" width="300" height="169" alt="">
+                                                <img src="https://cdn.sergroup.com/assets/images/5/union_investment_logo_blau-36x6x727vjgk15g.png" width="300" height="169" loading="lazy" alt="">
                                             </div>
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <div>
-                                                <img src="https://cdn.sergroup.com/assets/images/y/Xella-j4n8pqn3rczwgda.svg" width="300" height="169" alt="Weidmann Electrical Technology AG">
+                                                <img src="https://cdn.sergroup.com/assets/images/y/Xella-j4n8pqn3rczwgda.svg" width="300" height="169" alt="Weidmann Electrical Technology AG" loading="lazy">
                                             </div>
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <div>
-                                                <img src="https://cdn.sergroup.com/assets/images/0/BASFo_wh100db_4c-jhncz4m90rac6rn.svg" width="300" height="169" alt="">
+                                                <img src="https://cdn.sergroup.com/assets/images/0/BASFo_wh100db_4c-jhncz4m90rac6rn.svg" width="300" height="169" loading="lazy" alt="">
                                             </div>
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <a href="https://www.sergroup.com/en/references/detail/db-systel-310.html">
-                                                <img src="https://cdn.sergroup.com/assets/images/2/db-logo-57bx8szg0bcn4xs.png" width="300" height="169" alt="">
+                                                <img src="https://cdn.sergroup.com/assets/images/2/db-logo-57bx8szg0bcn4xs.png" width="300" height="169" loading="lazy" alt="">
                                             </a>
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <div>
-                                                <img src="https://cdn.sergroup.com/assets/images/e/Kuehne-Nagel_300x169-sw1em1ed4p773m6.png" width="300" height="169" alt="Logo Kühne + Nagel">
+                                                <img src="https://cdn.sergroup.com/assets/images/e/Kuehne-Nagel_300x169-sw1em1ed4p773m6.png" width="300" loading="lazy" height="169" alt="Logo Kühne + Nagel">
                                             </div>
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <div>
-                                                <img src="https://cdn.sergroup.com/assets/images/5/union_investment_logo_blau-36x6x727vjgk15g.png" width="300" height="169" alt="">
+                                                <img src="https://cdn.sergroup.com/assets/images/5/union_investment_logo_blau-36x6x727vjgk15g.png" width="300" height="169" loading="lazy" alt="">
                                             </div>
                                         </div>
                                         <div class="sercustomer_logo sercustomer_logo-3 sercustomer_logo-m-4 sercustomer_logo-l-5">
                                             <div>
-                                                <img src="https://cdn.sergroup.com/assets/images/y/Xella-j4n8pqn3rczwgda.svg" width="300" height="169" alt="Weidmann Electrical Technology AG">
+                                                <img src="https://cdn.sergroup.com/assets/images/y/Xella-j4n8pqn3rczwgda.svg" width="300" height="169" loading="lazy" alt="Weidmann Electrical Technology AG">
                                             </div>
                                         </div>
                                     </div>

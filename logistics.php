@@ -51,7 +51,7 @@
 <div class="content-wrapper">
     <main role="main" class="main-content">
 
-        <div class="container-fluid py-3" id="article-43622" style="background-image: url('assets/images/logistic/logic3.jpg'); background-size: cover; background-position: 0% 10%;">
+        <div class="container-fluid py-3" id="article-43622" style="background-image: url('assets/images/logistic/logic3.jpg'); background-size: cover; background-position: 0% 10%" loading="lazy">
             <div class="container">
                 <div id="serhead2-146243" class="serhead2 d-flex justify-content-center align-items-start" data-delay="8" data-parallax="">
                     <!-- Slide Container -->
@@ -86,7 +86,7 @@
                 <div class="col-md-4 mb-4">
                     <div class="card h-100 custom-card-shadow">
                         <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
+                            <div class="icon-box-circle rounded-circle mb-3 d-flex justify-content-center align-items-center">
                                 <!-- Updated icon for customer service -->
                                 <i class="fas fa-comments-dollar fa-md"></i>
                             </div>
@@ -100,9 +100,9 @@
                 <div class="col-md-4 mb-4">
                     <div class="card h-100 custom-card-shadow">
                         <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
+                            <div class="icon-box-circle rounded-circle mb-3 d-flex justify-content-center align-items-center">
                                 <!-- Updated icon for claims processing -->
-                                <i class="fas fa-archive fa-md"></i>
+                                <i class="fas fa-archive fa-md d-flex justify-content-center align-items-center"></i>
                             </div>
                             <h5 class="card-title fw-bold">Access Documents Anytime, Anywhere with SmartIDP</h5>
                             <p>Simplify Collaboration for Decentralized Teams and Accelerate Workflows with SmartIDP, Including Mobile Uploads for Seamless Deliveries</p>
@@ -114,7 +114,7 @@
                 <div class="col-md-4 mb-4">
                     <div class="card h-100 custom-card-shadow">
                         <div class="card-body">
-                            <div class="icon-box-circle rounded-circle mb-3">
+                            <div class="icon-box-circle rounded-circle mb-3 d-flex justify-content-center align-items-center">
                                 <!-- Updated icon for task optimization -->
                                 <i class="fas fa-cogs fa-md"></i>
                             </div>
@@ -142,7 +142,7 @@
 
                 <!-- Right Column: Image -->
                 <div class="col-lg-6 col-md-6 text-center">
-                    <img src="assets/images/logistic/logic4.jpg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" style="border-radius: 20px;">
+                    <img src="assets/images/logistic/logic4.jpg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" style="border-radius: 20px;width:400px;" loading="lazy">
                 </div>
             </div>
         </div>
@@ -156,7 +156,7 @@
                         <div class="row">
                             <!-- Streamlining Files for Shipping, Freight & Transportation Management -->
                             <div class="icon-boxes-item mb-4  -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon"><i class="fas fa-shipping-fast fa-lg"></i></span>
+                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-shipping-fast fa-lg"></i></span>
                                 <h3 class="fw-bold">Streamlining Files for Shipping, Freight & Transportation Management</h3>
                                 <p>With SmartIDP, users can access electronic files globally, including consignment notes, customs papers, hazardous goods documentation, import/export declarations, and data from TMS, ERP, CRM, and resource planning systems. SmartIDP ensures seamless and efficient management of all critical documents and data in real-time.</p>
                             </div>
@@ -164,7 +164,7 @@
                         <div class="row">
                             <!-- Streamlined Process Management -->
                             <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon"><i class="fas fa-tasks fa-lg"></i></span>
+                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-tasks fa-lg"></i></span>
                                 <h3 class="fw-bold">Streamlined Process Management with SmartIDP</h3>
                                 <p>Manage your order verifications, contract approvals, dispatch of supporting documents, and more with SmartIDP. SmartIDP automatically generates and sends receipt confirmations, streamlining your entire workflow.</p>
                             </div>
@@ -172,7 +172,7 @@
                         <div class="row">
                             <!-- Seamless Customer Service Integration -->
                             <div class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon"><i class="fas fa-plug fa-lg"></i></span>
+                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-plug fa-lg"></i></span>
                                 <h3 class="fw-bold">Seamless Customer Service Integration with SmartIDP</h3>
                                 <p>Integrating SmartIDP into your customer portals and apps further elevates your service offerings: Provide real-time access to orders, delivery notes, tracking information, and more to your customers, enhancing their experience and satisfaction.</p>
                             </div>
@@ -183,7 +183,8 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/logistic/logic5.jpg" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius:50%; height:450px;width:450px">
+                        <img src="assets/images/logistic/logic5.jpg" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius:50%; height:450px;width:450px" loading="lazy">
+
                         </figure>
                     </div>
                 </div>
@@ -318,7 +319,7 @@
                             <div class="col-lg-6 col-md-12 text-center">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="assets/images/logistic/logic6.avif" alt="SmartIDP" class="img-fluid" width="480" height="345" style="border-radius: 15px;">
+                                        <img src="assets/images/logistic/logic6.avif" alt="SmartIDP" class="img-fluid" width="480" height="345" style="border-radius: 15px" loading="lazy">
                                     </figure>
                                 </div>
 
@@ -339,7 +340,7 @@
                         <div class="row">
                             <!-- Contract Files Managed with SmartIDP -->
                             <div class="icon-boxes-item mb-4  -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon"><i class="fas fa-file-contract fa-lg"></i></span>
+                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-file-contract fa-lg"></i></span>
                                 <h3>Contract files managed with SmartIDP >></h3>
                                 <p class="py-3">Centralize all contracts with customers and business partners using SmartIDP, and let the platform automatically remind you of upcoming contract deadlines, ensuring timely actions and seamless contract management.</p>
                             </div>
@@ -347,7 +348,7 @@
                         <div class="row">
                             <!-- Centralized Customer File Management -->
                             <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon"><i class="fas fa-users fa-lg"></i></span>
+                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-users fa-lg"></i></span>
                                 <h3>Centralized Customer File Management with SmartIDP >></h3>
                                 <p class="py-3">Access the complete customer history—from inquiries and offers to CRM data and notes—quickly and from anywhere with SmartIDP.</p>
                             </div>
@@ -355,7 +356,7 @@
                         <div class="row">
                             <!-- Seamless Lease File Management -->
                             <div class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon"><i class="fas fa-cogs fa-lg"></i></span>
+                                <span class="icon-boxes-item-icon d-flex justify-content-center align-items-center"><i class="fas fa-cogs fa-lg"></i></span>
                                 <h3>Seamlessly Manage and Access Your Lease Files with SmartIDP >></h3>
                                 <p class="py-3">SmartIDP centralizes all information related to your leased assets, such as vehicle fleets, airplanes, and more. With SmartIDP, managing your lease contracts and ensuring compliance with IFRS 16 becomes simple and automated.</p>
                             </div>
@@ -366,7 +367,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/logistic/logic7.webp" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius: 50%; height:400px;width:400px">
+                            <img src="assets/images/logistic/logic7.webp" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius: 50%; height:400px;width:400px" loading="lazy">
                         </figure>
                     </div>
                 </div>
@@ -394,7 +395,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 d-flex justify-content-center align-items-center">
-                    <img src="assets/images/logistic/logic8.avif" alt="Smart Automation" class="img-fluid" style="border-radius:50%; height:450px; width:450px;">
+                    <img src="assets/images/logistic/logic8.avif" alt="Smart Automation" class="img-fluid" style="border-radius:50%; height:450px; width:450px"loading="lazy">
                 </div>
             </div>
         </div>

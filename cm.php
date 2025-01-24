@@ -10,7 +10,7 @@
                             id="container-fullhd">
                             <div class="centered-wrapper-background"
                                 style="background-image: url(&quot;https://cdn.sergroup.com/files/content/images/bannerbilder/background-image-ser-doxis.png&quot;);"
-                                data-image-url="https://cdn.sergroup.com/files/content/images/bannerbilder/background-image-ser-doxis.png">
+                                data-image-url="https://cdn.sergroup.com/files/content/images/bannerbilder/background-image-ser-doxis.png" loading="lazy">
                             </div>
                             <div class="centered-wrapper-inner ">
                                 <div class="rs-columns ce_rs_columns_start">
@@ -51,7 +51,7 @@
                                                 style="background-size: contain;background-position: 50% 50%; ">
                                                 <div class="centered-wrapper-inner "></div>
                                                 <div>
-                                                    <script src="https://js.storylane.io/js/v1/storylane.js"></script>
+                                                    <script src="https://js.storylane.io/js/v1/storylane.js" loading="lazy"></script>
                                                     <div class="sl-embed-container"
                                                         style="position:relative;display:flex;align-items:center;justify-content:center;">
                                                         <button class="sl-preview-cta"
@@ -89,7 +89,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/aareal-bank-group.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/8/Aareal-9q0n3135aehvswy.png"
-                                                    width="300" height="169" alt="Logo Aareal Bank">
+                                                    width="300" height="169" alt="Logo Aareal Bank"loading="lazy">
                                             </a>
                                         </div>
                                         <div
@@ -97,7 +97,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/bernard-krone-holding-se-co-kg-1853.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/x/krone_logo-yx04mwttx356hte.png"
-                                                    width="300" height="169" alt="">
+                                                    width="300" height="169" loading="lazy" alt="">
                                             </a>
                                         </div>
                                         <div
@@ -105,7 +105,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/devk-insurance-policies.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/2/DEVK-logo-gz4w5pdph7a8k8f.png"
-                                                    width="300" height="169" alt="DEVK">
+                                                    width="300" height="169" loading="lazy" alt="DEVK">
                                             </a>
                                         </div>
                                         <div
@@ -113,7 +113,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/hansa-flex-ag-1886.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/y/hansa_flex-2t9t014763vnry0.png"
-                                                    width="300" height="169" alt="">
+                                                    width="300" height="169"  loading="lazy">
                                             </a>
                                         </div>
                                         <div
@@ -121,7 +121,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/raffinerie-heide-gmbh-dms.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/n/raffinerie-heide-logo-0ns1eqvzxkwt9zp.png"
-                                                    width="300" height="169" alt="">
+                                                    width="300" height="169" loading="lazy" alt="">
                                             </a>
                                         </div>
                                         <div
@@ -129,7 +129,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/aareal-bank-group.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/8/Aareal-9q0n3135aehvswy.png"
-                                                    width="300" height="169" alt="Logo Aareal Bank">
+                                                    width="300" height="169" loading="lazy" alt="Logo Aareal Bank">
                                             </a>
                                         </div>
                                         <div
@@ -137,7 +137,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/bernard-krone-holding-se-co-kg-1853.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/x/krone_logo-yx04mwttx356hte.png"
-                                                    width="300" height="169" alt="">
+                                                    width="300" height="169" loading="lazy" alt="">
                                             </a>
                                         </div>
                                         <div
@@ -145,7 +145,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/devk-insurance-policies.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/2/DEVK-logo-gz4w5pdph7a8k8f.png"
-                                                    width="300" height="169" alt="DEVK">
+                                                    width="300" height="169" loading="lazy" alt="DEVK">
                                             </a>
                                         </div>
                                         <div
@@ -153,7 +153,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/hansa-flex-ag-1886.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/y/hansa_flex-2t9t014763vnry0.png"
-                                                    width="300" height="169" alt="">
+                                                    width="300" height="169" loading="lazy" alt="">
                                             </a>
                                         </div>
                                         <div
@@ -161,7 +161,7 @@
                                             <a
                                                 href="https://www.sergroup.com/en/references/detail/raffinerie-heide-gmbh-dms.html">
                                                 <img src="https://cdn.sergroup.com/assets/images/n/raffinerie-heide-logo-0ns1eqvzxkwt9zp.png"
-                                                    width="300" height="169" alt="">
+                                                    width="300" height="169" loading="lazy" alt="">
                                             </a>
                                         </div>
                                     </div>
@@ -260,7 +260,7 @@
                     </div>
                 </div>
                 <div class="mod_article  max-width-viewport block" id="article-38163"
-                    style="background-image: url(&quot;https://cdn.sergroup.com/files/content/images/bannerbilder/background-image-ser-doxis.png&quot;);background-repeat: no-repeat; background-position: center;background-size: cover;">
+                    style="background-image: url(&quot;https://cdn.sergroup.com/files/content/images/bannerbilder/background-image-ser-doxis.png&quot;);background-repeat: no-repeat; background-position: center;background-size: cover" loading="lazy">
                     <div class="mod_article_inner">
                         <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start "
                             style="margin-top: 80px;margin-bottom: 80px; ">
@@ -383,7 +383,7 @@
                                                 <img src="https://cdn.sergroup.com/assets/images/f/IDW_EU_GDPR_Stempel_en_blau-4hb4xn0mnc4cskg.png"
                                                     alt="Der Audit Trail von Doxis4 protokolliert alle Zugriffe und Veränderungen an den Unterlagen während des gesamten Vertragslebenszyklus."
                                                     title="Der gesamte Vertragslebenszyklus mit Doxis4" width="225"
-                                                    height="226">
+                                                    height="226" loading="lazy">
                                             </figure>
                                         </div>
                                     </div>
@@ -528,8 +528,8 @@
                                                 for (const textElement of textImage.querySelectorAll('.text-element')) {
                                                     textElement.addEventListener('mouseover', () => {
                                                         const id = textElement.dataset.id;
-                                                        textImage.querySelector('.image-element.active') ? .classList.remove('active');
-                                                        textImage.querySelector('#image-element-' + id) ? .classList.add('active')
+                                                        textImage.querySelector('.image-element.active') ?.classList.remove('active');
+                                                        textImage.querySelector('#image-element-' + id) ?.classList.add('active')
                                                     })
                                                 }
                                             }
@@ -873,7 +873,7 @@
                         <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start " style=" ">
                             <div class="centered-wrapper-background"
                                 style="background-image: url(&quot;https://cdn.sergroup.com/files/content/images/bannerbilder/background-image-ser-doxis.png&quot;);"
-                                data-image-url="https://cdn.sergroup.com/files/content/images/bannerbilder/background-image-ser-doxis.png">
+                                data-image-url="https://cdn.sergroup.com/files/content/images/bannerbilder/background-image-ser-doxis.png" loading="lazy">
                             </div>
                             <div class="centered-wrapper-inner ">
                                 <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">

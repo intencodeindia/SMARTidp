@@ -182,26 +182,26 @@
       <div class="row justify-content-center">
         <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
           <div class="text-center">
-            <img src="assets/images/fast_starters/sap.svg" alt="SAP" class="img-fluid mb-3" />
+            <img src="assets/images/fast_starters/sap.svg" alt="SAP" class="img-fluid mb-3" loading="lazy" />
             <h3 class="text-white">SAP</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
           <div class="text-center">
-            <img src="assets/images/fast_starters/salesforce.png" alt="Salesforce" class="img-fluid mb-3" />
+            <img src="assets/images/fast_starters/salesforce.png" alt="Salesforce" class="img-fluid mb-3" loading="lazy" />
             <h3 class="text-white">Salesforce</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
           <div class="text-center">
-            <img src="assets/images/fast_starters/microsoft.svg" alt="Microsoft" class="img-fluid mb-3" />
+            <img src="assets/images/fast_starters/microsoft.svg" alt="Microsoft" class="img-fluid mb-3" loading="lazy" />
             <h3 class="text-white">Microsoft</h3>
           </div>
         </div>
         <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
           <div class="text-center">
             <img src="assets/images/fast_starters/bussiness.png" alt="All Doxis business integrators"
-              class="img-fluid mb-3" />
+              class="img-fluid mb-3" loading="lazy" />
             <h3 class="text-white">All Doxis business integrators</h3>
           </div>
         </div>
@@ -225,7 +225,7 @@
         </div>
         <div class="col-lg-6 col-md-12">
           <img src="assets/images/fast_starters/choose.webp"
-            alt="Select a SmartIDP Fast Starter from an extensive library" class="img-fluid rounded" style="border-radius: 20px;">
+            alt="Select a SmartIDP Fast Starter from an extensive library" class="img-fluid rounded" loadin="lazy"style="border-radius: 20px;">
         </div>
       </div>
 
@@ -240,7 +240,7 @@
         </div>
         <div class="col-lg-6 col-md-12 order-md-1">
           <img src="assets/images/fast_starters/customize1.png" alt="Customizing a SmartIDP Fast Starter"
-            class="img-fluid rounded"style="border-radius: 20px;">
+            class="img-fluid rounded"style="border-radius: 20px" loading="lazy">
         </div>
       </div>
 
@@ -254,7 +254,7 @@
         </div>
         <div class="col-lg-6 col-md-12">
           <img src="assets/images/fast_starters/team.webp" alt="User management in SmartIDP Fast Starters"
-            class="img-fluid rounded"style="border-radius: 20px;">
+            class="img-fluid rounded"style="border-radius: 20px" loading="lazy">
         </div>
       </div>
     </div>

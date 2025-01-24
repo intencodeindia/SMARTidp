@@ -459,6 +459,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -473,6 +474,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -487,6 +489,7 @@
                             width="300"
                             height="169"
                             alt="Logo bofrost*"
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -501,6 +504,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -515,6 +519,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -529,6 +534,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -543,6 +549,7 @@
                             width="300"
                             height="169"
                             alt="DEVK"
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -557,6 +564,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -569,6 +577,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </div>
                       </div>
@@ -583,6 +592,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -597,6 +607,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -611,6 +622,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -625,6 +637,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -637,6 +650,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </div>
                       </div>
@@ -651,6 +665,7 @@
                             width="300"
                             height="169"
                             alt="Logo: STEAG Fernwärme GmbH"
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -665,6 +680,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -679,6 +695,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -693,6 +710,7 @@
                             width="300"
                             height="169"
                             alt="Logo bofrost*"
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -707,6 +725,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>
@@ -721,6 +740,7 @@
                             width="300"
                             height="169"
                             alt=""
+                            loading="lazy"
                           />
                         </a>
                       </div>

@@ -83,7 +83,7 @@
                             <div class="ce_rs_column_start  rs-column -large-col-4-1 -large-first -large-first-row -medium-col-4-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/assets/images/t/arv-it-366x330-345k22hxxe3vg0z.png" alt="Logo der ARV-IT" width="180" height="162">
+                                        <img src="https://cdn.sergroup.com/assets/images/t/arv-it-366x330-345k22hxxe3vg0z.png" alt="Logo der ARV-IT" loading="lazy" width="180" height="162">
                                     </figure>
                                 </div>
                             </div>
@@ -204,7 +204,7 @@
                                     Read now </a>
                             </div>
                             <a class="feature-box-image -move -fade -move-left" href="https://www.sergroup.com/en/knowledge-center/media-library/db-company-wide-bahn-content-management-platform.html">
-                                <img src="https://cdn.sergroup.com/assets/images/a/SBP_DB_en1-6yq9s4qcqme64wg.png" width="400" height="541" alt="">
+                                <img src="https://cdn.sergroup.com/assets/images/a/SBP_DB_en1-6yq9s4qcqme64wg.png" width="400" height="541"loading="lazy" alt="">
                             </a>
                         </section>
                         <hr class=" ce_rsce_oneo_separator">
@@ -242,7 +242,7 @@
                             <div style="margin-top: 150px;" class="ce_rs_column_start  rs-column -large-col-3-1 -large-last -large-first-row -medium-col-3-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="https://cdn.sergroup.com/files/content/rebranding/images/logos/Logo-Doxis-deepblue.svg" alt="Doxis4 software-as-a-service" title="Doxis4 software-as-a-service" width="1440" height="352">
+                                        <img src="https://cdn.sergroup.com/files/content/rebranding/images/logos/Logo-Doxis-deepblue.svg" alt="Doxis4 software-as-a-service" title="Doxis4 software-as-a-service" width="1440"loading="lazy" height="352">
                                     </figure>
                                 </div>
                             </div>
@@ -334,7 +334,7 @@
                                     More details </a>
                             </div>
                             <a class="feature-box-image not-animated " href="">
-                                <img src="https://cdn.sergroup.com/assets/images/p/ser_cloud_brochuere_en_3d-2by22rst5980mfr.png" width="406" height="550"  style="border-radius: 20px;" alt="">
+                                <img src="https://cdn.sergroup.com/assets/images/p/ser_cloud_brochuere_en_3d-2by22rst5980mfr.png" width="406" height="550"  style="border-radius: 20px;"loading="lazy" alt="">
                             </a>
                         </section>
                     </div>

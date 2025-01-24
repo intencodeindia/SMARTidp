@@ -145,7 +145,7 @@
             <div class="row align-items-center"> 
                 <!-- Image Column -->
                 <div class="col-md-4 text-center mb-4 mb-md-0">
-                    <img src="assets/images/egslogo.png" alt="Equilon Global Synergies Trading Logo" class="img-fluid" width="180" height="162">
+                    <img src="assets/images/egslogo.png" alt="Equilon Global Synergies Trading Logo" class="img-fluid" width="180" height="162" loading="lazy">
                 </div>
 
                 <!-- Text Column -->
@@ -273,7 +273,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/logo/logo.png" alt="Microsoft Outlook Integration" class="img-fluid">
+                            <img src="assets/images/logo/logo.png" alt="Microsoft Outlook Integration" class="img-fluid" loading="lazy">
                         </figure>
                     </div>
                 </div>
@@ -320,7 +320,7 @@
                 <!-- Image Column -->
                 <div class="col-md-6 text-center">
                     
-                        <img src="assets/images/saas.jpeg"  alt="SmartIDP Cloud" class="img-fluid" style="border-radius: 20px;">
+                        <img src="assets/images/saas.jpeg"  alt="SmartIDP Cloud" loading="lazy" class="img-fluid" style="border-radius: 20px;">
                     
                 </div>
             </section>

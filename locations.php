@@ -253,13 +253,13 @@
         ];
 
         var infoWindowContent = [
-            ['<h6 style="font-weight: bold;">USA - Head Office</h6><p>5900 Balcones Drive STE 13688 Austin, TX 78731 USA</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/usa.jpg" alt="USA" style="width:100%; height:100%; object-fit:cover;"></div>'],
-            ['<h6 style="font-weight: bold;">Australia</h6><p>Woodville Park SA 5011, Australia</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/australia.jpg" alt="Australia" style="width:100%; height:100%; object-fit:cover;"></div>'],
+            ['<h6 style="font-weight: bold;">USA - Head Office</h6><p>5900 Balcones Drive STE 13688 Austin, TX 78731 USA</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/usa.jpg" alt="USA" loading="lazy" style="width:100%; height:100%; object-fit:cover;"></div>'],
+            ['<h6 style="font-weight: bold;">Australia</h6><p>Woodville Park SA 5011, Australia</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/australia.jpg" alt="Australia" loading="lazy" style="width:100%; height:100%; object-fit:cover;"></div>'],
             ['<h6 style="font-weight: bold;">Saudi Arabia</h6><p>2149 Talhat Ibn Malik, Al Malaz, Riyadh, Kingdom Of Saudi Arabia</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/sa.jpg" alt="Saudi Arabia" style="width:100%; height:100%; object-fit:cover;"></div>'],
             ['<h6 style="font-weight: bold;">India</h6><p>16-2-747/40 Mumtaz Colony, Hyderabad, Telangana, India</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/india.avif" alt="India" style="width:100%; height:100%; object-fit:cover;"></div>'],
-            ['<h6 style="font-weight: bold;">New Zealand</h6><p>93 Ferndale Road, Mount Wellington, Auckland, 1060, New Zealand</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/newzealand.jpg" alt="New Zealand" style="width:100%; height:100%; object-fit:cover;"></div>'],
-            ['<h6 style="font-weight: bold;">Pakistan</h6><p>EUS2 KDA Overseas Block 16 A Gulshan-EJohar, Karachi, Pakistan</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/pk.jpg" alt="Pakistan" style="width:100%; height:100%; object-fit:cover;"></div>'],
-            ['<h6 style="font-weight: bold;">Canada</h6><p>480 Dymott Ave, Milton, ON L9T 7V2 Canada</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/canada.jpg" alt="Canada" style="width:100%; height:100%; object-fit:cover;"></div>']
+            ['<h6 style="font-weight: bold;">New Zealand</h6><p>93 Ferndale Road, Mount Wellington, Auckland, 1060, New Zealand</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/newzealand.jpg" alt="New Zealand"  loading="lazy" style="width:100%; height:100%; object-fit:cover;"></div>'],
+            ['<h6 style="font-weight: bold;">Pakistan</h6><p>EUS2 KDA Overseas Block 16 A Gulshan-EJohar, Karachi, Pakistan</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/pk.jpg" alt="Pakistan" loading="lazy" style="width:100%; height:100%; object-fit:cover;"></div>'],
+            ['<h6 style="font-weight: bold;">Canada</h6><p>480 Dymott Ave, Milton, ON L9T 7V2 Canada</p><div style="width:100%; height:200px; overflow:hidden;"><img src="assets/images/locations/canada.jpg" alt="Canada" loading="lazy" style="width:100%; height:100%; object-fit:cover;"></div>']
         ];
 
         var infoWindow = new google.maps.InfoWindow();
