@@ -7,16 +7,16 @@
 <head>
     <meta charset="UTF-8">
     <title>SmartIDP - Automate Document Processing and Cut Costs at Scale</title>
-    <!-- <base href="https://www.smartidp.com/"> -->
+    <!-- <base href="https://www.smartidp.ai/"> -->
     <meta name="robots" content="index,follow">
     <meta name="description" content="SmartIDP automates and centralizes enterprise document management with intelligent content extraction and classification. Streamline business processes, reduce costs, and ensure compliance at scale with our powerful document automation solutions.">
     <meta name="generator" content="Contao Open Source CMS">
-    <!-- <link rel="canonical" href="https://www.smartidp.com/en/"> -->
+    <!-- <link rel="canonical" href="https://www.smartidp.ai/en/"> -->
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="stylesheet" href="<?php echo BASE_PATH; ?>assets/css/carousel.min.css">
     <link rel="stylesheet" href="<?php echo BASE_PATH; ?>assets/css/third.css">
 
-    <!-- <link rel="stylesheet" href="https://cdn.smartidp.com/assets/css/hamburger-menu.min.css,customer-logo-list.min.css,quote.min.css,...-d89e1742.css"> -->
+    <!-- <link rel="stylesheet" href="https://cdn.smartidp.ai/assets/css/hamburger-menu.min.css,customer-logo-list.min.css,quote.min.css,...-d89e1742.css"> -->
     <script>
         document.ready = f => {
             "loading" !== document.readyState ? f() : document.addEventListener("DOMContentLoaded", f)
@@ -80,12 +80,12 @@
                 j = d.createElement(s),
                 dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = !0;
-            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            j.src = 'https://www.googletagmanager.ai/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f)
         })(window, document, 'script', 'dataLayer', 'GTM-MR5QNLN')
     </script> -->
     <!-- Start VWO Async SmartCode -->
-    <!-- <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" /> -->
+    <!-- <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.ai" /> -->
     <!-- <script type='text/javascript' id='vwoCode'>
         window._vwo_code || (function() {
             var account_id = 880714,
@@ -131,7 +131,7 @@
                         f = !0;
                         var t = d.getElementById('_vis_opt_path_hides');
                         if (t) t.parentNode.removeChild(t);
-                        if (e)(new Image).src = 'https://dev.visualwebsiteoptimizer.com/ee.gif?a=' + account_id + e
+                        if (e)(new Image).src = 'https://dev.visualwebsiteoptimizer.ai/ee.gif?a=' + account_id + e
                     }
                 },
                 finished: function() {
@@ -228,7 +228,7 @@
                         n.classList.add('_vis_hide_layer');
                         t.parentNode.insertBefore(n, t.nextSibling)
                     }
-                    var o = 'https://dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&vn=' + version;
+                    var o = 'https://dev.visualwebsiteoptimizer.ai/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&vn=' + version;
                     if (w.location.search.indexOf('_vwo_xhr') !== -1) {
                         this.addScript({
                             src: o
@@ -248,10 +248,10 @@
     <meta property="og:title" content="SmartIDP | Intelligent Document Automation and Management" />
     <meta property="og:description" content="SmartIDP automates and centralizes enterprise document management with intelligent content extraction, classification, and compliance. Streamline business processes, reduce costs, and improve efficiency at scale with our powerful document automation solutions." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.smartidp.com" />
-    <!-- <meta property="og:image" content="https://cdn.smartidp.com/files/content/rebranding/images/logos/RS453_SER-Doxi-Logo.png" /> -->
-    <link rel="alternate" hreflang="x-default" href="https://www.smartidp.com" />
-    <link rel="alternate" hreflang="en" href="https://www.smartidp.com" />
+    <meta property="og:url" content="https://www.smartidp.ai" />
+    <!-- <meta property="og:image" content="https://cdn.smartidp.ai/files/content/rebranding/images/logos/RS453_SER-Doxi-Logo.png" /> -->
+    <link rel="alternate" hreflang="x-default" href="https://www.smartidp.ai" />
+    <link rel="alternate" hreflang="en" href="https://www.smartidp.ai" />
     <!-- <link rel="stylesheet" href="<?= BASE_PATH ?>/assets/css/hamberger.css"> -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>

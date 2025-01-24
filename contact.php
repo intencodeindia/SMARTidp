@@ -51,6 +51,24 @@
             </div>
             <?php include_once("smartidp_logos.php"); ?>
         </div>
+        <?php if (isset($_GET['success']) || isset($_GET['error'])): ?>
+            <div id="alertPlaceholder" class="d-flex justify-content-center align-items-center" style="min-height: 30vh;">
+                <?php if (isset($_GET['success'])): ?>
+                    <div class="alert alert-success  fade show text-center" role="alert">
+                        <h4 class="alert-heading fw-bold">Success!</h4>
+                        <p><?php echo htmlspecialchars($_GET['success']); ?></p>
+                        <!-- <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button> -->
+                    </div>
+                <?php elseif (isset($_GET['error'])): ?>
+                    <div class="alert alert-danger alert-dismissible fade show text-center" role="alert">
+                        <h4 class="alert-heading fw-bold">Error!</h4>
+                        <p><?php echo htmlspecialchars($_GET['error']); ?></p>
+                        <!-- <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button> -->
+                    </div>
+                <?php endif; ?>
+            </div>
+        <?php endif; ?>
+
         <div class="container my-5" id="article-26234">
             <div class="row">
                 <!-- Left Column: Contact Us and Address -->
@@ -66,21 +84,21 @@
                             <div data-country="KW,SA,AE,QA">
                                 <p><strong>SmartIDP Software Solutions Middle East Ltd.</strong></p>
                                 <p>Unit 1002-1003, Level 10, Innovation One, DIFC<br>Dubai, United Arab Emirates<br>PO. Box Number 482097</p>
-                                <p>Tel: +971 (0) 4 591 8828<br>Email: <a href="mailto:info@smartIDP.com">info@smartIDP.com</a></p>
+                                <p>Tel: +971 (0) 4 591 8828<br>Email: <a href="mailto:info@smartIDP.ai">info@smartIDP.ai</a></p>
                             </div>
 
                             <!-- US Office -->
                             <div data-country="US">
                                 <p><strong>SmartIDP Group Inc.</strong></p>
                                 <p>6 Liberty Square # 2817<br>Boston, MA 02109</p>
-                                <p>Email: <a href="mailto:info@smartIDP.com">info@smartIDP.com</a></p>
+                                <p>Email: <a href="mailto:info@smartIDP.ai">info@smartIDP.ai</a></p>
                             </div>
 
                             <!-- Default Head Office -->
                             <div data-country="default">
                                 <p><strong>SmartIDP Head Office.</strong></p>
                                 <p>5900 Balcones Drive STE 13688<br>Austin, TX 78731<br>USA</p>
-                                <p>Email: <a href="mailto:info@smartIDP.com">info@smartIDP.com</a></p>
+                                <p>Email: <a href="mailto:info@smartIDP.ai">info@smartIDP.ai</a></p>
                             </div>
                         </div>
                     </div>
@@ -97,7 +115,7 @@
                                 <input type="text" name="firstname" id="firstname" class="form-control" required placeholder="First name*">
                             </div>
                             <div class="col-md-6">
-                                <label for="lastname" class="form-label">Last name</label>
+                                <label for="lastname" class="form-label">Last name<span class="text-danger">*</span></label>
                                 <input type="text" name="lastname" id="lastname" class="form-control" required placeholder="Last name*">
                             </div>
                         </div>
@@ -112,7 +130,7 @@
                         <div class="mb-3 row">
                             <div class="col-md-4">
                                 <label for="countryCode">Country Code<span class="text-danger">*</span></label>
-                                <select class="form-select countrycode" id="countryCode" name="countryCode">
+                                <select class="form-select countrycode" id="countryCode" name="countryCode" required>
                                     <option value="" disabled selected>Select Country Code</option>
                                     <option value="+1">USA (+1)</option>
                                     <option value="+44">UK (+44)</option>
@@ -154,23 +172,39 @@
                             <label for="company_size" class="form-label">Company size<span class="text-danger">*</span></label>
                             <select name="company_size" id="company_size" class="form-select" required>
                                 <option value="">Select company size</option>
-                                <option value="100-500">100-500 employees</option>
+                                <option value="0-10">0-10 employees</option>
+                                <option value="11-50">11-50 employees</option>
+                                <option value="51-200">51-200 employees</option>
+                                <option value="201-500">201-500 employees</option>
                                 <option value="501-1000">501-1000 employees</option>
                                 <option value="1001-5000">1001-5000 employees</option>
                                 <option value="5001-10000">5001-10000 employees</option>
-                                <option value=">10000">>10000 employees</option>
+                                <option value=">10000">>10000+ employees</option>
                             </select>
                         </div>
                         <!-- Country selection field -->
                         <div class="mb-3">
                             <label for="country" class="form-label">Country<span class="text-danger">*</span></label>
-                            <input class="form-control" type="text" name="country" id="country" placeholder=" ">
+                            <input class="form-control" type="text" name="country" id="country" placeholder=" " required>
                         </div>
-
                         <!-- Submit button -->
                         <div class="d-flex justify-content-center mt-3">
                             <button type="submit" class="btn btn-primary rounded-pill px-5 py-2">SEND</button>
                         </div>
+                        <div id="alertPlaceholder">
+                            <?php if (isset($_GET['success'])): ?>
+                                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                    <?php echo htmlspecialchars($_GET['success']); ?>
+                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                </div>
+                            <?php elseif (isset($_GET['error'])): ?>
+                                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                    <?php echo htmlspecialchars($_GET['error']); ?>
+                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                </div>
+                            <?php endif; ?>
+                        </div>
+
                     </form>
                 </div>
 
@@ -227,6 +261,42 @@
     }
 
     // Call the function on page load
-    // window.onload = setCountryData;
+    window.onload = setCountryData;
 </script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const form = document.querySelector('form');
+        form.addEventListener('submit', function(event) {
+            const requiredFields = form.querySelectorAll('[required]');
+            let valid = true;
+
+            requiredFields.forEach(field => {
+                if (!field.value.trim()) {
+                    valid = false;
+                    field.classList.add('is-invalid');
+                } else {
+                    field.classList.remove('is-invalid');
+                }
+            });
+
+            if (!valid) {
+                event.preventDefault();
+                showAlert('Please fill in all required fields.', 'danger');
+            }
+        });
+
+        function showAlert(message, type) {
+            const alertPlaceholder = document.getElementById('alertPlaceholder');
+            const alert = document.createElement('div');
+            alert.className = `alert alert-${type} alert-dismissible fade show`;
+            alert.role = 'alert';
+            alert.innerHTML = `
+                ${message}
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            `;
+            alertPlaceholder.append(alert);
+        }
+    });
+</script>
+
 <?php include_once("includes/footer.php"); ?>

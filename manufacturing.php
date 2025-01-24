@@ -77,10 +77,55 @@
             font-size: large !important;
         }
     }
+
+    /* Ensure the background image is responsive */
+    #article-43622 {
+        background-size: cover;
+        /* Ensures the image covers the full area */
+        background-position: center center;
+        /* Adjust position to center on smaller screens */
+    }
+
+    /* For smaller screens, adjust the background positioning and size */
+    @media (max-width: 768px) {
+        #article-43622 {
+            background-position: center top;
+            /* Adjust for better visual on small screens */
+            background-size: cover;
+            /* Keep the image cover the area */
+        }
+    }
+
+    /* Optional: Adjust the container and text on mobile for better spacing */
+    @media (max-width: 768px) {
+        .container {
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+
+        .subheadline {
+            font-size: 1.5rem;
+            /* Reduce the font size on smaller screens */
+        }
+
+        .display-3 {
+            font-size: 2rem;
+            /* Reduce the headline size for small screens */
+        }
+
+        .btn {
+            padding: 10px 20px;
+            /* Adjust button size */
+        }
+    }
+    .imghv{
+        height: 300px;
+        width: 530px;
+    }
 </style>
 <div class="content-wrapper">
-    <main role="main" class="main-content">
-        <div class="container-fluid py-5" id="article-43622" style="background-image: url('assets/images/process_automation/pad.png'); background-size: cover; background-position: 0% 10%;">
+    <div role="main" class="main-content">
+        <div class="container-fluid py-5" id="article-43622" style="background-image: url('assets/images/manufacturing/menu22.webp'); background-size: cover; background-position: 0% 10%;">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column (Text Content) -->
@@ -101,6 +146,9 @@
                 </div>
             </div>
         </div>
+
+
+
         <div class="mt-5"></div>
         <?php include_once("smartidp_logos.php"); ?>
         <div class="container">
@@ -150,7 +198,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="mod_article max-width-viewport block" id="article-44383">
+            <div class="mod_article max-width-viewport block mb-0" id="article-44383">
                 <div class="mod_article_inner">
                     <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start infobox max-width-800">
                         <div class="centered-wrapper-inner">
@@ -175,48 +223,27 @@
             </div>
         </div>
 
-        <div class="container">
-            <div class="mod_article max-width-viewport block" id="article-29427">
-                <div class="mod_article_inner">
-                    <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start -vertical-centered">
-                        <div class="centered-wrapper-inner">
-                            <!-- Article Content Section -->
-                            <div class="rs-columns ce_rs_columns_start">
+        <div class="container py-md-5">
+            <div class="row align-items-center my-0">
+                <!-- Left Column: Headline and Content -->
+                <h2 class="fw-bold">What Matters to Manufacturing Leaders Today: <span class="gradient">Efficiency Automation, and Smart Data</span> Integration with SmartIDP</h2>
+                <div class="col-lg-6 col-md-6 content-text">
+                    <p>Our Global Survey Insights: SmartIDP's Impact on Manufacturing Efficiency and Automation</p>
+                    <ul>
+                        <li><strong>The 5 Biggest Manufacturing Challenges and How SmartIDP Solves Them</strong></li>
+                        <li><strong>The 6 Key Trends in Manufacturing Powered by SmartIDP</strong></li>
+                        <li><strong>The 3 Most Promising Digital Transformation Projects with SmartIDP in 2024</strong></li>
+                    </ul>
+                    <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Download Industry Study Now</a>
+                </div>
 
-                                <!-- Left Column: Headline and Content -->
-                                <div class="ce_rs_column_start rs-column -large-col-3-2 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
-                                    <div class="headline-box -align-left ce_rsce_oneo_headline_box">
-                                        <h3 class="fw-bold">What Matters to Manufacturing Leaders Today: <span class="gradient">Efficiency Automation, and Smart Data</span> Integration with SmartIDP</h3>
-                                    </div>
-                                    <div class="content-text">
-                                        <div class="rte">
-                                            <p>Our Global Survey Insights: SmartIDP's Impact on Manufacturing Efficiency and Automation</p>
-                                            <ul>
-                                                <li>The <span class="fw-bold">5 Biggest Manufacturing Challenges and How SmartIDP Solves Them</span></li>
-                                                <li>The<span class="fw-bold"> 6 Key Trends in Manufacturing Powered by SmartIDP</span></li>
-                                                <li>The <span class="fw-bold">3 Most Promising Digital Transformation Projects with SmartIDP in 2024</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="button-box ce_rsce_oneo_button -left">
-                                        <a class="button ce_rsce_oneo_button -left" href="contact">Download industry study now</a>
-                                    </div>
-                                </div>
-                                <div class="centered-wrapper -vertical-centered">
-                                    <div class="ser-hide-mobile">
-                                        <div class="content-image">
-                                            <figure>
-                                                <img src="assets/images/microsoft/gold.jpg" alt="Microsoft Partner" width="300" height="169">
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <!-- Right Column: Image -->
+                <div class="col-lg-6 col-md-6 text-center">
+                    <img src="assets/images/manufacturing/menu2.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" style="border-radius: 20px;">
                 </div>
             </div>
         </div>
+
         <div class="container" id="article-29421">
             <h2 class="text-left mb-4 fw-bold">SmartIDP Solutions for the Manufacturing Industry:<span class="gradient"> Streamlining Processes and Enhancing Efficiency</span></h2>
             <div class="row align-items-center">
@@ -256,113 +283,97 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/microsoft/email.png" alt="Microsoft Outlook Integration" class="img-fluid">
+                            <img src="assets/images/manufacturing/menu3.png" alt="Microsoft Outlook Integration" class="img-fluid shadow-lg imghv" style="border-radius:40px;" height="90px">
                         </figure>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="col-md-6 mt-4 mt-md-0">
-                <h2 class="fw-bold fs-4">SmartIDP Solutions for Key Manufacturing Sectors: Driving Efficiency and Automation</h2>
+        <div class="container mt-md-5">
+            <h2 class="fw-bold">SmartIDP Solutions for Key Manufacturing Sectors: Driving Efficiency and Automation</h2>
+            <div class="col-md-6 mt-5 mt-md-0 ">
             </div>
-            <!-- Accordion Section -->
-            <div class="col-md-6 mt-4 mt-md-0">
-                <div class="accordion" id="benefitsAccordion">
-                    <!-- Accordion Item 1 -->
-                    <div class="accordion-item border-0">
-                        <h2 class="accordion-header" id="headingOne">
-                            <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                1. SmartIDP for the Automotive Industry
-                            </button>
-                        </h2>
-                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#benefitsAccordion">
-                            <div class="accordion-body">
-                                The automotive sector is a highly profitable industry, with projections from Prognos AG showing a 3% growth by 2030.<span class="gradient"> To stay competitive and boost resilience, digital transformation is essential.</span> SmartIDP's intelligent information management is key to driving this transformation, ensuring efficient, streamlined operations and enhanced decision-making.
-                                <p> <span class="gradient">Eissmann Group Automotive, SEW-Eurodrive, and FEV Europe </span>are trusted global leaders who rely on SmartIDP to tackle industry challenges and drive digital transformation across their operations.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Accordion Item 2 -->
-                    <div class="accordion-item border-0">
-                        <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                2.SmartIDP for Engineering
-                            </button>
-                        </h2>
-                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#benefitsAccordion">
-                            <div class="accordion-body">
-                                <span class="gradient"> From managing CAD drawings and optimizing quality management to integrating smart factories with the supply chain,</span> the engineering sector faces significant challenges — and SmartIDP offers immense opportunities for transformation and efficiency.
-                                <p>SmartIDP bridges the gap between your IoT systems and administrative processes like procurement. Discover how industry leaders Bernhard Krone Holding and Hansa-Flex have leveraged SmartIDP to drive their digital transformation.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Accordion Item 3 -->
-                    <div class="accordion-item border-0">
-                        <h2 class="accordion-header" id="headingThree">
-                            <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                3.SmartIDP for Chemicals & Pharmaceuticals
-                            </button>
-                        </h2>
-                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#benefitsAccordion">
-                            <div class="accordion-body">
-                                SmartIDP is the solution to the growing challenges in the chemicals and pharmaceuticals sectors. With robust quality management, seamless documentation, and a reliable purchase-to-Pay process, SmartIDP enables innovation and strengthens data-driven decision-making.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="mod_article max-width-viewport block" id="article-29427">
-                <div class="mod_article_inner">
-                    <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start -vertical-centered">
-                        <div class="centered-wrapper-inner">
-                            <!-- Article Content Section -->
-                            <div class="rs-columns ce_rs_columns_start">
-
-                                <!-- Left Column: Headline and Content -->
-                                <div class="ce_rs_column_start rs-column -large-col-3-2 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
-                                    <div class="headline-box -align-left ce_rsce_oneo_headline_box">
-                                        <h3 class="fw-bold">SmartIDP Intelligent<span class="gradient"> Purchase-to-Pay</span> Automation</h3>
-                                    </div>
-                                    <div class="content-text">
-                                        <div class="rte">
-                                            <p> <span class="gradient"> flexibility, and scalability in purchase-to-pay processes,</span> are key to boosting profitability for manufacturing companies. SmartIDP's Intelligent Purchase-to-Pay Automation Suite<span class="gradient"> optimizes, accelerates, and automates end-to-end processes,</span> driving efficiency and growth.</p>
-                                            <p>A Smart Investment with Tangible Returns. Here's Why:</p>
-                                            <ul>
-                                                <li><span class="fw-bold">Up to 10% reduction in annual procurement costs</span></li>
-                                                <li><span class="fw-bold">60-80% lower invoice processing costs</span></li>
-                                                <li><span class="fw-bold">Save up to 70% time in invoice processing</li>
-                                                <li><span class="fw-bold">Fewer delivery delays through advanced supplier management</li>
-                                                <li><span class="fw-bold">Enhanced compliance across processes</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="button-box ce_rsce_oneo_button -left">
-                                        <a class="button ce_rsce_oneo_button -left" href="contact">Discover SmartIDP Intelligent Purchase-to-Pay Automation</a>
-                                    </div>
+            <div class="row">
+                <!-- Accordion Section -->
+                <div class="col-md-6 mt-md-4 mt-md-0">
+                    <div class="accordion" id="benefitsAccordion">
+                        <!-- Accordion Item 1 -->
+                        <div class="accordion-item border-0">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    1. SmartIDP for the Automotive Industry
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#benefitsAccordion">
+                                <div class="accordion-body">
+                                    The automotive sector is a highly profitable industry, with projections from Prognos AG showing a 3% growth by 2030.<span class="gradient"> To stay competitive and boost resilience, digital transformation is essential.</span> SmartIDP's intelligent information management is key to driving this transformation, ensuring efficient, streamlined operations and enhanced decision-making.
+                                    <p> <span class="gradient">Eissmann Group Automotive, SEW-Eurodrive, and FEV Europe </span>are trusted global leaders who rely on SmartIDP to tackle industry challenges and drive digital transformation across their operations.</p>
                                 </div>
-                                <div class="centered-wrapper -vertical-centered">
-                                    <div class="ser-hide-mobile">
-                                        <div class="content-image">
-                                            <figure>
-                                                <img src="assets/images/microsoft/gold.jpg" alt="Microsoft Partner" width="300" height="169">
-                                            </figure>
-                                        </div>
-                                    </div>
+                            </div>
+                        </div>
+
+                        <!-- Accordion Item 2 -->
+                        <div class="accordion-item border-0">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    2.SmartIDP for Engineering
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#benefitsAccordion">
+                                <div class="accordion-body">
+                                    <span class="gradient"> From managing CAD drawings and optimizing quality management to integrating smart factories with the supply chain,</span> the engineering sector faces significant challenges — and SmartIDP offers immense opportunities for transformation and efficiency.
+                                    <p>SmartIDP bridges the gap between your IoT systems and administrative processes like procurement. Discover how industry leaders Bernhard Krone Holding and Hansa-Flex have leveraged SmartIDP to drive their digital transformation.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Accordion Item 3 -->
+                        <div class="accordion-item border-0">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    3.SmartIDP for Chemicals & Pharmaceuticals
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#benefitsAccordion">
+                                <div class="accordion-body">
+                                    SmartIDP is the solution to the growing challenges in the chemicals and pharmaceuticals sectors. With robust quality management, seamless documentation, and a reliable purchase-to-Pay process, SmartIDP enables innovation and strengthens data-driven decision-making.
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="col-md-6 text-center mt-md-0 mt-4">
+                    <img src="assets/images/manufacturing/menu5.webp" alt="" class="img-fluid shadow-lg imghv" style="border-radius: 20px;">
+                </div>
             </div>
         </div>
+
+        <div class="container py-5">
+            <div class="row align-items-center">
+                <!-- Left Column: Headline and Content -->
+                <h2 class="fw-bold">SmartIDP Intelligent <span class="gradient">Purchase-to-Pay</span> Automation</h2>
+                <div class="col-lg-6 col-md-6 content-text">
+                    <p><span class="gradient">Flexibility and scalability in purchase-to-pay processes</span> are key to boosting profitability for manufacturing companies. SmartIDP's Intelligent Purchase-to-Pay Automation Suite <span class="gradient">optimizes, accelerates, and automates end-to-end processes</span>, driving efficiency and growth.</p>
+                    <p><strong>A Smart Investment with Tangible Returns. Here's Why:</strong></p>
+                    <ul>
+                        <li><strong>Up to 10% reduction in annual procurement costs</strong></li>
+                        <li><strong>60-80% lower invoice processing costs</strong></li>
+                        <li><strong>Save up to 70% time in invoice processing</strong></li>
+                        <li><strong>Fewer delivery delays through advanced supplier management</strong></li>
+                        <li><strong>Enhanced compliance across processes</strong></li>
+                    </ul>
+                    <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover SmartIDP</a>
+                </div>
+
+                <!-- Right Column: Image -->
+                <div class="col-lg-6 col-md-6 text-center">
+                    <img src="assets/images/manufacturing/menu4.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" style="border-radius: 20px;">
+                </div>
+            </div>
+        </div>
+
         <div class="container">
-            <div class="mod_article max-width-viewport block" id="article-44383">
+            <div class="max-width-viewport block" id="article-44383">
                 <div class="mod_article_inner">
                     <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start infobox max-width-800">
                         <div class="centered-wrapper-inner">
@@ -448,6 +459,7 @@
             </div>
         </div>
 
-    </main>
-</div>
-<?php include_once("includes/footer.php"); ?>
+        </main>
+    </div>
+
+    <?php include_once("includes/footer.php"); ?>

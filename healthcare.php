@@ -6,11 +6,23 @@
         -webkit-background-clip: text;
         color: transparent;
     }
+
+    /* Unique class for shadow effect */
+    .custom-card-shadow {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 1.25rem;
+    }
+
+    .custom-card-shadow:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
+    }
 </style>
 
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container-fluid py-5" id="article-43622" style="background-image: url('assets/images/contract_management/dm020.png'); background-size: cover; background-position: 0% 10%;">
+        <div class="container-fluid py-5" id="article-43622" style="background-image: url('assets/images/health_care/hc-banner.jpeg'); background-size: cover; background-position: 0% 10%;">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column (Text Content) -->
@@ -31,156 +43,13 @@
             </div>
         </div>
         <!-- Content Section -->
-        <div class="container-fluid" id="article-43622">
-            <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
-                <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
-                    SmartIDP</h2>
-            </div>
-            <div class="customer-logos-marquee">
-                <div class="customer-logos">
-                    <!-- Logos (only one set) -->
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/ko.png" class="d-block" alt="Logo 1" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 12%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <!-- Logos (only Third set) -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <!-- Logos (only Fourth set) -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+            <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
+                SmartIDP</h2>
         </div>
-        <div class="container mt-5">
-            <h2 class="text-center fw-bold">Healthcare has become an integral component of digital transformation</h2>
+        <?php include_once("smartidp_logos.php"); ?>
+        <div class="container mt-md-5">
+            <h2 class="text-center fw-bold mt-0"><span class="gradient">Healthcare </span>has become an integral component of digital transformation</h2>
             <p class="text-center">Healthcare has become an integral component of digital transformation, addressing challenges such as a shortage of skilled workers,
                 cost pressures, patient care, and compliance requirements. By digitizing and automating processes and documents,
                 healthcare organizations can streamline workflows, enhance treatment efficiency, and ultimately improve patient outcomes.</p>
@@ -188,7 +57,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                     <div class="text-center">
                         <div class="card-body">
-                            <i class="fa-solid fa-file-signature fa-3x mb-3 linear gradient"></i>
+                            <i class="fa-solid fa-hospital-user fa-3x mb-3 linear gradient"></i>
                             <!-- Font Awesome Icon -->
                             <h4 class="card-title fw-bold">Comprehensive view of patients
                             </h4>
@@ -203,7 +72,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                     <div class="text-center">
                         <div class="card-body">
-                            <i class="fa-brands fa-android fa-3x mb-3 gradient"></i> <!-- Font Awesome Icon -->
+                            <i class="fa-solid fa-briefcase fa-3x mb-3 gradient"></i> <!-- Font Awesome Icon -->
                             <h4 class="card-title fw-bold">Streamlined workflows
                             </h4>
                             <p class="card-text">Streamlined Workflows with Intelligent Content Automation (ICA) reduce staff workloads by managing tasks efficiently,
@@ -226,7 +95,7 @@
                 </div>
             </section>
         </div>
-        <div class="container mt-5">
+        <div class="container mt-md-5">
             <h2 class="text-center fw-bold">The ECM platform goes beyond traditional content management.</h2>
             <p class="text-center">The ECM platform goes beyond traditional content management by offering centralized storage, management,
                 and classification of data, along with advanced features like Content Understanding and Workflow Automation.
@@ -252,7 +121,7 @@
                         <div
                             class="icon-boxes-item rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
                             <div class="icon-boxes-item-icon">
-                                <i class="fas fa-list-check fa-lg"></i>
+                                <i class="fas fa-address-book fa-lg"></i>
                             </div>
                             <h3>Automation in healthcare and administrative processes</h3>
                             <div class="icon-boxes-item-text">
@@ -266,7 +135,7 @@
                         <!-- third card -->
                         <div
                             class="icon-boxes-item rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
-                            <span class="icon-boxes-item-icon"><i class="fas fa-user fa-lg"></i></span>
+                            <span class="icon-boxes-item-icon"><i class="fas fa-square-check fa-lg"></i></span>
                             <h3>Compatible with all formats</h3>
                             <div class="icon-boxes-item-text">
                                 <pBoost>Compatible with all formats, this solution functions as a vendor-neutral archive (VNA), supporting all common healthcare data formats.
@@ -277,7 +146,7 @@
                         <!-- fourth card -->
                         <div
                             class="icon-boxes-item rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                            <span class="icon-boxes-item-icon"><i class="fas fa-circle-check fa-lg"></i></span>
+                            <span class="icon-boxes-item-icon"><i class="fas fa-file-signature fa-lg"></i></span>
                             <h3>Digital signatures</h3>
                             <div class="icon-boxes-item-text">
                                 <p>The patient education process in hospitals is often inefficient, involving printed forms that are signed and then digitized. With digital signatures,
@@ -290,7 +159,7 @@
                         <!-- fifth card -->
                         <div
                             class="icon-boxes-item rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
-                            <span class="icon-boxes-item-icon"><i class="fas fa-user fa-lg"></i></span>
+                            <span class="icon-boxes-item-icon"><i class="fas fa-network-wired fa-lg"></i></span>
                             <h3>Information management in healthcare networks</h3>
                             <div class="icon-boxes-item-text">
                                 <pBoost>Information management in healthcare networks enables secure access to data across legally independent entities. With a multi-client solution,
@@ -301,7 +170,7 @@
                         <!-- sixth card -->
                         <div
                             class="icon-boxes-item rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                            <span class="icon-boxes-item-icon"><i class="fas fa-circle-check fa-lg"></i></span>
+                            <span class="icon-boxes-item-icon"><i class="fas fa-shield fa-lg"></i></span>
                             <h3>Safe collaboration with external partners</h3>
                             <div class="icon-boxes-item-text">
                                 <p>EOur solution enables safe collaboration with external partners, whether through integrated portals or by participating in broader processes. With seamlessly integrated portals and end-to-end process flows,
@@ -313,6 +182,7 @@
                 </div>
             </div>
         </div>
+
         <div class="container-fluid" style="background-color: #eaedfa;">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
@@ -322,20 +192,20 @@
                             <!-- Left Column (Text and Button) -->
                             <div class="col-lg-6 col-md-12 text-center">
                                 <div class="headline-box ser-headline-box ce_rsce_ser_headline_box">
-                                    <h2 class="headline -extra-large responsive-heading1" style="font-size: 2.5em; font-weight: 600;">
-                                        <span class="gradient">Healthcare experts </span> rate <span class="gradient">SmartIDP</span> <br>
+                                    <h2 class="headline -extra-large responsive-heading1 text-center" style="font-size: 2.5em; font-weight: 600;">
+                                        <span class="gradient">Healthcare experts </span><span class="gradient">SmartIDP</span><br>
                                         for its efficiency
                                     </h2>
                                 </div>
                                 <div class="button-box ce_rsce_oneo_button" style="margin-bottom: 30px;">
-                                    <a href="contact" class="button ce_rsce_oneo_button text-center" style="background-color: #0090f9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Learn more</a>
+                                    <a href="contact" class="button ce_rsce_oneo_button text-center rounded-pill" style="background-color: #0090f9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Learn more</a>
                                 </div>
                             </div>
                             <!-- Right Column (Image) -->
                             <div class="col-lg-6 col-md-12 text-center">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="assets/images/intelligent_content_Automation/person.gif" alt="SmartIDP" class="img-fluid" width="352" height="145" style="border-radius: 15px;">
+                                        <img src="assets/images/health_care/gif_hc2.gif" alt="SmartIDP" class="img-fluid" width="352" height="145" style="border-radius: 15px;">
                                     </figure>
                                 </div>
 
@@ -345,7 +215,7 @@
                 </div>
             </div>
         </div>
-        
+
         <!-- icon box 2 -->
         <div class="container mb-3" id="article-40037">
             <div class="container">
@@ -360,37 +230,53 @@
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                     <!-- Icon Box 1 -->
                     <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-folder-open" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                        <div class="card h-100 custom-card-shadow">
+                            <div class="card-body" style="text-align: left; padding-left: 25px;">
+                                <div class="icon mb-3 text-center">
+                                    <i class="fas fa-folder-open" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                </div>
+                                <h5 class="card-title text-center" style="font-size: 1.2rem; font-weight: bold;">Patient files and case records</h5>
+                                <p class="card-text text-justify" style="font-size: 1rem;">Electronic patient files and case records provide comprehensive medical history, from intake to discharge. Organized by stays and visits,
+                                    they offer powerful search functions and seamless integration with your IT and clinic systems. Gain complete control over all documents across various stages, from onboarding to offboarding.
+                                </p>
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
+                                    <span style="font-size: 0.9rem;">Automating employee lifecycle tasks boosts efficiency</span>
+                                </div>
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
+                                    <span style="font-size: 0.9rem;">Streamline workflows with digital signatures</span>
+                                </div>
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
+                                    <span style="font-size: 0.9rem;">Reduce response times and administrative costs</span>
+                                </div>
                             </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">Patient files and case records</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Electronic patient files and case records provide comprehensive medical history, from intake to discharge. Organized by stays and visits,
-                                they offer powerful search functions and seamless integration with your IT and clinic systems. Gain complete control over all documents across various stages, from onboarding to offboarding.
-                            </p>
                         </div>
                     </div>
 
                     <!-- Icon Box 2 -->
                     <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-users-cog" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                            </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">Digital Imaging and Communications in Medicine</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Automate the entire employee lifecycle, including applicant workflows, on-/offboarding, leave requests, and more. Boost productivity by automating manual tasks.</p>
+                        <div class="card h-100 custom-card-shadow">
                             <div class="card-body" style="text-align: left; padding-left: 25px;">
+                                <div class="icon mb-3 text-center">
+                                    <i class="fas fa-users-cog" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                </div>
+                                <h5 class="card-title text-center" style="font-size: 1.2rem; font-weight: bold;">Digital Imaging and Communications in Medicine</h5>
+                                <p class="card-text text-justify" style="font-size: 1rem;">Diagnostic imaging exams are stored in the DICOM archive and integrated into patient records.
+                                    The certified viewer allows intuitive examination with functions like measurement, zoom, contrast adjustments, and more.
+                                </p>
                                 <div class="d-flex align-items-center mb-2">
                                     <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Automate employee lifecycle tasks</span>
+                                    <span style="font-size: 0.9rem;">Automating employee lifecycle tasks boosts efficiency</span>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
                                     <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Streamline contract workflows with digital signatures</span>
+                                    <span style="font-size: 0.9rem;">Streamline workflows with digital signatures</span>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
                                     <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Reduce response times and administrative costs</span>
+                                    <span style="font-size: 0.9rem;">Reduce response times and administrative costs</span>
                                 </div>
                             </div>
                         </div>
@@ -398,24 +284,24 @@
 
                     <!-- Icon Box 3 -->
                     <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-shield-alt" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                            </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">Streamlined Compliance</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Ensure your document management complies with regulations and avoid risks by setting role-based access, automated task notifications, and protecting data through automated retention policies.</p>
+                        <div class="card h-100 custom-card-shadow">
                             <div class="card-body" style="text-align: left; padding-left: 25px;">
+                                <div class="icon mb-3 text-center">
+                                    <i class="fas fa-lightbulb" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                </div>
+                                <h5 class="card-title text-center" style="font-size: 1.2rem; font-weight: bold;">Integrating the Healthcare Enterprise</h5>
+                                <p class="card-text text-justify" style="font-size: 1rem;">Support for IHE profiles enables seamless cross-company data exchange in healthcare, proven reliable through IHE Connectathon testing and real-world use.
                                 <div class="d-flex align-items-center mb-2">
                                     <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Manage documents in compliance with regulations</span>
+                                    <span style="font-size: 0.9rem;">Ensure compliant healthcare document management.</span>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
                                     <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Set role-based access rights</span>
+                                    <span style="font-size: 0.9rem;">Enforce role-based access for secure healthcare data.</span>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
                                     <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Automate data protection and retention policies</span>
+                                    <span style="font-size: 0.9rem;">Automate data protection for healthcare compliance.</span>
                                 </div>
                             </div>
                         </div>
@@ -423,80 +309,121 @@
                 </div>
             </div>
         </div>
+        <div class="container py-md-3 py-1" id="article-43660">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10">
+                    <!-- Headline Box -->
+                    <div class="headline-box text-center mb-4">
+                        <h2 class="responsive-heading1 fw-bold" style="font-size: 2.1rem;">
+                            A single solution for all<span class="gradient"> healthcare sectors.</span>
+                        </h2>
+                    </div>
 
-        <div class="container mb-3" id="article-40037">
-            <div class="container">
-                <div class="row align-items-center">
-                    <!-- Left Column (Text Content) -->
-                    <div class="col-lg-12 text-center pb-4 pt-3 my-3">
-                        <h4 class="responsive-heading1 fw-bold" style="font-size:1.8rem">The future of <span class="gradient">Healthcare management (HCM) </span></h4>
-                        <h3 class="lead responsive-paragraph fw-bold" style="font-size:2rem">The SmartIDP Healthcare solutions </h3>
+                    <!-- Icon Boxes Section -->
+                    <section class="row">
+                        <!-- Icon Box 1 -->
+                        <div class="col-12 col-md-6 mb-4">
+                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                                <div class="card-body d-flex align-items-center">
+                                    <i class="fas fa-cogs fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+
+                                    <div>
+                                        <h3 class="card-title" style="font-size: 1.3rem;">Invoice management</h3>
+                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Automatically store inbound invoices, capture data, and retrieve it in seconds.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Icon Box 2 -->
+                        <div class="col-12 col-md-6 mb-4">
+                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                                <div class="card-body d-flex align-items-center">
+                                    <i class="fas fa-brain fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <div>
+                                        <h3 class="card-title" style="font-size: 1.3rem;">Contract administration</h3>
+                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Automated creation, review, approval, finalization, management, and archiving.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Icon Box 3 -->
+                        <div class="col-12 col-md-6 mb-4">
+                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                                <div class="card-body d-flex align-items-center">
+                                    <i class="fas fa-chart-line fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <div>
+                                        <h3 class="card-title" style="font-size: 1.3rem;">Document control</h3>
+                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Efficiently capture, interpret, and edit documents automatically.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Icon Box 4 -->
+                        <div class="col-12 col-md-6 mb-4">
+                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                                <div class="card-body d-flex align-items-center">
+                                    <i class="fas fa-file fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <div>
+                                        <h3 class="card-title" style="font-size: 1.3rem;">Document storage</h3>
+                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Secure, long-term archiving of patient data and historical information.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Icon Box 5 -->
+                        <div class="col-12 col-md-6 mb-4">
+                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                                <div class="card-body d-flex align-items-center">
+                                    <i class="fas fa-lock fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <div>
+                                        <h3 class="card-title" style="font-size: 1.3rem;">Regulatory adherence</h3>
+                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Ensure information protection by complying with regulations like HIPAA or GDPR.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Icon Box 6 -->
+                        <div class="col-12 col-md-6 mb-4">
+                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                                <div class="card-body d-flex align-items-center">
+                                    <i class="fas fa-circle-user fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <div>
+                                        <h3 class="card-title" style="font-size: 1.3rem;">HR – Employee records</h3>
+                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Digital personnel records are essential for streamlining HR processes with speed and security.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </section>
+                </div>
+            </div>
+        </div>
+        <div class="headline-box text-center mb-4">
+            <h2 class="responsive-heading1 fw-bold" style="font-size: 2.1rem;">
+                <span class="gradient"> SmartIDP </span>as a migration platform for all HIS systems.
+            </h2>
+        </div>
+        <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start infobox pb-3" style=" ">
+            <div class="centered-wrapper-inner ">
+                <div class="content-text text-justify">
+                    <h3>Hi! I&apos;m SmartIDP - your Intelligent healthcare systems. Are you prepared?</h3>
+                    <div class="rte">
+                        <p>TIndustry giants like SAP and Cerner have announced the phase-out of their healthcare systems by 2030, with maintenance ending as early as 2027.
+                            SmartIDP healthcare provides a modern, reliable solution to ensure smooth transitions and improved data management for the future.</p>
+                        <p>The time to implement a new hospital information system (HIS) requires smooth and secure management of all documents and data. With our SmartIDP Healthcare solution,
+                            you can seamlessly centralize your records and information as you prepare for the transition to a new system.</p>
+                        <p>Want to learn more about me? &nbsp;</p>
                     </div>
                 </div>
-
-                <div class="row row-cols-1 row-cols-md-3 g-4">
-                    <!-- Icon Box 1 -->
-                    <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-folder-open" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                            </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">Patient files and case records</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Electronic patient files and case records provide comprehensive medical history, from intake to discharge. Organized by stays and visits,
-                                they offer powerful search functions and seamless integration with your IT and clinic systems. Gain complete control over all documents across various stages, from onboarding to offboarding.
-                            </p>
-                        </div>
-                    </div>
-
-                    <!-- Icon Box 2 -->
-                    <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-users-cog" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                            </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">Digital Imaging and Communications in Medicine</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Automate the entire employee lifecycle, including applicant workflows, on-/offboarding, leave requests, and more. Boost productivity by automating manual tasks.</p>
-                            <div class="card-body" style="text-align: left; padding-left: 25px;">
-                                <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Automate employee lifecycle tasks</span>
-                                </div>
-                                <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Streamline contract workflows with digital signatures</span>
-                                </div>
-                                <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Reduce response times and administrative costs</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Icon Box 3 -->
-                    <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-shield-alt" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                            </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">Streamlined Compliance</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Ensure your document management complies with regulations and avoid risks by setting role-based access, automated task notifications, and protecting data through automated retention policies.</p>
-                            <div class="card-body" style="text-align: left; padding-left: 25px;">
-                                <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Manage documents in compliance with regulations</span>
-                                </div>
-                                <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Set role-based access rights</span>
-                                </div>
-                                <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Automate data protection and retention policies</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="button-box ce_rsce_oneo_button   -left">
+                    <a class="button ce_rsce_oneo_button   -left" href="/en/live-demo.html">
+                        Get Demo </a>
                 </div>
             </div>
         </div>

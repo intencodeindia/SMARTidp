@@ -116,6 +116,18 @@
             /* Button padding on smaller screens */
         }
     }
+     /* Change text color to black when the button is active */
+     .accordion-button:not(.collapsed) {
+        color: black !important;
+        background-color: #f8f9fa !important;
+        /* You can adjust the background color if needed */
+    }
+
+    .accordion-button {
+        color: white;
+        /* Default text color for collapsed state */
+    }
+
 </style>
 <!-- <link rel="stylesheet" href="<?php echo BASE_PATH; ?>assets/css/five.css"> -->
 <div class="content-wrapper">
@@ -685,12 +697,12 @@
             </div>
             <div class="mx-auto">
                 <!-- Bootstrap Accordion -->
-                <div class="accordion" id="accordionFAQ">
+                <div class="accordion" id="accordionFAQ"> 
 
                     <!-- Accordion Item 1 -->
                     <div class="accordion-item border-0">
                         <h2 class="accordion-header" id="headingOne">
-                            <button class="accordion-button p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                            <button class="accordion-button p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                 <strong>What is BPM?</strong>
 
                             </button>
@@ -705,7 +717,7 @@
                     <!-- Accordion Item 2 -->
                     <div class="accordion-item border-0">
                         <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                 <strong>What is business process management software?</strong>
                             </button>
                         </h2>
@@ -719,7 +731,7 @@
                     <!-- Accordion Item 3 -->
                     <div class="accordion-item border-0">
                         <h2 class="accordion-header" id="headingThree">
-                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                 <strong>What is the role of ECM in business process management?</strong>
                             </button>
                         </h2>
@@ -733,7 +745,7 @@
                     <!-- Accordion Item 4 -->
                     <div class="accordion-item border-0">
                         <h2 class="accordion-header" id="headingFour">
-                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
+                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                 <strong>Why do I need business process management?</strong>
                             </button>
                         </h2>

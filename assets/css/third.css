@@ -1,3 +1,19 @@
+
+@font-face {
+  font-family: 'Mokoto';
+  src: url('../fonts/mokoto/mokoto.regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.mokoto-family{
+  font-family: 'Mokoto', sans-serif !important;
+}
+/* body {
+  font-family: 'CustomFontName', sans-serif;
+} */
+
+
 .ser-hamburger-menu {
   position: relative;
   padding: 10px;
@@ -25791,7 +25807,7 @@ form.roi-calculator .currencyconverter {
 }
 
 .icons-smaller .icon-boxes-item.-headline-icon {
-  padding-left: 4em;
+  padding-left: 3.5em;
 }
 
 .teaser-boxes-label-circle .teaser-boxes-label {
@@ -32126,7 +32142,7 @@ html[lang="fr"] .ser-quote .quote {
   right: -60px;
   width: 123px;
   height: 123px;
-  background: url(/files/content/redesign/icons/doxi-info-box.svg);
+  /* background: url(/files/content/redesign/icons/doxi-info-box.svg); */
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -32321,7 +32337,7 @@ body.ser-blog .page {
 
   .oneo-no-sidebar .homepage-icon-boxes .rs-column.-large-col-2-1,
   .oneo-no-sidebar .icon-boxes .rs-column.-large-col-2-1 {
-    min-width: 49%;
+    min-width: 50%;
   }
 
   .oneo-no-sidebar .icon-boxes .rs-column.-large-col-6-1.-large-last {

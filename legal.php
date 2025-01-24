@@ -12,7 +12,7 @@
                             <div class="rte">
                                 <p>Joseph-Schumpeter-Allee 19<br>53227 Bonn<br>Germany</p>
                                 <p>Telephone: +49 228 90896-0<br>Fax: +49 228 90896-222<br>Email: <a
-                                href="mailto:info@smartidp.com">info@smartidp.com</a></p>
+                                href="mailto:info@smartidp.ai">info@smartidp.ai</a></p>
                                 <p><a href="<?php echo BASE_PATH; ?>loc.php">All addresses of SmartIDP Group »</a></p>
                             </div>
                         </div>
@@ -32,9 +32,9 @@
                     <div class="ce_rs_column_start  rs-column -large-col-4-2 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                         <div class="content-text">
                             <div class="rte">
-                                <p>The information on www.smartidp.com is subject to change without prior notice. New information may be added and out-of-date information may be updated. The texts and images on this website have been carefully selected.
+                                <p>The information on www.smartidp.ai is subject to change without prior notice. New information may be added and out-of-date information may be updated. The texts and images on this website have been carefully selected.
                                     Despite this fact, the website may still contain errors.</p>
-                                <p>SmartIDP is only responsible for the content of any external websites linked to www.smartidp.com insofar as SmartIDP has concrete knowledge of their content (that may be unlawful or relevant under criminal law) and that it
+                                <p>SmartIDP is only responsible for the content of any external websites linked to www.smartidp.ai insofar as SmartIDP has concrete knowledge of their content (that may be unlawful or relevant under criminal law) and that it
                                     is possible and reasonable for SmartIDP to prevent use of these sites. The initial check carried out when a link is first set up is not deemed sufficient to gain such concrete knowledge of the content in question.
                                     SmartIDP is not legally required to review external content on a continuous basis. Should SmartIDP become aware of or receive concrete evidence that an external website contains content that is unlawful or relevant under
                                     criminal law, SmartIDP shall remove the link provided that it is possible and reasonable to do so.</p>
@@ -44,7 +44,7 @@
                     <div class="ce_rs_column_start  rs-column -large-col-4-2 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
                         <div class="content-text">
                             <div class="rte">
-                                <p>The fact that www.smartidp.com contains names and titles does not mean that they can be used freely. All registered trademarks must be observed. All trademarks, brands and logos cited are registered trademarks,
+                                <p>The fact that www.smartidp.ai contains names and titles does not mean that they can be used freely. All registered trademarks must be observed. All trademarks, brands and logos cited are registered trademarks,
                                     brands and logos of their respective owners.</p>
                                 <p>© SmartIDP Holding International GmbH. All rights reserved.</p>
                                 <p>® SAP R/3, mySAP ERP and SAP ERP are registered trademarks of SAP SE</p>

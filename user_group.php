@@ -2,9 +2,11 @@
 <!-- <script src="https://cdn.sergroup.com/assets/js/jquery.min.js-c31f118d.js"></script> -->
 <link rel="stylesheet" href="assets/css/kenz_group.css">
 <style>
-        /* Large Screen (Desktops and Tablets) */
-        .responsive-heading {
+    /* Large Screen (Desktops and Tablets) */
+    .responsive-heading {
         font-size: 3.5em !important;
+        /* font-family: 'Mokoto', sans-serif !important; */
+        /* Add a fallback font */
     }
 
     .responsive-heading1 {
@@ -64,6 +66,7 @@
         }
     }
 </style>
+
 <body>
 
     <div class="content-wrapper">

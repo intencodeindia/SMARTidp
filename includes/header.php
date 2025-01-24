@@ -276,7 +276,7 @@
                             <a href="javascript:void(0)" class="main-navigation-mobile-open">navigation</a>
                             <div class="ce_rsce_oneo_logo logo doxi mr-lg-3">
                                 <a href="<?= BASE_PATH ?>index">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo/logo3.png" width="176" height="150" alt="">
+                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo/logo1.png" width="176" height="150" alt="">
                                 </a>
                             </div>
                             <nav class="mod_rocksolid_mega_menu_custom main-navigation block">
@@ -424,11 +424,11 @@
                                                                 Banking & financial services </a>
                                                         </li>
                                                         <li class="">
-                                                            <a href="javascript:void(0)" class="">
+                                                            <a href="<?php echo BASE_PATH; ?>insurance" class="">
                                                                 Insurance </a>
                                                         </li>
                                                         <li class="">
-                                                            <a href="javascript:void(0)" class="">
+                                                            <a href="<?php echo BASE_PATH; ?>logistics" class="">
                                                                 Logistics </a>
                                                         </li>
                                                         <li class="">
@@ -442,11 +442,11 @@
                                                         Departments </p>
                                                     <ul>
                                                         <li class="">
-                                                            <a href="javascript:void(0)" class="">
+                                                            <a href="<?php echo BASE_PATH; ?>purchasing_procurement" class="">
                                                                 Purchasing & procurement </a>
                                                         </li>
                                                         <li class="">
-                                                            <a href="javascript:void(0)" class="">
+                                                            <a href="<?php echo BASE_PATH; ?>human_resources" class="">
                                                                 Human resources </a>
                                                         </li>
 
