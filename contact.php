@@ -91,14 +91,14 @@
                             <div data-country="US">
                                 <p><strong>SmartIDP Group Inc.</strong></p>
                                 <p>6 Liberty Square # 2817<br>Boston, MA 02109</p>
-                                <p>Email: <a href="mailto:info@smartIDP.ai">info@smartIDP.ai</a></p>
+                                <p>Email: <a href="mailto:info@smartIDP.ai">info@smartidp.ai</a></p>
                             </div>
 
                             <!-- Default Head Office -->
                             <div data-country="default">
                                 <p><strong>SmartIDP Head Office.</strong></p>
                                 <p>5900 Balcones Drive STE 13688<br>Austin, TX 78731<br>USA</p>
-                                <p>Email: <a href="mailto:info@smartIDP.ai">info@smartIDP.ai</a></p>
+                                <p>Email: <a href="mailto:info@smartIDP.ai">info@smartidp.ai</a></p>
                             </div>
                         </div>
                     </div>
@@ -131,8 +131,8 @@
                             <div class="col-md-4">
                                 <label for="countryCode">Country Code<span class="text-danger">*</span></label>
                                 <select class="form-select countrycode" id="countryCode" name="countryCode" required>
-                                    <option value="" disabled selected>Select Country Code</option>
-                                    <option value="+1">USA (+1)</option>
+                                    <option value="" disabled>Select Country Code</option>
+                                    <option value="+1" selected>USA (+1)</option>
                                     <option value="+44">UK (+44)</option>
                                     <option value="+91">India (+91)</option>
                                     <option value="+61">Australia (+61)</option>
@@ -185,8 +185,9 @@
                         <!-- Country selection field -->
                         <div class="mb-3">
                             <label for="country" class="form-label">Country<span class="text-danger">*</span></label>
-                            <input class="form-control" type="text" name="country" id="country" placeholder=" " required>
+                            <input class="form-control" type="text" name="country" id="country" placeholder=" " required value="USA">
                         </div>
+
                         <!-- Submit button -->
                         <div class="d-flex justify-content-center mt-3">
                             <button type="submit" class="btn btn-primary rounded-pill px-5 py-2">SEND</button>
@@ -261,7 +262,7 @@
     }
 
     // Call the function on page load
-    window.onload = setCountryData;
+    // window.onload = setCountryData;
 </script>
 <script>
     document.addEventListener('DOMContentLoaded', function() {
@@ -298,5 +299,89 @@
         }
     });
 </script>
+<script>
+    // Automatically update the country field based on the selected country code
+    document.getElementById("countryCode").addEventListener("change", function() {
+        const countryCode = this.value;
+        const countryInput = document.getElementById("country");
 
+        let country = '';
+
+        switch(countryCode) {
+            case '+1':
+                country = 'USA';
+                break;
+            case '+44':
+                country = 'UK';
+                break;
+            case '+91':
+                country = 'India';
+                break;
+            case '+61':
+                country = 'Australia';
+                break;
+            case '+49':
+                country = 'Germany';
+                break;
+            case '+33':
+                country = 'France';
+                break;
+            case '+81':
+                country = 'Japan';
+                break;
+            case '+86':
+                country = 'China';
+                break;
+            case '+55':
+                country = 'Brazil';
+                break;
+            case '+64':
+                country = 'New Zealand';
+                break;
+            case '+82':
+                country = 'South Korea';
+                break;
+            case '+7':
+                country = 'Russia';
+                break;
+            case '+971':
+                country = 'United Arab Emirates';
+                break;
+            case '+966':
+                country = 'Saudi Arabia';
+                break;
+            case '+965':
+                country = 'Kuwait';
+                break;
+            case '+974':
+                country = 'Qatar';
+                break;
+            case '+968':
+                country = 'Oman';
+                break;
+            case '+973':
+                country = 'Bahrain';
+                break;
+            case '+92':
+                country = 'Pakistan';
+                break;
+            case '+880':
+                country = 'Bangladesh';
+                break;
+            case '+960':
+                country = 'Maldives';
+                break;
+            case '+66':
+                country = 'Thailand';
+                break;
+            case '+63':
+                country = 'Philippines';
+                break;
+            default:
+                country = '';
+        }
+
+        countryInput.value = country;  // Set the country input field based on the selected code
+    });
+</script>
 <?php include_once("includes/footer.php"); ?>

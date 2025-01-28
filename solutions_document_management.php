@@ -173,13 +173,12 @@
                     <!-- Left Column (Text Content) -->
                     <div class="col-lg-8 text-white">
                         <div class="mb-4">
-                            <h2 class="subheadline text-uppercase fw-bold" style="font-size: 2.5rem;">
+                            <h2 class="fw-bolder mb-4" style="font-size: 2.5rem;color: #000d39;">
                                 Empowered by SmartIDP Technology
-                                </span>
                             </h2>
                             <h1 class="display-3 text-white  fw-bold">Revolutionize Your Document Management</h1>
                         </div>
-                        <ul class="list-unstyled">
+                        <ul class="list-unstyled" style="color: #ffff !important;">
                             <li class="d-flex align-items-center mb-2">
                                 <i class="fas fa-check-circle me-2"></i> Effortlessly handle large volumes of documents
                             </li>
@@ -199,7 +198,6 @@
                                 <i class="fas fa-check-circle me-2"></i> Streamline workflows and enhance collaboration across teams
                             </li>
                         </ul>
-
                         <div class="mt-4">
                             <a class="btn rounded-pill px-4 text-white fw-bold" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
                         </div>

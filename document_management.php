@@ -204,42 +204,43 @@
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container-fluid py-3 cover" id="article-43622" style="background-image: url('assets/images/document_management/cove_pic.png'); background-size: cover; background-position: center center;">
+        <div class="container-fluid" style="background-image: url('assets/images/manufacturing/banner.gif'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
             <div class="container">
                 <div class="row align-items-center">
-                    <!-- Left Column (Text Content) -->
-                    <div class="col-lg-8 text-white">
-                        <div class="mb-4">
-                            <h2 class="subheadline text-uppercase fw-bold" style="font-size: 2.5rem;">
-                                Empowered by SmartIDP Technology
-                                </span>
-                            </h2>
-                            <h1 class="display-3 text-white  fw-bold">Revolutionize Your Document Management</h1>
-                        </div>
-                        <ul class="list-unstyled">
-                            <li class="d-flex align-items-center mb-2">
+                    <!-- Left Column: Content Section -->
+                    <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
+                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;"> Empowered by SmartIDP Technology</h2>
+                        <h1 class="display-3 text-white">
+                            Syncing Information and Goods Logistics with SmartIDP
+                        </h1>
+                        <p class="fs-5 text-white mb-4">Revolutionize Your Document Management</p>
+                        <ul class="list-unstyled content-text">
+                            <li class="d-flex align-items-center mb-2 text-white">
                                 <i class="fas fa-check-circle me-2"></i> Effortlessly handle large volumes of documents
                             </li>
-                            <li class="d-flex align-items-center mb-2">
+                            <li class="d-flex align-items-center mb-2  text-white">
                                 <i class="fas fa-check-circle me-2"></i> Accelerate processing speeds and maximize efficiency
                             </li>
-                            <li class="d-flex align-items-center mb-2">
+                            <li class="d-flex align-items-center mb-2  text-white">
                                 <i class="fas fa-check-circle me-2"></i> Maintain compliance with advanced, certified SmartIDP solutions
                             </li>
-                            <li class="d-flex align-items-center mb-2">
+                            <li class="d-flex align-items-center mb-2  text-white">
                                 <i class="fas fa-check-circle me-2"></i> Enhance decision-making with intelligent automation and data extraction
                             </li>
-                            <li class="d-flex align-items-center mb-2">
+                            <li class="d-flex align-items-center mb-2  text-white">
                                 <i class="fas fa-check-circle me-2"></i> Improve accuracy and reduce human error in data processing
                             </li>
-                            <li class="d-flex align-items-center mb-2">
+                            <li class="d-flex align-items-center mb-2  text-white">
                                 <i class="fas fa-check-circle me-2"></i> Streamline workflows and enhance collaboration across teams
                             </li>
                         </ul>
-
                         <div class="mt-4">
                             <a class="btn rounded-pill px-4 text-white fw-bold" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
                         </div>
+                    </div>
+                    <!-- Right Column: Image Section -->
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
+                        <img src="assets/images/document_management/document_management_git.gif" loading="lazy" class="img-fluid" alt="SmartIDP">
                     </div>
                 </div>
             </div>
@@ -661,7 +662,7 @@
                     </div>
                     <hr>
                     <!-- Content Item 2 -->
-                    <div class="content-item p-4" onmouseover="changeImage('img2')" onmouseout="resetImage()"style="border-radius: 20px;">
+                    <div class="content-item p-4" onmouseover="changeImage('img2')" onmouseout="resetImage()" style="border-radius: 20px;">
                         <h5 class="card-title text-dark fw-bold">Case Study: How SmartIDP Transformed Document Management at Global Enterprises</h5>
                         <p class="card-text">Leading global enterprises in finance and healthcare trust SmartIDP to automate the categorization and extraction of vital data from contracts, invoices, and medical records. These companies have achieved a 40% reduction in processing time and enhanced compliance with industry regulations.</p>
                     </div>

@@ -41,15 +41,16 @@
                     <!-- Left Column: Content Section -->
                     <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
                         <h2 class="fw-bold mb-4 text-white"><span class="gradient">SmartIDP</span> for Purchasing & Procurement</h2>
-                        <p class="lead fw-bold text-white mb-4">Save time and money with order processes and supplier management using SmartIDP.</p>
+                        <p class="fs-5 text-white mb-4">Save time and money with order processes and supplier management using SmartIDP.</p>
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/purchasing_procurement/img1.png"loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 65%; height: auto;">
+                        <img src="assets/images/purchasing_procurement/gif_purchase2.gif"loading="lazy" class="img-fluid" alt="SmartIDP">
                     </div>
                 </div>
             </div>
         </div>
+
         <div class="mt-5"></div>
         <?php include_once("smartidp_logos.php"); ?>
 

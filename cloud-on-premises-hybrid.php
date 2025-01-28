@@ -177,7 +177,7 @@
       <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
         <div class="icon-boxes-wrapper">
           <div
-            class="icon-boxes-item rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
+            class="icon-boxes-item -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
             <span class="icon-boxes-item-icon"><i class="fas fa-cogs fa-md"></i></span>
             <h3>SmartIDP-as-a-service</h3>
             <div class="icon-boxes-item-text">
@@ -185,7 +185,7 @@
             </div>
           </div>
           <div
-            class="icon-boxes-item rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
+            class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
             <span class="icon-boxes-item-icon"><i class="fas fa-check-circle fa-md"></i></span>
             <h3>SmartIDP in your data center</h3>
             <div class="icon-boxes-item-text">
@@ -195,6 +195,7 @@
         </div>
       </section>
     </div>
+
     <div class="container my-md-5">
       <div class="row align-items-center">
         <h2 class="fw-bold text-center text-sm-start">Smart Solutions</h2>
@@ -210,6 +211,7 @@
         <hr class="mt-3">
       </div>
     </div>
+    
     <div class="container my-5">
       <h2 class="mb-md-4 fw-bold"><span class="gradient">Multi-platform</span> support</h2>
       <div class="row">

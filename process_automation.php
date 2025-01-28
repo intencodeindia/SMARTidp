@@ -116,8 +116,9 @@
             /* Button padding on smaller screens */
         }
     }
-     /* Change text color to black when the button is active */
-     .accordion-button:not(.collapsed) {
+
+    /* Change text color to black when the button is active */
+    .accordion-button:not(.collapsed) {
         color: black !important;
         background-color: #f8f9fa !important;
         /* You can adjust the background color if needed */
@@ -128,7 +129,26 @@
         /* Default text color for collapsed state */
     }
 
+    .video-container {
+        position: relative;
+        display: inline-block;
+        border-radius: 20px;
+        padding: 10px;
+    }
+
+    .video-container::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(260deg, #0090f9 0%, #00b09c 100%);
+        border-radius: 20px;
+        z-index: -1;
+    }
 </style>
+
 <!-- <link rel="stylesheet" href="<?php echo BASE_PATH; ?>assets/css/five.css"> -->
 <div class="content-wrapper">
     <main role="main" class="main-content">
@@ -189,14 +209,14 @@
 
                     <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 12%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block"loading="lazy" alt="Logo 2">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
                         </div>
                     </div>
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
                             <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy"
-                             alt="Logo 3" style="height: 60px;">
+                                alt="Logo 3" style="height: 60px;">
                         </div>
                     </div>
 
@@ -220,13 +240,13 @@
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60"loading="lazy" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
                         </div>
                     </div>
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60"loading="lazy" style="width: 150px; height: 50px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
@@ -250,7 +270,7 @@
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block"loading="lazy" alt="Logo 3" style="height: 60px;">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy" alt="Logo 3" style="height: 60px;">
                         </div>
                     </div>
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
@@ -279,7 +299,7 @@
                     <!-- Logos (only Third set) -->
                     <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png"  class="d-block"  loading="lazy" alt="Logo 2">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
                         </div>
                     </div>
 
@@ -428,7 +448,7 @@
                     </div>
                 </div>
             </section>
-  
+
             <section class="icon-boxes is-animated does-repeat row text-center mt-4">
                 <!-- Fourth Card -->
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
@@ -479,9 +499,9 @@
                 <!-- Left Column (Image) -->
                 <div class="col-md-6">
                     <div class="content-image text-center mb-4 mb-md-0">
-                        
-                            <img src="assets/images/SmartIDP/image.png" alt="Business Process Management"  loading="lazy"title="One business process management (BPM) software for all processes" class="img-fluid"  style="border-radius: 20px;"/>
-                        
+
+                        <img src="assets/images/SmartIDP/image.png" alt="Business Process Management" loading="lazy" title="One business process management (BPM) software for all processes" class="img-fluid" style="border-radius: 20px;" />
+
                     </div>
                 </div>
 
@@ -516,17 +536,17 @@
             <div class="row align-items-center">
                 <!-- Left Column (Video) -->
                 <div class="col-md-6">
-                    <div class="content-vimeo text-center">
-                        <figure class="aspect-ratio ratio ratio-16x9">
-                            <button data-splash-screen>
-                                <!-- Video with Autoplay and Muted Attributes -->
-                                <video width="100%" height="100%" autoplay muted loop style="border-radius: 20px;">
-                                    <source src="assets/images/explanation-vid.mp4" type="video/mp4" >
-                                    Your browser does not support the video tag.
-                                </video>
-                            </button>
-                        </figure>
+                    <div class="video-container" style="position: relative; display: inline-block;">
+                        <video width="100%" height="100%" autoplay muted loop style="border-radius: 20px; display: block;">
+                            <source src="assets/images/explanation-vid.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                        <div class="video-border"></div>
                     </div>
+
+
+                    </style>
+
                 </div>
 
                 <!-- Right Column (Text) -->
@@ -698,7 +718,7 @@
             </div>
             <div class="mx-auto">
                 <!-- Bootstrap Accordion -->
-                <div class="accordion" id="accordionFAQ"> 
+                <div class="accordion" id="accordionFAQ">
 
                     <!-- Accordion Item 1 -->
                     <div class="accordion-item border-0">

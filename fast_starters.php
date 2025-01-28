@@ -225,7 +225,7 @@
         </div>
         <div class="col-lg-6 col-md-12">
           <img src="assets/images/fast_starters/choose.webp"
-            alt="Select a SmartIDP Fast Starter from an extensive library" class="img-fluid rounded" loadin="lazy"style="border-radius: 20px;">
+            alt="Select a SmartIDP Fast Starter from an extensive library" class="img-fluid" loadin="lazy"style="border-radius: 20px;">
         </div>
       </div>
 
@@ -240,7 +240,7 @@
         </div>
         <div class="col-lg-6 col-md-12 order-md-1">
           <img src="assets/images/fast_starters/customize1.png" alt="Customizing a SmartIDP Fast Starter"
-            class="img-fluid rounded"style="border-radius: 20px" loading="lazy">
+            class="img-fluid"style="border-radius: 20px" loading="lazy">
         </div>
       </div>
 
@@ -254,7 +254,7 @@
         </div>
         <div class="col-lg-6 col-md-12">
           <img src="assets/images/fast_starters/team.webp" alt="User management in SmartIDP Fast Starters"
-            class="img-fluid rounded"style="border-radius: 20px" loading="lazy">
+            class="img-fluid"style="border-radius: 20px" loading="lazy">
         </div>
       </div>
     </div>

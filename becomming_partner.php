@@ -196,71 +196,82 @@
                 <p class="text-justify mb-md-5">
                     Based on the business model and an agreed go-to-market approach, we differentiate between the following types of business partners to help us respond to different needs and requirements and tailor our partner support.
                 </p>
-
                 <div class="row mt-2">
                     <!-- Partner Types List -->
-                    <div class="col-lg-8 col-md-12">
-                        <ul class="list-unstyled">
-                            <!-- Software Reseller -->
-                            <li class="d-flex align-items-center mb-4" style="font-size: 1.1rem;">
-                                <i class="fas fa-cogs" style="font-size: 2rem; color: #666666; margin-right: 15px;"></i>
-                                <div>
-                                    <h5 class="fw-bold" style="color: #666666;">Software Reseller (SWR)</h5>
-                                    <p class="text-justify" style="color: #333;">From qualified leads to independent selling of SmartIDP without additional project implementation and support.</p>
-                                </div>
-                            </li>
+                    <ul class="list-unstyled">
+                        <!-- Software Reseller -->
+                        <li class="mb-4 d-flex flex-column flex-lg-row">
+                            <div class="col-lg-8">
+                                <h3 class="fw-bold" style="color: #666666;">
+                                    <i class="fas fa-cogs fa-xl pe-2" style="color: #666666;"></i>Software Reseller
+                                </h3>
+                                <p class="text-justify" style="margin-left: 50px;">From qualified leads to independent selling of SmartIDP without additional project implementation and support.</p>
+                            </div>
+                            <div class="col-lg-4 text-center text-lg-start">
+                                <img src="assets/images/becoming-partner/img1.png" alt="Software Reseller" loading="lazy" class="img-fluid">
+                            </div>
+                        </li>
+                        <!-- Value Added Reseller -->
+                        <li class="mb-4 d-flex flex-column flex-lg-row">
+                            <div class="col-lg-8">
+                                <h3 class="fw-bold" style="color: #dd8433;">
+                                    <i class="fas fa-hand-holding-heart fa-xl pe-2" style="color: #dd8433;"></i>Value Added Reseller
+                                </h3>
+                                <p class="text-justify" style="margin-left: 50px;">Covers all aspects of selling, implementation, and support of SmartIDP for our joint customers. SmartIDP is also enhanced by industry and business solutions designed in-house.</p>
+                            </div>
+                            <div class="col-lg-4 text-center text-lg-start">
+                                <img src="assets/images/becoming-partner/img2.png" alt="Value Added Reseller" loading="lazy" class="img-fluid">
+                            </div>
+                        </li>
+                        <!-- Cloud Solution Provider -->
+                        <li class="mb-4 d-flex flex-column flex-lg-row">
+                            <div class="col-lg-8">
+                                <h3 class="fw-bold" style="color: #da5da8;">
+                                    <i class="fas fa-cloud fa-xl pe-2" style="color: #da5da8;"></i>Cloud Solution Provider
+                                </h3>
+                                <p class="text-justify" style="margin-left: 50px;">Provides a shared solution on SmartIDP or implements a dedicated business solution via the cloud.</p>
+                            </div>
+                            <div class="col-lg-4 text-center text-lg-start">
+                                <img src="assets/images/becoming-partner/img3.png" alt="Cloud Solution Provider" loading="lazy" class="img-fluid">
+                            </div>
+                        </li>
 
-                            <!-- Value Added Reseller -->
-                            <li class="d-flex align-items-center mb-4" style="font-size: 1.1rem;">
-                                <i class="fas fa-hand-holding-heart" style="font-size: 2rem; color: #dd8433; margin-right: 15px;"></i>
-                                <div>
-                                    <h5 class="fw-bold" style="color: #dd8433;">Value Added Reseller (VAR)</h5>
-                                    <p class="text-justify" style="color: #333;">Covers all aspects of selling, implementation, and support of SmartIDP for our joint customers. SmartIDP is also enhanced by industry and business solutions designed in-house.</p>
-                                </div>
-                            </li>
+                        <!-- Global Solution Integrator -->
+                        <li class="mb-4 d-flex flex-column flex-lg-row">
+                            <div class="col-lg-8">
+                                <h3 class="fw-bold" style="color: #b65edf;">
+                                    <i class="fas fa-globe fa-xl pe-2" style="color: #b65edf;"></i>Global Solution Integrator
+                                </h3>
+                                <p class="text-justify" style="margin-left: 50px;">Delivers global roll-out and advises our enterprise customers across countries and continents. Our GSIs are market leaders and understand how to build high-end solutions based on SmartIDP.</p>
+                            </div>
+                            <div class="col-lg-4 text-center text-lg-start">
+                                <img src="assets/images/becoming-partner/img4.png" alt="Global Solution Integrator" loading="lazy" class="img-fluid">
+                            </div>
+                        </li>
 
-                            <!-- Cloud Solution Provider -->
-                            <li class="d-flex align-items-center mb-4" style="font-size: 1.1rem;">
-                                <i class="fas fa-cloud" style="font-size: 2rem; color: #da5da8; margin-right: 15px;"></i>
-                                <div>
-                                    <h5 class="fw-bold" style="color: #da5da8;">Cloud Solution Provider (CSP)</h5>
-                                    <p class="text-justify" style="color: #333;">Provides a shared solution on SmartIDP or implements a dedicated business solution via the cloud.</p>
-                                </div>
-                            </li>
-
-                            <!-- Global Solution Integrator -->
-                            <li class="d-flex align-items-center mb-4" style="font-size: 1.1rem;">
-                                <i class="fas fa-globe" style="font-size: 2rem; color: #b65edf; margin-right: 15px;"></i>
-                                <div>
-                                    <h5 class="fw-bold" style="color: #b65edf;">Global Solution Integrator (GSI)</h5>
-                                    <p class="text-justify" style="color: #333;">Delivers global roll-out and advises our enterprise customers across countries and continents. Our GSIs are market leaders and understand how to build high-end solutions based on SmartIDP.</p>
-                                </div>
-                            </li>
-
-                            <!-- Original Equipment Manufacturers -->
-                            <li class="d-flex align-items-center mb-4" style="font-size: 1.1rem;">
-                                <i class="fas fa-cogs" style="font-size: 2rem; color: #795ee3; margin-right: 15px;"></i>
-                                <div>
-                                    <h5 class="fw-bold" style="color: #795ee3;">Original Equipment Manufacturers (OEM)</h5>
-                                    <p class="text-justify" style="color: #333;">To define a joint OEM approach we differentiate between white labelling, light integration, and full OEM. All levels demand strong commitment and a long-term view from both parties.</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <!-- Partner Image -->
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <img src="assets/images/becoming-partner/napkin-selection-1.svg" alt="Types of Partners" class="img-fluid rounded shadow-sm" style="max-width: 100%; border-radius: 10px" loading="lazy">
-                    </div>
+                        <!-- Original Equipment Manufacturers -->
+                        <li class="mb-4 d-flex flex-column flex-lg-row">
+                            <div class="col-lg-8">
+                                <h3 class="fw-bold" style="color: #795ee3;">
+                                    <i class="fas fa-cogs fa-xl pe-2" style="color: #795ee3;"></i>Original Equipment Manufacturers
+                                </h3>
+                                <p class="text-justify" style="margin-left: 50px;">To define a joint OEM approach we differentiate between white labelling, light integration, and full OEM. All levels demand strong commitment and a long-term view from both parties.</p>
+                            </div>
+                            <div class="col-lg-4 text-center text-lg-start">
+                                <img src="assets/images/becoming-partner/img5.png" alt="Original Equipment Manufacturers" loading="lazy" class="img-fluid">
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
 
 
+
             <div class="container py-md-5">
                 <h2 class="text-center mb-md-5 fw-bold">Become a <span class="gradient">SmartIDP Partner</span></h2>
-                <h3 class="text-justify mb-md-4">
+                <h4 class="text-justify text-center mb-md-4">
                     At SmartIDP, we understand that every automation project requires a variety of skills and expertise. We provide our partners with professional, flexible, and fast training to ensure success.
-                </h3>
+                </h4>
 
                 <div class="row justify-content-center">
                     <!-- Training from Anywhere -->

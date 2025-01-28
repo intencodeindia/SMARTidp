@@ -38,17 +38,17 @@
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container-fluid" style="background-image: url('assets/images/SmartIDP_Group/Animated.svg'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
+        <div class="container-fluid" style="background-image: url('assets/images/manufacturing/banner.gif'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column: Content Section -->
                     <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
-                        <h2 class="fw-bold mb-4 text-white"><span class="gradient">SmartIDP</span> Simplifying HR Document Management</h2>
-                        <p class="lead fw-bold text-white mb-4">Efficiently manage all employee records, streamline HR workflows, and ensure compliance. SmartIDP integrates with your existing systems to centralize all documents in one secure platform.</p>
+                        <h2 class="fw-bold mb-4" style="color: #000d39;">Simplifying HR Document Management</h2>
+                        <p class="fs-5 text-white mb-4">Efficiently manage all employee records, streamline HR workflows, and ensure compliance. SmartIDP integrates with your existing systems to centralize all documents in one secure platform.</p>
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/human_resource/12.png" class="img-fluid"loading="lazy" alt="SmartIDP" style="max-width: 85%; height: auto;">
+                        <img src="assets/images/human_resource/human_resources_2.gif" class="img-fluid"loading="lazy" alt="SmartIDP" >
                     </div>
                 </div>
             </div>

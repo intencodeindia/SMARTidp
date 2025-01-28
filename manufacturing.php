@@ -118,36 +118,36 @@
             /* Adjust button size */
         }
     }
-    .imghv{
+
+    .imghv {
         height: 300px;
         width: 530px;
     }
 </style>
 <div class="content-wrapper">
     <div role="main" class="main-content">
-        <div class="container-fluid py-5" id="article-43622" style="background-image: url('assets/images/manufacturing/menu22.webp'); background-size: cover; background-position: 0% 10%;">
+
+        <div class="container-fluid" style="background-image: url('assets/images/manufacturing/banner.gif'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
             <div class="container">
                 <div class="row align-items-center">
-                    <!-- Left Column (Text Content) -->
-                    <div class="col-lg-6 text-white">
-                        <div class="mb-4">
-                            <h2 class="subheadline text-uppercase" style="font-size: 2.5rem; font-weight: 700;">
-                                <span class="gradient">"SmartIDP for the Manufacturing Sector"</span>
-                            </h2>
-                            <h1 class="display-3 responsive-headline" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;">
-                                "SmartIDP and Industry 5.0: Are You Digitally Ready?"
-                            </h1>
-                            <p>"SmartIDP: Bridging Your Supply Chain, Production, and IIoT Systems with People, Machines, and Information"</p>
-                        </div>
+                    <!-- Left Column: Content Section -->
+                    <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
+                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;">SmartIDP for the Manufacturing Sector</h2>
+                        <h1 class="display-3 text-white">
+                            "SmartIDP and Industry 5.0: Are You Digitally Ready?"
+                        </h1>
+                        <p class="fs-5 text-white mb-4">SmartIDP: Bridging Your Supply Chain, Production, and IIoT Systems with People, Machines, and Information.</p>
                         <div class="mt-4">
                             <a class="btn rounded-pill px-4 text-white" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover our customer stories</a>
                         </div>
                     </div>
+                    <!-- Right Column: Image Section -->
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
+                        <img src="assets/images/manufacturing/gif_2.gif" loading="lazy" class="img-fluid" alt="SmartIDP">
+                    </div>
                 </div>
             </div>
         </div>
-
-
 
         <div class="mt-5"></div>
         <?php include_once("smartidp_logos.php"); ?>
@@ -343,7 +343,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 text-center mt-md-0 mt-4">
-                    <img src="assets/images/manufacturing/menu5.webp" alt="" class="img-fluid shadow-lg imghv"loading="lazy" style="border-radius: 20px;">
+                    <img src="assets/images/manufacturing/menu5.webp" alt="" class="img-fluid shadow-lg imghv" loading="lazy" style="border-radius: 20px;">
                 </div>
             </div>
         </div>

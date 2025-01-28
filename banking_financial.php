@@ -117,8 +117,9 @@
         transform: translateY(-5px);
         box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
     }
+
     @media (max-width: 768px) {
-        #article-43622{
+        #article-43622 {
             background-position: center;
 
         }
@@ -127,17 +128,20 @@
 <div class="content-wrapper">
     <main role="main" class="main-content">
         <!-- Hero Section -->
-        <div class="container-fluid cover" id="article-43622" style="background-image: url('assets/images/banking_financial/fin4.png'); background-size: cover; background-position: center center; height: 60vh;">
-            <div class="container h-100 d-flex justify-content-center align-items-center">
-                <div class="row w-100 justify-content-center">
-                    <!-- Left Column (Text Content) -->
-                    <div class="col-12 text-white text-center">
-                        <div class="mb-4">
-                            <h2 class="subheadline text-uppercase fw-bold fs-1 fs-md-2 fs-lg-3 text-whitext-dark-emphasiste" style="line-height: normal;">
-                                SmartIDP for Banks and Financial Services: Revolutionizing Document and Data Management
-                            </h2>
-                        </div>
-
+        <div class="container-fluid" style="background-image: url('assets/images/manufacturing/banner.gif'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- Left Column: Content Section -->
+                    <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
+                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;">SmartIDP for Banks and Financial Services</h2>
+                        <h1 class="display-3 text-white">
+                            Revolutionizing Document and Data Management
+                        </h1>
+                        <p class="fs-5 text-white mb-4">SmartIDP is the key to seamless document processing, automating workflows, and enabling smarter decision-making across banking and financial services.</p>
+                    </div>
+                    <!-- Right Column: Image Section -->
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
+                        <img src="assets/images/banking_financial/gif_finance.gif" loading="lazy" class="img-fluid" alt="SmartIDP">
                     </div>
                 </div>
             </div>
@@ -187,7 +191,7 @@
 
                     <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
                         <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px"loading="lazy">
+                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
                         </div>
                     </div>
 
