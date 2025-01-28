@@ -1,5 +1,10 @@
 <?php include_once("includes/header.php"); ?>
 <style>
+       .gradient {
+        background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
     /* Marquee container styling */
     .customer-logos-marquee {
         overflow: hidden;
@@ -96,6 +101,18 @@
             /* Button padding on smaller screens */
         }
     }
+        /* Unique class for shadow effect */
+        .custom-card-shadow {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 1.25rem;
+    }
+
+    .custom-card-shadow:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
+    }
+
 </style>
 <!-- <link rel="stylesheet" href="<?php echo BASE_PATH; ?>assets/css/saps.css"> -->
 <div class="content-wrapper">
@@ -308,31 +325,28 @@
                     <!-- Left Column (Text Content) -->
                     <div class="col-lg-12 text-center mb-5">
                         <h2 class="responsive-heading1 fw-bold">Document <span class="gradient">Management</span> Made Easy with <span class="gradient">SAP SmartIDP</span></h2>
-                        <p class="lead responsive-paragraph fw-bold">Automate and streamline your document management processes with the power of AI and SAP SmartIDP. Enhance compliance, security, and efficiency in managing employee and business documents across your organization.</p>
+                        <p class="responsive-paragraph">Automate and streamline your document management processes with the power of AI and SAP SmartIDP. Enhance compliance, security, and efficiency in managing employee and business documents across your organization.</p>
                     </div>
                 </div>
 
                 <div class="row row-cols-1 row-cols-md-3 g-4">
                     <!-- Icon Box 1 -->
                     <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-folder-open" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                            </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">Fast & Secure File Management</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Unify employee and business documents in a consolidated, user-friendly, and secure view. Gain complete control over all documents across various stages, from onboarding to offboarding.</p>
-                            <div class="card-body" style="text-align: left; padding-left: 25px;">
+                        <div class="card custom-card-shadow h-100 p-3">
+                            
+                                <i class="fas fa-folder-open fa-3x mb-3 gradient text-center"></i>
+                           
+                            <h5 class="card-title text-center fw-bold">Fast & Secure File Management</h5>
+                            <p class="card-text text-justify">Unify employee and business documents in a consolidated, user-friendly, and secure view. Gain complete control over all documents across various stages, from onboarding to offboarding.</p>
+                            <div class="card-body">
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Unify and secure HR documents</span>
+                                    <p><i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Unify and secure HR documents</p>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Full control over document flow</span>
+                                    <p> <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Full control over document flow</p>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Automated notifications for deadlines</span>
+                                    <p><i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Automated notifications for deadlines</p>
                                 </div>
                             </div>
                         </div>
@@ -340,24 +354,21 @@
 
                     <!-- Icon Box 2 -->
                     <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-users-cog" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                            </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">More Efficient HR Workflows</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Automate the entire employee lifecycle, including applicant workflows, on-/offboarding, leave requests, and more. Boost productivity by automating manual tasks.</p>
-                            <div class="card-body" style="text-align: left; padding-left: 25px;">
+                        <div class="card custom-card-shadow h-100 p-3">
+                                <i class="fas fa-users-cog fa-3x mb-3 gradient  text-center"></i>
+                            <h5 class="card-title fw-bold text-center">More Efficient HR Workflows</h5>
+                            <p class="card-text text-justify">Automate the entire employee lifecycle, including applicant workflows, on-/offboarding, leave requests, and more. Boost productivity by automating manual tasks.</p>
+                            <div class="card-body">
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Automate employee lifecycle tasks</span>
+                                    <p><i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Automate employee lifecycle tasks</p>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Streamline contract workflows with digital signatures</span>
+                                    
+                                    <p><i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Streamline contract workflows with digital signatures</p>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Reduce response times and administrative costs</span>
+                                    
+                                    <p><i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Reduce response times and administrative costs</p>
                                 </div>
                             </div>
                         </div>
@@ -365,24 +376,24 @@
 
                     <!-- Icon Box 3 -->
                     <div class="col">
-                        <div class="card h-100  p-4 shadow-sm" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-                            <div class="icon mb-3 text-center">
-                                <i class="fas fa-shield-alt" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-                            </div>
-                            <h5 class="card-title text-center" style="font-size: 1.5rem; font-weight: bold;">Streamlined Compliance</h5>
-                            <p class="card-text text-justify" style="font-size: 1.1rem;">Ensure your document management complies with regulations and avoid risks by setting role-based access, automated task notifications, and protecting data through automated retention policies.</p>
-                            <div class="card-body" style="text-align: left; padding-left: 25px;">
+                        <div class="card custom-card-shadow h-100 p-3">
+                           
+                                <i class="fas fa-shield-alt fa-3x mb-3 gradient  text-center"></i>
+                            
+                            <h5 class="card-title fw-bold text-center">Streamlined Compliance</h5>
+                            <p class="card-text text-justify">Ensure your document management complies with regulations and avoid risks by setting role-based access, automated task notifications, and protecting data through automated retention policies.</p>
+                            <div class="card-body">
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Manage documents in compliance with regulations</span>
+                                   
+                                    <p> <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Manage documents in compliance with regulations</p>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Set role-based access rights</span>
+                                   
+                                    <p> <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Set role-based access rights</p>
                                 </div>
                                 <div class="d-flex align-items-center mb-2">
-                                    <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
-                                    <span style="font-size: 1.1rem;">Automate data protection and retention policies</span>
+                                  
+                                    <p> <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>Automate data protection and retention policies</p>
                                 </div>
                             </div>
                         </div>

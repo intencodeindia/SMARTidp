@@ -9,7 +9,7 @@
 
     /* Unique class for shadow effect */
     .custom-card-shadow {
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 4px 12px rgb(82 169 255 / 48%), 0 8px 24px rgb(82 169 255 / 48%);
         transition: transform 0.3s ease, box-shadow 0.3s ease;
         border-radius: 1.25rem;
     }
@@ -36,7 +36,7 @@
                         </div>
 
                         <div class="mt-4">
-                            <a class="btn btn-outline-primary rounded-pill px-5 text-white" href="contact.php"><b>REQUEST DEMO</b></a>
+                            <a class="btn btn-outline-primary rounded-pill px-5 text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
                         </div>
                     </div>
                 </div>
@@ -233,9 +233,9 @@
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body" style="text-align: left; padding-left: 25px;">
                                 <div class="icon mb-3 text-center">
-                                    <i class="fas fa-folder-open" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <i class="fas fa-folder-open fa-3x mb-3 gradient"></i>
                                 </div>
-                                <h5 class="card-title text-center" style="font-size: 1.2rem; font-weight: bold;">Patient files and case records</h5>
+                                <h5 class="card-title fw-bold text-center">Patient files and case records</h5>
                                 <p class="card-text text-justify" style="font-size: 1rem;">Electronic patient files and case records provide comprehensive medical history, from intake to discharge. Organized by stays and visits,
                                     they offer powerful search functions and seamless integration with your IT and clinic systems. Gain complete control over all documents across various stages, from onboarding to offboarding.
                                 </p>
@@ -260,9 +260,9 @@
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body" style="text-align: left; padding-left: 25px;">
                                 <div class="icon mb-3 text-center">
-                                    <i class="fas fa-users-cog" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <i class="fas fa-users-cog fa-3x mb-3 gradient"></i>
                                 </div>
-                                <h5 class="card-title text-center" style="font-size: 1.2rem; font-weight: bold;">Digital Imaging and Communications in Medicine</h5>
+                                <h5 class="card-title fw-bold text-center">Digital Imaging and Communications in Medicine</h5>
                                 <p class="card-text text-justify" style="font-size: 1rem;">Diagnostic imaging exams are stored in the DICOM archive and integrated into patient records.
                                     The certified viewer allows intuitive examination with functions like measurement, zoom, contrast adjustments, and more.
                                 </p>
@@ -287,9 +287,9 @@
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body" style="text-align: left; padding-left: 25px;">
                                 <div class="icon mb-3 text-center">
-                                    <i class="fas fa-lightbulb" style="font-size: 3rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <i class="fas fa-lightbulb fa-3x mb-3 gradient"></i>
                                 </div>
-                                <h5 class="card-title text-center" style="font-size: 1.2rem; font-weight: bold;">Integrating the Healthcare Enterprise</h5>
+                                <h5 class="card-title fw-bold text-center">Integrating the Healthcare Enterprise</h5>
                                 <p class="card-text text-justify" style="font-size: 1rem;">Support for IHE profiles enables seamless cross-company data exchange in healthcare, proven reliable through IHE Connectathon testing and real-world use.
                                 <div class="d-flex align-items-center mb-2">
                                     <i class="fas fa-check-circle mr-2" style="color: #00b09c;"></i>
@@ -323,13 +323,12 @@
                     <section class="row">
                         <!-- Icon Box 1 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-                                <div class="card-body d-flex align-items-center">
-                                    <i class="fas fa-cogs fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
-
+                            <div class="card custom-card-shadow h-100 text-center">
+                                <div class="card-body d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-cogs fa-3x mb-3 gradient me-2"></i>
                                     <div>
-                                        <h3 class="card-title" style="font-size: 1.3rem;">Invoice management</h3>
-                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Automatically store inbound invoices, capture data, and retrieve it in seconds.</p>
+                                        <h5 class="card-title fw-bold">Invoice management</h5>
+                                        <p class="card-text text-justify">Automatically store inbound invoices, capture data, and retrieve it in seconds.</p>
                                     </div>
                                 </div>
                             </div>
@@ -337,12 +336,12 @@
 
                         <!-- Icon Box 2 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-                                <div class="card-body d-flex align-items-center">
-                                    <i class="fas fa-brain fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                            <div class="card custom-card-shadow h-100 text-center">
+                                <div class="card-body d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-brain fa-3x mb-3 gradient me-2"></i>
                                     <div>
-                                        <h3 class="card-title" style="font-size: 1.3rem;">Contract administration</h3>
-                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Automated creation, review, approval, finalization, management, and archiving.</p>
+                                        <h5 class="card-title fw-bold">Contract administration</h5>
+                                        <p class="card-text text-justify">Automated creation, review, approval, finalization, management, and archiving.</p>
                                     </div>
                                 </div>
                             </div>
@@ -350,12 +349,12 @@
 
                         <!-- Icon Box 3 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-                                <div class="card-body d-flex align-items-center">
-                                    <i class="fas fa-chart-line fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                            <div class="card custom-card-shadow h-100 text-center">
+                                <div class="card-body d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-chart-line fa-3x mb-3 gradient me-2"></i>
                                     <div>
-                                        <h3 class="card-title" style="font-size: 1.3rem;">Document control</h3>
-                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Efficiently capture, interpret, and edit documents automatically.</p>
+                                        <h5 class="card-title fw-bold">Document control</h5>
+                                        <p class="card-text text-justify">Efficiently capture, interpret, and edit documents automatically.</p>
                                     </div>
                                 </div>
                             </div>
@@ -363,12 +362,12 @@
 
                         <!-- Icon Box 4 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-                                <div class="card-body d-flex align-items-center">
-                                    <i class="fas fa-file fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                            <div class="card custom-card-shadow h-100 text-center">
+                                <div class="card-body d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-file fa-3x mb-3 gradient me-2"></i>
                                     <div>
-                                        <h3 class="card-title" style="font-size: 1.3rem;">Document storage</h3>
-                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Secure, long-term archiving of patient data and historical information.</p>
+                                        <h5 class="card-title fw-bold">Document storage</h5>
+                                        <p class="card-text text-justify">Secure, long-term archiving of patient data and historical information.</p>
                                     </div>
                                 </div>
                             </div>
@@ -376,12 +375,12 @@
 
                         <!-- Icon Box 5 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                            <div class="card custom-card-shadow h-100 text-center justify-content-center">
                                 <div class="card-body d-flex align-items-center">
-                                    <i class="fas fa-lock fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                                    <i class="fas fa-lock fa-3x mb-3 gradient me-2"></i>
                                     <div>
-                                        <h3 class="card-title" style="font-size: 1.3rem;">Regulatory adherence</h3>
-                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Ensure information protection by complying with regulations like HIPAA or GDPR.</p>
+                                        <h5 class="card-title fw-bold">Regulatory adherence</h5>
+                                        <p class="card-text text-justify">Ensure information protection by complying with regulations like HIPAA or GDPR.</p>
                                     </div>
                                 </div>
                             </div>
@@ -389,12 +388,12 @@
 
                         <!-- Icon Box 6 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
-                                <div class="card-body d-flex align-items-center">
-                                    <i class="fas fa-circle-user fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
+                            <div class="card custom-card-shadow h-100 text-center">
+                                <div class="card-body d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-circle-user fa-3x mb-3 gradient me-2"></i>
                                     <div>
-                                        <h3 class="card-title" style="font-size: 1.3rem;">HR – Employee records</h3>
-                                        <p class="card-text text-justify" style="font-size: 0.9rem;">Digital personnel records are essential for streamlining HR processes with speed and security.</p>
+                                        <h5 class="card-title fw-bold">HR – Employee records</h5>
+                                        <p class="card-text text-justify">Digital personnel records are essential for streamlining HR processes with speed and security.</p>
                                     </div>
                                 </div>
                             </div>

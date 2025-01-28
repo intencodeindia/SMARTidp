@@ -361,7 +361,7 @@
                 <div class="ser-hide-mobile">
                   <div class="content-image">
                     <figure>
-                      <img src="assets/images/inbound_mail_automation/smart1.png" style="border-radius: 20px" loading="lazy">
+                      <img src="assets/images/logo/logo1.png" style="border-radius: 20px" loading="lazy">
                     </figure>
                   </div>
                 </div>

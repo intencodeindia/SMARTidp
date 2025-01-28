@@ -64,7 +64,7 @@
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/logistic/gif_logistics.gif" loading="lazy" class="img-fluid" alt="SmartIDP">
+                        <img src="assets/images/logistic/gif_logistics.gif" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 85%; height: auto;">
                     </div>
                 </div>
             </div>

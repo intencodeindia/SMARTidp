@@ -141,7 +141,7 @@
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/banking_financial/gif_finance.gif" loading="lazy" class="img-fluid" alt="SmartIDP">
+                        <img src="assets/images/banking_financial/gif_finance.gif" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 70%; height: auto;">
                     </div>
                 </div>
             </div>

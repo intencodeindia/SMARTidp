@@ -362,7 +362,7 @@
                                 <div class="content-image">
                                     <figure>
                                         <img src="assets/images/salesforce/salesforce1.png"
-                                            alt="smartIDP SmartBridge for Salesforce" loading="lazy">
+                                            alt="smartIDP SmartBridge for Salesforce" loading="lazy" style="border-radius: 20px;">
                                     </figure>
                                 </div>
                             </div>
@@ -406,7 +406,7 @@
                                         srcset="assets/images/salesforce/salesforce2.jpg"
                                         type="image/webp" width="374" height="283">
                                     <img src="assets/images/salesforce/salesforce2.jpg"
-                                        width="374" height="283" alt="" loading="lazy">
+                                        width="374" height="283" alt="" loading="lazy" style="border-radius: 20px;">
                                 </picture>
                             </a>
                         </section>

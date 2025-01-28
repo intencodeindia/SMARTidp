@@ -63,42 +63,42 @@
   <main role="main" class="main-content">
 
     <div class="container-fluid py-3 cover" id="article-43622"
-      style="background-image: url('assets/images/document_management/cove_pic.png'); background-size: cover; background-position: center center;">
+      style="background-image: url('assets/images/manufacturing/banner.gif'); background-size: cover; background-position: center center;">
       <div class="container">
         <div class="row align-items-center">
           <!-- Left Column (Text Content) -->
           <div class="col-lg-8 text-white">
             <div class="mb-4">
-              <h2 class="subheadline text-uppercase fw-bold" style="font-size: 2.5rem;">
+              <h2 class="text-uppercase fw-bold">
                 SmartIDP Fast Starters
               </h2>
               <h1 class="display-3 text-white fw-bold">Automated Document Processing in Weeks, Not Months</h1>
             </div>
-            <ul class="list-unstyled fs-5">
+            <ul class="list-unstyled">
               <li class="d-flex mb-2">
-                <i class="fas fa-check-circle me-2" style="font-size: 1.2rem;line-height: inherit;"></i>
+                <i class="fas fa-check-circle me-2" style="line-height: inherit;"></i>
                 SmartIDP Fast Starters empower business users to quickly implement intelligent document processing (IDP)
                 applications.
               </li>
               <li class="d-flex mb-2">
-                <i class="fas fa-check-circle me-2" style="font-size: 1.2rem; line-height: inherit;"></i>
+                <i class="fas fa-check-circle me-2" style="line-height: inherit;"></i>
                 Tailored to specific business needs, allowing customization for document-centric processes.
               </li>
               <li class="d-flex mb-2">
-                <i class="fas fa-check-circle me-2" style="font-size: 1.2rem; line-height: inherit;"></i>
+                <i class="fas fa-check-circle me-2" style="line-height: inherit;"></i>
                 Accelerates digital transformation by automating key document tasks like extraction, classification, and
                 data processing.
               </li>
               <li class="d-flex mb-2">
-                <i class="fas fa-check-circle me-2" style="font-size: 1.2rem; line-height: inherit;"></i>
+                <i class="fas fa-check-circle me-2" style="line-height: inherit;"></i>
                 Reduces operational costs by eliminating manual document handling and streamlining workflows.
               </li>
               <li class="d-flex mb-2">
-                <i class="fas fa-check-circle me-2" style="font-size: 1.2rem; line-height: inherit;"></i>
+                <i class="fas fa-check-circle me-2" style="line-height: inherit;"></i>
                 Eases the workload on IT teams, enabling business users to manage and customize processes independently.
               </li>
               <li class="d-flex mb-2">
-                <i class="fas fa-check-circle me-2" style="font-size: 1.2rem; line-height: inherit;"></i>
+                <i class="fas fa-check-circle me-2" style="line-height: inherit;"></i>
                 Improves efficiency and accuracy by leveraging AI to automate document processing, reducing human error
                 and speeding up decision-making.
               </li>
@@ -108,6 +108,10 @@
                 style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
             </div>
           </div>
+          <div class="col-12 col-lg-4 text-center d-flex align-items-center justify-content-center">
+          <img src="assets/images/fast_starters/fast.webp" loading="lazy" class="img-fluid" alt="SmartIDP" > 
+          </div>
+
         </div>
       </div>
     </div>
@@ -225,7 +229,7 @@
         </div>
         <div class="col-lg-6 col-md-12">
           <img src="assets/images/fast_starters/choose.webp"
-            alt="Select a SmartIDP Fast Starter from an extensive library" class="img-fluid" loadin="lazy"style="border-radius: 20px;">
+            alt="Select a SmartIDP Fast Starter from an extensive library" class="img-fluid" loadin="lazy" style="border-radius: 20px;">
         </div>
       </div>
 
@@ -240,7 +244,7 @@
         </div>
         <div class="col-lg-6 col-md-12 order-md-1">
           <img src="assets/images/fast_starters/customize1.png" alt="Customizing a SmartIDP Fast Starter"
-            class="img-fluid"style="border-radius: 20px" loading="lazy">
+            class="img-fluid" style="border-radius: 20px" loading="lazy">
         </div>
       </div>
 
@@ -254,7 +258,7 @@
         </div>
         <div class="col-lg-6 col-md-12">
           <img src="assets/images/fast_starters/team.webp" alt="User management in SmartIDP Fast Starters"
-            class="img-fluid"style="border-radius: 20px" loading="lazy">
+            class="img-fluid" style="border-radius: 20px" loading="lazy">
         </div>
       </div>
     </div>

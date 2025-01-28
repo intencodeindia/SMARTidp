@@ -535,7 +535,7 @@
                     <section class="row">
                         <!-- Icon Box 1 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                            <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-cogs fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
 
@@ -549,7 +549,7 @@
 
                         <!-- Icon Box 2 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                            <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-brain fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
@@ -562,7 +562,7 @@
 
                         <!-- Icon Box 3 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                            <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-chart-line fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
@@ -575,7 +575,7 @@
 
                         <!-- Icon Box 4 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                            <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-smile fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
@@ -588,7 +588,7 @@
 
                         <!-- Icon Box 5 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                            <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-lock fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
@@ -601,7 +601,7 @@
 
                         <!-- Icon Box 6 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card" style="height: 100%; border-radius: 10px; box-shadow: 1px 5px 7px 0px rgb(82 169 255 / 48%);">
+                            <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-robot fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
@@ -690,7 +690,7 @@
                                     <li>Multimodal recognition for documents</li>
                                     <li>Combining composable and contextual AI</li>
                                 </ul>
-                                <p><strong>Read more about our AI strategy <span style="color: #007bff;">here</span>.</strong></p>
+                                <p><strong>Learn more about our AI strategy <a href="contact" style="color: #007bff; text-decoration: none;">here</a>.</strong></p>
                             </div>
                         </div>
 

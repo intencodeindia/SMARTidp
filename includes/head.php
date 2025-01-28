@@ -5,8 +5,64 @@
 <html lang="en">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8CL6DBKNR8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-8CL6DBKNR8');
+    </script>
     <meta charset="UTF-8">
-    <title>SmartIDP - Automate Document Processing and Cut Costs at Scale</title>
+    <title>SmartIDP - Intelligent Document Processing Solution</title>
+    <!-- Insert the JSON-LD structured data inside the <head> tag -->
+    <!-- Product Structured Data -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "SmartIDP",
+            "description": "A comprehensive document processing solution.",
+            "url": "https://www.smartidp.ai"
+        }
+    </script>
+
+    <!-- Breadcrumb Structured Data -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "SmartIDP",
+                    "item": "https://smartidp.ai/index"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Artificial Intelligence in SmartIDP",
+                    "item": "https://smartidp.ai/artificial_intelligence"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Process Automation",
+                    "item": "https://smartidp.ai/process_automation"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Document Management",
+                    "item": "https://smartidp.ai/document_management"
+                }
+            ]
+        }
+    </script>
     <!-- <base href="https://www.smartidp.ai/"> -->
     <meta name="robots" content="index,follow">
     <meta name="description" content="SmartIDP automates and centralizes enterprise document management with intelligent content extraction and classification. Streamline business processes, reduce costs, and ensure compliance at scale with our powerful document automation solutions.">
@@ -263,7 +319,7 @@
     </script> -->
     <link rel="Shortcut Icon" type="image/ico" href="<?= BASE_PATH ?>/assets/images/favicon/favicon_io/favicon.ico" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-    
+
 
     <!-- <link rel="apple-touch-icon-precomposed" href="https://www.smartidp.com/files/design/images/main/meta/apple-touch-icon.png" /> -->
 </head>

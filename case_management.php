@@ -6,12 +6,24 @@
         -webkit-background-clip: text;
         color: transparent;
     }
+    
+    /* Unique class for shadow effect */
+    .custom-card-shadow {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 1.25rem;
+    }
+
+    .custom-card-shadow:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
+    }
 </style>
 
 <div class="content-wrapper">
     <main role="main" class="main-content">
         <div class="container-fluid cover" id="article-43622"
-            style="background-image: url('assets/images/case_management/cb04.png'); background-size: cover; background-position: center center; height: 60vh" loading="lazy">
+            style="background-image: url('assets/images/manufacturing/banner.gif'); background-size: cover; background-position: center center; height: 50vh" loading="lazy">
             <div class="container h-100 d-flex justify-content-center align-items-center">
                 <div class="row w-100 justify-content-center">
                     <!-- Left Column (Text Content) -->
@@ -19,7 +31,7 @@
                         <div class="pd-4">
                             <h2 class="display-3"
                                 style="font-size: 2.2rem; background:white; -webkit-background-clip: text; color: transparent;">
-                                Employees can quickly access and search cases,<br> enhancing efficiency and collaboration.
+                                "Employees can quickly access and search cases,<br> enhancing efficiency and collaboration."
                             </h2>
                         </div>
                         <div class="mt-4">
@@ -36,7 +48,7 @@
             <section class="row text-center">
                 <!-- First Card -->
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                    <div class="text-center">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body">
                             <i class="fa-solid fa-file-signature fa-3x mb-3 linear gradient"></i>
                             <!-- Font Awesome Icon -->
@@ -51,7 +63,7 @@
 
                 <!-- Second Card -->
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                    <div class="text-center">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body">
                             <i class="fa-brands fa-android fa-3x mb-3 gradient"></i> <!-- Font Awesome Icon -->
                             <h4 class="card-title fw-bold">Manage cases more intelligently and efficiently
@@ -64,7 +76,7 @@
                 </div>
                 <!-- Third Card -->
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-                    <div class=" text-center">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body">
                             <i class="fa-solid fa-hourglass fa-3x  gradient"></i> <!-- Font Awesome Icon -->
                             <h4 class="card-title fw-bold"><br>Ensure case management quality and consistency

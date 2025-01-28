@@ -235,12 +235,12 @@
                             </li>
                         </ul>
                         <div class="mt-4">
-                            <a class="btn rounded-pill px-4 text-white fw-bold" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                            <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
                         </div>
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/document_management/document_management_git.gif" loading="lazy" class="img-fluid" alt="SmartIDP">
+                        <img src="assets/images/document_management/document_management_git.gif" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 70%;"> 
                     </div>
                 </div>
             </div>

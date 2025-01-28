@@ -164,6 +164,18 @@
             /* Ensure buttons are readable but not too big */
         }
     }
+        /* Unique class for shadow effect */
+        .custom-card-shadow {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 1.25rem;
+    }
+
+    .custom-card-shadow:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
+    }
+
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content1">
@@ -736,7 +748,7 @@
 
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 justify-content-center">
                 <div class="col">
-                    <div class="card shadow rounded-4 border-light">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body text-center">
                             <i class="fas fa-file-alt fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                             <h5 class="card-title">Document management</h5>
@@ -746,7 +758,7 @@
                 </div>
 
                 <div class="col">
-                    <div class="card shadow rounded-4 border-light">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body text-center">
                             <i class="fas fa-users fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                             <h5 class="card-title">Team collaboration</h5>
@@ -756,7 +768,7 @@
                 </div>
 
                 <div class="col">
-                    <div class="card shadow rounded-4 border-light">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body text-center">
                             <i class="fas fa-archive fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                             <h5 class="card-title">Intelligent archiving</h5>
@@ -766,7 +778,7 @@
                 </div>
 
                 <div class="col">
-                    <div class="card shadow rounded-4 border-light">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body text-center">
                             <i class="fas fa-cogs fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                             <h5 class="card-title">Workflow automation</h5>
@@ -776,7 +788,7 @@
                 </div>
 
                 <div class="col">
-                    <div class="card shadow rounded-4 border-light">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body text-center">
                             <i class="fas fa-brain fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                             <h5 class="card-title">Built-in intelligence</h5>
@@ -785,7 +797,7 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card shadow rounded-4 border-light">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body text-center">
                             <i class="fas fa-plug fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                             <h5 class="card-title">Business connectors</h5>
@@ -794,7 +806,7 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card shadow rounded-4 border-light">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body text-center">
                             <i class="fas fa-file-invoice fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                             <h5 class="card-title">Invoice automation</h5>
@@ -804,7 +816,7 @@
                 </div>
 
                 <div class="col">
-                    <div class="card shadow rounded-4 border-light">
+                    <div class="card custom-card-shadow h-100 text-center">
                         <div class="card-body text-center">
                             <i class="fas fa-shield-alt fa-3x mb-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                             <h5 class="card-title">Compliance & governance</h5>

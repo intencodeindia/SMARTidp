@@ -6,7 +6,7 @@
         height: 60vh;
         width: 100%;
     }
-   
+
     .banner-image {
         background-image: url('assets/images/social_responsibility/The-Social.webp');
         background-size: cover;
@@ -34,24 +34,39 @@
             /* Keep image centered */
         }
     }
+
     @media (max-width: 640px) {
         #article-43622 {
             height: 38vh;
             /* Adjust height for smaller screens */
         }
     }
+
     @media (max-width: 536px) {
         #article-43622 {
             height: 28vh;
             /* Adjust height for smaller screens */
         }
     }
+
     /* Gradient text styling */
     .gradient {
         background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
         -webkit-background-clip: text;
         color: transparent;
         font-size: 250%;
+    }
+
+    /* Unique class for shadow effect */
+    .custom-card-shadow {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 1.25rem;
+    }
+
+    .custom-card-shadow:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
     }
 </style>
 <div class="content-wrapper1">
@@ -62,33 +77,38 @@
         <h6 class="text-center fw-bold gradient py-3">
             We care about the future
         </h6>
-
         <div class="container">
             <section class="row text-center">
                 <!-- Equal opportunities -->
                 <div class="col-md-4 mb-4">
-                    <div class="p-4 rounded shadow-sm">
-                        <span class="fa fa-users d-block mb-3" style="font-size: 36px; color: #007bff;"></span>
-                        <h4 class="font-weight-bold">Equal opportunities</h4>
-                        <p class="text-muted">We support our young talent & skilled workers</p>
+                    <div class="card custom-card-shadow h-100 text-center">
+                        <div class="card-body text-center">
+                            <i class="fa fa-users fa-3x mb-3" style="color: #007bff;"></i>
+                            <h5 class="card-title fw-bold">Equal opportunities</h5>
+                            <p class="card-text">We support our young talent & skilled workers</p>
+                        </div>
                     </div>
                 </div>
 
                 <!-- Environment -->
                 <div class="col-md-4 mb-4">
-                    <div class="p-4 rounded shadow-sm">
-                        <span class="fa fa-leaf d-block mb-3" style="font-size: 36px; color: #28a745;"></span>
-                        <h4 class="font-weight-bold">Environment</h4>
-                        <p class="text-muted">We believe in sustainable architecture</p>
+                    <div class="card custom-card-shadow h-100 text-center">
+                        <div class="card-body text-center">
+                            <i class="fa fa-leaf fa-3x mb-3" style="color: #28a745;"></i>
+                            <h5 class="card-title fw-bold">Environment</h5>
+                            <p class="card-text">We believe in sustainable architecture</p>
+                        </div>
                     </div>
                 </div>
 
                 <!-- Causes close to our heart -->
                 <div class="col-md-4 mb-4">
-                    <div class="p-4 rounded shadow-sm">
-                        <span class="fa fa-heart d-block mb-3" style="font-size: 36px; color: #dc3545;"></span>
-                        <h4 class="font-weight-bold">Causes close to our heart</h4>
-                        <p class="text-muted">We support projects to help people</p>
+                    <div class="card custom-card-shadow h-100 text-center">
+                        <div class="card-body text-center">
+                            <i class="fa fa-heart fa-3x mb-3" style="color: #dc3545;"></i>
+                            <h5 class="card-title fw-bold">Causes close to our heart</h5>
+                            <p class="card-text">We support projects to help people</p>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -169,7 +189,7 @@
                         <img
                             src="assets/images/social_responsibility/sustain.webp"
                             alt="Green Building"
-                            class="img-fluid" style="border-radius: 20px" loading="lazy"/>
+                            class="img-fluid" style="border-radius: 20px" loading="lazy" />
                     </div>
                 </div>
 
@@ -215,7 +235,7 @@
                         <img
                             src="assets/images/social_responsibility/charity.jpg"
                             alt="Charitable Causes"
-                            class="img-fluid" style="border-radius: 20px" loading="lazy"/>
+                            class="img-fluid" style="border-radius: 20px" loading="lazy" />
                     </div>
                 </div>
             </div>

@@ -273,7 +273,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/logo/logo.png" alt="Microsoft Outlook Integration" class="img-fluid" loading="lazy">
+                            <img src="assets/images/logo/logo1.png" alt="Microsoft Outlook Integration" class="img-fluid" loading="lazy">
                         </figure>
                     </div>
                 </div>

@@ -461,7 +461,7 @@
               <div class="ce_rs_column_start rs-column -large-col-3-1 -large-first -large-first-row -medium-col-3-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                 <div class="content-image">
                   <figure>
-                    <img src="assets/images/sap/flexible.webp" alt="smartIDP offers standout usability" title="smartIDP is all about usability" width="250" height="412" loading="lazy"  style="border-radius: 20px;">
+                    <img src="assets/images/sap/flexible.webp" alt="smartIDP offers standout usability" title="smartIDP is all about usability" loading="lazy"  style="border-radius: 20px;">
                   </figure>
                 </div>
               </div>
