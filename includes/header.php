@@ -270,7 +270,7 @@
         <header class="page-header">
             <div class="header-navigation is-fixed is-enabled" dir="ltr">
 
-                <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start container-fullhd " style=" ">
+                <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start container-fullhd " style=" background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);">
                     <div class="centered-wrapper-inner ">
                         <div class="main-navigation-wrapper">
                             <a href="javascript:void(0)" class="main-navigation-mobile-open">navigation</a>
@@ -285,7 +285,7 @@
                                     <li class="sibling first -mega">
                                         <a href="javascript:void(0)" title="SmartIDP Content Services Platform for ECM, BPM &amp; Collaboration" class="sibling first -mega" aria-haspopup="true" itemprop="url"><span itemprop="name">Products & Services</span>
                                         </a>
-                                        <div class="mega-dropdown level_2 ">
+                                        <div class="mega-dropdown level_2" style=" background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);">
                                             <div class="mega-dropdown-inner">
                                                 <section class="mega-dropdown-column  rs-column -large-col-4-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row" style="width: 30%;">
                                                     <p class="mega-dropdown-heading">
@@ -295,24 +295,24 @@
                                                             <a href="<?php echo BASE_PATH; ?>intelligent_content_automation" class="menu-doxi">
                                                                 SmartIDP Intelligent Content Automation </a>
                                                         </li>
-                                                        <li class="menu-headline">
+                                                        <!-- <li class="menu-headline">
                                                             <a href="javascript:void(0)" class="menu-headline">
                                                                 Hot Topics </a>
-                                                        </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>artificial_intelligence" class="">
+                                                        </li> -->
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>artificial_intelligence">
                                                                 Artificial intelligence in SmartIDP </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>process_automation" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>process_automation">
                                                                 Process automation </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>document_management" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>document_management">
                                                                 Document management </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>fast_starters" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>fast_starters">
                                                                 Fast Starters </a>
                                                         </li>
                                                     </ul>
@@ -321,34 +321,34 @@
                                                     <p class="mega-dropdown-heading">
                                                         Integrations </p>
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>sap" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>sap">
                                                                 SAP </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>sap_sucess_factor" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>sap_sucess_factor">
                                                                 SAP SuccessFactors </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>microsoft" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>microsoft">
                                                                 Microsoft </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>salesforce" class="">
+                                                        <!-- <li>
+                                                            <a href="<?php echo BASE_PATH; ?>salesforce">
                                                                 Salesforce </a>
-                                                        </li>
+                                                        </li> -->
                                                     </ul>
                                                 </section>
                                                 <section class="mega-dropdown-column  rs-column -large-col-4-1 -large-first-row -medium-col-2-1 -medium-first -small-col-1-1 -small-first -small-last">
                                                     <p class="mega-dropdown-heading">
                                                         Services </p>
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>consulting_implementation" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>consulting_implementation">
                                                                 Consulting & implementation </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>managed_services" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>managed_services">
                                                                 Managed services </a>
                                                         </li>
 
@@ -379,7 +379,7 @@
                                     <li class="menu-overview-page sibling -mega">
                                         <a href="javascript:void(0)" title="Solutions &amp; Use Cases" class="menu-overview-page sibling -mega" aria-haspopup="true" itemprop="url"><span itemprop="name">Solutions</span>
                                         </a>
-                                        <div class="mega-dropdown level_2 max-width-1200">
+                                        <div class="mega-dropdown level_2 max-width-1200" style=" background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);">
                                             <div class="mega-dropdown-inner">
                                                 <section class="mega-dropdown-column  rs-column -large-col-3-1 -large-first -large-first-row -medium-col-3-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                                                     <p class="mega-dropdown-heading">
@@ -419,20 +419,20 @@
                                                             <a href="<?php echo BASE_PATH; ?>manufacturing">
                                                                 Manufacturing </a>
                                                         </li>
-                                                        <li>
+                                                        <!-- <li>
                                                             <a href="<?php echo BASE_PATH; ?>banking_financial">
                                                                 Banking & financial services </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>insurance" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>insurance">
                                                                 Insurance </a>
-                                                        </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>logistics" class="">
+                                                        </li> -->
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>logistics">
                                                                 Logistics </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>healthcare" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>healthcare">
                                                                 Healthcare </a>
                                                         </li>
                                                     </ul>
@@ -441,12 +441,12 @@
                                                     <p class="mega-dropdown-heading">
                                                         Departments </p>
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>purchasing_procurement" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>purchasing_procurement">
                                                                 Purchasing & procurement </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>human_resources" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>human_resources">
                                                                 Human resources </a>
                                                         </li>
 
@@ -459,18 +459,18 @@
                                     <li class="sibling -mega">
                                         <a href="javascript:void(0)" title="Customers &amp; Partner" class="sibling -mega" aria-haspopup="true" itemprop="url"><span itemprop="name">Customers & Partners</span>
                                         </a>
-                                        <div class="mega-dropdown level_2 max-width-1200">
+                                        <div class="mega-dropdown level_2 max-width-1200" style=" background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);">
                                             <div class="mega-dropdown-inner">
                                                 <section class="mega-dropdown-column  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                                                     <p class="mega-dropdown-heading">
                                                         Customers </p>
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>user_group" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>user_group">
                                                                 SmartIDP Group </a>
                                                         </li>
-                                                        <!-- <li class="">
-                                                            <a href="https://ser.ideas.aha.io/" class="" target="_blank">
+                                                        <!-- <li>
+                                                            <a href="https://ser.ideas.aha.io/" target="_blank">
                                                                 Idea portal </a>
                                                         </li> -->
 
@@ -480,12 +480,12 @@
                                                     <p class="mega-dropdown-heading">
                                                         Partner </p>
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>becomming_partner" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>becomming_partner">
                                                                 Becoming a partner </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>finding_partner" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>finding_partner">
                                                                 Finding a partner </a>
                                                         </li>
                                                     </ul>
@@ -494,24 +494,24 @@
                                         </div>
                                     </li>
                                     <li class="sibling -mega">
-                                        <a href="javascript:void(0)" title="About the SER Group" class="sibling -mega" aria-haspopup="true" itemprop="url"><span itemprop="name">About Us</span>
+                                        <a href="javascript:void(0)" title="About the SmartIDP Group" class="sibling -mega" aria-haspopup="true" itemprop="url"><span itemprop="name">About Us</span>
                                         </a>
-                                        <div class="mega-dropdown level_2 max-width-1200">
+                                        <div class="mega-dropdown level_2 max-width-1200" style="max-width: 265px;background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);">
                                             <div class="mega-dropdown-inner">
                                                 <!-- <section class="mega-dropdown-column mega-menu-image-only rs-column -large-col-4-2 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                                                 </section> -->
-                                                <section class="mega-dropdown-column  rs-column -large-col-4-1 -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
+                                                <section class="mega-dropdown-column  rs-column -large-col-4-1 -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last" style="width: 100%;">
                                                     <ul>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>social_responsibility" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>social_responsibility">
                                                                 Social responsibility </a>
                                                         </li>
-                                                        <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>locations" class="">
+                                                        <li>
+                                                            <a href="<?php echo BASE_PATH; ?>locations">
                                                                 Locations </a>
                                                         </li>
-                                                        <!-- <li class="">
-                                                            <a href="<?php echo BASE_PATH; ?>locations" class="">
+                                                        <!-- <li>
+                                                            <a href="<?php echo BASE_PATH; ?>locations">
                                                                 Locations </a>
                                                         </li> -->
                                                     </ul>
@@ -551,7 +551,7 @@
                             <button class="main-navigation-mobile-expand">expand</button>
                             <ul class="level_2" style="display: none;">
                                 <li class="menu-doxi"><a href="<?php echo BASE_PATH; ?>intelligent_content_automation" title="SmartIDP Intelligent Content Automation" class="menu-doxi">SmartIDP Intelligent Content Automation</a></li>
-                                <li><strong>Hot Topics</strong></li>
+                                <!-- <li><strong>Hot Topics</strong></li> -->
                                 <li><a href="<?php echo BASE_PATH; ?>artificial_intelligence" title="Artificial Intelligence">Artificial intelligence in SmartIDP</a></li>
                                 <li><a href="<?php echo BASE_PATH; ?>process_automation" title="SmartIDP Fast Starters - Your quick &amp; easy content apps">Process Automation</a></li>
                                 <li>
@@ -575,10 +575,10 @@
                                     <a href="<?php echo BASE_PATH; ?>microsoft">
                                         Microsoft </a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a href="<?php echo BASE_PATH; ?>salesforce">
                                         Salesforce </a>
-                                </li>
+                                </li> -->
                                 <li><strong>Services</strong></li>
                                 <li>
                                     <a href="<?php echo BASE_PATH; ?>consulting_implementation">
@@ -634,14 +634,14 @@
                                     <a href="<?php echo BASE_PATH; ?>manufacturing.php">
                                         Manufacturing </a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a href="<?php echo BASE_PATH; ?>banking_financial">
                                         Banking & financial services </a>
                                 </li>
                                 <li>
                                     <a href="<?php echo BASE_PATH; ?>insurance.php">
                                         Insurance </a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a href="<?php echo BASE_PATH; ?>logistics.php">
                                         Logistics </a>
@@ -671,20 +671,20 @@
                                 <li><a href="<?php echo BASE_PATH; ?>becomming_partner" title="Becoming a Partner">Becoming a Partner</a></li>
                                 <li>
                                     <a href="<?php echo BASE_PATH; ?>finding_partner">
-                                        Finding a partner </a>
+                                        Finding a partner </a> 
                                 </li>
-                            </ul>
+                            </ul> 
                         </li>
                         <li class="submenu sibling is-collapsed">
-                            <a href="javascript:void(0)" title="About the SER Group" class="submenu sibling" aria-haspopup="true">About Us</a>
+                            <a href="javascript:void(0)" title="About the SmartIDP Group" class="submenu sibling" aria-haspopup="true">About Us</a> 
                             <button class="main-navigation-mobile-expand">expand</button>
                             <ul class="level_2" style="display: none;">
-                                <li class="">
-                                    <a href="<?php echo BASE_PATH; ?>social_responsibility" class="">
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>social_responsibility">
                                         Social responsibility </a>
                                 </li>
-                                <li class="">
-                                    <a href="<?php echo BASE_PATH; ?>locations" class="">
+                                <li>
+                                    <a href="<?php echo BASE_PATH; ?>locations">
                                         Locations </a>
                                 </li>
                             </ul>

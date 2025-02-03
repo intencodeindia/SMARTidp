@@ -209,29 +209,29 @@
                 <div class="row align-items-center">
                     <!-- Left Column: Content Section -->
                     <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
-                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;"> Empowered by SmartIDP Technology</h2>
+                        <h2 class="headline fw-bolder" style="color: #000d39;"> AI Powered Document Management System</h2>
                         <h1 class="display-3 text-white">
-                            Syncing Information and Goods Logistics with SmartIDP
+                            Transforming Document Management with SmartIDP
                         </h1>
-                        <p class="fs-5 text-white mb-4">Revolutionize Your Document Management</p>
+                        <p class="fs-5 text-white mb-3">Leverage AI for Smarter Document Handling</p>
                         <ul class="list-unstyled content-text">
                             <li class="d-flex align-items-center mb-2 text-white">
-                                <i class="fas fa-check-circle me-2"></i> Effortlessly handle large volumes of documents
+                                <i class="fas fa-check-circle me-2"></i> Manage large volumes of documents with AI efficiency
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Accelerate processing speeds and maximize efficiency
+                                <i class="fas fa-check-circle me-2"></i> Speed up document processing and boost productivity
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Maintain compliance with advanced, certified SmartIDP solutions
+                                <i class="fas fa-check-circle me-2"></i> Ensure compliance with cutting-edge SmartIDP technology
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Enhance decision-making with intelligent automation and data extraction
+                                <i class="fas fa-check-circle me-2"></i> Enhance decision-making with AI-driven automation
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Improve accuracy and reduce human error in data processing
+                                <i class="fas fa-check-circle me-2"></i> Increase data accuracy and reduce manual errors
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Streamline workflows and enhance collaboration across teams
+                                <i class="fas fa-check-circle me-2"></i> Streamline workflows and improve team collaboration
                             </li>
                         </ul>
                         <div class="mt-4">
@@ -240,176 +240,19 @@
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/document_management/document_management_git.gif" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 70%;"> 
+                        <img src="assets/images/document_management/document_management_git.gif" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 70%;">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container-fluid py-4" id="article-43622">
-            <div class="customer-logos-marquee">
-                <div class="customer-logos">
-                    <!-- Logos (only one set) -->
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/ko.png" class="d-block" alt="Logo 1" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 12%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
-                        </div>
-                    </div>
 
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/17@4x.png" class="d-block" alt="Logo 4" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/Asset 40@4x.png" class="d-block" alt="Logo 5" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo-kenz.png" class="d-block" alt="Logo 6" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-                    <!-- Logos (only Second set) -->
-
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <!-- Logos (only Third set) -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <!-- Logos (only Fourth set) -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container text-center my-5">
+        <!-- <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+            <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
+                SmartIDP</h2>
+        </div> -->
+        <div class="mt-5"></div>
+        <?php include_once("smartidp_logos.php"); ?>
+        <div class="container text-center">
             <h2 class="mb-4 responsive-heading1 fw-bold"><span class="gradient">Efficiency</span> begins with an <span class="gradient">AI-powered</span> SmartIDP DMS</h2>
             <p class="mb-4 fs-5">Say goodbye to paper, floating files, email attachments, and file directories. The SmartIDP document management system empowers you to take full control of your documents with seamless digital management of contracts, orders, invoices, HR documents, and more.</p>
             <p class="mb-5">Quickly access all business-critical information, accelerate decision-making, eliminate errors, and strengthen the long-term success of your organization.</p>
@@ -520,7 +363,7 @@
             </div>
         </div>
 
-        <div class="container-fluid" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">
@@ -657,20 +500,20 @@
                 <div class="col-md-6">
                     <!-- Content Item 1 -->
                     <div class="content-item p-4" onmouseover="changeImage('img1')" onmouseout="resetImage()" style="border-radius: 20px;">
-                        <h5 class="card-title text-dark fw-bold">Achieve Unmatched Efficiency with SmartIDP</h5>
+                        <div class="card-title text-dark fw-bold">Achieve Unmatched Efficiency with SmartIDP</div>
                         <p class="card-text">Discover how SmartIDP enhances your document management processes by automating tedious tasks, streamlining workflows, and providing valuable insights. Our solution significantly boosts productivity while reducing errors and manual work.</p>
                     </div>
                     <hr>
                     <!-- Content Item 2 -->
                     <div class="content-item p-4" onmouseover="changeImage('img2')" onmouseout="resetImage()" style="border-radius: 20px;">
-                        <h5 class="card-title text-dark fw-bold">Case Study: How SmartIDP Transformed Document Management at Global Enterprises</h5>
+                        <div class="card-title text-dark fw-bold">Case Study: How SmartIDP Transformed Document Management at Global Enterprises</div>
                         <p class="card-text">Leading global enterprises in finance and healthcare trust SmartIDP to automate the categorization and extraction of vital data from contracts, invoices, and medical records. These companies have achieved a 40% reduction in processing time and enhanced compliance with industry regulations.</p>
                     </div>
                     <hr>
 
                     <!-- Content Item 3 -->
                     <div class="content-item p-4" onmouseover="changeImage('img3')" onmouseout="resetImage()" style="border-radius: 20px;">
-                        <h5 class="card-title text-dark fw-bold">Guide: Revolutionize Your Business with SmartIDP for Document Management</h5>
+                        <div class="card-title text-dark fw-bold">Guide: Revolutionize Your Business with SmartIDP for Document Management</div>
                         <p class="card-text">Get our comprehensive guide to understanding how SmartIDP’s intelligent automation solutions can transform your document management system. With practical tips, real-world case studies, and checklists, this guide will help you make informed decisions to streamline your processes and reduce costs.</p>
                     </div>
                     <hr>
@@ -678,7 +521,7 @@
 
                 <!-- Right Column: Image (Centered) -->
                 <div class="col-md-6 d-flex justify-content-center align-items-center">
-                    <img id="right-img" src="assets/images/document_management/dms-2.png" class="img-fluid rounded" alt="SmartIDP Document Management Solution" style="width: 100%; max-height: 500px; max-width: 500px; border-radius: 20px;">
+                    <img id="right-img" src="assets/images/document_management/dms-2.png" class="img-fluid" alt="SmartIDP Document Management Solution" style="width: 100%; max-height: 500px; max-width: 500px; border-radius: 20px;">
                 </div>
             </div>
         </div>

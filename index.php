@@ -7,43 +7,7 @@
     }
 </style>
 <style>
-    /* Marquee container styling */
-    .customer-logos-marquee {
-        overflow: hidden; 
-        position: relative;
-        width: 100%;
-    }
-
-    /* Flex container for the logos */
-    .customer-logos {
-        height: 150px;
-        display: flex;
-        animation: marquee 20s linear infinite;
-    }
-
-    /* Each logo card */
-    .customer-logo {
-        flex: 0 0 auto;
-        margin-right: 30px;
-        /* Space between cards */
-        width: 240px;
-        /* Fixed width for uniform card size */
-        height: 90px;
-        /* Fixed height for uniform card size */
-    }
-
-    /* Keyframes for the scrolling animation */
-    @keyframes marquee {
-        0% {
-            transform: translateX(0%);
-        }
-
-        100% {
-            transform: translateX(-100%);
-        }
-    }
-
-    .background-gradient {
+     .background-gradient {
         background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
         width: 1440px;
         /* Set the width to match your image */
@@ -156,29 +120,48 @@
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
         transition: transform 0.3s ease, box-shadow 0.3s ease;
         border-radius: 1.25rem;
+        border: 2px solid transparent;
+    background: linear-gradient(white, white) padding-box, var(--theme-gradient) border-box;
+    transition: transform 0.3s ease;
     }
 
     .custom-card-shadow:hover {
         transform: translateY(-5px);
         box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
     }
+
+    /* .video-container {
+        position: relative;
+        display: inline-block;
+        border-radius: 30px;
+        padding: 10px;
+    }
+
+    .video-container::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(260deg, #0090f9 0%, #00b09c 100%);
+        border-radius: 30px;
+        z-index: -1;
+    } */
 </style>
 
 
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="mod_article fade-out-background1 max-width-viewport block" id="article-42563">
+        <div class="mod_article fade-out-background1 max-width-viewport block py-0" id="article-42563">
             <div class="mod_article_inner">
                 <div class="container-fluid text-center text-sm-start">
                     <div class="row align-items-center">
                         <!-- Right Column (Video) - Moves to top on small screens -->
-                        <div class="col-lg-7 col-md-12 order-md-last">
+                        <div class="col-lg-7 col-md-12 order-md-last py-4">
                             <div class="content-image">
-                                <figure class="mb-0 pt-5 d-flex justify-content-center align-items-center">
-                                    <video autoplay muted loop playsinline class="w-100 p-2 responsive-video">
-                                        <source src="<?php echo BASE_PATH; ?>assets/sidp.mp4" type="video/mp4">
-                                        Your browser does not support the video tag.
-                                    </video>
+                                <figure class="mb-0 d-flex justify-content-center align-items-center video-container">
+                                    <img src="assets/images/logo/smartIDP.gif" alt="GIF" class="w-100 responsive-video" style="border-radius: 25px;">
                                 </figure>
                             </div>
                         </div>
@@ -191,7 +174,7 @@
                                         <span class="gradient">Take control</span> of your documents and <span class="gradient">automate</span> processes
                                     </h1>
                                 </div>
-                                <div class="content-text mb-4 px-md-5 text-justify px-1" style="font-size: 1.3em !important; color: #000; font-weight: 500;text-align: justify;">
+                                <div class="content-text mb-4 px-md-5 text-center px-1" style="font-size: 1.3em !important; color: #000; font-weight: 500;text-align: justify;">
                                     <p class="">"SmartIDP classifies, extracts, understands, analyzes, and centralizes your enterprise documents, compliantly and at scale - enabling you to automate manual tasks and cut costs."</p>
                                 </div>
                                 <div class="content-text mb-4">
@@ -206,175 +189,11 @@
                 </div>
 
 
-                <div class="container-fluid pt-3" id="article-43622" style="background-color: #eaedfa;">
-                    <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
-                        <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
-                            SmartIDP</h2>
-                    </div>
-                    <div class="customer-logos-marquee">
-                        <div class="customer-logos">
-                            <!-- Logos (only one set) -->
-                            <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/ko.png" class="d-block" alt="Logo 1" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                            <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 12%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body text-center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
-                                </div>
-                            </div>
-
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" loading="lazy" style="height: 60px;">
-                                </div>
-                            </div>
-
-                            <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/17@4x.png" class="d-block" alt="Logo 4" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                            <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/Asset 40@4x.png" class="d-block" alt="Logo 5" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                            <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo-kenz.png" class="d-block" alt="Logo 6" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-
-                            <!-- Logos (only Second set) -->
-
-                            <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body text-center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2" loading="lazy">
-                                </div>
-                            </div>
-
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3"  loading="lazy"style="height: 60px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-
-
-
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8"  loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <!-- Logos (only Third set) -->
-                            <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body text-center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2" loading="lazy">
-                                </div>
-                            </div>
-
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" loading="lazy" style="height: 60px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" loading="lazy"  height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <!-- Logos (only Fourth set) -->
-                            <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body text-center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2" loading="lazy">
-                                </div>
-                            </div>
-
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" loading="lazy" style="height: 60px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" loading="lazy" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                            <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+                    <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
+                        SmartIDP</h2>
                 </div>
+                <?php include_once("smartidp_logos.php"); ?>
             </div>
         </div>
         <div class="container pb-md-5 pb-3" id="article-42568">
@@ -456,7 +275,7 @@
 
 
 
-        <div class="container-fluid" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">
@@ -502,20 +321,24 @@
                         <nav class="tab-navigation -columns-4 ce_rsce_oneo_tab_nav">
                             <ul>
                                 <li class="tab-navigation-item">
-                                    <a href="#manufacturing">
+                                    <a href="#manufacturing" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">
                                         Manufacturing </a>
                                 </li>
-                                <li class="tab-navigation-item">
+                                <!-- <li class="tab-navigation-item">
                                     <a href="#bank">
                                         Banking & Financial Services </a>
                                 </li>
                                 <li class="tab-navigation-item">
                                     <a href="#insurance">
                                         Insurance </a>
+                                </li> -->
+                                <li class="tab-navigation-item">
+                                    <a href="#logistic" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">
+                                        Logistics </a>
                                 </li>
                                 <li class="tab-navigation-item">
-                                    <a href="#logistic">
-                                        Logistics </a>
+                                    <a href="#healthcare" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">
+                                        Healthcare </a>
                                 </li>
                             </ul>
                         </nav>
@@ -525,7 +348,7 @@
                                 <div class="centered-wrapper-inner ">
                                     <div class="rs-columns ce_rs_columns_start">
                                         <div
-                                            class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row" style="min-height: 415px !important;">
+                                            class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row px-3 px-lg-0" style="min-height: 415px !important;">
                                             <div
                                                 class="headline-box ser-headline-box -align-left ce_rsce_ser_headline_box">
                                                 <h3 class="headline -large ">Faster time-to-value, streamlined
@@ -541,7 +364,7 @@
                                                         goods.</p>
                                                     <ul>
                                                         <li>Faster&nbsp;<a
-                                                                href="javascript:void(0)">procurement
+                                                                href="purchasing_procurement">Purchasing & procurement
                                                                 processes</a></li>
                                                         <li>Improved production planning</li>
                                                         <li>Transparent project management</li>
@@ -551,7 +374,7 @@
                                             </div>
                                             <div class="button-box ce_rsce_oneo_button mt-3 -tertiary  -left">
                                                 <a class="button ce_rsce_oneo_button mt-3 -tertiary  -left"
-                                                    href="contact.php">
+                                                    href="contact">
                                                     Find out more → </a>
                                             </div>
                                         </div>
@@ -559,11 +382,11 @@
                                             class="ce_rs_column_start  rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
                                             <div class="quote-screenshot hide-tablet content-image">
                                                 <figure>
-                                                    <img src="assets/images/SmartIDP/all_docs.png"
-                                                        alt width="480" height="459" loading="lazy">
+                                                    <img src="assets/images/SmartIDP/all_docs1.png"
+                                                        alt width="480" height="459" loading="lazy" style="border-radius: 20px;">
                                                 </figure>
                                             </div>
-                                            <div class="ce_quote block">
+                                            <div class="ce_quote block ">
                                                 <div class="ser-quote ">
 
                                                     <div class="quote">
@@ -591,7 +414,7 @@
                                 <div class="centered-wrapper-inner ">
                                     <div class="rs-columns ce_rs_columns_start">
                                         <div
-                                            class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+                                            class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row px-3 px-lg-0">
                                             <div
                                                 class="headline-box ser-headline-box -align-left ce_rsce_ser_headline_box">
                                                 <h3 class="headline -large ">Streamlined processes, ensured
@@ -622,8 +445,8 @@
                                             class="ce_rs_column_start  rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
                                             <div class="quote-screenshot hide-tablet content-image">
                                                 <figure>
-                                                    <img src="assets/images/SmartIDP/all_docs.png"
-                                                        alt width="480" loading="lazy" height="459">
+                                                    <img src="assets/images/SmartIDP/all_docs1.png"
+                                                        alt width="480" loading="lazy" height="459" style="border-radius: 20px;" style="border-radius: 20px;" style="border-radius: 20px;">
                                                 </figure>
                                             </div>
                                             <div class="ce_quote block">
@@ -650,13 +473,66 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-start ce_rsce_oneo_tab_start" id="insurance" style="display:none;">
+                        <div class="tab-start ce_rsce_oneo_tab_start" id="healthcare" style="display:none;">
+                            <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start  -vertical-centered" style="">
+                                <div class="centered-wrapper-inner ">
+                                    <div class="rs-columns ce_rs_columns_start">
+                                        <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row px-3 px-lg-0">
+                                            <div class="headline-box ser-headline-box -align-left ce_rsce_ser_headline_box">
+                                                <h3 class="headline -large ">Optimized patient care, faster response times</h3>
+                                            </div>
+                                            <div class="content-text">
+                                                <div class="rte">
+                                                    <p>Leading healthcare providers don’t keep patients waiting. SmartIDP helps you deliver top-tier care by accelerating patient intake, treatment processes, and response times.</p>
+                                                    <ul>
+                                                        <li>360° view of patient history</li>
+                                                        <li>Faster patient processing</li>
+                                                        <li>Improved care coordination</li>
+                                                        <li>More efficient use of healthcare resources</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="button-box ce_rsce_oneo_button mt-3 -tertiary  -left">
+                                                <a class="button ce_rsce_oneo_button mt-3 -tertiary  -left"
+                                                    href="javascript:void(0)">
+                                                    Find out more → </a>
+                                            </div>
+                                        </div>
+                                        <div class="ce_rs_column_start  rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
+                                            <div class="quote-screenshot hide-tablet content-image">
+                                                <figure>
+                                                    <img src="assets/images/SmartIDP/all_docs1.png"
+                                                        alt width="480" height="459" loading="lazy" style="border-radius: 20px;">
+                                                </figure>
+                                            </div>
+                                            <div class="ce_quote block">
+                                                <div class="ser-quote ">
+
+                                                    <div class="quote">
+                                                        <p>Our patients notice that the care process is faster, thanks to the improved response times and streamlined workflows.</p>
+                                                    </div>
+                                                    <div class="author-logo">
+                                                        <p class="quote-author"><span class="author">Dr. Sarah Lang</span><br><span
+                                                                class="quote-title-company">Chief Medical Officer, HealthCare Plus Network</span></p>
+                                                        <img class="quote-logo"
+                                                            src="assets/images/SmartIDP/logo_123.png" width="50" height="50"
+                                                            alt="HealthCare Plus Network" loading="lazy">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- <div class="tab-start ce_rsce_oneo_tab_start" id="insurance" style="display:none;">
                             <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start  -vertical-centered"
                                 style="">
                                 <div class="centered-wrapper-inner ">
                                     <div class="rs-columns ce_rs_columns_start">
                                         <div
-                                            class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+                                            class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row px-3 px-lg-0">
                                             <div
                                                 class="headline-box ser-headline-box -align-left ce_rsce_ser_headline_box">
                                                 <h3 class="headline -large ">Optimized claims processes, shorter
@@ -686,8 +562,8 @@
                                             class="ce_rs_column_start  rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
                                             <div class="quote-screenshot hide-tablet content-image">
                                                 <figure>
-                                                    <img src="assets/images/SmartIDP/all_docs.png"
-                                                        alt width="480" height="459" loading="lazy">
+                                                    <img src="assets/images/SmartIDP/all_docs1.png"
+                                                        alt width="480" height="459" loading="lazy" style="border-radius: 20px;" style="border-radius: 20px;">
                                                 </figure>
                                             </div>
                                             <div class="ce_quote block">
@@ -716,14 +592,14 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="tab-start ce_rsce_oneo_tab_start" id="logistic" style="display:none;">
                             <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start  -vertical-centered"
                                 style="">
                                 <div class="centered-wrapper-inner ">
                                     <div class="rs-columns ce_rs_columns_start">
                                         <div
-                                            class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
+                                            class="ce_rs_column_start  rs-column -large-col-2-1 -large-first -large-first-row -medium-col-1-1 -medium-first -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row px-3 px-lg-0">
                                             <div
                                                 class="headline-box ser-headline-box -align-left ce_rsce_ser_headline_box">
                                                 <h3 class="headline -large ">Information and goods logistics in
@@ -756,8 +632,8 @@
                                             class="ce_rs_column_start  rs-column -large-col-2-1 -large-last -large-first-row -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last">
                                             <div class="quote-screenshot hide-tablet content-image">
                                                 <figure>
-                                                    <img src="assets/images/SmartIDP/all_docs.png"
-                                                        alt width="480" height="459" loading="lazy">
+                                                    <img src="assets/images/SmartIDP/all_docs1.png"
+                                                        alt width="480" height="459" loading="lazy" style="border-radius: 20px;">
                                                 </figure>
                                             </div>
                                             <div class="ce_quote block">
@@ -791,7 +667,7 @@
             </div>
         </div>
         <div class="mod_article  max-width-viewport ser-show-mobile block" id="article-42703">
-            <div class="mod_article_inner"> 
+            <div class="mod_article_inner">
                 <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start fade-out-background "
                     style=" ">
                     <div class="centered-wrapper-inner ">
@@ -1056,7 +932,7 @@
                 </section>
             </div>
         </div> -->
-        <div class="container-fluid" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">

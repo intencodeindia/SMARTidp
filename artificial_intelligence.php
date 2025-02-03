@@ -1,9 +1,9 @@
 <?php include_once("includes/header.php"); ?>
 <style>
     /* Default margin for larger screens */
-    #smartidp-img {
+    /* #smartidp-img {
         margin-bottom: 17%;
-    }
+    } */
 
     /* Remove margin on smaller screens */
     @media (max-width: 767px) {
@@ -139,15 +139,35 @@
 
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container py-2">
-            <div class="row align-items-center">
-                <!-- Left Column (Text and Button) -->
-                <div class="col-lg-6 mb-4 mb-lg-0">
+        <div class="container-fluid" style="background-image: url('assets/images/intelligent_content_Automation/BG.svg'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 65px 0;">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- Left Column: Content Section -->
+                    <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
+                        <h2 class="headline fw-bold mb-4" style="color: #000d39;">Content Automation Supercharged With <br>Artificial Intelligence</h2>
+                        <!-- <h1 class="display-3" style="color: #000d39;">
+                            Content automation supercharged with <br>Artificial intelligence
+                        </h1> -->
+                        <p class="fs-5 mb-4" style="color: #000d39;">Empower your employees' daily work, improve document understanding, and supercharge business processes with SmartIDP Intelligent Content Automation's next-generation ECM capabilities.</p>
+
+                        <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Experience Advice</a>
+                    </div>
+                    <!-- Right Column: Image Section -->
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
+                        <img src="assets/images/artificial_intelligence/Artificial_intelligence_in_SmartIDP.svg" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 85%; height: auto;">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <div class="container">
+            <div class="row pt-md-5">
+                <div class="col-lg-6">
                     <div class="text-start">
-                        <h1 class="display-2 fw-bold responsive-heading" style="margin-bottom: 0.5rem;">
+                        <h2 class="fw-bold" style="margin-bottom: 0.5rem;">
                             <span class="gradient">Content automation</span> supercharged with<span class="gradient"> Artificial intelligence</span>
-                        </h1>
-                        <p class="lead mb-4 responsive-paragraph" style="color: #333; font-weight: bold;">
+                        </h2>
+                        <p class="mb-4" style="font-weight: bold;">
                             Empower your employees' daily work, improve document understanding, and supercharge business processes with SmartIDP Intelligent Content Automation's next-generation ECM capabilities.
                         </p>
                         <a class="btn" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); color: white; padding: 10px 30px; text-decoration: none; border-radius: 50px; ">
@@ -155,12 +175,11 @@
                         </a>
                     </div>
                 </div>
-                <!-- Right Column (Image) -->
-                <div class="col-lg-6 text-center">
-                    <img src="assets/images/SmartIDP/intelligent-document-processing1.png" alt="SmartIDP" class="img-fluid" id="smartidp-img" loading="lazy">
+                <div class="col-lg-6 text-center align-items-center justify-content-center">
+                    <img src="assets/images/SmartIDP/intelligent-document-processing1.png" alt="SmartIDP" class="img-fluid py-2 py-md-0" id="smartidp-img" loading="lazy" style="border-radius: 20px;">
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
         <div class="mod_article  max-width-viewport ser-hide-mobile block" id="article-43655">
@@ -168,7 +187,7 @@
                 <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start  -vertical-centered" style=" ">
                     <div class="centered-wrapper-inner ">
                         <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
-                            <h2 class="responsive-heading1 fw-bold"><span class="gradient">Faster,</span> better and stronger work<span
+                            <h2 class="fw-bold"><span class="gradient">Faster,</span> better and stronger work<span
                                     class="gradient"> with AI</span></h2>
                         </div>
                         <section class="icon-boxes is-animated does-repeat ce_rsce_ser_icon_boxes">
@@ -340,9 +359,9 @@
                 <div class="col-lg-6 mb-4 mb-lg-0">
                     <div class="text-center">
                         <div class="position-relative">
-                            <button class="btn btn-link p-0" data-splash-screen>
-                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" alt="SmartIDP Video" class="img-fluid" style="max-width: 100%; height: 420px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s" loading="lazy">
-                            </button>
+                            <!-- <button class="btn btn-link p-0" data-splash-screen> -->
+                            <img src="assets/images/artificial_intelligence/m1.jpg" alt="SmartIDP Video" class="img-fluid" style="max-width: 100%; height: 420px; border-radius: 20px;" loading="lazy">
+                            <!-- </button> -->
                         </div>
                     </div>
                 </div>
@@ -350,21 +369,21 @@
                 <!-- Right Column (Text and Headings) -->
                 <div class="col-lg-6">
                     <div class="mb-1">
-                        <h2 class="h2 fw-bold" style="font-size: 1.75rem; color: #333; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);-webkit-background-clip: text; color: transparent; text-transform: uppercase; letter-spacing: 1px;">
-                            AI-powered automation
-                        </h2>
+                        <h3 class="fw-bold">
+                            <span class="gradient">AI-powered Automation</span>
+                        </h3>
 
-                        <h3 class="h4 mt-2" style="font-size: 1.5rem; color: #555;">Instantly automating routine tasks</h3>
+                        <h3>Instantly automating routine tasks</h3>
                         <p style="font-size: 1rem; color: #444; line-height: 1.6; text-align: justify;">
                             Want to produce more results with the same resources? AI-powered content automation vastly improves your ability to overcome growing complexity and fast-paced work demands. SmartIDP AI empowers workers through the automation of routine tasks so that they can focus on the work that fulfills them and generates value for your company.
                         </p>
                     </div>
                     <div>
-                        <h1 class="h2 fw-bold" style="font-size: 1.75rem; background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent; text-transform: uppercase; letter-spacing: 1px; margin: 0;">
-                            AI-powered assistance
-                        </h1>
+                        <h3 class="fw-bold">
+                            <span class="gradient">AI-powered assistance</span>
+                        </h3>
 
-                        <h3 class="h4" style="font-size: 1.5rem; color: #555;">Find and understand the information you need</h3>
+                        <h3>Find and understand the information you need</h3>
                         <p style="font-size: 1rem; color: #444; line-height: 1.6; text-align: justify;">
                             A little helping hand can really lighten your workload. Work intelligently, creatively, and productively – all while staying connected with the information and people in your company. SmartIDP AI enriches your daily work with helpful context and content related to your task at hand, and even automatically creates workflows to progress the next steps.
                         </p>
@@ -392,11 +411,11 @@
                             <!-- Author or attribution (optional) -->
                             <footer class="blockquote-footer text-white mt-3" style="font-size: 1rem;">SmartIDP</footer>
                         </div>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </div>
-   
+
 
         <div class="container py-5">
             <div class="text-center mb-5">
@@ -462,7 +481,7 @@
                             <ul>
                                 <li>Instantly detect and respond to market changes, bottlenecks, and deviations</li>
                                 <li>Increase customer satisfaction through reliable and punctual delivery</li>
-                                <li>Reduce <a href="javascript:void(0)">invoice processing</a> costs by as much as 80%</li>
+                                <li>Reduce <a href="invoice_automation">invoice processing</a> costs by as much as 80%</li>
                             </ul>
                             <!-- <div class="mt-3">
                                 <a href="contact.php" class="btn btn-primary">Find out more →</a>
@@ -470,7 +489,7 @@
                         </div>
                         <div class="col-lg-4">
                             <figure>
-                                <img src="assets/images/artificial_intelligence/diocalap.jpg" alt="Purchase-to-Pay" class="img-fluid" loading="lazy">
+                                <img src="assets/images/artificial_intelligence/diocalap.png" alt="Purchase-to-Pay" class="img-fluid" loading="lazy">
                             </figure>
                         </div>
                     </div>
@@ -534,7 +553,7 @@
                     <!-- Icon Boxes Section -->
                     <section class="row">
                         <!-- Icon Box 1 -->
-                        <div class="col-12 col-md-6 mb-4">
+                        <div class="col-12 col-lg-6 mb-4">
                             <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-cogs fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
@@ -548,7 +567,7 @@
                         </div>
 
                         <!-- Icon Box 2 -->
-                        <div class="col-12 col-md-6 mb-4">
+                        <div class="col-12 col-lg-6 mb-4">
                             <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-brain fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
@@ -561,7 +580,7 @@
                         </div>
 
                         <!-- Icon Box 3 -->
-                        <div class="col-12 col-md-6 mb-4">
+                        <div class="col-12 col-lg-6 mb-4">
                             <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-chart-line fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
@@ -574,7 +593,7 @@
                         </div>
 
                         <!-- Icon Box 4 -->
-                        <div class="col-12 col-md-6 mb-4">
+                        <div class="col-12 col-lg-6 mb-4">
                             <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-smile fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
@@ -587,7 +606,7 @@
                         </div>
 
                         <!-- Icon Box 5 -->
-                        <div class="col-12 col-md-6 mb-4">
+                        <div class="col-12 col-lg-6 mb-4">
                             <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-lock fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
@@ -600,7 +619,7 @@
                         </div>
 
                         <!-- Icon Box 6 -->
-                        <div class="col-12 col-md-6 mb-4">
+                        <div class="col-12 col-lg-6 mb-4">
                             <div class="card custom-card-shadow h-100 text-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-robot fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
@@ -697,7 +716,7 @@
                         <!-- Image Column -->
                         <div class="col-12 col-lg-6 mb-4">
                             <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                                <img src="assets/images/SmartIDP/Intelligent_doc.png" alt="meets AI" class="img-fluid shadow-lg" style="max-width: 100%; height: 100%;  border-radius: 20px" loading="lazy">
+                                <img src="assets/images/SmartIDP/Intelligent_doc.png" alt="meets AI" class="img-fluid" style="max-width: 100%; height: auto;  border-radius: 20px" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -710,7 +729,7 @@
             <div class="row justify-content-center">
                 <div class="col-12">
                     <!-- Card with content -->
-                    <div class="card shadow-lg rounded-3" style="border: none; overflow: hidden;">
+                    <div class="card rounded-3" style="border: none; overflow: hidden; background: transparent;">
 
                         <!-- Card Header with Linear Gradient -->
                         <div class="card-header d-flex justify-content-center align-items-center text-center" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);">
@@ -746,70 +765,69 @@
         <div class="container py-5" id="article-43664">
             <div class="row justify-content-center">
                 <div class="col-12">
-                    <!-- Card with content -->
-                    <div class="card shadow-lg rounded-3" style="border: none; overflow: hidden;">
-
+                    <!-- Card for the heading -->
+                    <div class="card" style="border: none; overflow: hidden; background: transparent;">
                         <!-- Card Header with Linear Gradient -->
                         <div class="card-header text-center" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); color: white;">
                             <h2 class="display-4 fw-bold mb-0 text-white" style="margin: 0;">Dive into the World of AI</h2>
                         </div>
+                    </div>
+                </div>
 
+                <div class="col-12 col-lg-4 mb-4">
+                    <!-- Card for the first article -->
+                    <div class="card custom-card-shadow h-100 mt-2">
                         <!-- Card Body with content -->
                         <div class="card-body">
-                            <div class="row">
-                                <!-- First Article Section -->
-                                <div class="col-12 col-md-4 mb-4 text-justify">
-                                    <div>
-                                        <figure>
-                                            <picture>
-                                                <source srcset="assets/images/SmartIDP/intelligent-document-processing.png" type="image/webp" width="580" height="304" loading="lazy">
-                                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px;">
-                                            </picture>
-                                        </figure>
-                                    </div>
-                                    <div>
-                                        <h3 class="mt-2" style="font-size: 1.25rem; font-weight: bold;">7 AI Trends Shaping the Future of Content Management and the Digital Workplace</h3>
-                                        <p class="text-muted mt-2" style="font-size: 1rem;">Explore the latest trends in AI and how they are transforming content management in the digital era. Discover the key insights that will shape the future.</p>
-                                    </div>
-                                </div>
+                            <div>
+                                <!-- Image with fixed height and width -->
+                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" alt="" loading="lazy" class="img-fluid" style="height: 250px; width: 100%; border-top-left-radius: 20px; border-top-right-radius: 20px;">
+                            </div>
+                            <div>
+                                <h3 class="mt-2">7 AI Trends Shaping the Future of Content Management and the Digital Workplace</h3>
+                                <p class="text-muted mt-2">Explore the latest trends in AI and how they are transforming content management in the digital era. Discover the key insights that will shape the future.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-                                <!-- Second Article Section -->
-                                <div class="col-12 col-md-4 mb-4 text-justify">
-                                    <div>
-                                        <figure>
-                                            <picture>
-                                                <source srcset="assets/images/artificial_intelligence/3_ways.webp" type="image/webp" width="580" height="304" loading="lazy">
-                                                <img src="assets/images/artificial_intelligence/3_ways.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px" loading="lazy">
-                                            </picture>
-                                        </figure>
-                                    </div>
-                                    <div>
-                                        <h3 class="mt-2" style="font-size: 1.25rem; font-weight: bold;">3 Ways AI is Revolutionizing Banking and Financial Services</h3>
-                                        <p class="text-muted mt-2" style="font-size: 1rem;">Learn how AI is reshaping banking and financial services. The future of the sector relies heavily on automation, machine learning, and AI-driven innovations.</p>
-                                    </div>
-                                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <!-- Card for the second article -->
+                    <div class="card custom-card-shadow h-100 mt-2">
+                        <!-- Card Body with content -->
+                        <div class="card-body">
+                            <div>
+                                <!-- Image with fixed height and width -->
+                                <img src="assets/images/artificial_intelligence/3_ways.webp" alt="" loading="lazy" class="img-fluid" style="height: 250px; width: 100%; object-fit: cover;border-top-left-radius: 20px; border-top-right-radius: 20px;">
+                            </div>
+                            <div>
+                                <h3 class="mt-2">3 Ways AI is Revolutionizing Banking and Financial Services</h3>
+                                <p class="text-muted mt-2">Learn how AI is reshaping banking and financial services. The future of the sector relies heavily on automation, machine learning, and AI-driven innovations.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-                                <!-- Third Article Section -->
-                                <div class="col-12 col-md-4 mb-4 text-justify">
-                                    <div>
-                                        <figure>
-                                            <picture>
-                                                <source srcset="assets/images/artificial_intelligence/management.webp" type="image/webp" width="580" height="304" loading="lazy">
-                                                <img src="assets/images/artificial_intelligence/management.webp" width="580" height="304" alt="" loading="lazy" class="img-fluid rounded-3" style="border-radius: 20px" loading="lazy">
-                                            </picture>
-                                        </figure>
-                                    </div>
-                                    <div>
-                                        <h3 class="mt-2" style="font-size: 1.25rem; font-weight: bold;">Input Management at Its Best</h3>
-                                        <p class="text-muted mt-2" style="font-size: 1rem;">Discover how AI-powered input management is transforming data capture, automating processes, and improving overall operational efficiency for organizations.</p>
-                                    </div>
-                                </div>
+                <div class="col-12 col-lg-4 mb-4">
+                    <!-- Card for the third article -->
+                    <div class="card custom-card-shadow h-100 mt-2">
+                        <!-- Card Body with content -->
+                        <div class="card-body">
+                            <div>
+                                <!-- Image with fixed height and width -->
+                                <img src="assets/images/artificial_intelligence/management.webp" alt="" loading="lazy" class="img-fluid" style="height: 250px; width: 100%; object-fit: cover;border-top-left-radius: 20px; border-top-right-radius: 20px;">
+                            </div>
+                            <div>
+                                <h3 class="mt-2">Input Management at Its Best</h3>
+                                <p class="text-muted mt-2">Discover how AI-powered input management is transforming data capture, automating processes, and improving overall operational efficiency for organizations.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
+
 
     </main>
 </div>

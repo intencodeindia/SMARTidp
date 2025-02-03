@@ -48,7 +48,7 @@
                 SmartIDP</h2>
         </div>
         <?php include_once("smartidp_logos.php"); ?>
-        <div class="container mt-md-5">
+        <div class="container">
             <h2 class="text-center fw-bold mt-0"><span class="gradient">Healthcare </span>has become an integral component of digital transformation</h2>
             <p class="text-center">Healthcare has become an integral component of digital transformation, addressing challenges such as a shortage of skilled workers,
                 cost pressures, patient care, and compliance requirements. By digitizing and automating processes and documents,
@@ -183,7 +183,7 @@
             </div>
         </div>
 
-        <div class="container-fluid" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">
@@ -323,7 +323,7 @@
                     <section class="row">
                         <!-- Icon Box 1 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card custom-card-shadow h-100 text-center">
+                            <div class="card custom-card-shadow h-100">
                                 <div class="card-body d-flex align-items-center justify-content-center">
                                     <i class="fas fa-cogs fa-3x mb-3 gradient me-2"></i>
                                     <div>
@@ -336,7 +336,7 @@
 
                         <!-- Icon Box 2 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card custom-card-shadow h-100 text-center">
+                            <div class="card custom-card-shadow h-100">
                                 <div class="card-body d-flex align-items-center justify-content-center">
                                     <i class="fas fa-brain fa-3x mb-3 gradient me-2"></i>
                                     <div>
@@ -349,7 +349,7 @@
 
                         <!-- Icon Box 3 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card custom-card-shadow h-100 text-center">
+                            <div class="card custom-card-shadow h-100">
                                 <div class="card-body d-flex align-items-center justify-content-center">
                                     <i class="fas fa-chart-line fa-3x mb-3 gradient me-2"></i>
                                     <div>
@@ -362,7 +362,7 @@
 
                         <!-- Icon Box 4 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card custom-card-shadow h-100 text-center">
+                            <div class="card custom-card-shadow h-100">
                                 <div class="card-body d-flex align-items-center justify-content-center">
                                     <i class="fas fa-file fa-3x mb-3 gradient me-2"></i>
                                     <div>
@@ -375,7 +375,7 @@
 
                         <!-- Icon Box 5 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card custom-card-shadow h-100 text-center justify-content-center">
+                            <div class="card custom-card-shadow h-100 justify-content-center">
                                 <div class="card-body d-flex align-items-center">
                                     <i class="fas fa-lock fa-3x mb-3 gradient me-2"></i>
                                     <div>
@@ -388,7 +388,7 @@
 
                         <!-- Icon Box 6 -->
                         <div class="col-12 col-md-6 mb-4">
-                            <div class="card custom-card-shadow h-100 text-center">
+                            <div class="card custom-card-shadow h-100">
                                 <div class="card-body d-flex align-items-center justify-content-center">
                                     <i class="fas fa-circle-user fa-3x mb-3 gradient me-2"></i>
                                     <div>

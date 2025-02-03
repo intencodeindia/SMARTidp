@@ -69,52 +69,52 @@
             </div>
         <?php endif; ?>
 
-        <div class="container my-5" id="article-26234">
+        <div class="container" id="article-26234">
             <div class="row">
                 <!-- Left Column: Contact Us and Address -->
-                <div class="col-md-6 mb-4 mb-md-0">
-                    <h3>Contact us - we look forward to talking to you!</h3>
-                    <p>Fill out the form and we’ll quickly be in touch to answer your questions, discuss your challenges, and explore use cases related to your needs.</p>
+                <div class="col-md-6 d-flex align-items-center" style="box-shadow: none;">
+                    <div>
+                        <h3 class="mb-4">Contact us - we look forward to talking to you!</h3>
+                        <p>Fill out the form and we’ll quickly be in touch to answer your questions, discuss your challenges, and explore use cases related to your needs.</p>
 
-                    <!-- Address Section -->
-                    <div class="p-4 mt-4" style="background-color: #e8eded;">
-                        <h4>You can find us here</h4>
-                        <div class="country-based-content">
-                            <!-- Middle East Office -->
-                            <div data-country="KW,SA,AE,QA">
-                                <p><strong>SmartIDP Software Solutions Middle East Ltd.</strong></p>
-                                <p>Unit 1002-1003, Level 10, Innovation One, DIFC<br>Dubai, United Arab Emirates<br>PO. Box Number 482097</p>
-                                <p>Tel: +971 (0) 4 591 8828<br>Email: <a href="mailto:info@smartIDP.ai">info@smartIDP.ai</a></p>
-                            </div>
+                        <!-- Address Section with Background Image -->
+                        <div class="p-4 mt-4" style="background-color: #e8eded;border-radius: 20px; background-image: url('your-image-url.jpg'); background-size: cover; background-position: center;">
+                            <div class="country-based-content text-white">
+                                <h4>You can find us here</h4>
 
-                            <!-- US Office -->
-                            <div data-country="US">
-                                <p><strong>SmartIDP Group Inc.</strong></p>
-                                <p>6 Liberty Square # 2817<br>Boston, MA 02109</p>
-                                <p>Email: <a href="mailto:info@smartIDP.ai">info@smartidp.ai</a></p>
-                            </div>
+                                <!-- Middle East Office Card -->
+                                <div class="card mt-3" style="background-color: #f8f9fa; border-radius: 20px;">
+                                    <div class="card-body">
+                                        <h5 class="card-title">SmartIDP Headquarters</h5>
+                                        <p class="card-text text-dark">
+                                        5900 Balcones Drive STE 13688<br>Austin, TX 78731<br>USA
+                                        </p>
+                                        <p class="text-dark"><i class="fas fa-envelope fa-md"></i> Email: <a href="mailto:info@smartIDP.ai" class="contact-link">info@smartidp.ai</a></p>
+                                    </div>
+                                </div>
 
-                            <!-- Default Head Office -->
-                            <div data-country="default">
-                                <p><strong>SmartIDP Head Office.</strong></p>
-                                <p>5900 Balcones Drive STE 13688<br>Austin, TX 78731<br>USA</p>
-                                <p>Email: <a href="mailto:info@smartIDP.ai">info@smartidp.ai</a></p>
+                                <!-- CTA Button -->
+                                <div class="text-center mt-4">
+                                    <a href="mailto:info@smartIDP.ai" class="btn rounded-pill px-4 text-white" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Get in Touch</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
+
+
                 <!-- Right Column: Contact Form -->
-                <div class="col-md-6 mx-auto">
+                <div class="col-md-6 mx-auto" style="box-shadow: none;">
                     <h4 class="text-center">Fill out the form below</h4>
                     <form method="post" action="process_form.php">
                         <!-- First Name and Last Name in same row -->
                         <div class="mb-3 row">
-                            <div class="col-md-6">
+                            <div class="col-md-6" style="box-shadow: none;">
                                 <label for="firstname" class="form-label">First name<span class="text-danger">*</span></label>
                                 <input type="text" name="firstname" id="firstname" class="form-control" required placeholder="First name*">
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6" style="box-shadow: none;">
                                 <label for="lastname" class="form-label">Last name<span class="text-danger">*</span></label>
                                 <input type="text" name="lastname" id="lastname" class="form-control" required placeholder="Last name*">
                             </div>
@@ -190,7 +190,7 @@
 
                         <!-- Submit button -->
                         <div class="d-flex justify-content-center mt-3">
-                            <button type="submit" class="btn btn-primary rounded-pill px-5 py-2">SEND</button>
+                            <button type="submit" class="btn rounded-pill px-5 text-white" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">SEND</button>
                         </div>
                         <div id="alertPlaceholder">
                             <?php if (isset($_GET['success'])): ?>
@@ -307,7 +307,7 @@
 
         let country = '';
 
-        switch(countryCode) {
+        switch (countryCode) {
             case '+1':
                 country = 'USA';
                 break;
@@ -381,7 +381,7 @@
                 country = '';
         }
 
-        countryInput.value = country;  // Set the country input field based on the selected code
+        countryInput.value = country; // Set the country input field based on the selected code
     });
 </script>
 <?php include_once("includes/footer.php"); ?>

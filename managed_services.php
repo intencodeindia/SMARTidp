@@ -72,17 +72,18 @@
             </div>
         </div>
 
-        <div class="container my-md-5">
+        <div class="container my-md-3">
+            <hr>
             <div class="row">
                 <!-- Title Section -->
-                <div class="col-12 col-md-12 col-lg-6 text-center mb-4">
-                    <h2 class="fw-bold">SmartIDP Benefits at a Glance</h2>
+                <div class="col-12 col-md-12 col-lg-6 d-flex align-items-center">
+                    <h2 class="fw-bold">SmartIDP <span class="gradient">Benefits at a Glance</span></h2>
                 </div>
                 <!-- Accordion Section -->
-                <div class="col-12 col-md-12 col-lg-6 mx-auto">
+                <div class="col-12 col-md-12 col-lg-6">
                     <div class="accordion" id="benefitsAccordion">
                         <!-- Accordion Item 1 -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                                     1. Exclusive access to cutting-edge automation features
@@ -96,7 +97,7 @@
                         </div>
 
                         <!-- Accordion Item 2 -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     2. Comprehensive service and support packages
@@ -110,7 +111,7 @@
                         </div>
 
                         <!-- Accordion Item 3 -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                     3. Scalability and flexibility tailored to your business
@@ -125,6 +126,7 @@
                     </div>
                 </div>
             </div>
+            <hr>
         </div>
 
         <div class="container" id="article-29421">
@@ -157,7 +159,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/microsoft/email.png" alt="Microsoft Outlook Integration" class="img-fluid" loading="lazy">
+                            <img src="assets/images/microsoft/email.png" alt="Microsoft Outlook Integration" class="img-fluid" loading="lazy" style="border-radius: 20px;">
                         </figure>
                     </div>
                 </div>

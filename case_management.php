@@ -6,7 +6,7 @@
         -webkit-background-clip: text;
         color: transparent;
     }
-    
+
     /* Unique class for shadow effect */
     .custom-card-shadow {
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
@@ -156,10 +156,11 @@
         </div>
 
 
-        <div class="container py-md-3">
+        <div class="container">
             <h2 class="text-center fw-bold mb-3">Customers who are intergrated with <span
                     class="gradient">smartIDP</span></h2>
             <hr>
+            <div class="mt-5"></div>
             <?php include_once("smartidp_logos.php"); ?>
             <hr>
         </div>
@@ -190,25 +191,18 @@
         </div>
         <div class="container py-md-3" id="best-practice-smartidp">
             <hr>
-            <h2 class="text-center mb-4 fw-bold">Optimal Practice
-            </h2>
+            <h2 class="text-center mb-4 fw-bold"><span class="gradient">Case Management</span> with SmartIDP</h2>
             <section class="row align-items-center">
                 <!-- Text Section -->
                 <div class="col-md-6">
-                    <blockquote class="">
-                        <p>Our advanced eFiles serve as centralized hubs for seamlessly accessing documents from a
-                            variety of sources, including SAP, emails, MS Office, and more. This integration
-                            streamlines case management, significantly boosting efficiency and collaboration across
-                            departments, such as customer service, and ensuring faster, more informed
-                            decision-making.</p>
+                    <blockquote>
+                        <p>SmartIDP's advanced eFiles offer a centralized platform for managing and accessing case-related documents from multiple sources, including SAP, emails, and more. This seamless integration enhances case management, accelerating workflows, improving collaboration across departments, and enabling quicker, data-driven decision-making.</p>
                     </blockquote>
-
                 </div>
 
                 <!-- Image Section -->
                 <div class="col-md-6 py-3 text-center">
-                    <img src="assets/images/case_management/logo1.png" class="img-fluid" alt="Logistics"
-                        style="max-width: 65%;border-radius: 25px" loading="lazy">
+                    <img src="assets/images/case_management/logo1.png" class="img-fluid" alt="Case Management" style="max-width: 65%;border-radius: 25px" loading="lazy">
                 </div>
             </section>
             <hr>
@@ -292,8 +286,7 @@
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/case_management/cm030.jpeg" alt="Microsoft Outlook Integration"
-                                class="img-fluid" style="height: 350px" loading="lazy">
+                            <img src="assets/images/case_management/cm030.jpeg" alt="Microsoft Outlook Integration" class="img-fluid" style="height: 350px;border-radius: 20px;" loading="lazy" />
                         </figure>
                     </div>
                 </div>

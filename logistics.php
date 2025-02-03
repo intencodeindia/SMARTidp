@@ -130,11 +130,11 @@
                 <!-- Left Column: Headline and Content -->
                 <h2 class="fw-bold">Streamline Information Management in <span class="gradient"> Global Logistics with SmartIDP</span></h2>
                 <div class="col-lg-6 col-md-6 content-text">
-                    <p>Explore Our Guide to SmartIDP Solutions</strong></p>
+                    <p><strong>Explore Our Guide to SmartIDP Solutions</strong></p>
                     <ul>
-                        <li><strong>How SmartIDP Creates More Transparency in Supply Chains</strong></li>
-                        <li><strong>Efficient Stakeholder Management with SmartIDP</strong></li>
-                        <li><strong>Success Stories of 4 Digital Pioneers Using SmartIDP</strong></li>
+                        <li>How SmartIDP Creates More Transparency in Supply Chains</li>
+                        <li>Efficient Stakeholder Management with SmartIDP</li>
+                        <li>Success Stories of 4 Digital Pioneers Using SmartIDP</li>
                     </ul>
                     <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover SmartIDP</a>
                 </div>
@@ -156,7 +156,7 @@
                             <div class="icon-boxes-item mb-4 -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-truck fa-md"></i></span> <!-- Truck Icon for Logistics -->
                                 <h3 class="fw-bold">Streamlining Files for Shipping, Freight & Transportation Management</h3>
-                                <p class="px-3 ">With SmartIDP, users can access electronic files globally, including consignment notes, customs papers, hazardous goods documentation, import/export declarations, and data from TMS, ERP, CRM, and resource planning systems. SmartIDP ensures seamless and efficient management of all critical documents and data in real-time.</p>
+                                <p class="px-2 py-1 ">With SmartIDP, users can access electronic files globally, including consignment notes, customs papers, hazardous goods documentation, import/export declarations, and data from TMS, ERP, CRM, and resource planning systems. SmartIDP ensures seamless and efficient management of all critical documents and data in real-time.</p>
                             </div>
                         </div>
                         <div class="row">
@@ -164,7 +164,7 @@
                             <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-cogs fa-md"></i></span> <!-- Cogs Icon for Process Management -->
                                 <h3 class="fw-bold">Streamlined Process Management with SmartIDP</h3>
-                                <p class="px-3">Manage your order verifications, contract approvals, dispatch of supporting documents, and more with SmartIDP. SmartIDP automatically generates and sends receipt confirmations, streamlining your entire workflow.</p>
+                                <p class="px-2 py-1">Manage your order verifications, contract approvals, dispatch of supporting documents, and more with SmartIDP. SmartIDP automatically generates and sends receipt confirmations, streamlining your entire workflow.</p>
                             </div>
                         </div>
                         <div class="row">
@@ -190,7 +190,7 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid py-3" style="background-color: #eaedfc;">
+        <div class="container-fluid py-3">
             <div class="container">
                 <h2 class="fw-bold mb-md-5 text-center py-1">The <span class="gradient">Advantages</span> of the SmartIDP ECM Platform</h2>
                 <div class="row">
@@ -292,7 +292,7 @@
             </div>
         </div>
 
-        <div class="container-fluid" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">
@@ -334,36 +334,34 @@
                             <!-- Contract files managed with SmartIDP -->
                             <div class="icon-boxes-item mb-4 -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-file-contract fa-md"></i></span> <!-- Contract Icon -->
-                                <h3 class="fw-bold">Contract files managed with SmartIDP >></h3>
-                                <p class="px-3">Centralize all contracts with customers and business partners using SmartIDP, and let the platform automatically remind you of upcoming contract deadlines, ensuring timely actions and seamless contract management.</p>
+                                <h3 class="fw-bold">Contract files managed with SmartIDP</h3>
+                                <p class="px-2 py-1">Centralize all contracts with customers and business partners using SmartIDP, and let the platform automatically remind you of upcoming contract deadlines, ensuring timely actions and seamless contract management.</p>
                             </div>
                         </div>
                         <div class="row">
                             <!-- Centralized Customer File Management -->
                             <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-users fa-md"></i></span> <!-- Users Icon -->
-                                <h3 class="fw-bold">Centralized Customer File Management with SmartIDP >></h3>
-                                <p class="px-3">Access the complete customer history—from inquiries and offers to CRM data and notes—quickly and from anywhere with SmartIDP.</p>
+                                <h3 class="fw-bold">Centralized Customer File Management with SmartIDP</h3>
+                                <p class="px-2 py-1">Access the complete customer history—from inquiries and offers to CRM data and notes—quickly and from anywhere with SmartIDP.</p>
                             </div>
                         </div>
                         <div class="row">
                             <!-- Manage Lease Files with SmartIDP -->
                             <div class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-warehouse fa-md"></i></span> <!-- Warehouse Icon (for assets) -->
-                                <h3 class="fw-bold px-3">Seamlessly Manage and Access Your Lease Files with SmartIDP >></h3>
-                                <p class="px-3">SmartIDP centralizes all information related to your leased assets, such as vehicle fleets, airplanes, and more. With SmartIDP, managing your lease contracts and ensuring compliance with IFRS 16 becomes simple and automated.</p>
+                                <h3 class="fw-bold px-3">Seamlessly Manage and Access Your Lease Files with SmartIDP</h3>
+                                <p class="px-2 py-1">SmartIDP centralizes all information related to your leased assets, such as vehicle fleets, airplanes, and more. With SmartIDP, managing your lease contracts and ensuring compliance with IFRS 16 becomes simple and automated.</p>
                             </div>
                         </div>
                     </section>
                 </div>
 
-
-
                 <!-- Right Column: Image -->
                 <div class="col-md-6 mt-4 mt-md-0">
                     <div class="content-image text-center">
                         <figure>
-                            <img src="assets/images/logistic/logic7.webp" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius: 50%; height:400px;width:400px" loading="lazy">
+                            <img src="assets/images/logistic/logic7.webp" alt="Microsoft Outlook Integration" class="img-fluid" style="border-radius: 20px;" loading="lazy">
                         </figure>
                     </div>
                 </div>
@@ -378,7 +376,7 @@
             <hr>
         </div>
 
-        <div class="container-fluid py-1" style="background-color: #eaedfc;">
+        <div class="container-fluid py-1">
             <div class="container my-md-5 my-3">
                 <div class="row align-items-center">
                     <!-- Text Content Column -->
@@ -396,7 +394,7 @@
                     <div class="col-md-4">
                         <div class="d-flex flex-column align-items-center justify-content-center">
                             <figure>
-                                <img src="assets/images/logistic/logic8.avif" class="img-fluid" alt="SmartIDP Customization" loading="lazy" style="border-radius: 20px;">
+                                <img src="assets/images/logistic/map.png" class="img-fluid" alt="SmartIDP Customization" loading="lazy" style="border-radius: 20px;">
                             </figure>
                         </div>
                     </div>

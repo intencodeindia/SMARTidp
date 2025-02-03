@@ -70,7 +70,7 @@
         </div>
         <div class="mt-5"></div>
         <?php include_once("smartidp_logos.php"); ?>
-        <div class="container mt-2">
+        <div class="container">
             <h2 class="fw-bold fs-2">Your Success Starts with<span class="gradient"> First-Class</span> Customer Service Powered by<span class="gradient"> SmartIDP </span></h2>
             <p class="justify-content-center">Respond faster, streamline communication, and accelerate underwriting and claims processes with SmartIDP. By automating document handling and data extraction, SmartIDP helps you enhance efficiency, improve accuracy, and provide a seamless customer experience. This not only boosts customer loyalty and satisfaction but also lays the foundation for sustainable growth in the insurance industry.</p>
             <div class="row text-center mt-5">
@@ -148,12 +148,12 @@
             <div class="row align-items-center">
                 <!-- Left Column: Headline and Content -->
                 <h2 class="fw-bold mt-0">Building a <span class="gradient">Lean, Modern, and Future-Proof</span> Business with SmartIDP</h2>
-                <p><span class="gradient fw-bold">Our Essential Guide to Unlocking the Power of SmartIDP:</p>
                 <div class="col-lg-6 col-md-6 content-text">
+                    <p><span class="fw-bold">Our Essential Guide to Unlocking the Power of SmartIDP:</p>
                     <ul>
-                        <li><strong>Overcoming the Biggest Challenges in Banking and Insurance with SmartIDP</strong></li>
-                        <li><strong>Key Steps to Modernization and the Benefits of AI and Automation through SmartIDP</strong></li>
-                        <li><strong>Success Stories from 4 Digital Pioneers – How Our Banking and Insurance Customers Transformed with SmartIDP</strong></li>
+                        <li>Overcoming the Biggest Challenges in Banking and Insurance with SmartIDP</li>
+                        <li>Key Steps to Modernization and the Benefits of AI and Automation through SmartIDP</li>
+                        <li>Success Stories from 4 Digital Pioneers – How Our Banking and Insurance Customers Transformed with SmartIDP</li>
                     </ul>
                     <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Contact Us</a>
                 </div>
@@ -251,7 +251,7 @@
                 </div>
             </div>
         </div>
-        <div class="container my-5">
+        <div class="container my-md-5">
             <div class="max-width-viewport block" id="article-44383">
                 <div class="mod_article_inner">
                     <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start infobox max-width-800">
@@ -268,7 +268,7 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid py-5" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">

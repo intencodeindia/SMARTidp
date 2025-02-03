@@ -186,73 +186,73 @@
 
 
 
-        <div class="container-fluid py-3" style="background-color: #eaedfc;">
+        <div class="container-fluid py-3">
             <div class="container">
-                <h2 class="fw-bold mb-md-5 text-center">SmartIDP Solutions for Your Entire Organization</h2>
+                <h2 class="fw-bold mb-md-5 text-center"><span class="gradient">SmartIDP Solutions </span>for Your Entire Organization</h2>
                 <div class="row">
                     <!-- Intelligent Document Processing -->
-                    <div class="col-12 col-lg-2 col-md-3 mb-4">
+                    <div class="col-12 col-lg-4 col-md-4 mb-4">
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body">
                                 <div class="icon-box-circle rounded-circle">
                                     <i class="fas fa-file-alt fa-md"></i>
                                 </div>
-                                <h3 class="card-title text-center">Intelligent Document Processing</h3>
+                                <h3 class="card-title text-center"><span class="gradient">Intelligent Document Processing</span></h3>
                             </div>
                         </div>
                     </div>
                     <!-- Automated Data Extraction -->
-                    <div class="col-12 col-lg-2 col-md-3 mb-4">
+                    <div class="col-12 col-lg-4 col-md-4 mb-4">
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body">
                                 <div class="icon-box-circle rounded-circle">
                                     <i class="fas fa-cogs fa-md"></i>
                                 </div>
-                                <h3 class="card-title text-center">Automated Data Extraction</h3>
+                                <h3 class="card-title text-center"><span class="gradient">Automated Data Extraction</span></h3>
                             </div>
                         </div>
                     </div>
                     <!-- Workflow Automation -->
-                    <div class="col-12 col-lg-2 col-md-3 mb-4">
+                    <div class="col-12 col-lg-4 col-md-4 mb-4">
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body">
                                 <div class="icon-box-circle rounded-circle">
                                     <i class="fas fa-random fa-md"></i>
                                 </div>
-                                <h3 class="card-title text-center">Workflow Automation</h3>
+                                <h3 class="card-title text-center"><span class="gradient">Workflow Automation</span></h3>
                             </div>
                         </div>
                     </div>
                     <!-- Real-time Collaboration -->
-                    <div class="col-12 col-lg-2 col-md-3 mb-4">
+                    <div class="col-12 col-lg-4 col-md-4 mb-4">
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body">
                                 <div class="icon-box-circle rounded-circle">
                                     <i class="fas fa-users fa-md"></i>
                                 </div>
-                                <h3 class="card-title text-center">Real-time Collaboration</h3>
+                                <h3 class="card-title text-center"><span class="gradient">Real-time Collaboration</span></h3>
                             </div>
                         </div>
                     </div>
                     <!-- Contract Lifecycle Management -->
-                    <div class="col-12 col-lg-2 col-md-3 mb-4">
+                    <div class="col-12 col-lg-4 col-md-4 mb-4">
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body">
                                 <div class="icon-box-circle rounded-circle">
                                     <i class="fas fa-file-signature fa-md"></i>
                                 </div>
-                                <h3 class="card-title text-center">Contract Lifecycle Management</h3>
+                                <h3 class="card-title text-center"><span class="gradient">Contract Lifecycle Management</span></h3>
                             </div>
                         </div>
                     </div>
                     <!-- Secure Digital Archiving -->
-                    <div class="col-12 col-lg-2 col-md-3 mb-4">
+                    <div class="col-12 col-lg-4 col-md-4 mb-4">
                         <div class="card h-100 custom-card-shadow">
                             <div class="card-body">
                                 <div class="icon-box-circle rounded-circle mb-3 d-flex justify-content-center align-items-center">
                                     <i class="fas fa-database fa-md"></i>
                                 </div>
-                                <h3 class="card-title text-center">Secure Digital Archiving</h3>
+                                <h3 class="card-title text-center"><span class="gradient">Secure Digital Archiving</span></h3>
                             </div>
                         </div>
                     </div>

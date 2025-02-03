@@ -289,7 +289,7 @@
                 </div>
                 <!-- Text Content Column -->
                 <div class="col-md-8">
-                    <p>SmartIDP in the cloud, on-premises, or as a hybrid solution — <strong>choose the deployment that suits your business needs best.</strong></p>
+                    <p><strong>SmartIDP in the cloud, on-premises, or as a hybrid solution — </strong>choose the deployment that suits your business needs best.</p>
                     <p>
                         Stay agile with SmartIDP: Seamlessly combine cloud-based SmartIDP solutions with on-premises infrastructure or hybrid setups to meet your specific requirements. The advantage: consistent user interfaces and automated workflows across your organization. SmartIDP stands as the leading intelligent document processing platform, offering a unified experience whether deployed on-premises or in the cloud.
                     </p>

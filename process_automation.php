@@ -152,10 +152,47 @@
 <!-- <link rel="stylesheet" href="<?php echo BASE_PATH; ?>assets/css/five.css"> -->
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container-fluid py-5" id="article-43622" style="background-image: url('assets/images/process_automation/pad.png'); background-size: cover; background-position: 0% 10%;">
+       
+    <div class="container-fluid" style="background-image: url('assets/images/intelligent_content_Automation/BG.svg'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
             <div class="container">
                 <div class="row align-items-center">
-                    <!-- Left Column (Text Content) -->
+                    <!-- Left Column: Content Section -->
+                    <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
+                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;">Powered by the latest AI</h2>
+
+                        <h2 class="headline fw-bold mb-4" style="color: #000d39;">Intelligent business process automation</h2>
+
+                        <ul class="list-unstyled text-start" style="color: #000d39;">
+                            <li class="mb-2" style="list-style: none;">
+                                <i class="fas fa-check-circle me-2"></i> Automate and manage all your business processes, end-to-end
+                            </li>
+                            <li class="mb-2" style="list-style: none;">
+                                <i class="fas fa-check-circle me-2"></i> Experience a real-time, transparent view of project progress
+                            </li>
+                            <li class="mb-2" style="list-style: none;">
+                                <i class="fas fa-check-circle me-2"></i> Automate manual tasks and speed up daily work
+                            </li>
+                            <li class="mb-2" style="list-style: none;">
+                                <i class="fas fa-check-circle me-2"></i> Elevate decision-making by harnessing your institutional knowledge with AI
+                            </li>
+                        </ul>
+                        <!-- <h1 class="display-3" style="color: #000d39;">
+                            Content automation supercharged with <br>Artificial intelligence
+                        </h1> -->
+                        <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                    </div>
+                    <!-- Right Column: Image Section -->
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
+                        <img src="assets/images/process_automation/Process_automation.svg" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 85%; height: auto;">
+                    </div>
+                </div>
+            </div>
+        </div>
+<!--     
+    <div class="container-fluid py-5" id="article-43622" style="background-image: url('assets/images/process_automation/pad.png'); background-size: cover; background-position: 0% 10%;">
+            <div class="container">
+                <div class="row align-items-center">
+                  
                     <div class="col-lg-6 text-white">
                         <div class="mb-4">
                             <h2 class="subheadline text-uppercase" style="font-size: 2.5rem; font-weight: 700;">
@@ -183,189 +220,16 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- <div class="col-lg-6 d-none d-lg-block">
-                    <div class="d-flex justify-content-center align-items-center h-100">
-                        <figure>
-                            <a href="https://cdn.sergroup.com/files/content/images/screenshots/DE/SER-doxis-dashboard.png" rel="noreferrer noopener" data-lightbox="lb260066" title="Purchase-to-pay automation software from SER">
-                                <img src="https://cdn.sergroup.com/assets/images/w/SER-doxis-dashboard-znhb5qkwzxj4tqa.png" alt="Purchase-to-pay automation software" class="img-fluid" width="700" height="399">
-                            </a>
-                        </figure>
-                    </div>
-                </div> -->
-        <div class="container-fluid" id="article-43622">
-            <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
-                <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
-                    SmartIDP</h2>
-            </div>
-            <div class="customer-logos-marquee">
-                <div class="customer-logos">
-                    <!-- Logos (only one set) -->
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/ko.png" class="d-block" alt="Logo 1" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 12%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy"
-                                alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/17@4x.png" class="d-block" alt="Logo 4" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/Asset 40@4x.png" class="d-block" alt="Logo 5" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo-kenz.png" class="d-block" alt="Logo 6" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-                    <!-- Logos (only Second set) -->
-
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-
-
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <!-- Logos (only Third set) -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <!-- Logos (only Fourth set) -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy" alt="Logo 3" style="height: 60px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                        </div>
-                    </div>
+        </div> -->
+        
+        <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+                    <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
+                        SmartIDP</h2>
                 </div>
-            </div>
-        </div>
+                <?php include_once("smartidp_logos.php"); ?>
 
 
-        <div class="container py-5">
+        <div class="container">
             <div class="row text-center mb-4">
                 <h2 class="responsive-heading1 fw-bold">Elevating <span class="gradient">Efficiency</span> with SmartIDP AI</h2>
             </div>
@@ -411,7 +275,7 @@
         <div class="container py-5">
             <div class="row text-center mb-4">
                 <h2 class="responsive-heading1 fw-bold">Streamline Operations with <span class="gradient">AI Automation</span></h2>
-                <p class="lead fw-bold responsive-paragraph">Experience how AI-powered automation improves business efficiency, reduces operational costs, and enhances decision-making across your organization.</p>
+                <p class="fw-bold responsive-paragraph">Experience how AI-powered automation improves business efficiency, reduces operational costs, and enhances decision-making across your organization.</p>
             </div>
 
             <section class="icon-boxes is-animated does-repeat row text-center">
@@ -510,16 +374,16 @@
                     <div class="content-text">
                         <ul class="list-unstyled text-justify">
                             <li class="mb-3">
-                                <h4><strong>Ad hoc, standardized, hybrid:</strong> Experience comprehensive BPM, organizing and working on combinations of processes for both structured and unstructured work.</h4>
+                                <p><strong>Ad hoc, standardized, hybrid:</strong> Experience comprehensive BPM, organizing and working on combinations of processes for both structured and unstructured work.</p>
                             </li>
                             <li class="mb-3">
-                                <h4><strong>Break boundaries:</strong> Processes seamlessly span departments and systems.</h4>
+                                <p><strong>Break boundaries:</strong> Processes seamlessly span departments and systems.</p>
                             </li>
                             <li class="mb-3">
-                                <h4><strong>Foundation for digital operations:</strong> Enable company-wide digital business processes.</h4>
+                                <p><strong>Foundation for digital operations:</strong> Enable company-wide digital business processes.</p>
                             </li>
                             <li>
-                                <h4><strong>Automation:</strong> Apply AI to automate workflow steps, increase efficiency, and improve decision-making.</h4>
+                                <p><strong>Automation:</strong> Apply AI to automate workflow steps, increase efficiency, and improve decision-making.</p>
                             </li>
                         </ul>
                     </div>
@@ -721,57 +585,57 @@
                 <div class="accordion" id="accordionFAQ">
 
                     <!-- Accordion Item 1 -->
-                    <div class="accordion-item border-0">
+                    <div class="accordion-item border-0  bg-transparent">
                         <h2 class="accordion-header" id="headingOne">
-                            <button class="accordion-button p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <button class="accordion-button p-3 rounded-3 rounded-pill shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                 <strong>What is BPM?</strong>
 
                             </button>
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionFAQ">
-                            <div class="accordion-body bg-light p-4 rounded-3 text-justify ">
+                            <div class="accordion-body bg-light p-4 rounded-3 text-justify  bg-transparent">
                                 Business process management seeks to optimize business processes through analyzing, improving, and automation. Business processes are tasks or activities that co-ordinate the behavior of people, systems, and information to produce outcomes that support a business’ strategy. Processes can either be structured and repeatable or unstructured and variable. A range of methods are used to model, measure, optimize and control business activity.
                             </div>
                         </div>
                     </div>
 
                     <!-- Accordion Item 2 -->
-                    <div class="accordion-item border-0">
+                    <div class="accordion-item border-0  bg-transparent">
                         <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            <button class="accordion-button collapsed rounded-pill p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                 <strong>What is business process management software?</strong>
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionFAQ">
-                            <div class="accordion-body bg-light p-4 rounded-3 text-justify">
+                            <div class="accordion-body bg-light p-4 rounded-3 text-justify  bg-transparent">
                                 Business process management software helps businesses to manage and automate their processes and workflows to improve day-to-day functions. BPM software helps turn time-consuming manual processes into streamlined workflows across business applications through automation. This allows you to manage routine, highly structured processes as well as unstructured, derived processes and integrate standardized and knowledge-based processes.
                             </div>
                         </div>
                     </div>
 
                     <!-- Accordion Item 3 -->
-                    <div class="accordion-item border-0">
+                    <div class="accordion-item border-0  bg-transparent">
                         <h2 class="accordion-header" id="headingThree">
-                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            <button class="accordion-button collapsed rounded-pill p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                 <strong>What is the role of ECM in business process management?</strong>
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFAQ">
-                            <div class="accordion-body bg-light p-4 rounded-3 text-justify">
+                            <div class="accordion-body bg-light p-4 rounded-3 text-justify  bg-transparent">
                                 Enterprise Content Management (ECM) is the process of managing information, documents, and data. The management of information is just as important as managing your processes. Combining insights into your documents and data with control over your processes means you'll be able to achieve the goals of your organization. We are the first ECM vendor to unite ECM and BPM on one unified technological platform.
                             </div>
                         </div>
                     </div>
 
                     <!-- Accordion Item 4 -->
-                    <div class="accordion-item border-0">
+                    <div class="accordion-item border-0  bg-transparent">
                         <h2 class="accordion-header" id="headingFour">
-                            <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            <button class="accordion-button collapsed rounded-pill p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                 <strong>Why do I need business process management?</strong>
                             </button>
                         </h2>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionFAQ">
-                            <div class="accordion-body bg-light p-4 rounded-3 text-justify">
+                            <div class="accordion-body bg-light p-4 rounded-3 text-justify  bg-transparent">
                                 Business process automation elevates your business process management and enables you to take your digital business transformation to the next level. Agile business processes have drastically changed the requirements of companies: modern BPM tools need to be quick and intuitively adaptable to each task. The SmartIDP BPM solution makes this a reality and offers all kinds of extra benefits for automating your business processes.
                             </div>
                         </div>

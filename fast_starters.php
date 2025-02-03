@@ -124,7 +124,7 @@
           <div class="card h-100 custom-card-shadow">
             <div class="card-body">
               <div class="rounded-circle mb-3"
-                style="background-color: #241AC7; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; color: white; margin: 0 auto;">
+                style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; color: white; margin: 0 auto;">
                 <i class="fas fa-users fa-lg text-center"></i>
               </div>
               <h5 class="card-title fw-bold">Empower Citizen Developers</h5>
@@ -141,7 +141,7 @@
           <div class="card h-100 custom-card-shadow">
             <div class="card-body">
               <div class="rounded-circle mb-3"
-                style="background-color: #241AC7; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; color: white; margin: 0 auto;">
+                style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; color: white; margin: 0 auto;">
                 <i class="fas fa-clock fa-lg text-center"></i>
               </div>
               <h5 class="card-title fw-bold">Save Time and Costs</h5>
@@ -159,7 +159,7 @@
           <div class="card h-100  custom-card-shadow">
             <div class="card-body">
               <div class="rounded-circle mb-3"
-                style="background-color: #241AC7; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; color: white; margin: 0 auto;">
+                style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width: 80px; height: 80px; display: flex; align-items: center; justify-content: center; color: white; margin: 0 auto;">
                 <i class="fas fa-laptop fa-lg text-center"></i>
               </div>
               <h5 class="card-title fw-bold">Simplify Work with a Modern UX</h5>

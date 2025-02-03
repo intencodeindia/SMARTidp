@@ -2,162 +2,125 @@
      <div class="customer-logos-marquee">
          <div class="customer-logos">
              <!-- Logos (only one set) -->
-             <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/ko.png" class="d-block" alt="Logo 1" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-             <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 12%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body text-center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/ko.png" class="d-block" alt="Kenz Organic" style="width: 150px; height: 65px;">
                  </div>
              </div>
-
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px;" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/intencode.jpeg" class="d-block" loading="lazy" alt="Intencode">
                  </div>
              </div>
-
-             <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/17@4x.png" class="d-block" alt="Logo 4" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-             <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/Asset 40@4x.png" class="d-block" alt="Logo 5" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-             <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/logo-kenz.png" class="d-block" alt="Logo 6" width="150" height="60" style="width: 150px; height: 50px;">
-                                </div>
-                            </div> -->
-
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Equilon Global Synergies Trading" style="width: 150px; height: 65px;" loading="lazy">
                  </div>
              </div>
-
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/kenz_audits.png" class="d-block" alt="Kenz Audits" style="width: 150px; height: 50px;">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/kenzwheels.png" class="d-block" alt="KenzWheels" style="width: 160px; height: 50px;">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center p-0">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/logo-kenz.png" class="d-block" alt="Kenz_Innovations" style="width: 80px; height: 85px;">
                  </div>
              </div>
-
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="ooops" style="width: 150px; height: 50px" loading="lazy">
+                 </div>
+             </div>
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="exlancia" style="width: 150px; height: 50px" loading="lazy">
+                 </div>
+             </div>
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="sdooo" style="width: 150px; height: 50px" loading="lazy">
+                 </div>
+             </div>
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="AI Bizz App" style="width: 150px; height: 50px" loading="lazy">
+                 </div>
+             </div>
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body  d-flex justify-content-center align-items-center p-0">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/kenz_ai_hub.png" class="d-block" alt="Kenz AI Hub" style="width: 85px; height: 70px;">
+                 </div>
+             </div>
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/proff_id.png" class="d-block" alt="Proff ID" style="width: 150px; height: 50px;">
+                 </div>
+             </div>
              <!-- Logos (only Second set) -->
-
-             <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body text-center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/ko.png" class="d-block" alt="Kenz Organic" style="width: 150px; height: 65px;">
                  </div>
              </div>
-
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/intencode.jpeg" class="d-block" loading="lazy" alt="Intencode">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Equilon Global Synergies Trading" style="width: 150px; height: 65px;" loading="lazy">
                  </div>
              </div>
-
-
-
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/kenz_audits.png" class="d-block" alt="Kenz Audits" style="width: 150px; height: 50px;">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/kenzwheels.png" class="d-block" alt="KenzWheels" style="width: 160px; height: 50px;">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center p-0">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/logo-kenz.png" class="d-block" alt="Kenz_Innovations" style="width: 80px; height: 80px;">
                  </div>
              </div>
-             <!-- Logos (only Third set) -->
-             <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body text-center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="ooops" style="width: 150px; height: 50px" loading="lazy">
                  </div>
              </div>
-
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px" loading="lazy">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="exlancia" style="width: 150px; height: 50px" loading="lazy">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" loading="lazy" height="60" style="width: 150px; height: 50px;">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="sdooo" style="width: 150px; height: 50px" loading="lazy">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="AI Bizz App" style="width: 150px; height: 50px" loading="lazy">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body  d-flex justify-content-center align-items-center p-0">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/kenz_ai_hub.png" class="d-block" alt="Kenz AI Hub" style="width: 85px; height: 70px;">
                  </div>
              </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                 </div>
-             </div>
-             <!-- Logos (only Fourth set) -->
-             <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body text-center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" loading="lazy" alt="Logo 2">
-                 </div>
-             </div>
-
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" loading="lazy" alt="Logo 3" style="height: 60px;">
-                 </div>
-             </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                 </div>
-             </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                 </div>
-             </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
-                 </div>
-             </div>
-             <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                 <div class="card-body d-flex justify-content-center align-items center">
-                     <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" loading="lazy" style="width: 150px; height: 50px;">
+             <div class="card customer-logo" style="border-radius: 20px; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
+                 <div class="card-body d-flex justify-content-center align-items-center">
+                     <img src="<?php echo BASE_PATH; ?>assets/images/proff_id.png" class="d-block" alt="Proff ID" style="width: 150px; height: 50px;">
                  </div>
              </div>
          </div>

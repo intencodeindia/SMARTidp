@@ -27,6 +27,7 @@
             background-position: center center;
         }
     }
+
     @media (max-width: 536px) {
         #article-43622 {
             height: 25vh;
@@ -70,6 +71,25 @@
         color: white;
         /* Default text color for collapsed state */
     }
+
+    /* .video-container {
+        position: relative;
+        display: inline-block;
+        border-radius: 25px;
+        padding: 2px;
+    }
+
+    .video-container::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(260deg, #0090f9 0%, #00b09c 100%);
+        border-radius: 25px;
+        z-index: -1;
+    } */
 </style>
 <div class="content-wrapper1">
     <main role="main" class="main-content1">
@@ -89,11 +109,11 @@
 
         <div class="container my-5" id="padtop">
             <h2 class="fw-bold text-center mb-3">SmartIDP locations</h2>
-            <div class="row">
+            <div class="row d-flex justify-content-center align-items-center">
                 <div class="col-md-5 mt-4 mt-md-0">
                     <div class="accordion" id="officeAccordion">
                         <!-- USA - Head Office -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent py-2">
                             <h2 class="accordion-header" id="headingUSA">
                                 <button class="accordion-button collapsed rounded-pill text-white fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseUSA" aria-expanded="true" aria-controls="collapseUSA">
                                     USA - Head Office
@@ -107,10 +127,10 @@
                         </div>
 
                         <!-- Separator -->
-                        <div class="accordion-separator"></div>
+                        <!-- <div class="accordion-separator"></div> -->
 
                         <!-- Australia -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent py-2">
                             <h2 class="accordion-header" id="headingAustralia">
                                 <button class="accordion-button collapsed rounded-pill text-white fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAustralia" aria-expanded="false" aria-controls="collapseAustralia">
                                     Australia
@@ -124,10 +144,10 @@
                         </div>
 
                         <!-- Separator -->
-                        <div class="accordion-separator"></div>
+                        <!-- <div class="accordion-separator"></div> -->
 
                         <!-- Saudi Arabia -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent py-2">
                             <h2 class="accordion-header" id="headingSaudiArabia">
                                 <button class="accordion-button collapsed rounded-pill text-white fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSaudiArabia" aria-expanded="false" aria-controls="collapseSaudiArabia">
                                     Saudi Arabia
@@ -141,10 +161,10 @@
                         </div>
 
                         <!-- Separator -->
-                        <div class="accordion-separator"></div>
+                        <!-- <div class="accordion-separator"></div> -->
 
                         <!-- India -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent py-2">
                             <h2 class="accordion-header" id="headingIndia">
                                 <button class="accordion-button collapsed text-white rounded-pill fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIndia" aria-expanded="false" aria-controls="collapseIndia">
                                     India
@@ -158,10 +178,10 @@
                         </div>
 
                         <!-- Separator -->
-                        <div class="accordion-separator"></div>
+                        <!-- <div class="accordion-separator"></div> -->
 
                         <!-- New Zealand -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent py-2">
                             <h2 class="accordion-header" id="headingNewZealand">
                                 <button class="accordion-button collapsed rounded-pill text-white fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNewZealand" aria-expanded="false" aria-controls="collapseNewZealand">
                                     New Zealand
@@ -175,10 +195,10 @@
                         </div>
 
                         <!-- Separator -->
-                        <div class="accordion-separator"></div>
+                        <!-- <div class="accordion-separator"></div> -->
 
                         <!-- Pakistan -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent py-2">
                             <h2 class="accordion-header" id="headingPakistan">
                                 <button class="accordion-button collapsed text-white rounded-pill fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePakistan" aria-expanded="false" aria-controls="collapsePakistan">
                                     Pakistan
@@ -192,10 +212,10 @@
                         </div>
 
                         <!-- Separator -->
-                        <div class="accordion-separator"></div>
+                        <!-- <div class="accordion-separator"></div> -->
 
                         <!-- Canada -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent">
                             <h2 class="accordion-header" id="headingCanada">
                                 <button class="accordion-button collapsed text-white rounded-pill fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCanada" aria-expanded="false" aria-controls="collapseCanada">
                                     Canada
@@ -211,15 +231,19 @@
                 </div>
                 <!-- Image Section -->
                 <div class="col-md-7 mt-4 mt-md-0">
-                <div class="content-image">
-                                <figure class="mb-0 d-flex justify-content-center align-items-center">
-                                    <video autoplay muted loop playsinline class="w-100 p-2 responsive-video">
-                                        <source src="<?php echo BASE_PATH; ?>assets/sidp.mp4" type="video/mp4">
-                                        Your browser does not support the video tag.
-                                    </video>
-                                </figure>
-                            </div>
+                    <div class="content-image">
+                        <figure class="mb-0 d-flex justify-content-center align-items-center video-container">
+                            <figure class="mb-0 d-flex justify-content-center align-items-center video-container">
+                                <img src="assets/images/logo/smartIDP.gif" alt="GIF" class="w-100 responsive-video" style="border-radius: 25px;">
+                            </figure>
+                            <!-- <video autoplay muted loop playsinline class="w-100 p-2 responsive-video" style="border-radius: 25px;">
+                                <source src="<?php echo BASE_PATH; ?>assets/sidp.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video> -->
+                        </figure>
+                    </div>
                 </div>
+
             </div>
         </div>
 

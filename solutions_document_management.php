@@ -172,33 +172,33 @@
                 <div class="row align-items-center">
                     <!-- Left Column: Content Section -->
                     <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
-                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;"> Empowered by SmartIDP Technology</h2>
+                        <h2 class="headline fw-bolder" style="color: #000d39;"> AI Powered Document Management System</h2>
                         <h1 class="display-3 text-white">
-                            Syncing Information and Goods Logistics with SmartIDP
+                            Transforming Document Management with SmartIDP
                         </h1>
-                        <p class="fs-5 text-white mb-4">Revolutionize Your Document Management</p>
+                        <p class="fs-5 text-white mb-3">Leverage AI for Smarter Document Handling</p>
                         <ul class="list-unstyled content-text">
                             <li class="d-flex align-items-center mb-2 text-white">
-                                <i class="fas fa-check-circle me-2"></i> Effortlessly handle large volumes of documents
+                                <i class="fas fa-check-circle me-2"></i> Manage large volumes of documents with AI efficiency
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Accelerate processing speeds and maximize efficiency
+                                <i class="fas fa-check-circle me-2"></i> Speed up document processing and boost productivity
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Maintain compliance with advanced, certified SmartIDP solutions
+                                <i class="fas fa-check-circle me-2"></i> Ensure compliance with cutting-edge SmartIDP technology
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Enhance decision-making with intelligent automation and data extraction
+                                <i class="fas fa-check-circle me-2"></i> Enhance decision-making with AI-driven automation
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Improve accuracy and reduce human error in data processing
+                                <i class="fas fa-check-circle me-2"></i> Increase data accuracy and reduce manual errors
                             </li>
                             <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Streamline workflows and enhance collaboration across teams
+                                <i class="fas fa-check-circle me-2"></i> Streamline workflows and improve team collaboration
                             </li>
                         </ul>
                         <div class="mt-4">
-                            <a class="btn rounded-pill px-4 text-white fw-bold" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                            <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
                         </div>
                     </div>
                     <!-- Right Column: Image Section -->
@@ -208,7 +208,8 @@
                 </div>
             </div>
         </div>
-        <div class="mt-4"></div>
+
+        <div class="mt-5"></div>
         <?php include_once("smartidp_logos.php"); ?>
         <div class="container text-center my-md-3">
             <h2 class="mb-4 mt-0 responsive-heading1 fw-bold"><span class="gradient">Efficiency</span> begins with an <span class="gradient">AI-powered</span> SmartIDP DMS</h2>
@@ -321,7 +322,7 @@
             </div>
         </div>
 
-        <div class="container-fluid" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">
@@ -458,20 +459,20 @@
                 <div class="col-md-6">
                     <!-- Content Item 1 -->
                     <div class="content-item p-4" onmouseover="changeImage('img1')" onmouseout="resetImage()" style="border-radius: 20px" loading="lazy">
-                        <h5 class="card-title text-dark fw-bold">Achieve Unmatched Efficiency with SmartIDP</h5>
+                        <div class="card-title text-dark fw-bold">Achieve Unmatched Efficiency with SmartIDP</div>
                         <p class="card-text">Discover how SmartIDP enhances your document management processes by automating tedious tasks, streamlining workflows, and providing valuable insights. Our solution significantly boosts productivity while reducing errors and manual work.</p>
                     </div>
                     <hr>
                     <!-- Content Item 2 -->
                     <div class="content-item p-4" onmouseover="changeImage('img2')" onmouseout="resetImage()" style="border-radius: 20px" loading="lazy">
-                        <h5 class="card-title text-dark fw-bold">Case Study: How SmartIDP Transformed Document Management at Global Enterprises</h5>
+                        <div class="card-title text-dark fw-bold">Case Study: How SmartIDP Transformed Document Management at Global Enterprises</div>
                         <p class="card-text">Leading global enterprises in finance and healthcare trust SmartIDP to automate the categorization and extraction of vital data from contracts, invoices, and medical records. These companies have achieved a 40% reduction in processing time and enhanced compliance with industry regulations.</p>
                     </div>
                     <hr>
 
                     <!-- Content Item 3 -->
                     <div class="content-item p-4" onmouseover="changeImage('img3')" onmouseout="resetImage()" style="border-radius: 20px" loading="lazy">
-                        <h5 class="card-title text-dark fw-bold">Guide: Revolutionize Your Business with SmartIDP for Document Management</h5>
+                        <div class="card-title text-dark fw-bold">Guide: Revolutionize Your Business with SmartIDP for Document Management</div>
                         <p class="card-text">Get our comprehensive guide to understanding how SmartIDP’s intelligent automation solutions can transform your document management system. With practical tips, real-world case studies, and checklists, this guide will help you make informed decisions to streamline your processes and reduce costs.</p>
                     </div>
                     <hr>
@@ -479,7 +480,7 @@
 
                 <!-- Right Column: Image (Centered) -->
                 <div class="col-md-6 d-flex justify-content-center align-items-center">
-                    <img id="right-img" src="assets/images/document_management/dms-2.png" class="img-fluid rounded" alt="SmartIDP Document Management Solution" style="width: 100%; max-height: 500px; max-width: 500px; border-radius: 20px" loading="lazy">
+                    <img id="right-img" src="assets/images/document_management/dms-2.png" class="img-fluid" alt="SmartIDP Document Management Solution" style="width: 100%; max-height: 500px; max-width: 500px; border-radius: 20px" loading="lazy">
                 </div>
             </div>
         </div>

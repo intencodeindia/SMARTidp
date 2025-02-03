@@ -48,8 +48,8 @@
                             <div class="col-lg-4 col-md-6 col-12 mb-4">
                                 <div class="card h-100 custom-card-shadow">
                                     <div class="card-body">
-                                        <i class="fas fa-business-time fs-1 gradient"></i>
-                                        <h4 class="card-title fs-5"><b> Achieve Excellence with SmartIDP</b></h4>
+                                        <i class="fas fa-business-time fs-1 gradient py-2"></i>
+                                        <h5 class="card-title fw-bold"><b> Achieve Excellence with SmartIDP</b></h5>
                                         <p class="card-text">Empower your organization with the tools and training needed to deliver ECM excellence using the SmartIDP platform. Together, we create outstanding business outcomes and long-term success.</p>
                                     </div>
                                 </div>
@@ -58,8 +58,8 @@
                             <div class="col-lg-4 col-md-6 col-12 mb-4">
                                 <div class="card h-100 custom-card-shadow">
                                     <div class="card-body">
-                                        <i class="fas fa-bullseye fs-1 gradient"></i>
-                                        <h4 class="card-title fs-5"><b>Tailored Strategies for Every Need</b></h4>
+                                        <i class="fas fa-bullseye fs-1 gradient py-2"></i>
+                                        <h5 class="card-title fw-bold"><b>Tailored Strategies for Every Need</b></h5>
                                         <p class="card-text">Our diverse partner network is built to address regional and use-case specific needs, offering tailored strategies to meet the unique demands of your customers.</p>
                                     </div>
                                 </div>
@@ -68,8 +68,8 @@
                             <div class="col-lg-4 col-md-6 col-12 mb-4">
                                 <div class="card h-100 custom-card-shadow">
                                     <div class="card-body ">
-                                        <i class="fas fa-chalkboard-teacher fs-1 gradient"></i>
-                                        <h5 class="card-title fs-5"><b>Maximizing Value through Expertise</b></h5>
+                                        <i class="fas fa-chalkboard-teacher fs-1 gradient py-2"></i>
+                                        <h5 class="card-title fw-bold"><b>Maximizing Value through Expertise</b></h5>
                                         <p class="card-text">Our partners focus on delivering high-quality service and swift, pragmatic solutions that add value at every stage. With our tailored training programs, you're equipped for success.</p>
                                     </div>
                                 </div>
@@ -92,15 +92,16 @@
                     <div class="content-text">
                         <ol class="list-unstyled text-justify">
                             <li class="mb-3">
-                                <h4><strong>Tailored for Your Market:</strong></h4><p class="fs-5"> Leverage comprehensive BPM to organize and manage processes across both structured and unstructured workflows, customized to meet regional needs.</p>
+                                <h5><strong>Tailored for Your Market:</strong></h5>
+                                <p> Leverage comprehensive BPM to organize and manage processes across both structured and unstructured workflows, customized to meet regional needs.</p>
                             <li class="mb-3">
-                                <h4><strong>Seamless Integration:</strong></h4> <p class="fs-5">Enable processes to span across departments and systems, ensuring smooth collaboration and efficiency.</p>
+                                <h5><strong>Seamless Integration:</strong></h5> <p>Enable processes to span across departments and systems, ensuring smooth collaboration and efficiency.</p>
                             </li>
                             <li class="mb-3">
-                                <h4><strong>Digital Foundation:</strong> </h4><p class="fs-5"> Build a strong foundation for digital business operations across your organization, empowering every team to drive results.</p>
+                                <h5><strong>Digital Foundation:</strong> </h5><p> Build a strong foundation for digital business operations across your organization, empowering every team to drive results.</p>
                             </li>
                             <li>
-                                <h4><strong>Smart Automation:</strong></h4> <p class="fs-5"> Use AI to automate workflows, enhancing decision-making and improving overall operational efficiency.</p>
+                                <h5><strong>Smart Automation:</strong></h5> <p> Use AI to automate workflows, enhancing decision-making and improving overall operational efficiency.</p>
                             </li>
                         </ol>
                     </div>
@@ -126,8 +127,8 @@
                 </div>
                 <div class="col-md-6">
                     <div class="content-text">
-                        <h3><strong>Contact us to learn more about the SmartIDP partner network!</strong></h3>
-                        <p class="fs-5">
+                        <h2 class="fw-bold">Contact us to learn more about the <span class="gradient">SmartIDP partner network!</span></h2>
+                        <p>
                             Reach out to discover how the SmartIDP global partner network can support your information management initiatives.
                             We look forward to hearing from you!
                             If you're interested in becoming a partner, please <a href="contact" class="text-decoration-none">Contact us</a> here.</p>

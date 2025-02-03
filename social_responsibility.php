@@ -141,10 +141,10 @@
                 <div class="col-lg-6 col-12 mb-4">
                     <!-- Fair Company Icon Box -->
                     <div class="mb-4">
-                        <div class="d-flex align-items-center p-4 rounded shadow-sm hover-shadow-lg transition">
+                        <div class="d-flex align-items-center p-4 rounded hover-shadow-lg transition">
 
                             <div>
-                                <h4 class="fw-bold mb-2"><i class="fas fa-users me-1 text-primary"></i>Fair Company</h4>
+                                <h4 class="fw-bold mb-2"><i class="fas fa-users me-1 text-primary pe-2"></i>Fair Company</h4>
                                 <p class="mb-0">This is why SmartIDP has been recognized with the “Fair Company” title. We are committed to creating a positive and inclusive work environment. Additionally, we support various initiatives aimed at digital literacy in schools, helping talented students unlock their potential at an early age.</p>
                             </div>
                         </div>
@@ -152,10 +152,10 @@
 
                     <!-- Scholarships Icon Box -->
                     <div class="mb-4">
-                        <div class="d-flex align-items-center p-4 rounded shadow-sm hover-shadow-lg transition">
+                        <div class="d-flex align-items-center p-4 rounded hover-shadow-lg transition">
 
                             <div>
-                                <h4 class="fw-bold mb-2"><i class="fas fa-graduation-cap me-1 text-success"></i>Scholarships & Promotion of Young Talent</h4>
+                                <h4 class="fw-bold mb-2"><i class="fas fa-graduation-cap text-success pe-2"></i>Scholarships & Promotion of Young Talent</h4>
                                 <p class="mb-0">SmartIDP believes in empowering young talent to focus on their studies without financial worry. That’s why we proudly support the German scholarship program <em>Deutschlandstipendium</em> as a premium sponsor, providing opportunities for the next generation of innovators.</p>
                             </div>
                         </div>
@@ -163,10 +163,10 @@
 
                     <!-- Research Icon Box -->
                     <div class="mb-4">
-                        <div class="d-flex align-items-center p-4 rounded shadow-sm hover-shadow-lg transition">
+                        <div class="d-flex align-items-center p-4 rounded hover-shadow-lg transition">
 
                             <div>
-                                <h4 class="fw-bold mb-2"> <i class="fas fa-flask me-1 text-warning"></i> Research & University Cooperations</h4>
+                                <h4 class="fw-bold mb-2"> <i class="fas fa-flask text-warning pe-2"></i> Research & University Cooperations</h4>
                                 <p class="mb-0">SmartIDP has a strong tradition of collaborating with research institutions and universities. Alongside joint projects with numerous academic partners, we offer our employees the flexibility to work and study part-time, further fostering growth in both their careers and education.</p>
                             </div>
                         </div>
@@ -207,7 +207,7 @@
                     <p>This is ensured by:</p>
 
                     <!-- Sustainability Features List with Icons -->
-                    <ul>
+                    <ul class="list-unstyled">
                         <li><i class="fas fa-leaf text-success me-2"></i>Environmentally-friendly, pollutant-free building materials & resources</li>
                         <li><i class="fas fa-bolt text-primary me-2"></i>High energy efficiency & low emissions</li>
                         <li><i class="fas fa-building text-info me-2"></i>An open building & communication infrastructure</li>

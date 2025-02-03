@@ -266,7 +266,7 @@
                 <h3>Business process consulting</h3>
               </div>
               <div class="icon-boxes-item rs-column -large-col-2-1 -large-first -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                <span class="icon-boxes-item-icon"><i class="fas fa-lightbulb fa-md"></i></span> <!-- Changed to 'fa-lightbulb' for Rough & well-defined concepts -->
+                <span class="icon-boxes-item-icon"><i class="fas fa-lightbulb fa-lg"></i></span> <!-- Changed to 'fa-lightbulb' for Rough & well-defined concepts -->
                 <h3>Rough & well-defined concepts</h3>
               </div>
               <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
@@ -278,7 +278,7 @@
                 <h3>Implementation (on-premises, cloud)</h3>
               </div>
               <div class="icon-boxes-item rs-column -large-col-2-1 -large-last -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                <span class="icon-boxes-item-icon"><i class="fas fa-plug fa-md"></i></span> <!-- Changed to 'fa-plug' for Integration into multiple applications -->
+                <span class="icon-boxes-item-icon"><i class="fas fa-plug fa-lg"></i></span> <!-- Changed to 'fa-plug' for Integration into multiple applications -->
                 <h3>Integration into multiple applications</h3>
               </div>
               <div class="icon-boxes-item rs-column -large-col-2-1 -large-first -medium-col-1-1 -medium-first -medium-last -small-col-1-1 -small-first -small-last -align-left -headline-icon">

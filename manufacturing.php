@@ -166,27 +166,27 @@
                             <!-- Icon Boxes Section for SAP Integration Features -->
                             <section class="icon-boxes is-animated does-repeat ce_rsce_ser_icon_boxes">
                                 <!-- First Icon Box: Full Process Transparency -->
-                                <div class="icon-boxes-item rs-column -large-col-3-1 -large-first -large-first-row -medium-col-3-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -inverted-icon">
+                                <div class="icon-boxes-item rs-column -large-col-3-1 -large-first -large-first-row -medium-col-3-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -inverted-icon p-2">
                                     <span class="icon-boxes-item-icon" style="width: 3.5em;"><i class="fas fa-sync-alt fa-lg"></i></span> <!-- Updated icon: sync for streamlined processes -->
-                                    <p class="-medium fw-bold">SmartIDP: Streamlining Your Processes for Greater Efficiency</p>
+                                    <h5 class="fw-bold">SmartIDP: Streamlining Your Processes for Greater Efficiency</h5>
                                     <div class="icon-boxes-item-text">
                                         <p>SmartIDP: Accelerate End-to-End Workflows in Production with Faster Document Access and Enhanced Transparency</p>
                                     </div>
                                 </div>
 
                                 <!-- Second Icon Box: Save Time & Prevent Mistakes -->
-                                <div class="icon-boxes-item rs-column -large-col-3-1 -large-first-row -medium-col-3-1 -medium-first-row -small-col-1-1 -small-first -small-last -inverted-icon">
+                                <div class="icon-boxes-item rs-column -large-col-3-1 -large-first-row -medium-col-3-1 -medium-first-row -small-col-1-1 -small-first -small-last -inverted-icon p-2">
                                     <span class="icon-boxes-item-icon" style="width: 3.5em;"><i class="fas fa-tachometer-alt fa-lg"></i></span> <!-- Updated icon: tachometer for acceleration -->
-                                    <p class="-medium fw-bold">Accelerate Time-to-Value with SmartIDP</p>
+                                    <h5 class="fw-bold">Accelerate Time-to-Value with SmartIDP</h5>
                                     <div class="icon-boxes-item-text">
                                         <p>Accelerate your supply Streamline Your Supply Chain with SmartIDP: Enhance Supplier Management and Drive Faster, More Reliable Procurement</p>
                                     </div>
                                 </div>
 
                                 <!-- Third Icon Box: Minimize Risks -->
-                                <div class="icon-boxes-item rs-column -large-col-3-1 -large-last -large-first-row -medium-col-3-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -inverted-icon">
+                                <div class="icon-boxes-item rs-column -large-col-3-1 -large-last -large-first-row -medium-col-3-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -inverted-icon p-2">
                                     <span class="icon-boxes-item-icon" style="width: 3.5em;"><i class="fas fa-cogs fa-lg"></i></span> <!-- Updated icon: cog for guaranteed compliance -->
-                                    <p class="-medium fw-bold">Ensure Compliance with SmartIDP</p>
+                                    <h5 class="fw-bold">Ensure Compliance with SmartIDP</h5>
                                     <div class="icon-boxes-item-text">
                                         <p>Streamline Contract Execution, Production, and Service with SmartIDP for Guaranteed Quality and Reduced Risk</p>
                                     </div>
@@ -228,17 +228,17 @@
                 <!-- Left Column: Headline and Content -->
                 <h2 class="fw-bold">What Matters to Manufacturing Leaders Today: <span class="gradient">Efficiency Automation, and Smart Data</span> Integration with SmartIDP</h2>
                 <div class="col-lg-6 col-md-6 content-text">
-                    <p>Our Global Survey Insights: SmartIDP's Impact on Manufacturing Efficiency and Automation</p>
+                    <p><strong>Our Global Survey Insights: SmartIDP's Impact on Manufacturing Efficiency and Automation</strong></p>
                     <ul>
-                        <li><strong>The 5 Biggest Manufacturing Challenges and How SmartIDP Solves Them</strong></li>
-                        <li><strong>The 6 Key Trends in Manufacturing Powered by SmartIDP</strong></li>
-                        <li><strong>The 3 Most Promising Digital Transformation Projects with SmartIDP in 2024</strong></li>
+                        <li>The 5 Biggest Manufacturing Challenges and How SmartIDP Solves Them</li>
+                        <li>The 6 Key Trends in Manufacturing Powered by SmartIDP</li>
+                        <li>The 3 Most Promising Digital Transformation Projects with SmartIDP in 2024</li>
                     </ul>
                     <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Download Industry Study Now</a>
                 </div>
 
                 <!-- Right Column: Image -->
-                <div class="col-lg-6 col-md-6 text-center">
+                <div class="col-lg-6 col-md-6 d-flex align-items-center justify-content-center">
                     <img src="assets/images/manufacturing/menu2.jpeg" alt="Microsoft Partner" class="img-fluid shadow-lg imghv" loading="lazy" style="border-radius: 20px;">
                 </div>
             </div>
@@ -281,9 +281,9 @@
                 </div>
                 <!-- Right Column: Image -->
                 <div class="col-md-6 mt-4 mt-md-0">
-                    <div class="content-image text-center">
+                    <div class="content-image d-flex align-items-center justify-content-center">
                         <figure>
-                            <img src="assets/images/manufacturing/menu3.png" alt="Microsoft Outlook Integration" class="img-fluid shadow-lg imghv" loading="lazy" style="border-radius:40px;" height="90px">
+                            <img src="assets/images/manufacturing/menu3.png" alt="Microsoft Outlook Integration" class="img-fluid shadow-lg imghv" loading="lazy" style="border-radius:20px; height: 400px;">
                         </figure>
                     </div>
                 </div>
@@ -291,14 +291,14 @@
         </div>
         <div class="container mt-md-5">
             <h2 class="fw-bold">SmartIDP Solutions for Key Manufacturing Sectors: Driving Efficiency and Automation</h2>
-            <div class="col-md-6 mt-5 mt-md-0 ">
+            <div class="col-md-6 mt-md-0 ">
             </div>
             <div class="row">
                 <!-- Accordion Section -->
-                <div class="col-md-6 mt-md-4 mt-md-0">
+                <div class="col-md-6">
                     <div class="accordion" id="benefitsAccordion">
                         <!-- Accordion Item 1 -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent">
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                                     1. SmartIDP for the Automotive Industry
@@ -313,7 +313,7 @@
                         </div>
 
                         <!-- Accordion Item 2 -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent">
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     2.SmartIDP for Engineering
@@ -328,7 +328,7 @@
                         </div>
 
                         <!-- Accordion Item 3 -->
-                        <div class="accordion-item border-0">
+                        <div class="accordion-item border-0 bg-transparent">
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed rounded-pill w-100 border-0 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                     3.SmartIDP for Chemicals & Pharmaceuticals
@@ -342,7 +342,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 text-center mt-md-0 mt-4">
+                <div class="col-md-6 d-flex align-items-center justify-content-center">
                     <img src="assets/images/manufacturing/menu5.webp" alt="" class="img-fluid shadow-lg imghv" loading="lazy" style="border-radius: 20px;">
                 </div>
             </div>
@@ -356,11 +356,11 @@
                     <p><span class="gradient">Flexibility and scalability in purchase-to-pay processes</span> are key to boosting profitability for manufacturing companies. SmartIDP's Intelligent Purchase-to-Pay Automation Suite <span class="gradient">optimizes, accelerates, and automates end-to-end processes</span>, driving efficiency and growth.</p>
                     <p><strong>A Smart Investment with Tangible Returns. Here's Why:</strong></p>
                     <ul>
-                        <li><strong>Up to 10% reduction in annual procurement costs</strong></li>
-                        <li><strong>60-80% lower invoice processing costs</strong></li>
-                        <li><strong>Save up to 70% time in invoice processing</strong></li>
-                        <li><strong>Fewer delivery delays through advanced supplier management</strong></li>
-                        <li><strong>Enhanced compliance across processes</strong></li>
+                        <li>Up to 10% reduction in annual procurement costs</li>
+                        <li>60-80% lower invoice processing costs</li>
+                        <li>Save up to 70% time in invoice processing</li>
+                        <li>Fewer delivery delays through advanced supplier management</li>
+                        <li>Enhanced compliance across processes</li>
                     </ul>
                     <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover SmartIDP</a>
                 </div>

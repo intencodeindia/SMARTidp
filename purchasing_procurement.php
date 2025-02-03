@@ -54,7 +54,7 @@
         <div class="mt-5"></div>
         <?php include_once("smartidp_logos.php"); ?>
 
-        <div class="container-fluid py-md-4 py-2" style="background-color: #eaedfc;">
+        <div class="container-fluid py-md-4 py-2">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 text-center mb-3">
@@ -218,7 +218,7 @@
             </div>
         </div>
 
-        <div class="container-fluid py-1" style="background-color: #eaedfc;">
+        <div class="container-fluid py-1">
             <div class="container my-md-5 my">
                 <div class="row align-items-center">
                     <!-- Text Content Column -->
@@ -263,7 +263,7 @@
             </div>
         </div>
 
-        <div class="container-fluid py-1" style="background-color: #eaedfc;">
+        <div class="container-fluid py-1">
             <div class="container my-md-5 my-3">
                 <div class="row align-items-center">
                     <!-- Text Content Column -->

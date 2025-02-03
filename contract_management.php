@@ -47,6 +47,18 @@
         background-color: #04AA6D;
         color: white;
     }
+
+    /* Change text color to black when the button is active */
+    .accordion-button:not(.collapsed) {
+        color: black !important;
+        background-color: #f8f9fa !important;
+        /* You can adjust the background color if needed */
+    }
+
+    .accordion-button {
+        color: white;
+        /* Default text color for collapsed state */
+    }
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content">
@@ -82,154 +94,11 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid" id="article-43622">
-            <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
-                <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
-                    SmartIDP</h2>
-            </div>
-            <div class="customer-logos-marquee">
-                <div class="customer-logos">
-                    <!-- Logos (only one set) -->
-                    <!-- <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                                <div class="card-body d-flex justify-content-center align-items center">
-                                    <img src="<?php echo BASE_PATH; ?>assets/images/ko.png" class="d-block" alt="Logo 1" width="150" height="60" style="width: 150px; height: 50px" loadin="lazy">
-                                </div>
-                            </div> -->
-
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 12%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2"  loading="lazy">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2" loading="lazy">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-
-
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px"loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <!-- Logos (only Third set) -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2" loading="lazy">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <!-- Logos (only Fourth set) -->
-                    <div class="card customer-logo d-flex justify-content-center align-items center" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body text-center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo_inten.png" class="d-block" alt="Logo 2" loading="lazy">
-                        </div>
-                    </div>
-
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/egslogo.png" class="d-block" alt="Logo 3" style="height: 60px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/Logo1@2x.png" class="d-block" alt="Logo 7" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/logo-exl.png" class="d-block" alt="Logo 9" width="150" height="60" style="width: 150px; height: 50px"loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/3@4x.png" class="d-block" alt="Logo 8" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                    <div class="card customer-logo" style="border-radius: 9%; box-shadow: 7px 7px 10px 10px rgba(36, 26, 199, .1);">
-                        <div class="card-body d-flex justify-content-center align-items center">
-                            <img src="<?php echo BASE_PATH; ?>assets/images/sidp.png" class="d-block" alt="Logo 10" width="150" height="60" style="width: 150px; height: 50px" loading="lazy">
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+            <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
+                SmartIDP</h2>
         </div>
+        <?php include_once("smartidp_logos.php"); ?>
         <div class="container ">
             <div class="row text-center ">
                 <h2 class="responsive-heading1 fw-bold">Take control of your company’s global task: <br>contract management with
@@ -403,85 +272,85 @@
                             <!-- accordion bootstrap -->
                             <div class="accordion" id="accordionFAQ">
 
-                            <!-- Accordion Item 1 -->
-                            <div class="accordion-item border-0 pt-4">
-                                <div class="accordion-header" id="headingOne">
-                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="style.color='white'">
-                                        <strong>What is Contract Lifecycle Management (CLM)?</strong>
-                                    </button>
+                                <!-- Accordion Item 1 -->
+                                <div class="accordion-item border-0 pt-4 bg-transparent">
+                                    <div class="accordion-header" id="headingOne">
+                                        <button class="accordion-button collapsed p-3 rounded-pill shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="color: white; transition: color 0.3s;">
+                                            <strong>What is Contract Lifecycle Management (CLM)?</strong>
+                                        </button>
+                                    </div>
+                                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionFAQ">
+                                        <div class="accordion-body bg-light p-4 rounded-3 text-justify bg-transparent">
+                                            Contract Lifecycle Management (CLM) focuses on optimizing the entire contract process, from creation and negotiation to execution and renewal. CLM involves managing and automating tasks, ensuring compliance, and streamlining workflows to improve efficiency and mitigate risks. Contracts can be standardized and repeatable or unique and complex. Various tools and methods are used to track, measure, and optimize each stage of the contract lifecycle to align with business objectives and strategy.
+                                        </div>
+                                    </div>
                                 </div>
-                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body bg-light p-4 rounded-3 text-justify">
-                                        Contract Lifecycle Management (CLM) focuses on optimizing the entire contract process, from creation and negotiation to execution and renewal. CLM involves managing and automating tasks, ensuring compliance, and streamlining workflows to improve efficiency and mitigate risks. Contracts can be standardized and repeatable or unique and complex. Various tools and methods are used to track, measure, and optimize each stage of the contract lifecycle to align with business objectives and strategy.
+
+                                <!-- Accordion Item 2 -->
+                                <div class="accordion-item border-0 mt-2 bg-transparent">
+                                    <div class="accordion-header" id="headingTwo">
+                                        <button class="accordion-button collapsed p-3 rounded-pill shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="color: white; transition: color 0.3s;">
+                                            <strong>Comprehensive overview of all contract data.</strong>
+                                        </button>
+                                    </div>
+                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionFAQ">
+                                        <div class="accordion-body bg-light p-4 rounded-pill text-justify bg-transparent">
+                                            Contract management provides a clear and comprehensive overview of all contract information while streamlining your contract processes. It ensures better compliance, risk management, and performance tracking across all agreements. Additionally, it enhances collaboration and visibility among stakeholders, improving decision-making and efficiency.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Accordion Item 3 -->
+                                <div class="accordion-item border-0 mt-2 bg-transparent">
+                                    <div class="accordion-header" id="headingThree">
+                                        <button class="accordion-button collapsed p-3 rounded-pill shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="color: white; transition: color 0.3s;">
+                                            <strong>What is contract management?</strong>
+                                        </button>
+                                    </div>
+                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFAQ">
+                                        <div class="accordion-body bg-light p-4 rounded-pill text-justify bg-transparent">
+                                            Contract management is the process of managing the creation, execution, and monitoring of contracts to ensure compliance and performance. It involves tracking key dates, terms, and obligations, while mitigating risks associated with contractual agreements. Effective contract management enhances efficiency, reduces errors, and ensures that all parties fulfill their contractual commitments.
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Accordion Item 4 -->
+
+                                <div class="accordion-item border-0 mt-2 bg-transparent">
+                                    <div class="accordion-header" id="headingFour">
+                                        <button class="accordion-button collapsed p-3 rounded-pill shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="color: white; transition: color 0.3s;">
+                                            <strong>Why is contract management important?</strong>
+                                        </button>
+                                    </div>
+                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionFAQ">
+                                        <div class="accordion-body bg-light p-4 rounded-pill text-justify bg-transparent">
+                                            Contract management is crucial for ensuring that all terms and obligations are clearly defined and met, reducing the risk of disputes. It helps organizations stay compliant with legal and regulatory requirements, avoiding costly penalties. Effective contract management also improves efficiency, reduces errors, and enhances collaboration across teams.
+                                        </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- Accordion Item 2 -->
-                            <div class="accordion-item border-0 mt-2">
-                                <div class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
-                                        <strong>Comprehensive overview of all contract data.</strong>
+
+                            <!-- Accordion Item 5 -->
+                            <div class="accordion-item border-0 mt-2 pb-2 bg-transparent">
+                                <div class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed p-3 rounded-pill shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="color: white; transition: color 0.3s;">
+                                        <strong>Which software is best for contract management?</strong>
                                     </button>
                                 </div>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body bg-light p-4 rounded-3 text-justify">
-                                        Contract management provides a clear and comprehensive overview of all contract information while streamlining your contract processes. It ensures better compliance, risk management, and performance tracking across all agreements. Additionally, it enhances collaboration and visibility among stakeholders, improving decision-making and efficiency.
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionFAQ">
+                                    <div class="accordion-body bg-light p-4 rounded-pill text-justify bg-transparent">
+                                        There are several software options for contract management, including DocuSign, ContractWorks, and Icertis, each offering features for document storage, e-signatures, and workflow automation. These tools help streamline contract creation, tracking, and compliance, improving efficiency and reducing manual errors. Choosing the right software depends on your organization's specific needs, such as integration capabilities and scalability.
                                     </div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item 3 -->
-                            <div class="accordion-item border-0 mt-2">
-                                <div class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
-                                        <strong>What is contract management?</strong>
-                                    </button>
-                                </div>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body bg-light p-4 rounded-3 text-justify">
-                                        Contract management is the process of managing the creation, execution, and monitoring of contracts to ensure compliance and performance. It involves tracking key dates, terms, and obligations, while mitigating risks associated with contractual agreements. Effective contract management enhances efficiency, reduces errors, and ensures that all parties fulfill their contractual commitments.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Accordion Item 4 -->
-
-                            <div class="accordion-item border-0 mt-2">
-                                <div class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
-                                        <strong>Why is contract management important?</strong>
-                                    </button>
-                                </div>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionFAQ">
-                                    <div class="accordion-body bg-light p-4 rounded-3 text-justify">
-                                        Contract management is crucial for ensuring that all terms and obligations are clearly defined and met, reducing the risk of disputes. It helps organizations stay compliant with legal and regulatory requirements, avoiding costly penalties. Effective contract management also improves efficiency, reduces errors, and enhances collaboration across teams.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <!-- Accordion Item 5 -->
-                        <div class="accordion-item border-0 mt-2 pb-2">
-                            <div class="accordion-header" id="headingFive">
-                                <button class="accordion-button collapsed p-3 rounded-3 shadow-sm w-100" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive" style="color: white; transition: color 0.3s;" onmouseover="this.style.color='black'" onmouseout="this.style.color='white'">
-                                    <strong>Which software is best for contract management?</strong>
-                                </button>
-                            </div>
-                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionFAQ">
-                                <div class="accordion-body bg-light p-4 rounded-3 text-justify">
-                                    There are several software options for contract management, including DocuSign, ContractWorks, and Icertis, each offering features for document storage, e-signatures, and workflow automation. These tools help streamline contract creation, tracking, and compliance, improving efficiency and reducing manual errors. Choosing the right software depends on your organization's specific needs, such as integration capabilities and scalability.
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
+                </div>
             </div>
         </div>
-</div>
-</main>
+    </main>
 </div>
 
 <?php include_once("includes/footer.php"); ?>

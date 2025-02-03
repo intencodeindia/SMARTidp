@@ -255,7 +255,7 @@
                             <!-- Icon Box 2 -->
                             <div
                                 class="icon-boxes-item rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
-                                <span class="icon-boxes-item-icon"><i class="fas fa-users fa-lg"></i></span>
+                                <span class="icon-boxes-item-icon"><i class="fas fa-users fa-md"></i></span>
                                 <!-- Changed to a relevant icon for "smartIDP iRoom" -->
                                 <h3 class="fw-bold">smartIDP iRoom</h3>
                                 <div class="icon-boxes-item-text">

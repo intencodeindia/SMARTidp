@@ -32,8 +32,29 @@ body {
   font-family: "72-Regular", sans-serif !important;
 }
 
+body {
+  background: linear-gradient(
+    to bottom,
+    #e1f2ff 0%,
+    #d9effd 10%,
+    #c3eafc 20%,
+    #b0e5f9 30%,
+    #9cdfef 40%,
+    #88d9e5 50%,
+    #9cdfef 60%,
+    #b0e5f9 70%,
+    #c3eafc 80%,
+    #d9effd 90%,
+    #e1f2ff 100%
+  );
+}
 /* Headings (h1 to h6) */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "72-bold", sans-serif !important;
   font-weight: normal;
 }
@@ -49,7 +70,6 @@ strong {
   font-family: "72-Regular", sans-serif;
   font-weight: normal;
 }
-
 
 .ser-hamburger-menu {
   position: relative;
@@ -786,6 +806,9 @@ body:not(.ie) .sercustomer_logolist_slide:hover .sercustomer_logo {
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
+  --theme-gradient: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
+  --theme-start: #0090f9;
+  --theme-end: #00b09c;
 }
 
 *,
@@ -13438,9 +13461,9 @@ html {
 }
 
 body {
-  font: 16px/1.6 "EuclidCircularB", sans-serif;
+  /* font: 16px/1.6 "EuclidCircularB", sans-serif; */
   color: #3a3a3a;
-  background: #fff 50%0 no-repeat;
+  /* background: #fff 50%0 no-repeat; */
   background-size: auto;
 }
 
@@ -33428,14 +33451,13 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
     .main-content
     .mod_article:first-child
     > .mod_article_inner
-    > .centered-wrapper:first-child {
+    > .centered-wrapper:first-child { 
     padding-top: 50px;
   }
 }
-
-/* Marquee container styling */
+/* Marquee container styling */ 
 .customer-logos-marquee {
-  overflow: hidden;
+  overflow: hidden; 
   position: relative;
   width: 100%;
 }
@@ -33445,6 +33467,8 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
   height: 150px;
   display: flex;
   animation: marquee 20s linear infinite;
+  /* Add transition for smoothness */
+  transition: animation-play-state 0.3s ease;
 }
 
 /* Media query for small screens (mobile devices) */
@@ -33453,14 +33477,20 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
     animation: marquee 5s linear infinite; /* Increase the duration for small screens */
   }
 }
+
+/* Stop animation on hover */
+.customer-logos-marquee:hover .customer-logos {
+  animation-play-state: paused;
+}
+
 /* Each logo card */
 .customer-logo {
   flex: 0 0 auto;
   margin-right: 30px;
   /* Space between cards */
-  width: 240px;
+  width: 250px;
   /* Fixed width for uniform card size */
-  height: 90px;
+  height: 100px;
   /* Fixed height for uniform card size */
 }
 
@@ -33473,4 +33503,28 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
   100% {
     transform: translateX(-100%);
   }
+}
+/* Gradient text styling */
+.gradient {
+  background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+/* Unique class for shadow effect */
+.custom-card-shadow {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 1.25rem;
+}
+
+.custom-card-shadow:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
+}
+.themed-border {
+  border: 2px solid transparent;
+  background: linear-gradient(white, white) padding-box,
+    var(--theme-gradient) border-box;
+  transition: transform 0.3s ease;
 }

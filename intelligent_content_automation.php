@@ -164,8 +164,9 @@
             /* Ensure buttons are readable but not too big */
         }
     }
-        /* Unique class for shadow effect */
-        .custom-card-shadow {
+
+    /* Unique class for shadow effect */
+    .custom-card-shadow {
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.15);
         transition: transform 0.3s ease, box-shadow 0.3s ease;
         border-radius: 1.25rem;
@@ -175,11 +176,37 @@
         transform: translateY(-5px);
         box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
     }
-
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content1">
-        <div class="mod_article  max-width-viewport block" id="article-39486" style="margin-bottom: 50px;">
+
+        <div class="container-fluid" style="background-image: url('assets/images/intelligent_content_Automation/BG.svg'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- Left Column: Content Section -->
+                    <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
+                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;">Digitalizing Content with SmartIDP</h2>
+                        <h1 class="display-4" style="color: #000d39;">
+                        A new era of
+                        content understanding
+                        </h1>
+                        <p class="fs-5 mb-4" style="color: #000d39;">The AI-powered
+                                            platform&nbsp;<strong>Smart Intelligent Document
+                                                Processing</strong>&nbsp;is the next level of enterprise content
+                                            management:
+                                            It bridges and automates content across your ecosystem to create a
+                                            360° view of business.</p>
+                                            <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Experience SmartIDP</a>
+                    </div>
+                    <!-- Right Column: Image Section -->
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
+                        <img src="assets/images/intelligent_content_Automation/SmartIDP Intelligent Content Automation.svg" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 85%; height: auto;">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <div class="mod_article  max-width-viewport block" id="article-39486" style="margin-bottom: 50px;">
             <div class="mod_article_inner">
                 <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start h-lg-500  -height-medium -vertical-centered"
                     style=" ">
@@ -197,8 +224,7 @@
                                 </div>
                                 <div class="mb-4 content-text">
                                     <div class="rte">
-                                        <p style="color: #ffffff;">The <a
-                                                href="javascript:void(0)">AI</a>-powered
+                                        <p style="color: #ffffff;">The AI-powered
                                             platform&nbsp;<strong>Smart Intelligent Document
                                                 Processing</strong>&nbsp;is the next level of enterprise content
                                             management:
@@ -226,7 +252,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div class="mod_article  max-width-viewport block" id="article-39488">
             <div class="mod_article_inner">
@@ -705,7 +731,7 @@
                 </script>
             </div>
         </div>
-        <div class="container-fluid" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">
@@ -830,7 +856,7 @@
 
 
 
-        <div class="container-fluid" style="background-color: #eaedfa;">
+        <div class="container-fluid">
             <div class="container py-5">
                 <div class="card shadow-lg" style="border-radius: 15px; border: none;">
                     <div class="card-body">
@@ -904,8 +930,8 @@
                     <div class="content-image">
                         <figure style="margin: 0; position: relative;">
                             <a href="javascript:void(0)" rel="noreferrer noopener" data-lightbox="lb223429" title="The Smart user interface">
-                                <img src="assets/images/ss/graph.png" alt="The Smart user interface" class="laptop_height"loading="lazy"
-                                    style="max-width: 100%; border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease;">
+                                <img src="assets/images/ss/graph.png" alt="The Smart user interface" class="laptop_height" loading="lazy"
+                                    style="max-width: 100%; border-radius: 15px; ">
                             </a>
                             <figcaption style="font-size: 1.2rem; color: #555; margin-top: 15px; font-weight: bold;">The SmartIDP user interface</figcaption>
                         </figure>
@@ -915,22 +941,22 @@
             </div>
         </div>
 
-        <div class="container-fluid" style="background-color: #eaedfa;">
-            <div class="container py-5" id="article-39496">
+        <div class="container-fluid">
+            <div class="container" id="article-39496">
                 <h2 class="text-center content-headline responsive-heading1" style="font-size: 2.5rem; font-weight: 600;">
                     The <span class="gradient">SmartIDP Intelligent </span>Document Processing platform
                 </h2>
                 <div class="text-center mt-4">
                     <figure style="position: relative;">
                         <a href="javascript:void(0)" rel="noreferrer noopener" data-lightbox="lb223400">
-                            <img src="assets/images/ss/dashboard2.png" alt="The Smart Intelligent Content Automation platform" class="img-fluid"  loading="lazy" style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;">
+                            <img src="assets/images/ss/dashboard2.png" alt="The Smart Intelligent Content Automation platform" class="img-fluid" loading="lazy" style="max-width: 100%; height: auto;  transition: transform 0.3s ease-in-out;">
                         </a>
                     </figure>
                 </div>
             </div>
         </div>
 
-        <div class="container py-5" id="article-39522">
+        <div class="container" id="article-39522">
             <div class="row justify-content-center">
                 <!-- Heading Section -->
                 <div class="col-12 text-center mb-4 responsive-heading1">
@@ -944,32 +970,33 @@
                     <div class="row">
                         <!-- Left Column (Text Content) -->
                         <div class="col-lg-6 col-md-12 mb-4">
-                            <div class="text-image-hover" style="padding: 20px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); background-color: #f9f9f9;">
+                            <div class="text-image-hover" style="padding: 20px;">
                                 <div class="texts">
                                     <div class="text-element mb-3" data-id="1">
-                                        <p><strong><a href="javascript:void(0)" style="color: #0090f9; text-decoration: none;">How SEW-EURODRIVE achieved an ROI of 336%</a></strong></p>
-                                        <p>Forrester Consulting studied the total economic impact of Smart Intelligent Document Processing at our customer SEW-EURODRIVE. Discover the significant findings of this independent study.</p>
+                                        <p><strong>How SEW-EURODRIVE achieved an ROI of 336%</strong></p>
+                                        <p>Forrester Consulting studied the total economic impact of implementing SmartIDP at our customer SEW-EURODRIVE. Discover the significant findings of this independent study.</p>
                                     </div>
                                     <hr>
                                     <div class="text-element mb-3" data-id="2">
-                                        <p><strong><a href="javascript:void(0)" style="color: #0090f9; text-decoration: none;">Smart Intelligent Document Processing</a></strong></p>
-                                        <p>This flyer gives you an overview of what Smart Intelligent Document Processing delivers.</p>
+                                        <p><strong>Smart Intelligent Document Processing (SmartIDP)</strong></p>
+                                        <p>This flyer provides an overview of the benefits and capabilities of SmartIDP, helping organizations automate document handling and improve operational efficiency.</p>
                                     </div>
                                     <hr>
                                     <div class="text-element" data-id="3">
-                                        <p><strong><a href="javascript:void(0)" style="color: #0090f9; text-decoration: none;">Smart Intelligent Document Processing Service Bundles</a></strong></p>
-                                        <p>Three comprehensive service packages plus optional add-ons: Our packages offer up to 24/7 availability, end-to-end operation of your Smart environment, and smooth running at all times.</p>
+                                        <p><strong>SmartIDP Service Bundles</strong></p>
+                                        <p>Choose from three comprehensive service packages with optional add-ons: These packages ensure up to 24/7 support, end-to-end management of your SmartIDP environment, and continuous operation for optimized performance.</p>
                                     </div>
                                 </div>
+
                             </div>
                         </div>
 
                         <!-- Right Column (Image or Icons, if needed) -->
                         <div class="col-lg-6 col-md-12 text-center">
-                            <div class="content-image" style="padding: 20px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); background-color: #f9f9f9;">
+                            <div class="content-image" style="padding: 20px;">
                                 <figure>
                                     <!-- Optional Image or Icon here -->
-                                    <img src="assets/images/ss/graph2.png" alt="Smart Intelligent Document Processing" class="img-fluid" loading="lazy" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+                                    <img src="assets/images/ss/graph2.png" alt="Smart Intelligent Document Processing" class="img-fluid" loading="lazy" style="border-radius: 10px;">
                                 </figure>
                             </div>
                         </div>

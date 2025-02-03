@@ -51,9 +51,10 @@
       font-size: large !important;
     }
   }
+
   @media (max-width: 536px) {
     .heading {
-      font-size:16px !important;
+      font-size: 16px !important;
     }
   }
 </style>
@@ -70,7 +71,7 @@
         <!-- First Slide -->
         <div class="carousel-item active">
           <div class="image-container">
-            <img src="assets/images/inbound_mail_automation/emailauto1.webp" class="d-block w-100 mt-1 my-3 g-2 custom-image img-fluid"  loading="lazy"style="height: 400px;" alt="...">
+            <img src="assets/images/inbound_mail_automation/emailauto1.webp" class="d-block w-100 mt-1 my-3 g-2 custom-image img-fluid" loading="lazy" style="height: 400px;" alt="...">
             <div class="image-overlay"></div>
           </div>
           <div class="carousel-caption">
@@ -94,7 +95,7 @@
         <!-- Third Slide -->
         <div class="carousel-item">
           <div class="image-container">
-            <img src="assets/images/inbound_mail_automation/smart2.jpeg" class="d-block w-100 img-fluid" style="height:70%"loading="lazy" alt="...">
+            <img src="assets/images/inbound_mail_automation/smart2.jpeg" class="d-block w-100 img-fluid" style="height:70%" loading="lazy" alt="...">
             <div class="image-overlay">
 
             </div>
@@ -193,8 +194,8 @@
         <!-- Left Column: Headline -->
         <div class="col-lg-6 mb-4 mb-lg-0">
           <div class="headline-box">
-            <h1 class="display-6 fw-bold">Get more out of your <span class="gradient">documents, emails, and more</span>
-            </h1>
+            <h2 class="fw-bold">Get more out of your <span class="gradient">documents, emails, and more</span>
+            </h2>
           </div>
         </div>
 
@@ -307,14 +308,20 @@
         </div>
       </div>
     </div>
+    <hr>
+    <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+      <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
+        SmartIDP</h2>
+    </div>
     <?php include_once("smartidp_logos.php"); ?>
+    <hr>
     <div class="container py-md-5 justify-content-center">
       <div class="row align-items-center">
         <!-- Left Column: Headline -->
         <div class="col-lg-6 mb-4 mb-lg-0">
           <div class="headline-box">
-            <h1 class="display-6 fw-bold">Achieve greater success with fewer resources using <span
-                class="gradient">SmartIDP.</span></h1>
+            <h2 class="fw-bold">Achieve greater success with fewer resources using <span
+                class="gradient">SmartIDP.</span></h2>
           </div>
         </div>
 
@@ -340,7 +347,7 @@
               <div
                 class="ce_rs_column_start rs-column -large-col-3-2 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                 <div class="headline-box ser-headline-box -align-left ce_rsce_ser_headline_box">
-                  <h3 class="headline -large fw-bold"> <span class="gradient">Case Study</span></h3>
+                  <h2 class="fw-bold"> <span class="gradient">Case Study</span></h2>
                 </div>
                 <div class="content-text">
                   <div class="rte">
@@ -376,8 +383,8 @@
         <!-- Left Column: Headline -->
         <div class="col-lg-6 mb-4 mb-lg-0">
           <div class="headline-box">
-            <h1 class="display-5 fw-bold">Begin your digital transformation with <span class="gradient">SmartIDP.</span>
-            </h1>
+            <h2 class="fw-bold">Begin your digital transformation with <span class="gradient">SmartIDP.</span>
+            </h2>
           </div>
         </div>
 
@@ -400,7 +407,7 @@
         <!-- Left Column: Headline -->
         <div class="col-lg-6 mb-4 mb-lg-0">
           <div class="headline-box">
-            <p class="display-6"> <span class="gradient">SmartIDP:</span> A New Dawn for Digital Transformation.</p>
+            <h2 class="fw-bold"> <span class="gradient">SmartIDP:</span> A New Dawn for Digital Transformation.</h2>
           </div>
         </div>
 
@@ -421,7 +428,7 @@
               <div
                 class="ce_rs_column_start rs-column -large-col-3-2 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                 <div class="headline-box ser-headline-box -align-left ce_rsce_ser_headline_box">
-                  <h3 class="headline -large fw-bold">Inbound mail processing with <span class="gradient">SmartIDP</span>
+                  <h2 class="fw-bold">Inbound mail processing with <span class="gradient">SmartIDP</span>
                     </.< /h3>
                 </div>
                 <div class="content-text">
