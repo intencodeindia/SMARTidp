@@ -33455,6 +33455,7 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
     padding-top: 50px;
   }
 }
+
 /* Marquee container styling */ 
 .customer-logos-marquee {
   overflow: hidden; 
@@ -33466,7 +33467,7 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
 .customer-logos {
   height: 150px;
   display: flex;
-  animation: marquee 20s linear infinite;
+  animation: marquee 55s linear infinite;
   /* Add transition for smoothness */
   transition: animation-play-state 0.3s ease;
 }
@@ -33474,7 +33475,7 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
 /* Media query for small screens (mobile devices) */
 @media (max-width: 576px) {
   .customer-logos {
-    animation: marquee 5s linear infinite; /* Increase the duration for small screens */
+    animation: marquee 15s linear infinite; /* Increase the duration for small screens */
   }
 }
 
@@ -33495,13 +33496,13 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
 }
 
 /* Keyframes for the scrolling animation */
+/* Keyframes for the scrolling animation */
 @keyframes marquee {
   0% {
     transform: translateX(0%);
   }
-
   100% {
-    transform: translateX(-100%);
+    transform: translateX(-500%); /* This should move only half of the content for a smooth loop */
   }
 }
 /* Gradient text styling */
@@ -33527,4 +33528,16 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
   background: linear-gradient(white, white) padding-box,
     var(--theme-gradient) border-box;
   transition: transform 0.3s ease;
+}
+
+.bg-img {
+  background: linear-gradient(229deg, #0090f9 0%, rgb(207 251 246) 100%);
+  padding: 25px 0;
+}
+
+/* For mobile screens only */
+@media (max-width: 480px) {
+  .bg-img {
+      background: linear-gradient(360deg, #0090f9 0%, rgb(207 251 246) 60%);
+  }
 }

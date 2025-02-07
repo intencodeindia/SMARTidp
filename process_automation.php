@@ -147,13 +147,17 @@
         border-radius: 20px;
         z-index: -1;
     }
+
+    .bg-img {
+        padding: 25px 0;
+    }
 </style>
 
 <!-- <link rel="stylesheet" href="<?php echo BASE_PATH; ?>assets/css/five.css"> -->
 <div class="content-wrapper">
     <main role="main" class="main-content">
-       
-    <div class="container-fluid" style="background-image: url('assets/images/intelligent_content_Automation/BG.svg'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
+
+        <div class="container-fluid bg-img">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column: Content Section -->
@@ -188,7 +192,7 @@
                 </div>
             </div>
         </div>
-<!--     
+        <!--     
     <div class="container-fluid py-5" id="article-43622" style="background-image: url('assets/images/process_automation/pad.png'); background-size: cover; background-position: 0% 10%;">
             <div class="container">
                 <div class="row align-items-center">
@@ -221,12 +225,12 @@
                 </div>
             </div>
         </div> -->
-        
+
         <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
-                    <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
-                        SmartIDP</h2>
-                </div>
-                <?php include_once("smartidp_logos.php"); ?>
+            <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
+                SmartIDP</h2>
+        </div>
+        <?php include_once("smartidp_logos.php"); ?>
 
 
         <div class="container">
@@ -653,10 +657,10 @@
                         <div class="card-body">
                             <h6 class="card-title text-white">News</h6>
                             <figure>
-                                <img src="assets/images/SmartIDP/all_docs.png" class="card-img-top" alt="SmartIDP News" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;">
+                                <img src="assets/images/process_automation/bgatr.png" class="card-img-top" alt="SmartIDP News" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem; height: 230px;">
                             </figure>
                             <h3 class="card-subtitle mt-2 text-white">A Strong Performer: SmartIDP Group with the highest score in current offering category</h3>
-                            <p class="card-text mt-2 text-white">Read more about SmartIDP's recognition in the industry.</p>
+                            <p class="card-text mt-2 text-white">Learn more about SmartIDP's recognition in the industry.</p>
                         </div>
                     </div>
                 </div>
@@ -667,7 +671,7 @@
                         <div class="card-body">
                             <h6 class="card-title text-white">News</h6>
                             <figure>
-                                <img src="assets/images/SmartIDP/Intelligent-Document-Processing-for-Enterprise.png" class="card-img-top" alt="Intelligent Document Processing" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;">
+                                <img src="assets/images/SmartIDP/Intelligent-Document-Processing-for-Enterprise.png" class="card-img-top" alt="Intelligent Document Processing" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;height: 230px;">
                             </figure>
                             <h3 class="card-subtitle mt-2 text-white">SmartIDP a 'Distinguished Leader' in Spark Matrix 2023 report</h3>
                             <p class="card-text mt-2 text-white">Discover more about SmartIDP's achievements in the Spark Matrix 2023 report.</p>
@@ -681,7 +685,7 @@
                         <div class="card-body">
                             <h6 class="card-title text-white">News</h6>
                             <figure>
-                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" class="card-img-top" alt="Intelligent Document Processing" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;">
+                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" class="card-img-top" alt="Intelligent Document Processing" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;width: 100%;height: 230px;">
                             </figure>
                             <h3 class="card-subtitle mt-2 text-white">SmartIDP Group named a Leader in the IDC MarketScape</h3>
                             <p class="card-text mt-2 text-white">Learn more about SmartIDP Group's leadership in the IDC MarketScape report.</p>

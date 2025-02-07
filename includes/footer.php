@@ -51,10 +51,10 @@
         </div>
         <div class="container footer-legal py-lg-3 py-1">
             <div class="row d-flex justify-content-between p-0 m-0" style="--bs-gutter-x: 0;">
-                <!-- Legal Information and Privacy Policy -->
+                <!-- Terms & Conditions and Privacy Policy -->
                 <div class="col-12 col-lg-4 text-center text-lg-start mb-2 mb-lg-0">
-                    <p><a href="#" title="Legal Information" class="text-decoration-none">Legal Information</a> |
-                        <a href="#" class="text-decoration-none">Privacy Policy</a>
+                    <p><a href="terms_conditions" title="Terms & Conditions" class="text-decoration-none">Terms & Conditions</a> |
+                        <a href="privacy_policy" class="text-decoration-none">Privacy Policy</a> | <a href="delete_account" class="text-decoration-none">Delete Account</a>
                     </p>
                 </div>
 

@@ -58,189 +58,49 @@
         transform: translateY(-5px);
         box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
     }
-
-    /* .custom-card {
-        height: 100%;
-        border-radius: 50px;
-        background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
-        transition: all 0.5s ease-in-out;
-        transform-style: preserve-3d;
-        box-shadow: rgba(5, 71, 17, 0) 40px 50px 25px -40px, rgba(5, 71, 17, 0.2) 0px 25px 25px -5px;
+    .bg-img {
+        padding: 0px 0;
     }
-
-    .custom-glass {
-        transform-style: preserve-3d;
-        position: absolute;
-        inset: 8px;
-        border-radius: 55px;
-        border-top-right-radius: 100%;
-        background: linear-gradient(0deg, rgba(255, 255, 255, 0.349) 0%, rgba(255, 255, 255, 0.815) 100%);
-        transform: translate3d(0px, 0px, 25px);
-        border-left: 1px solid white;
-        border-bottom: 1px solid white;
-        transition: all 0.5s ease-in-out;
-    }
-
-    .custom-content {
-        padding: 100px 60px 0px 30px;
-        transform: translate3d(0, 0, 26px);
-    }
-
-    .custom-content .custom-title {
-        display: block;
-        color: #00894d;
-        font-weight: 900;
-        font-size: 20px;
-    }
-
-    .custom-content .custom-text {
-        display: block;
-        color: rgba(0, 137, 78, 0.7647058824);
-        font-size: 15px;
-        margin-top: 20px;
-    }
-
-    .custom-bottom {
-        padding: 10px 12px;
-        transform-style: preserve-3d;
-        position: absolute;
-        bottom: 20px;
-        left: 20px;
-        right: 20px;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        transform: translate3d(0, 0, 26px);
-    }
-
-    .custom-logo {
-        position: absolute;
-        right: 0;
-        top: 0;
-        transform-style: preserve-3d;
-    }
-
-    .custom-logo .custom-circle {
-        display: block;
-        position: absolute;
-        aspect-ratio: 1;
-        border-radius: 50%;
-        top: 0;
-        right: 0;
-        box-shadow: rgba(100, 100, 111, 0.2) -10px 10px 20px 0px;
-        background: rgba(0, 249, 203, 0.2);
-        transition: all 0.5s ease-in-out;
-    }
-
-    .custom-logo .custom-circle1 {
-        width: 170px;
-        transform: translate3d(0, 0, 20px);
-        top: 8px;
-        right: 8px;
-    }
-
-    .custom-logo .custom-circle2 {
-        width: 140px;
-        transform: translate3d(0, 0, 40px);
-        top: 10px;
-        right: 10px;
-        backdrop-filter: blur(1px);
-        transition-delay: 0.4s;
-    }
-
-    .custom-logo .custom-circle3 {
-        width: 110px;
-        transform: translate3d(0, 0, 60px);
-        top: 17px;
-        right: 17px;
-        transition-delay: 0.8s;
-    }
-
-    .custom-logo .custom-circle4 {
-        width: 80px;
-        transform: translate3d(0, 0, 80px);
-        top: 23px;
-        right: 23px;
-        transition-delay: 1.2s;
-    }
-
-    .custom-logo .custom-circle5 {
-        width: 50px;
-        transform: translate3d(0, 0, 100px);
-        top: 30px;
-        right: 30px;
-        display: grid;
-        place-content: center;
-        transition-delay: 1.6s;
-    }
-
-    .custom-logo .custom-circle5 .custom-svg {
-        width: 20px;
-        fill: white;
-       
-    }
-
-    /* Hover effect */
-    /* .custom-card:hover {
-        transform: rotate3d(1, 1, 0, 30deg);
-        box-shadow: rgba(5, 71, 17, 0.3) 30px 50px 25px -40px, rgba(5, 71, 17, 0.1) 0px 25px 30px 0px;
-    }
-
-    .custom-card:hover .custom-logo .custom-circle2 {
-        transform: translate3d(0, 0, 60px);
-    }
-
-    .custom-card:hover .custom-logo .custom-circle3 {
-        transform: translate3d(0, 0, 80px);
-    }
-
-    .custom-card:hover .custom-logo .custom-circle4 {
-        transform: translate3d(0, 0, 100px);
-    }
-
-    .custom-card:hover .custom-logo .custom-circle5 {
-        transform: translate3d(0, 0, 120px); 
-    }  */
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container-fluid" style="background-image: url('assets/images/manufacturing/banner.gif'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
+        <div class="container-fluid bg-img">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column: Content Section -->
-                    <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
-                        <h2 class="headline fw-bolder" style="color: #000d39;"> AI Powered Document Management System</h2>
-                        <h1 class="display-3 text-white">
+                    <div class="col-12 col-lg-6 text-center text-lg-start">
+                        <h2 class="headline fw-bold" style="color: #000d39;">AI Powered Document Management System</h2>
+                        <h1 class="display-3 mt-1" style="color: #000d39;">
                             Transforming Document Management with SmartIDP
                         </h1>
-                        <p class="fs-5 text-white mb-3">Leverage AI for Smarter Document Handling</p>
+                        <p class="fw-bold fs-5 mb-3">Leverage AI for Smarter Document Handling</p>
                         <ul class="list-unstyled content-text">
-                            <li class="d-flex align-items-center mb-2 text-white">
-                                <i class="fas fa-check-circle me-2"></i> Manage large volumes of documents with AI efficiency
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Manage large volumes of documents with AI efficiency</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Speed up document processing and boost productivity
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Speed up document processing and boost productivity</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Ensure compliance with cutting-edge SmartIDP technology
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Ensure compliance with cutting-edge SmartIDP technology</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Enhance decision-making with AI-driven automation
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Enhance decision-making with AI-driven automation</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Increase data accuracy and reduce manual errors
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Increase data accuracy and reduce manual errors</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Streamline workflows and improve team collaboration
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Streamline workflows and improve team collaboration</p>
                             </li>
                         </ul>
-                        <div class="mt-4">
+                        <div class="my-4">
                             <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
                         </div>
                     </div>
                     <!-- Right Column: Image Section -->
-                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/document_management/document_management_git.gif" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 70%;">
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center my-2">
+                        <img src="assets/images/document_management/document_management.svg" loading="lazy" class="img-fluid" alt="SmartIDP" >
                     </div>
                 </div>
             </div>

@@ -8,7 +8,44 @@
         color: transparent;
     }
 
+    /* .cover {
+        height: 48vh;
+    } */
+    /* Marquee container styling */
+    .customer-logos-marquee {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
 
+    /* Flex container for the logos */
+    .customer-logos {
+        height: 150px;
+        display: flex;
+        animation: marquee 20s linear infinite;
+    }
+
+    /* Each logo card */
+    .customer-logo {
+        flex: 0 0 auto;
+        margin-right: 30px;
+        /* Space between cards */
+        width: 240px;
+        /* Fixed width for uniform card size */
+        height: 90px;
+        /* Fixed height for uniform card size */
+    }
+
+    /* Keyframes for the scrolling animation */
+    @keyframes marquee {
+        0% {
+            transform: translateX(0%);
+        }
+
+        100% {
+            transform: translateX(-100%);
+        }
+    }
 
     /* Unique class for shadow effect */
     .custom-card-shadow {
@@ -21,198 +58,62 @@
         transform: translateY(-5px);
         box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
     }
-
-    /* .custom-card {
-        height: 100%;
-        border-radius: 50px;
-        background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
-        transition: all 0.5s ease-in-out;
-        transform-style: preserve-3d;
-        box-shadow: rgba(5, 71, 17, 0) 40px 50px 25px -40px, rgba(5, 71, 17, 0.2) 0px 25px 25px -5px;
+    .bg-img {
+        padding: 0px 0px;
     }
-
-    .custom-glass {
-        transform-style: preserve-3d;
-        position: absolute;
-        inset: 8px;
-        border-radius: 55px;
-        border-top-right-radius: 100%;
-        background: linear-gradient(0deg, rgba(255, 255, 255, 0.349) 0%, rgba(255, 255, 255, 0.815) 100%);
-        transform: translate3d(0px, 0px, 25px);
-        border-left: 1px solid white;
-        border-bottom: 1px solid white;
-        transition: all 0.5s ease-in-out;
-    }
-
-    .custom-content {
-        padding: 100px 60px 0px 30px;
-        transform: translate3d(0, 0, 26px);
-    }
-
-    .custom-content .custom-title {
-        display: block;
-        color: #00894d;
-        font-weight: 900;
-        font-size: 20px;
-    }
-
-    .custom-content .custom-text {
-        display: block;
-        color: rgba(0, 137, 78, 0.7647058824);
-        font-size: 15px;
-        margin-top: 20px;
-    }
-
-    .custom-bottom {
-        padding: 10px 12px;
-        transform-style: preserve-3d;
-        position: absolute;
-        bottom: 20px;
-        left: 20px;
-        right: 20px;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        transform: translate3d(0, 0, 26px);
-    }
-
-    .custom-logo {
-        position: absolute;
-        right: 0;
-        top: 0;
-        transform-style: preserve-3d;
-    }
-
-    .custom-logo .custom-circle {
-        display: block;
-        position: absolute;
-        aspect-ratio: 1;
-        border-radius: 50%;
-        top: 0;
-        right: 0;
-        box-shadow: rgba(100, 100, 111, 0.2) -10px 10px 20px 0px;
-        background: rgba(0, 249, 203, 0.2);
-        transition: all 0.5s ease-in-out;
-    }
-
-    .custom-logo .custom-circle1 {
-        width: 170px;
-        transform: translate3d(0, 0, 20px);
-        top: 8px;
-        right: 8px;
-    }
-
-    .custom-logo .custom-circle2 {
-        width: 140px;
-        transform: translate3d(0, 0, 40px);
-        top: 10px;
-        right: 10px;
-        backdrop-filter: blur(1px);
-        transition-delay: 0.4s;
-    }
-
-    .custom-logo .custom-circle3 {
-        width: 110px;
-        transform: translate3d(0, 0, 60px);
-        top: 17px;
-        right: 17px;
-        transition-delay: 0.8s;
-    }
-
-    .custom-logo .custom-circle4 {
-        width: 80px;
-        transform: translate3d(0, 0, 80px);
-        top: 23px;
-        right: 23px;
-        transition-delay: 1.2s;
-    }
-
-    .custom-logo .custom-circle5 {
-        width: 50px;
-        transform: translate3d(0, 0, 100px);
-        top: 30px;
-        right: 30px;
-        display: grid;
-        place-content: center;
-        transition-delay: 1.6s;
-    }
-
-    .custom-logo .custom-circle5 .custom-svg {
-        width: 20px;
-        fill: white;
-       
-    }
-
-    /* Hover effect */
-    /* .custom-card:hover {
-        transform: rotate3d(1, 1, 0, 30deg);
-        box-shadow: rgba(5, 71, 17, 0.3) 30px 50px 25px -40px, rgba(5, 71, 17, 0.1) 0px 25px 30px 0px;
-    }
-
-    .custom-card:hover .custom-logo .custom-circle2 {
-        transform: translate3d(0, 0, 60px);
-    }
-
-    .custom-card:hover .custom-logo .custom-circle3 {
-        transform: translate3d(0, 0, 80px);
-    }
-
-    .custom-card:hover .custom-logo .custom-circle4 {
-        transform: translate3d(0, 0, 100px);
-    }
-
-    .custom-card:hover .custom-logo .custom-circle5 {
-        transform: translate3d(0, 0, 120px); 
-    }  */
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container-fluid" style="background-image: url('assets/images/manufacturing/banner.gif'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
+        <div class="container-fluid bg-img">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column: Content Section -->
-                    <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
-                        <h2 class="headline fw-bolder" style="color: #000d39;"> AI Powered Document Management System</h2>
-                        <h1 class="display-3 text-white">
+                    <div class="col-12 col-lg-6 text-center text-lg-start">
+                        <h2 class="headline fw-bold" style="color: #000d39;">AI Powered Document Management System</h2>
+                        <h1 class="display-3 mt-1" style="color: #000d39;">
                             Transforming Document Management with SmartIDP
                         </h1>
-                        <p class="fs-5 text-white mb-3">Leverage AI for Smarter Document Handling</p>
+                        <p class="fw-bold fs-5 mb-3">Leverage AI for Smarter Document Handling</p>
                         <ul class="list-unstyled content-text">
-                            <li class="d-flex align-items-center mb-2 text-white">
-                                <i class="fas fa-check-circle me-2"></i> Manage large volumes of documents with AI efficiency
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Manage large volumes of documents with AI efficiency</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Speed up document processing and boost productivity
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Speed up document processing and boost productivity</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Ensure compliance with cutting-edge SmartIDP technology
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Ensure compliance with cutting-edge SmartIDP technology</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Enhance decision-making with AI-driven automation
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Enhance decision-making with AI-driven automation</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Increase data accuracy and reduce manual errors
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Increase data accuracy and reduce manual errors</p>
                             </li>
-                            <li class="d-flex align-items-center mb-2  text-white">
-                                <i class="fas fa-check-circle me-2"></i> Streamline workflows and improve team collaboration
+                            <li class="mb-1 text-left" style="list-style:none ;">
+                                <p><i class="fas fa-check-circle me-2"></i> Streamline workflows and improve team collaboration</p>
                             </li>
                         </ul>
-                        <div class="mt-4">
+                        <div class="my-4">
                             <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
                         </div>
                     </div>
                     <!-- Right Column: Image Section -->
-                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/document_management/document_management_git.gif" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 70%;">
+                    <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center my-2">
+                        <img src="assets/images/document_management/document_management.svg" loading="lazy" class="img-fluid" alt="SmartIDP" >
                     </div>
                 </div>
             </div>
         </div>
 
+        <!-- <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+            <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
+                SmartIDP</h2>
+        </div> -->
         <div class="mt-5"></div>
         <?php include_once("smartidp_logos.php"); ?>
-        <div class="container text-center my-md-3">
-            <h2 class="mb-4 mt-0 responsive-heading1 fw-bold"><span class="gradient">Efficiency</span> begins with an <span class="gradient">AI-powered</span> SmartIDP DMS</h2>
+        <div class="container text-center">
+            <h2 class="mb-4 responsive-heading1 fw-bold"><span class="gradient">Efficiency</span> begins with an <span class="gradient">AI-powered</span> SmartIDP DMS</h2>
             <p class="mb-4 fs-5">Say goodbye to paper, floating files, email attachments, and file directories. The SmartIDP document management system empowers you to take full control of your documents with seamless digital management of contracts, orders, invoices, HR documents, and more.</p>
             <p class="mb-5">Quickly access all business-critical information, accelerate decision-making, eliminate errors, and strengthen the long-term success of your organization.</p>
 
@@ -344,7 +245,7 @@
                             <div class="col-lg-6 col-md-12 text-center">
                                 <div class="content-image">
                                     <figure>
-                                        <img src="assets/images/intelligent_content_Automation/person.gif" alt="SmartIDP" class="img-fluid" width="352" height="145" style="border-radius: 15px" loading="lazy">
+                                        <img src="assets/images/intelligent_content_Automation/person.gif" alt="SmartIDP" class="img-fluid" width="352" height="145" style="border-radius: 15px;">
                                     </figure>
                                 </div>
 
@@ -458,20 +359,20 @@
                 <!-- Left Column: Content -->
                 <div class="col-md-6">
                     <!-- Content Item 1 -->
-                    <div class="content-item p-4" onmouseover="changeImage('img1')" onmouseout="resetImage()" style="border-radius: 20px" loading="lazy">
+                    <div class="content-item p-4" onmouseover="changeImage('img1')" onmouseout="resetImage()" style="border-radius: 20px;">
                         <div class="card-title text-dark fw-bold">Achieve Unmatched Efficiency with SmartIDP</div>
                         <p class="card-text">Discover how SmartIDP enhances your document management processes by automating tedious tasks, streamlining workflows, and providing valuable insights. Our solution significantly boosts productivity while reducing errors and manual work.</p>
                     </div>
                     <hr>
                     <!-- Content Item 2 -->
-                    <div class="content-item p-4" onmouseover="changeImage('img2')" onmouseout="resetImage()" style="border-radius: 20px" loading="lazy">
+                    <div class="content-item p-4" onmouseover="changeImage('img2')" onmouseout="resetImage()" style="border-radius: 20px;">
                         <div class="card-title text-dark fw-bold">Case Study: How SmartIDP Transformed Document Management at Global Enterprises</div>
                         <p class="card-text">Leading global enterprises in finance and healthcare trust SmartIDP to automate the categorization and extraction of vital data from contracts, invoices, and medical records. These companies have achieved a 40% reduction in processing time and enhanced compliance with industry regulations.</p>
                     </div>
                     <hr>
 
                     <!-- Content Item 3 -->
-                    <div class="content-item p-4" onmouseover="changeImage('img3')" onmouseout="resetImage()" style="border-radius: 20px" loading="lazy">
+                    <div class="content-item p-4" onmouseover="changeImage('img3')" onmouseout="resetImage()" style="border-radius: 20px;">
                         <div class="card-title text-dark fw-bold">Guide: Revolutionize Your Business with SmartIDP for Document Management</div>
                         <p class="card-text">Get our comprehensive guide to understanding how SmartIDP’s intelligent automation solutions can transform your document management system. With practical tips, real-world case studies, and checklists, this guide will help you make informed decisions to streamline your processes and reduce costs.</p>
                     </div>
@@ -480,14 +381,10 @@
 
                 <!-- Right Column: Image (Centered) -->
                 <div class="col-md-6 d-flex justify-content-center align-items-center">
-                    <img id="right-img" src="assets/images/document_management/dms-2.png" class="img-fluid" alt="SmartIDP Document Management Solution" style="width: 100%; max-height: 500px; max-width: 500px; border-radius: 20px" loading="lazy">
+                    <img id="right-img" src="assets/images/document_management/dms-2.png" class="img-fluid" alt="SmartIDP Document Management Solution" style="width: 100%; max-height: 500px; max-width: 500px; border-radius: 20px;">
                 </div>
             </div>
         </div>
-
-
-
-
 
     </main>
 </div>

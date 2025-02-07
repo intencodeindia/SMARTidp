@@ -967,14 +967,14 @@
             </div>
         </div>
         <div class="container py-3">
-            <div class="row">
+            <div class="row"> 
                 <!-- First Card -->
                 <div class="col-12 col-md-4 d-flex p-2">
                     <div class="card flex-fill" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); border-radius: 1.25rem;">
                         <div class="card-body">
                             <h6 class="card-title text-white">News</h6>
                             <figure>
-                                <img src="assets/images/SmartIDP/all_docs.png" class="card-img-top" alt="SmartIDP News" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;">
+                                <img src="assets/images/process_automation/bgatr.png" class="card-img-top" alt="SmartIDP News" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;height: 230px;">
                             </figure>
                             <h3 class="card-subtitle mt-2 text-white">A Strong Performer: SmartIDP Group with the highest score in current offering category</h3>
                             <p class="card-text mt-2 text-white">Read more about SmartIDP's recognition in the industry.</p>
@@ -988,7 +988,7 @@
                         <div class="card-body">
                             <h6 class="card-title text-white">News</h6>
                             <figure>
-                                <img src="assets/images/SmartIDP/Intelligent-Document-Processing-for-Enterprise.png" class="card-img-top" alt="Intelligent Document Processing" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;">
+                                <img src="assets/images/SmartIDP/Intelligent-Document-Processing-for-Enterprise.png" class="card-img-top" alt="Intelligent Document Processing" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;height: 230px;">
                             </figure>
                             <h3 class="card-subtitle mt-2 text-white">SmartIDP a 'Distinguished Leader' in Spark Matrix 2023 report</h3>
                             <p class="card-text mt-2 text-white">Discover more about SmartIDP's achievements in the Spark Matrix 2023 report.</p>
@@ -1002,7 +1002,7 @@
                         <div class="card-body">
                             <h6 class="card-title text-white">News</h6>
                             <figure>
-                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" class="card-img-top" alt="Intelligent Document Processing" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;">
+                                <img src="assets/images/SmartIDP/intelligent-document-processing.png" class="card-img-top" alt="Intelligent Document Processing" loading="lazy" style="border-top-left-radius: 1.25rem; border-top-right-radius: 1.25rem;height: 230px;">
                             </figure>
                             <h3 class="card-subtitle mt-2 text-white">SmartIDP Group named a Leader in the IDC MarketScape</h3>
                             <p class="card-text mt-2 text-white">Learn more about SmartIDP Group's leadership in the IDC MarketScape report.</p>

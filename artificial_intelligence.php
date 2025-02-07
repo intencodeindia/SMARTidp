@@ -135,11 +135,14 @@
     .custom-nav-item .nav-link.active {
         background: linear-gradient(331deg, #007ac9 0%, #00b09c 100%);
     }
+    .bg-img {
+        padding: 65px 0;
+    }
 </style>
 
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container-fluid" style="background-image: url('assets/images/intelligent_content_Automation/BG.svg'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 65px 0;">
+        <div class="container-fluid bg-img">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column: Content Section -->
@@ -154,7 +157,7 @@
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/artificial_intelligence/Artificial_intelligence_in_SmartIDP.svg" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 85%; height: auto;">
+                        <img src="assets/images/artificial_intelligence/artificial_intelligence_in_smartidp.svg" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 85%; height: auto;">
                     </div>
                 </div>
             </div>
@@ -327,7 +330,7 @@
 
                 <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start infobox " style=" ">
                     <div class="centered-wrapper-inner ">
-                        <div class="content-text text-justify">
+                        <div class="content-text ">
                             <h3>Hi! I&apos;m SmartIDP - your Intelligent Content Assistant</h3>
                             <div class="rte">
                                 <p>Think of me as your speedy, smart assistant that&nbsp;gets you the right
@@ -560,7 +563,7 @@
 
                                     <div>
                                         <h3 class="card-title">Transform processes through automation</h3>
-                                        <p class="card-text text-justify">Streamline your operations by seamlessly integrating cutting-edge ML methods into document management and processes. Experience a surge in your workflow efficiency and elevate the quality of your outcomes.</p>
+                                        <p class="card-text ">Streamline your operations by seamlessly integrating cutting-edge ML methods into document management and processes. Experience a surge in your workflow efficiency and elevate the quality of your outcomes.</p>
                                     </div>
                                 </div>
                             </div>
@@ -573,7 +576,7 @@
                                     <i class="fas fa-brain fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
                                         <h3 class="card-title">Empower users with AI support</h3>
-                                        <p class="card-text text-justify">Unleash the potential of SmartIDP AI to effortlessly classify documents, generate dynamic metadata and empower the search experience. Free teams and departments from mundane tasks so they can focus on what truly matters.</p>
+                                        <p class="card-text ">Unleash the potential of SmartIDP AI to effortlessly classify documents, generate dynamic metadata and empower the search experience. Free teams and departments from mundane tasks so they can focus on what truly matters.</p>
                                     </div>
                                 </div>
                             </div>
@@ -586,7 +589,7 @@
                                     <i class="fas fa-chart-line fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
                                         <h3 class="card-title">Informed decision-making, simplified</h3>
-                                        <p class="card-text text-justify">Elevate decision-making with SmartIDP. Our intelligent assistance function has the power to guide employees, global teams, and departments through tasks, suggest similar documents, expert help, and optimal workflow steps. Stay two steps ahead.</p>
+                                        <p class="card-text ">Elevate decision-making with SmartIDP. Our intelligent assistance function has the power to guide employees, global teams, and departments through tasks, suggest similar documents, expert help, and optimal workflow steps. Stay two steps ahead.</p>
                                     </div>
                                 </div>
                             </div>
@@ -599,7 +602,7 @@
                                     <i class="fas fa-smile fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
                                         <h3 class="card-title">Delight customers and partners, every time</h3>
-                                        <p class="card-text text-justify">Not only can everyone in your organization access the information they need, but so can your partners and suppliers through self-service portals. Everyone is united around data and your customers can easily keep coming back for more.</p>
+                                        <p class="card-text ">Not only can everyone in your organization access the information they need, but so can your partners and suppliers through self-service portals. Everyone is united around data and your customers can easily keep coming back for more.</p>
                                     </div>
                                 </div>
                             </div>
@@ -612,7 +615,7 @@
                                     <i class="fas fa-lock fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
                                         <h3 class="card-title">Unleash information potential, mitigate risks</h3>
-                                        <p class="card-text text-justify">Don’t just store unstructured data – unlock its hidden value. With our machine learning technologies, you can unearth patterns, discover relevant content, and extract crucial metadata to shine light on potential risks, and stop them in their tracks. Standardized data and automation of workflows means you're always in line with compliance.</p>
+                                        <p class="card-text ">Don’t just store unstructured data – unlock its hidden value. With our machine learning technologies, you can unearth patterns, discover relevant content, and extract crucial metadata to shine light on potential risks, and stop them in their tracks. Standardized data and automation of workflows means you're always in line with compliance.</p>
                                     </div>
                                 </div>
                             </div>
@@ -625,7 +628,7 @@
                                     <i class="fas fa-robot fa-3x me-3" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); -webkit-background-clip: text; color: transparent;"></i>
                                     <div>
                                         <h3 class="card-title">Revolutionize operations with Auto ML</h3>
-                                        <p class="card-text text-justify">We always use an existing large language model but adapt that for your own use case. What we are doing is we try to optimize and automate that for use with Auto ML. No need for manual effort and data labelling.</p>
+                                        <p class="card-text ">We always use an existing large language model but adapt that for your own use case. What we are doing is we try to optimize and automate that for use with Auto ML. No need for manual effort and data labelling.</p>
                                     </div>
                                 </div>
                             </div>
@@ -695,7 +698,7 @@
                     <!-- Content Section -->
                     <div class="row align-items-stretch">
                         <!-- Text Column -->
-                        <div class="col-12 col-lg-6 mb-4 text-justify" style="font-size: 1rem; line-height: 1.6; display: flex; flex-direction: column; justify-content: space-between;">
+                        <div class="col-12 col-lg-6 mb-4 " style="font-size: 1rem; line-height: 1.6; display: flex; flex-direction: column; justify-content: space-between;">
                             <div>
                                 <p><strong>SmartIDP</strong> Intelligent Content Automation stands as a pioneer and <strong>leader</strong> among content services platforms with AI embedded into the core. Our goal is to empower our customers to get maximum value from their information.</p>
                                 <p>SmartIDP enables them to make the right decisions, enhance employee and customer experiences and ultimately manage content in ways that are smarter, more connected and context-aware.</p>
@@ -740,17 +743,17 @@
 
 
                         <!-- Card Body with content -->
-                        <div class="card-body text-justify">
+                        <div class="card-body ">
                             <p class="lead fw-bold" style="font-size: 1.25rem; line-height: 1.7; color: #333;">AI is transforming industries, and SmartIDP is at the forefront of this revolution. Organizations are now leveraging AI to manage and analyze vast amounts of content, revolutionizing workflows and enhancing decision-making.</p>
 
                             <p style="font-size: 1.1rem; color: #555; line-height: 1.7;">SmartIDP seamlessly integrates with existing business processes to unlock the full potential of your data. By utilizing cutting-edge AI, SmartIDP empowers teams to manage content innovatively. This results in faster decision-making, more efficient collaboration, and the ability to stay ahead of challenges that might arise.</p>
 
                             <h4 style="font-size: 1.5rem; font-weight: 600; color: #222;">How SmartIDP Drives Innovation with AI</h4>
                             <ul style="list-style-type:none; font-size: 1.1rem; color: #555; line-height: 1.7;">
-                                <li><strong style="color: #007bff;">- Automating Document Processing:</strong> SmartIDP can classify documents, extract valuable data, and enhance your content workflows.</li>
-                                <li><strong style="color: #007bff;">- Intelligent Insights:</strong> Leverage AI-driven analytics to identify patterns, improve decision-making, and provide personalized content recommendations.</li>
-                                <li><strong style="color: #007bff;">- AI-Powered Search:</strong> Unlock powerful search capabilities using natural language processing, enabling users to find relevant content faster and more accurately.</li>
-                                <li><strong style="color: #007bff;">- Future-Ready Automation:</strong> The SmartIDP platform evolves with your organization, adapting to new challenges and technologies without needing manual intervention.</li>
+                                <li><strong style="color: #007bff;">Automating Document Processing:</strong> SmartIDP can classify documents, extract valuable data, and enhance your content workflows.</li>
+                                <li><strong style="color: #007bff;">Intelligent Insights:</strong> Leverage AI-driven analytics to identify patterns, improve decision-making, and provide personalized content recommendations.</li>
+                                <li><strong style="color: #007bff;">AI-Powered Search:</strong> Unlock powerful search capabilities using natural language processing, enabling users to find relevant content faster and more accurately.</li>
+                                <li><strong style="color: #007bff;">Future-Ready Automation:</strong> The SmartIDP platform evolves with your organization, adapting to new challenges and technologies without needing manual intervention.</li>
                             </ul>
 
                             <p style="font-size: 1.1rem; color: #555; line-height: 1.7;">By adopting AI-powered solutions like SmartIDP, businesses can optimize processes, reduce operational costs, and improve overall efficiency. SmartIDP is reshaping the future of content management by empowering organizations to make data-driven decisions faster and more effectively.</p>
@@ -759,7 +762,6 @@
                 </div>
             </div>
         </div>
-
 
 
         <div class="container py-5" id="article-43664">

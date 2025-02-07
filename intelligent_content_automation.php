@@ -176,19 +176,22 @@
         transform: translateY(-5px);
         box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2), 0 16px 48px rgba(0, 0, 0, 0.25);
     }
+    .bg-img {
+        padding: 25px 0;
+    }
 </style>
 <div class="content-wrapper">
     <main role="main" class="main-content1">
 
-        <div class="container-fluid" style="background-image: url('assets/images/intelligent_content_Automation/BG.svg'); background-repeat: no-repeat; background-position: center; background-size: cover; padding: 25px 0;">
+        <div class="container-fluid bg-img">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column: Content Section -->
                     <div class="col-12 col-lg-6 mb-4 mb-lg-0 text-center text-lg-start">
-                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;">Digitalizing Content with SmartIDP</h2>
-                        <h1 class="display-4" style="color: #000d39;">
-                        A new era of
-                        content understanding
+                        <h2 class="headline fw-bolder mb-4" style="color: #000d39;">Digitalizing Content With SmartIDP</h2>
+                        <h1 class="display-5" style="color: #000d39;">
+                        A New Era Of
+                        Content Understanding
                         </h1>
                         <p class="fs-5 mb-4" style="color: #000d39;">The AI-powered
                                             platform&nbsp;<strong>Smart Intelligent Document
@@ -200,7 +203,7 @@
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
-                        <img src="assets/images/intelligent_content_Automation/SmartIDP Intelligent Content Automation.svg" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 85%; height: auto;">
+                        <img src="assets/images/intelligent_content_Automation/smartidp_Intelligent_content_automation.svg" loading="lazy" class="img-fluid" alt="SmartIDP" style="max-width: 85%; height: auto;">
                     </div>
                 </div>
             </div>
