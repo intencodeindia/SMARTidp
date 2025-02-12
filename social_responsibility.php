@@ -3,15 +3,16 @@
 <style>
     #article-43622 {
         position: relative;
-        height: 60vh;
+        height: 65vh;
         width: 100%;
     }
 
     .banner-image {
-        background-image: url('assets/images/social_responsibility/The-Social.webp');
+        background-image: url('assets/images/social_responsibility/responsible.jpg');
         background-size: cover;
         /* Keep it covering the container */
-        background-position: center center;
+        /* background-position: center center; */
+        /* background-position-y: 25%; */
         /* Keep it centered */
         background-repeat: no-repeat;
         height: 100%;
@@ -44,7 +45,7 @@
 
     @media (max-width: 536px) {
         #article-43622 {
-            height: 28vh;
+            height: 22vh;
             /* Adjust height for smaller screens */
         }
     }

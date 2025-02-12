@@ -368,7 +368,7 @@
                 <div class="col-md-6">
                     <div class="content-image text-center mb-4 mb-md-0">
 
-                        <img src="assets/images/SmartIDP/image.png" alt="Business Process Management" loading="lazy" title="One business process management (BPM) software for all processes" class="img-fluid" style="border-radius: 20px;" />
+                        <img src="assets/images/process_automation/pic1.jpg" alt="Business Process Management" loading="lazy" title="One business process management (BPM) software for all processes" class="img-fluid" style="border-radius: 20px;" />
 
                     </div>
                 </div>

@@ -149,7 +149,7 @@
       <div class="row align-items-center">
         <!-- Image Column -->
         <div class="col-md-4 text-center mb-4 mb-md-0">
-          <img src="assets/images/egslogo.png" alt="Equilon Global Synergies Trading Logo" class="img-fluid" width="180"
+          <img src="assets/images/alllogos/egslogo.png" alt="Equilon Global Synergies Trading Logo" class="img-fluid" width="180"
             height="162" loading="laz">
         </div>
         <!-- Text Column -->

@@ -61,14 +61,25 @@
 
 <div class="content-wrapper">
   <main role="main" class="main-content">
-    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="hover">
+
+    <div class="container-fluid py-5" style="background-image: url('assets/images/inbound_mail_automation/pic3.jpg'); height: 60vh;background-size: 100%; background-repeat: no-repeat ; display: flex; justify-content: center; align-items: center;">
+      <div class="container text-center">
+        <h2 class="text-white" style="text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">
+          "SmartIDP automates inbound mail processing, ensuring timely handling and improving efficiency in meeting deadlines."
+        </h2>
+      </div>
+    </div>
+
+
+
+
+    <!-- <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000" data-bs-pause="hover">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
       </div>
       <div class="carousel-inner">
-        <!-- First Slide -->
         <div class="carousel-item active">
           <div class="image-container">
             <img src="assets/images/inbound_mail_automation/emailauto1.webp" class="d-block w-100 mt-1 my-3 g-2 custom-image img-fluid" loading="lazy" style="height: 400px;" alt="...">
@@ -80,7 +91,6 @@
             <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 15px 30px; text-decoration: none; border-radius: 50px;">Learn More</a>
           </div>
         </div>
-        <!-- Second Slide -->
         <div class="carousel-item">
           <div class="image-container">
             <img src="assets/images/inbound_mail_automation/emailauto2.webp" class="d-block w-100 img-fluid" style="height:80%" loading="lazy" alt="...">
@@ -92,12 +102,10 @@
             <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 15px 30px; text-decoration: none; border-radius: 50px;">Learn More</a>
           </div>
         </div>
-        <!-- Third Slide -->
         <div class="carousel-item">
           <div class="image-container">
             <img src="assets/images/inbound_mail_automation/smart2.jpeg" class="d-block w-100 img-fluid" style="height:70%" loading="lazy" alt="...">
             <div class="image-overlay">
-
             </div>
           </div>
           <div class="carousel-caption">
@@ -115,7 +123,7 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
       </button>
-    </div>
+    </div> -->
 
 
     <div class="container ">

@@ -750,10 +750,10 @@
 
                             <h4 style="font-size: 1.5rem; font-weight: 600; color: #222;">How SmartIDP Drives Innovation with AI</h4>
                             <ul style="list-style-type:none; font-size: 1.1rem; color: #555; line-height: 1.7;">
-                                <li><strong style="color: #007bff;">Automating Document Processing:</strong> SmartIDP can classify documents, extract valuable data, and enhance your content workflows.</li>
-                                <li><strong style="color: #007bff;">Intelligent Insights:</strong> Leverage AI-driven analytics to identify patterns, improve decision-making, and provide personalized content recommendations.</li>
-                                <li><strong style="color: #007bff;">AI-Powered Search:</strong> Unlock powerful search capabilities using natural language processing, enabling users to find relevant content faster and more accurately.</li>
-                                <li><strong style="color: #007bff;">Future-Ready Automation:</strong> The SmartIDP platform evolves with your organization, adapting to new challenges and technologies without needing manual intervention.</li>
+                                <li><strong>Automating Document Processing:</strong> SmartIDP can classify documents, extract valuable data, and enhance your content workflows.</li>
+                                <li><strong>Intelligent Insights:</strong> Leverage AI-driven analytics to identify patterns, improve decision-making, and provide personalized content recommendations.</li>
+                                <li><strong>AI-Powered Search:</strong> Unlock powerful search capabilities using natural language processing, enabling users to find relevant content faster and more accurately.</li>
+                                <li><strong>Future-Ready Automation:</strong> The SmartIDP platform evolves with your organization, adapting to new challenges and technologies without needing manual intervention.</li>
                             </ul>
 
                             <p style="font-size: 1.1rem; color: #555; line-height: 1.7;">By adopting AI-powered solutions like SmartIDP, businesses can optimize processes, reduce operational costs, and improve overall efficiency. SmartIDP is reshaping the future of content management by empowering organizations to make data-driven decisions faster and more effectively.</p>

@@ -314,8 +314,8 @@
                     style=" ">
                     <div class="centered-wrapper-inner ">
                         <div style="margin-bottom: 50px;"
-                            class="headline-box ser-headline-box ce_rsce_ser_headline_box responsive-heading1">
-                            <h2 class="headline -extra-large "><span class="gradient">Tailored</span> solutions
+                            class="headline-box ser-headline-box ce_rsce_ser_headline_box">
+                            <h2 class="headline"><span class="gradient">Tailored</span> solutions
                                 for your digital transformation</h2>
                         </div>
                         <nav class="tab-navigation -columns-4 ce_rsce_oneo_tab_nav">
