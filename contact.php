@@ -3,54 +3,29 @@
 
 <!-- Add custom styles for the form -->
 <style>
-    .col-md-6 {
-        /* background-color: #f8f9fa; */
-        border-radius: 8px;
-        padding: 20px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    /* Style for the form heading */
-    h4 {
-        color: #007bff;
-        font-weight: 600;
-    }
-
+  
     /* Customize form controls for compact look */
     .form-control,
     .form-select {
         height: 40px;
         font-size: 14px;
+        border-radius: 15px;
     }
 
-    /* Style for the submit button */
-    .btn-primary {
-        background-color: #007bff;
-        border-color: #007bff;
-        font-weight: bold;
-    }
-
-    .btn-primary:hover {
-        background-color: #0056b3;
-        border-color: #004085;
-    }
-
-    /* Add margins for spacing */
-    .mb-3 {
-        margin-bottom: 15px;
-    }
 </style>
 
 
 <div class="content-wrapper">
     <main role="main" class="main-content">
-        <div class="container-fluid" id="article-43622">
+        <!-- <div class="container-fluid" id="article-43622">
             <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
                 <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
                     SmartIDP</h2>
             </div>
-            <?php include_once("smartidp_logos.php"); ?>
-        </div>
+            <?php
+            // include_once("smartidp_logos.php"); 
+            ?>
+        </div> -->
         <?php if (isset($_GET['success']) || isset($_GET['error'])): ?>
             <div id="alertPlaceholder" class="d-flex justify-content-center align-items-center" style="min-height: 30vh;">
                 <?php if (isset($_GET['success'])): ?>
@@ -72,13 +47,13 @@
         <div class="container" id="article-26234">
             <div class="row">
                 <!-- Left Column: Contact Us and Address -->
-                <div class="col-md-6 d-flex align-items-center" style="box-shadow: none;">
+                <div class="col-md-6 d-flex align-items-center justify-content-center" style="box-shadow: none;">
                     <div>
-                        <h3 class="mb-4">Contact us - we look forward to talking to you!</h3>
+                        <h2 class="mb-4">Contact us - we look forward to talking to you!</h2>
                         <p>Fill out the form and we’ll quickly be in touch to answer your questions, discuss your challenges, and explore use cases related to your needs.</p>
 
                         <!-- Address Section with Background Image -->
-                        <div class="p-4 mt-4" style="background-color: #e8eded;border-radius: 20px; background-image: url('your-image-url.jpg'); background-size: cover; background-position: center;">
+                        <div class="p-4 mt-4" style="background-color: #e8eded;border-radius: 20px; background-size: cover; background-position: center;">
                             <div class="country-based-content text-white">
                                 <h4>You can find us here</h4>
 
@@ -87,7 +62,7 @@
                                     <div class="card-body">
                                         <h5 class="card-title">SmartIDP Headquarters</h5>
                                         <p class="card-text text-dark">
-                                        5900 Balcones Drive STE 13688<br>Austin, TX 78731<br>USA
+                                            5900 Balcones Drive STE 13688<br>Austin, TX 78731<br>USA
                                         </p>
                                         <p class="text-dark"><i class="fas fa-envelope fa-md"></i> Email: <a href="mailto:info@smartIDP.ai" class="contact-link">info@smartidp.ai</a></p>
                                     </div>
@@ -95,7 +70,7 @@
 
                                 <!-- CTA Button -->
                                 <div class="text-center mt-4">
-                                    <a href="mailto:info@smartIDP.ai" class="btn rounded-pill px-4 text-white" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Get in Touch</a>
+                                    <a href="mailto:info@smartIDP.ai" class="btn rounded-pill text-white" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width:150px;">Get in Touch</a>
                                 </div>
                             </div>
                         </div>
@@ -105,31 +80,30 @@
 
 
                 <!-- Right Column: Contact Form -->
-                <div class="col-md-6 mx-auto" style="box-shadow: none;">
-                    <h4 class="text-center">Fill out the form below</h4>
+                <div class="col-md-6 mx-auto d-flex align-items-center justify-content-center">
                     <form method="post" action="process_form.php">
+                        <h3 class="text-center mb-5 fw-bold">Fill out the form below</h3>
                         <!-- First Name and Last Name in same row -->
-                        <div class="mb-3 row">
-                            <div class="col-md-6" style="box-shadow: none;">
+                        <div class="mb-3 row p-2">
+                            <div class="col-md-6 mb-3">
                                 <label for="firstname" class="form-label">First name<span class="text-danger">*</span></label>
                                 <input type="text" name="firstname" id="firstname" class="form-control" required placeholder="First name*">
                             </div>
-                            <div class="col-md-6" style="box-shadow: none;">
+                            <div class="col-md-6 mb-3">
                                 <label for="lastname" class="form-label">Last name<span class="text-danger">*</span></label>
                                 <input type="text" name="lastname" id="lastname" class="form-control" required placeholder="Last name*">
                             </div>
-                        </div>
 
-                        <!-- Email field -->
-                        <div class="mb-3">
-                            <label for="email" class="form-label">Email address<span class="text-danger">*</span></label>
-                            <input type="email" name="email" id="email" class="form-control" required placeholder="Email address*">
-                        </div>
+                            <!-- Email field -->
+                            <div class="mb-3 col-12">
+                                <label for="email" class="form-label">Email address<span class="text-danger">*</span></label>
+                                <input type="email" name="email" id="email" class="form-control" required placeholder="Email address*">
+                            </div>
 
-                        <!-- Country code and Phone in same row -->
-                        <div class="mb-3 row">
-                            <div class="col-md-4">
-                                <label for="countryCode">Country Code<span class="text-danger">*</span></label>
+                            <!-- Country code and Phone in same row -->
+
+                            <div class="col-md-4 mb-3">
+                                <label for="countryCode">Code<span class="text-danger">*</span></label>
                                 <select class="form-select countrycode" id="countryCode" name="countryCode" required>
                                     <option value="" disabled>Select Country Code</option>
                                     <option value="+1" selected>USA (+1)</option>
@@ -157,55 +131,55 @@
                                     <option value="+63">Philippines (+63)</option>
                                 </select>
                             </div>
-                            <div class="col-md-8">
+                            <div class="col-md-8 mb-3">
                                 <label for="phone" class="form-label">Telephone<span class="text-danger">*</span></label>
                                 <input type="text" name="phone" id="phone" class="form-control" required placeholder="Telephone*">
                             </div>
-                        </div>
-                        <!-- Company field -->
-                        <div class="mb-3">
-                            <label for="company" class="form-label">Company/Organization<span class="text-danger">*</span></label>
-                            <input type="text" name="company" id="company" class="form-control" required placeholder="Company/Organization*">
-                        </div>
-                        <!-- Company size field -->
-                        <div class="mb-3">
-                            <label for="company_size" class="form-label">Company size<span class="text-danger">*</span></label>
-                            <select name="company_size" id="company_size" class="form-select" required>
-                                <option value="">Select company size</option>
-                                <option value="0-10">0-10 employees</option>
-                                <option value="11-50">11-50 employees</option>
-                                <option value="51-200">51-200 employees</option>
-                                <option value="201-500">201-500 employees</option>
-                                <option value="501-1000">501-1000 employees</option>
-                                <option value="1001-5000">1001-5000 employees</option>
-                                <option value="5001-10000">5001-10000 employees</option>
-                                <option value=">10000">>10000+ employees</option>
-                            </select>
-                        </div>
-                        <!-- Country selection field -->
-                        <div class="mb-3">
-                            <label for="country" class="form-label">Country<span class="text-danger">*</span></label>
-                            <input class="form-control" type="text" name="country" id="country" placeholder=" " required value="USA">
-                        </div>
 
-                        <!-- Submit button -->
-                        <div class="d-flex justify-content-center mt-3">
-                            <button type="submit" class="btn rounded-pill px-5 text-white" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">SEND</button>
-                        </div>
-                        <div id="alertPlaceholder">
-                            <?php if (isset($_GET['success'])): ?>
-                                <div class="alert alert-success alert-dismissible fade show" role="alert">
-                                    <?php echo htmlspecialchars($_GET['success']); ?>
-                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                                </div>
-                            <?php elseif (isset($_GET['error'])): ?>
-                                <div class="alert alert-danger alert-dismissible fade show" role="alert">
-                                    <?php echo htmlspecialchars($_GET['error']); ?>
-                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                                </div>
-                            <?php endif; ?>
-                        </div>
+                            <!-- Company field -->
+                            <div class="mb-3">
+                                <label for="company" class="form-label">Company/Organization<span class="text-danger">*</span></label>
+                                <input type="text" name="company" id="company" class="form-control" required placeholder="Company/Organization*">
+                            </div>
+                            <!-- Company size field -->
+                            <div class="mb-3">
+                                <label for="company_size" class="form-label">Company size<span class="text-danger">*</span></label>
+                                <select name="company_size" id="company_size" class="form-select" required>
+                                    <option value="">Select company size</option>
+                                    <option value="0-10">0-10 employees</option>
+                                    <option value="11-50">11-50 employees</option>
+                                    <option value="51-200">51-200 employees</option>
+                                    <option value="201-500">201-500 employees</option>
+                                    <option value="501-1000">501-1000 employees</option>
+                                    <option value="1001-5000">1001-5000 employees</option>
+                                    <option value="5001-10000">5001-10000 employees</option>
+                                    <option value=">10000">>10000+ employees</option>
+                                </select>
+                            </div>
+                            <!-- Country selection field -->
+                            <div class="mb-3">
+                                <label for="country" class="form-label">Country<span class="text-danger">*</span></label>
+                                <input class="form-control" type="text" name="country" id="country" placeholder=" " required value="USA">
+                            </div>
 
+                            <!-- Submit button -->
+                            <div class="d-flex justify-content-center mt-3">
+                                <button type="submit" class="btn rounded-pill text-white" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width:150px;">SEND</button>
+                            </div>
+                            <div id="alertPlaceholder">
+                                <?php if (isset($_GET['success'])): ?>
+                                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                        <?php echo htmlspecialchars($_GET['success']); ?>
+                                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                    </div>
+                                <?php elseif (isset($_GET['error'])): ?>
+                                    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                        <?php echo htmlspecialchars($_GET['error']); ?>
+                                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                    </div>
+                                <?php endif; ?>
+                            </div>
+                        </div>
                     </form>
                 </div>
 

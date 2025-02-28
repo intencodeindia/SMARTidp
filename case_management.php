@@ -35,7 +35,7 @@
                             </h2>
                         </div>
                         <div class="mt-4">
-                            <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                            <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width:150px;">REQUEST DEMO</a>
 
                         </div>
                     </div>
@@ -90,10 +90,9 @@
 
         <div class="container text-center">
             <hr>
-            <h2 class="fw-bold mb-3"><span class="gradient">Experience smartIDP Live!</span></h2>
+            <h2 class="fw-bold mb-3"><span class="gradient">Experience SmartIDP Live!</span></h2>
             <p class="text-dark fw-bold">Join a live demo or schedule a personalized session at your workplace.</p>
-            <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 15px 30px; text-decoration: none; 
-              border-radius: 50px;">Request live Demo</a>
+            <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Request Live Demo</a>
             <hr>
         </div>
 
@@ -156,14 +155,16 @@
         </div>
 
 
-        <div class="container">
+        <!-- <div class="container">
             <h2 class="text-center fw-bold mb-3">Customers who are intergrated with <span
-                    class="gradient">smartIDP</span></h2>
+                    class="gradient">SmartIDP</span></h2>
             <hr>
             <div class="mt-5"></div>
-            <?php include_once("smartidp_logos.php"); ?>
+            <?php
+            //  include_once("smartidp_logos.php"); 
+            ?>
             <hr>
-        </div>
+        </div> -->
 
         <div class="container py-md-5">
             <div class="row align-items-center">
@@ -219,10 +220,10 @@
                 <!-- Right Column: Content Text -->
                 <div class="col-md-6">
                     <p>Are your case-related documents, spreadsheets, and presentations scattered across various
-                        locations? It’s easy to lose track of what’s where. With smartIDP, we simplify case
+                        locations? It’s easy to lose track of what’s where. With SmartIDP, we simplify case
                         management by providing a clear overview and organized structure. Version control ensures
                         that all changes are traceable. In eFiles, you can quickly access related information
-                        connected to your cases. The intuitive DMS functions from smartIDP are seamlessly integrated
+                        connected to your cases. The intuitive DMS functions from SmartIDP are seamlessly integrated
                         into your Microsoft applications, offering a more efficient way to manage cases.</p>
                     <ul>
                         <li><strong>Add-in</strong>: Easily search and manage case documents for better organization
@@ -260,7 +261,7 @@
                                 class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-folder-open fa-lg"></i></span>
                                 <h3 class="fw-bold">Manage and plan ad hoc tasks efficiently</h3>
-                                <p>Share emails across departments and teams with smartIDP: smartIDP eFiles bundle
+                                <p>Share emails across departments and teams with SmartIDP: SmartIDP eFiles bundle
                                     all information about a business case, such as inquiries, orders, and contracts.
                                     With the integrated add-in, filing and searching can be done directly from
                                     Outlook.</p>

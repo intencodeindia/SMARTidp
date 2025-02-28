@@ -97,7 +97,7 @@
 
                         </div>
                         <div class="mt-4">
-                            <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                            <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width:150px;">REQUEST DEMO</a>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                     </p>
                     <!-- Button -->
                     <div class="text-left">
-                        <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Go to contact form</a>
+                        <a class="btn rounded-pill px-3 text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Go to contact form</a>
                     </div>
                 </div>
             </div>
@@ -314,7 +314,7 @@
                         <li>Ongoing audit trail & system monitoring</li>
                         <li>24/7 monitoring & support</li>
                     </ul>
-                    <a class="btn rounded-pill px-4 text-white fw-bold mb-3" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">More details</a>
+                    <a class="btn rounded-pill text-white mb-3" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width:150px;">More details</a>
                     
                 </div>
                 <!-- Image Column -->

@@ -270,7 +270,8 @@
         <header class="page-header">
             <div class="header-navigation is-fixed is-enabled" dir="ltr">
 
-                <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start container-fullhd " style=" background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);">
+                <!-- <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start container-fullhd " style=" background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);"> -->
+                <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start container-fullhd" style="background-color: #ffffff;">
                     <div class="centered-wrapper-inner ">
                         <div class="main-navigation-wrapper">
                             <a href="javascript:void(0)" class="main-navigation-mobile-open">navigation</a>
@@ -496,14 +497,14 @@
                                     <li class="sibling -mega">
                                         <a href="javascript:void(0)" title="About the SmartIDP Group" class="sibling -mega" aria-haspopup="true" itemprop="url"><span itemprop="name">About Us</span>
                                         </a>
-                                        <div class="mega-dropdown level_2 max-width-1200" style="max-width: 265px;background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);">
+                                        <div class="mega-dropdown level_2 max-width-1200" style="max-width: 265px;background: linear-gradient(260deg, #b9e0ff 0%, #a4efe4 50%, #ffffff 100%);padding-right: 400px;">
                                             <div class="mega-dropdown-inner">
                                                 <!-- <section class="mega-dropdown-column mega-menu-image-only rs-column -large-col-4-2 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                                                 </section> -->
                                                 <section class="mega-dropdown-column  rs-column -large-col-4-1 -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last" style="width: 100%;">
                                                     <ul>
                                                         <li>
-                                                            <a href="<?php echo BASE_PATH; ?>social_responsibility">
+                                                            <a href="<?php echo BASE_PATH; ?>social_responsibility" style="width: 150px;">
                                                                 Social responsibility </a>
                                                         </li>
                                                         <li>
@@ -521,6 +522,9 @@
                                     </li>
                                     <li class="sibling -mega">
                                         <a href="<?php echo BASE_PATH; ?>contact">Contact Us</a>
+                                    </li>
+                                    <li class="sibling -mega d-flex justify-content-center align-items-center">
+                                        <a href="https://demo.smartidp.ai/" class="rounded-pill text-white px-4 py-1 mt-1" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">START DEMO</a>
                                     </li>
                                 </ul>
                                 <span id="skipNavigation820" class="invisible"></span>
@@ -690,6 +694,8 @@
                             </ul>
                         </li>
                         <li class="sibling"><a href="<?php echo BASE_PATH; ?>contact" title="Contact" class="sibling">Contact Us</a></li>
+                        <li class="sibling"> <a class="rounded-pill text-white px-4 py-1 mt-2" href="https://demo.smartidp.ai/" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width: 150px;">START DEMO</a></li>
+
                     </ul>
                     <span id="skipNavigation439" class="invisible"></span>
                 </nav>

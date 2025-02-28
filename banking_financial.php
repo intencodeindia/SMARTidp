@@ -197,14 +197,14 @@
                             <h3 class="fw-bold">SmartIDP in Banking and Financial Services</h3>
                             <div class="rte">
                                 <p>Feeling overwhelmed by information overload? SmartIDP helps you work smarter, faster, and more efficiently. Managing large volumes of customer data can be challenging, but SmartIDP ensures error-free data entry and streamlines key processes like loan management, so no steps are missed. Let SmartIDP be your trusted solution for smoother operations.</p>
-                                <p>Want to learn more about smartIDP?</p>
+                                <p>Want to learn more about SmartIDP?</p>
                             </div>
                         </div>
 
-                        <!-- Button Section to Experience smartIDP -->
+                        <!-- Button Section to Experience SmartIDP -->
                         <div class="button-box ce_rsce_oneo_button -left">
                             <a class="button ce_rsce_oneo_button -left" href="contact">
-                                Experience smartIDP
+                                Experience SmartIDP
                             </a>
                         </div>
                     </div>

@@ -131,7 +131,7 @@
                         <p>
                             Reach out to discover how the SmartIDP global partner network can support your information management initiatives.
                             We look forward to hearing from you!
-                            If you're interested in becoming a partner, please <a href="contact" class="text-decoration-none">Contact us</a> here.</p>
+                            If you're interested in becoming a partner, please Contact us here.</p>
                         </ul>
                     </div>
                 </div>

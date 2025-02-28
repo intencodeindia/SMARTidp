@@ -183,7 +183,7 @@
                         <!-- <h1 class="display-3" style="color: #000d39;">
                             Content automation supercharged with <br>Artificial intelligence
                         </h1> -->
-                        <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                        <a class="btn rounded-pill text-white mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width:150px;">REQUEST DEMO</a>
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
@@ -226,11 +226,13 @@
             </div>
         </div> -->
 
-        <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+        <!-- <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
             <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
                 SmartIDP</h2>
-        </div>
-        <?php include_once("smartidp_logos.php"); ?>
+        </div> -->
+        <?php
+        //  include_once("smartidp_logos.php"); 
+         ?>
 
 
         <div class="container">

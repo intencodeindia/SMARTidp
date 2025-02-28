@@ -120,10 +120,9 @@
 
         <div class="container text-center">
             <hr>
-            <h2 class="fw-bold mb-3"><span class="gradient">Experience smartIDP Live!</span></h2>
+            <h2 class="fw-bold mb-3"><span class="gradient">Experience SmartIDP Live!</span></h2>
             <p class="text-dark fw-bold">Join a live demo or schedule a personalized session at your workplace.</p>
-            <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 15px 30px; text-decoration: none; 
-              border-radius: 50px;">Request live Demo</a>
+            <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Request Live Demo</a>
             <hr>
         </div>
         <div class="container py-md-5">
@@ -173,11 +172,13 @@
             <div class="row col-12 mt-md-5 py-md-4 h2" style="color: #4A6A98; text-align: center;">
                 <hr>
                 <div class="col-12">
-                    These global leaders trust in SmartIDP
+                    <!-- These global leaders trust in SmartIDP -->
                 </div>
             </div>
-            <?php include_once("smartidp_logos.php"); ?>
-            <hr>
+            <?php 
+            // include_once("smartidp_logos.php"); 
+            ?>
+            <!-- <hr> -->
         </div>
 
         <div class="container py-md-5">

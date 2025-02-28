@@ -13,7 +13,7 @@
                     <div class="col-12 col-lg-6 mb-4 mb-lg-0 p-5 text-center text-lg-start">
                         <h2 class="fw-bold mb-4 text-white">SmartIDP <span class="gradient">User Group</span> & <span class="gradient">Idea Portal</span></h2>
                         <h3 class="text-white mb-4 ">We aim to empower our customers by creating intelligent, collaborative, and automated processes. Our new SmartIDP User Group and Idea Portal provide a direct line of communication, fostering a dynamic collaboration between you, your peers, and our product management team.</h3>
-                        <a class="btn rounded-pill px-4 py-2 text-white fs-5" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); border: none; transition: all 0.3s ease-in-out;">Explore Now</a>
+                        <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%); width:150px; border: none; transition: all 0.3s ease-in-out;">Explore Now</a>
                     </div>
 
                     <!-- Right Column: Image Section -->

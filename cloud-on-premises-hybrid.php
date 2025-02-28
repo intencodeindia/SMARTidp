@@ -99,8 +99,8 @@
 
             </div>
             <div class="mt-4">
-              <a class="btn rounded-pill px-4 text-white fw-bold" href="contact"
-                style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+              <a class="btn rounded-pill text-white" href="contact"
+                style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width:150px;">REQUEST DEMO</a>
             </div>
           </div>
         </div>
@@ -206,7 +206,7 @@
         <div class="col-md-6">
           <h2 class="fw-bold">From the data center into the cloud</h2>
           <p>70,000 users, more than 300 million documents, 21 tenants — the company-wide SmartIDP Content Management (SCM) system with the SmartIDP platform. Learn more about SCM, which was first run in the DB Systel data centers in 2011 and has since been fully migrated to the cloud.</p>
-          <a class="btn rounded-pill px-4 text-white" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Learn now</a>
+          <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width:150px;">Learn now</a>
         </div>
         <hr class="mt-3">
       </div>

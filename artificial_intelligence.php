@@ -113,7 +113,7 @@
     /* Style for the links inside each item */
     .custom-nav-item .nav-link {
         font-size: 1rem;
-        font-weight: bold;
+        /* font-weight: bold; */
         padding: 12px 25px;
         color: white;
         background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);
@@ -153,7 +153,7 @@
                         </h1> -->
                         <p class="fs-5 mb-4" style="color: #000d39;">Empower your employees' daily work, improve document understanding, and supercharge business processes with SmartIDP Intelligent Content Automation's next-generation ECM capabilities.</p>
 
-                        <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Experience Advice</a>
+                        <a class="btn rounded-pill px-4 text-white mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Experience Advice</a>
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">
@@ -342,7 +342,7 @@
                             </div>
                         </div>
                         <div class="button-box ce_rsce_oneo_button   -left">
-                            <a class="button ce_rsce_oneo_button   -left" href="/en/live-demo.html">
+                            <a class="btn rounded-pill px-4 text-white mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width: 150px">
                                 Get Demo </a>
                         </div>
                     </div>

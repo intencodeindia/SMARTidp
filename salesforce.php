@@ -27,7 +27,7 @@
             </div>
         </div>
         <div class="serhead-main-headline">
-            <h2 class="fw-bold text-center"><span class="gradient">Salesforce integration</span> with smartIDP</h2>
+            <h2 class="fw-bold text-center"><span class="gradient">Salesforce integration</span> with SmartIDP</h2>
         </div>
         <div class="mod_article max-width-viewport block" id="article-29449">
             <div class="mod_article_inner">
@@ -105,7 +105,7 @@
                                         <h3 class="fw-bold">Uniform basis of information for all</h3>
                                         <div class="icon-boxes-item-text">
                                             <p>Lay the foundation for a 360° view of all customer processes &
-                                                information and access them directly from Salesforce or smartIDP.</p>
+                                                information and access them directly from Salesforce or SmartIDP.</p>
                                         </div>
                                     </div>
 
@@ -143,7 +143,7 @@
                                         <!-- Updated icon: tachometer-alt for faster processes -->
                                         <h3 class="fw-bold">Faster processes, better service</h3>
                                         <div class="icon-boxes-item-text">
-                                            <p>Let smartIDP automatically launch and monitor downstream processes such
+                                            <p>Let SmartIDP automatically launch and monitor downstream processes such
                                                 as inquiries regarding delivery dates or questions for the Sales team.
                                             </p>
                                         </div>
@@ -180,7 +180,7 @@
                                             fast, reliably, and with the necessary expertise.</p>
                                         <p>But Salesforce contains only a portion of the information you need. This is
                                             evident every time you need to answer inquiries about contracts or
-                                            arrangements made via email, etc. With Salesforce & smartIDP, you have
+                                            arrangements made via email, etc. With Salesforce & SmartIDP, you have
                                             direct access to information from all sources — the answers are always at
                                             your fingertips.</p>
                                     </div>
@@ -201,18 +201,18 @@
                             <h3 class="fw-bold">Content Bridge Salesforce</h3>
                             <div class="rte">
                                 <p>Make sure employees have access to a clear picture of data across your ERP and CRM
-                                    systems. Say goodbye to information silos with smartIDP and close the information
+                                    systems. Say goodbye to information silos with SmartIDP and close the information
                                     gaps between your ERP and CRM systems. With a full overview of customers,
                                     opportunities, and deals, you can make informed decisions, speed up processes, and
                                     create a shared basis of information.</p>
-                                <p>Want to learn more about smartIDP?</p>
+                                <p>Want to learn more about SmartIDP?</p>
                             </div>
                         </div>
 
                         <!-- Button Section -->
                         <div class="button-box ce_rsce_oneo_button -left">
                             <a class="button ce_rsce_oneo_button -left" href="contact">
-                                Experience smartIDP
+                                Experience SmartIDP
                             </a>
                         </div>
                     </div>
@@ -222,7 +222,7 @@
 
         <div class="container text-center">
             <hr>
-            <h2 class="fw-bold mb-3"><span class="gradient">Experience smartIDP Live!</span></h2>
+            <h2 class="fw-bold mb-3"><span class="gradient">Experience SmartIDP Live!</span></h2>
             <p class="text-dark fw-bold">Join a live demo or schedule a personalized session at your workplace.</p>
             <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 15px 30px; text-decoration: none; 
               border-radius: 50px;">Request live Demo</a>
@@ -246,9 +246,9 @@
                                 <!-- Changed to a relevant icon for "Automatic processes" -->
                                 <h3 class="fw-bold">Automatic processes</h3>
                                 <div class="icon-boxes-item-text">
-                                    <p>When creating new eFiles, smartIDP automatically triggers workflows in
+                                    <p>When creating new eFiles, SmartIDP automatically triggers workflows in
                                         Salesforce, e.g. for your client onboarding activities. You’ll find all the
-                                        information about the process in smartIDP as conveniently as in Salesforce.</p>
+                                        information about the process in SmartIDP as conveniently as in Salesforce.</p>
                                 </div>
                             </div>
 
@@ -256,10 +256,10 @@
                             <div
                                 class="icon-boxes-item rs-column -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-users fa-md"></i></span>
-                                <!-- Changed to a relevant icon for "smartIDP iRoom" -->
-                                <h3 class="fw-bold">smartIDP iRoom</h3>
+                                <!-- Changed to a relevant icon for "SmartIDP iRoom" -->
+                                <h3 class="fw-bold">SmartIDP iRoom</h3>
                                 <div class="icon-boxes-item-text">
-                                    <p>Enhance Salesforce with the smartIDP iRoom: Use the iRoom to provide customers
+                                    <p>Enhance Salesforce with the SmartIDP iRoom: Use the iRoom to provide customers
                                         with quotations, contracts, product information, and other documents directly,
                                         securely, and traceably at all times.</p>
                                 </div>
@@ -272,7 +272,7 @@
                                 <!-- Changed to a relevant icon for "Content analytics" -->
                                 <h3 class="fw-bold">Content analytics</h3>
                                 <div class="icon-boxes-item-text">
-                                    <p>With intelligent smartIDP Cognitive Services, take advantage of content analytics
+                                    <p>With intelligent SmartIDP Cognitive Services, take advantage of content analytics
                                         also for your Salesforce information: from automated metadata enrichment for
                                         proper filing to risk analyses.</p>
                                 </div>
@@ -285,7 +285,7 @@
                                 <!-- Changed to a relevant icon for "Compliance" -->
                                 <h3 class="fw-bold">Compliance</h3>
                                 <div class="icon-boxes-item-text">
-                                    <p>smartIDP automatically and compliantly archives all document versions from
+                                    <p>SmartIDP automatically and compliantly archives all document versions from
                                         Salesforce. You benefit from transparent documentation of all customer
                                         processes, such as complaints, or questions relating to the EU GDPR.</p>
                                 </div>
@@ -304,7 +304,7 @@
 
                         <!-- Headline Section -->
                         <div class="headline-box -align-left ce_rsce_oneo_headline_box">
-                            <h2 class="fw-bold">What is smartIDP SmartBridge for Salesforce?</h2>
+                            <h2 class="fw-bold">What is SmartIDP SmartBridge for Salesforce?</h2>
                         </div>
 
                         <!-- Columns Section -->
@@ -316,7 +316,7 @@
                                 <!-- Introduction Text -->
                                 <div style="margin-bottom: 30px;" class="content-text">
                                     <div class="rte">
-                                        <p>smartIDP SmartBridge <em>for Salesforce</em> is the special smartIDP
+                                        <p>SmartIDP SmartBridge <em>for Salesforce</em> is the special SmartIDP
                                             <strong>connector for Salesforce</strong>. It enables you to integrate both
                                             systems seamlessly — a prerequisite for comprehensive information management
                                             across system boundaries.
@@ -331,7 +331,7 @@
                                         <span class="icon-boxes-item-icon"><i class="fas fa-folder-open fa-lg"></i></span> <!-- Changed to an icon related to filing -->
                                         <h3 class="fw-bold">Filing & metadata inheritance</h3>
                                         <div class="icon-boxes-item-text">
-                                            <p>smartIDP imports new documents from Salesforce — with all metadata. They are filed correctly and automatically, and can therefore be discovered quickly.</p>
+                                            <p>SmartIDP imports new documents from Salesforce — with all metadata. They are filed correctly and automatically, and can therefore be discovered quickly.</p>
                                         </div>
                                     </div>
 
@@ -340,7 +340,7 @@
                                         <span class="icon-boxes-item-icon"><i class="fas fa-tags fa-lg"></i></span> <!-- Changed to an icon related to classification -->
                                         <h3 class="fw-bold">Classification & eFiles</h3>
                                         <div class="icon-boxes-item-text">
-                                            <p>smartIDP automatically creates eFiles for accounts, contacts, opportunities, leads, and campaigns, and assigns documents and data to them — in a clearly structured manner and with specific views of customers, opportunities, etc.</p>
+                                            <p>SmartIDP automatically creates eFiles for accounts, contacts, opportunities, leads, and campaigns, and assigns documents and data to them — in a clearly structured manner and with specific views of customers, opportunities, etc.</p>
                                         </div>
                                     </div>
 
@@ -349,7 +349,7 @@
                                         <span class="icon-boxes-item-icon"><i class="fas fa-bell fa-lg"></i></span> <!-- Changed to an icon related to updates and notifications -->
                                         <h3 class="fw-bold">Updates & notifications</h3>
                                         <div class="icon-boxes-item-text">
-                                            <p>smartIDP automatically stores new versions of documents and also updates the Salesforce data sets in the eFiles. smartIDP can notify you at any time about changes.</p>
+                                            <p>SmartIDP automatically stores new versions of documents and also updates the Salesforce data sets in the eFiles. SmartIDP can notify you at any time about changes.</p>
                                         </div>
                                     </div>
                                 </section>
@@ -362,7 +362,7 @@
                                 <div class="content-image">
                                     <figure>
                                         <img src="assets/images/salesforce/salesforce1.png"
-                                            alt="smartIDP SmartBridge for Salesforce" loading="lazy" style="border-radius: 20px;">
+                                            alt="SmartIDP SmartBridge for Salesforce" loading="lazy" style="border-radius: 20px;">
                                     </figure>
                                 </div>
                             </div>
@@ -384,16 +384,16 @@
                             <!-- Feature Box Text Section -->
                             <div class="feature-box-text not-animated">
                                 <h3 class="feature-box-headline -large fw-bold"> 
-                                    Salesforce integration with smartIDP: Technical highlights
+                                    Salesforce integration with SmartIDP: Technical highlights
                                 </h3>
                                 <ul>
                                     <li>Seamless integration in the Salesforce user interface</li>
-                                    <li>Access to all smartIDP content directly from Salesforce</li>
-                                    <li>Access to Salesforce content in smartIDP even without Salesforce access</li>
+                                    <li>Access to all SmartIDP content directly from Salesforce</li>
+                                    <li>Access to Salesforce content in SmartIDP even without Salesforce access</li>
                                     <li>Automatically responds to activities in Salesforce</li>
-                                    <li>smartIDP eFile classes for each Salesforce object type</li>
+                                    <li>SmartIDP eFile classes for each Salesforce object type</li>
                                     <li>Audit-proof archiving of Salesforce content</li>
-                                    <li>All benefits of the smartIDP platform but in the Salesforce environment</li>
+                                    <li>All benefits of the SmartIDP platform but in the Salesforce environment</li>
                                 </ul>
                                 <a class="feature-box-link" href="contact">
                                     More details

@@ -56,7 +56,9 @@
 
 
         <div class="mt-5"></div>
-        <?php include_once("smartidp_logos.php"); ?>
+        <?php 
+        // include_once("smartidp_logos.php"); 
+        ?>
 
         <div class="container-fluid py-md-4 py-2">
             <div class="container">
@@ -174,9 +176,7 @@
 
                             <!-- Button Section -->
                             <div class="button-box ce_rsce_oneo_button -left">
-                                <a class="button ce_rsce_oneo_button -left" href="contact">
-                                    Experience SmartIDP
-                                </a>
+                            <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;"> Experience SmartIDP</a>
                             </div>
                         </div>
                     </div>

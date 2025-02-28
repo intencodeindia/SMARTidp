@@ -80,7 +80,7 @@
     </div>
 
     <div class="serhead-main-headline text-center">
-      <h2 class="fw-bold"><span class="gradient">SAP Integration</span> with smartIDP</h2>
+      <h2 class="fw-bold"><span class="gradient">SAP Integration</span> with SmartIDP</h2>
     </div>
 
     <!-- Article Block for SAP Integration -->
@@ -132,15 +132,15 @@
             <div class="content-text">
               <h3 class="fw-bold">Content Bridge SAP</h3>
               <div class="rte">
-                <p>Ensure employees have access to a clear picture of data across your ERP and CRM systems. Say goodbye to information silos with smartIDP and close the information gaps between your ERP and CRM systems. With a full overview of customers, opportunities, and deals, you can make informed decisions, speed up processes, and create a shared basis of information.</p>
-                <p>Want to learn more about smartIDP?</p>
+                <p>Ensure employees have access to a clear picture of data across your ERP and CRM systems. Say goodbye to information silos with SmartIDP and close the information gaps between your ERP and CRM systems. With a full overview of customers, opportunities, and deals, you can make informed decisions, speed up processes, and create a shared basis of information.</p>
+                <p>Want to learn more about SmartIDP?</p>
               </div>
             </div>
 
-            <!-- Button Section to Experience smartIDP -->
+            <!-- Button Section to Experience SmartIDP -->
             <div class="button-box ce_rsce_oneo_button -left">
-              <a class="button ce_rsce_oneo_button -left" href="contact">
-                Experience smartIDP
+              <a class="btn rounded-pill text-white mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">
+                Experience SmartIDP
               </a>
             </div>
           </div>
@@ -150,10 +150,9 @@
 
     <div class="container text-center">
       <hr>
-      <h2 class="fw-bold mb-3"><span class="gradient">Experience smartIDP Live!</span></h2>
+      <h2 class="fw-bold mb-3"><span class="gradient">Experience SmartIDP Live!</span></h2>
       <p class="text-dark fw-bold">Join a live demo or schedule a personalized session at your workplace.</p>
-      <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 15px 30px; text-decoration: none; 
-              border-radius: 50px;">Request live Demo</a>
+      <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Request Demo</a>
       <hr>
     </div>
 
@@ -198,7 +197,7 @@
                     <span class="icon-boxes-item-icon"><i class="fas fa-exchange-alt fa-lg"></i></span> <!-- Updated icon: exchange-alt for flexible processes -->
                     <h3 class="fw-bold">Flexible & transparent processes</h3>
                     <div class="icon-boxes-item-text">
-                      <p>Use the flexible smartIDP workflows to integrate SAP transactions automatically into end-to-end business processes and maintain seamless documentation across department boundaries.</p>
+                      <p>Use the flexible SmartIDP workflows to integrate SAP transactions automatically into end-to-end business processes and maintain seamless documentation across department boundaries.</p>
                     </div>
                   </div>
                 </section>
@@ -209,14 +208,19 @@
       </div>
     </div>
 
-    <div class="container">
-      <h2 class="text-center fw-bold mb-3">These companies have already <span class="gradient">integrated smartIDP</span> into their <span class="gradient">SAP systems</span></h2>
+    <!-- <div class="container">
+      <h2 class="text-center fw-bold mb-3">These companies have already <span class="gradient">integrated SmartIDP</span> into their <span class="gradient">SAP systems</span></h2>
       <hr>
       <div class="mt-5"></div>
-      <?php include_once("smartidp_logos.php"); ?>
+      <?php
+      //  include_once("smartidp_logos.php"); 
+       ?>
+      <hr>
+    </div> -->
+
+    <div class="container">
       <hr>
     </div>
-
     <div class="mod_article max-width-viewport block" id="article-29436">
       <div class="mod_article_inner">
         <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start" style=" ">
@@ -232,7 +236,7 @@
               <div class="ce_rs_column_start rs-column -large-col-3-2 -large-last -large-first-row -medium-col-3-2 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
                 <div class="content-text">
                   <div class="rte">
-                    <p>SAP is indispensable whenever you process structured data on customers, suppliers, contracts, and orders. But you can only work on a business process completely when you have the related documents. SAP & smartIDP provide them to you: You’ll find emails, contracts, invoices, etc. in the context of your SAP transactions for a complete overview of your processes.</p>
+                    <p>SAP is indispensable whenever you process structured data on customers, suppliers, contracts, and orders. But you can only work on a business process completely when you have the related documents. SAP & SmartIDP provide them to you: You’ll find emails, contracts, invoices, etc. in the context of your SAP transactions for a complete overview of your processes.</p>
                   </div>
                 </div>
               </div>
@@ -247,7 +251,7 @@
         <div class="centered-wrapper ce_rsce_oneo_centered_wrapper_start ">
           <div class="centered-wrapper-inner ">
             <div class="headline-box -align-left ce_rsce_oneo_headline_box ">
-              <h2 class="fw-bold text-center"><span class="gradient">SAP integration</span> with smartIDP combines information &amp; processes</h2>
+              <h2 class="fw-bold text-center"><span class="gradient">SAP integration</span> with SmartIDP combines information &amp; processes</h2>
             </div>
             <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">
               <!-- Inbound invoices & SAP -->
@@ -255,7 +259,7 @@
                 <span class="icon-boxes-item-icon"><i class="fas fa-file-invoice fa-lg"></i></span> <!-- Updated icon: file-invoice for inbound invoices -->
                 <h3 class="fw-bold">Inbound invoices &amp; SAP</h3>
                 <div class="icon-boxes-item-text">
-                  <p>Integrated inbound invoice processing and approval processes directly in SAP: smartIDP automates the entire inbound invoice process, from capture and release to fully automated posting in SAP.</p>
+                  <p>Integrated inbound invoice processing and approval processes directly in SAP: SmartIDP automates the entire inbound invoice process, from capture and release to fully automated posting in SAP.</p>
                 </div>
               </div>
 
@@ -264,7 +268,7 @@
                 <span class="icon-boxes-item-icon"><i class="fas fa-folder-open fa-lg"></i></span> <!-- Updated icon: folder-open for combining data and documents -->
                 <h3 class="fw-bold">Combine SAP data &amp; documents</h3>
                 <div class="icon-boxes-item-text">
-                  <p>Contracts, delivery notes, invoices, emails: You no longer need to search for documents relating to SAP transactions in attachment lists, file systems and mailboxes: smartIDP provides these directly from SAP.</p>
+                  <p>Contracts, delivery notes, invoices, emails: You no longer need to search for documents relating to SAP transactions in attachment lists, file systems and mailboxes: SmartIDP provides these directly from SAP.</p>
                 </div>
               </div>
 
@@ -273,7 +277,7 @@
                 <span class="icon-boxes-item-icon"><i class="fas fa-folder fa-lg"></i></span> <!-- Updated icon: folder for eFiles and bundling data -->
                 <h3 class="fw-bold">Provide context with eFiles</h3>
                 <div class="icon-boxes-item-text">
-                  <p>With electronic files, you can bundle data, documents and workflows in smartIDP, e.g. in the context of your vendors. The smartIDP Folder Cockpit or smartIDP eFiles turn your attachments list directly in SAP into a complete file.</p>
+                  <p>With electronic files, you can bundle data, documents and workflows in SmartIDP, e.g. in the context of your vendors. The SmartIDP Folder Cockpit or SmartIDP eFiles turn your attachments list directly in SAP into a complete file.</p>
                 </div>
               </div>
 
@@ -282,7 +286,7 @@
                 <span class="icon-boxes-item-icon"><i class="fas fa-cogs fa-lg"></i></span> <!-- Updated icon: cogs for DMS functions and enhancements -->
                 <h3 class="fw-bold">Enhance SAP with DMS functions</h3>
                 <div class="icon-boxes-item-text">
-                  <p>Versioning, annotations, filing and searches: smartIDP adds missing DMS functions to SAP. This enables you to work on documents conveniently and traceably — and manage documents in an audit-proof manner. For all SAP filing and capture scenarios.</p>
+                  <p>Versioning, annotations, filing and searches: SmartIDP adds missing DMS functions to SAP. This enables you to work on documents conveniently and traceably — and manage documents in an audit-proof manner. For all SAP filing and capture scenarios.</p>
                 </div>
               </div>
             </section>
@@ -307,7 +311,7 @@
               <div class="ce_rs_column_start rs-column -large-col-3-2 -large-last -large-first-row -medium-col-3-2 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last">
                 <div class="content-text">
                   <div class="rte">
-                    <p>SAP is indispensable whenever you process structured data on customers, suppliers, contracts, and orders. But you can only work on a business process completely when you have the related documents. SAP & smartIDP provide them to you: You’ll find emails, contracts, invoices, etc. in the context of your SAP transactions for a complete overview of your processes.</p>
+                    <p>SAP is indispensable whenever you process structured data on customers, suppliers, contracts, and orders. But you can only work on a business process completely when you have the related documents. SAP & SmartIDP provide them to you: You’ll find emails, contracts, invoices, etc. in the context of your SAP transactions for a complete overview of your processes.</p>
                   </div>
                 </div>
 
@@ -327,7 +331,7 @@
               <div class="ce_rs_column_start rs-column -large-col-3-1 -large-first -large-first-row -medium-col-3-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row">
                 <div class="content-image">
                   <figure>
-                    <img src="assets/images/sap/flexible.webp" alt="smartIDP offers standout usability" title="smartIDP is all about usability" loading="lazy"  style="border-radius: 20px;">
+                    <img src="assets/images/sap/flexible.webp" alt="SmartIDP offers standout usability" title="SmartIDP is all about usability" loading="lazy"  style="border-radius: 20px;">
                   </figure>
                 </div>
               </div>
@@ -339,11 +343,11 @@
                 </div>
                 <div class="content-text">
                   <div class="rte">
-                    <p>SAP workflows are practical, but sometimes a bit rigid. With smartIDP, you can design flexible standard and ad hoc processes customized exactly to your needs and incorporate information from a range of integrated business applications. smartIDP responds to events in SAP and initiates many processes automatically:</p>
+                    <p>SAP workflows are practical, but sometimes a bit rigid. With SmartIDP, you can design flexible standard and ad hoc processes customized exactly to your needs and incorporate information from a range of integrated business applications. SmartIDP responds to events in SAP and initiates many processes automatically:</p>
                     <ul>
                       <li class="icon-arrow-5-right">Create new eFiles & processes — without ABAP programming</li>
                       <li class="icon-arrow-5-right">Automatic indexing & assignment of new SAP information</li>
-                      <li class="icon-arrow-5-right">smartIDP archives all SAP data & related documents in line with audit requirements</li>
+                      <li class="icon-arrow-5-right">SmartIDP archives all SAP data & related documents in line with audit requirements</li>
                     </ul>
                   </div>
                 </div>
@@ -364,11 +368,11 @@
                 </div>
                 <div class="content-text">
                   <div class="rte">
-                    <p>As a long-standing certified partner of SAP, SmartIDP ensures a deep integration of SAP and smartIDP. With the certified interfaces and add-ons, as well as its own namespace in SAP, smartIDP is fully integrated — also for SAP S/4HANA.</p>
+                    <p>As a long-standing certified partner of SAP, SmartIDP ensures a deep integration of SAP and SmartIDP. With the certified interfaces and add-ons, as well as its own namespace in SAP, SmartIDP is fully integrated — also for SAP S/4HANA.</p>
                     <ul>
                       <li class="icon-arrow-5-right">SAP add-on for automated invoice verification</li>
                       <li class="icon-arrow-5-right">SAP interface for archiving via ArchiveLink</li>
-                      <li class="icon-arrow-5-right">smartIDP WebDAV Connector for ILM</li>
+                      <li class="icon-arrow-5-right">SmartIDP WebDAV Connector for ILM</li>
                     </ul>
                   </div>
                 </div>

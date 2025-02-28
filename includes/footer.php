@@ -22,6 +22,7 @@
                                 <li><a href="<?php echo BASE_PATH; ?>becomming_partner.php" title="Webinars">Becoming a partner</a></li>
                                 <li><a href="<?php echo BASE_PATH; ?>locations.php" title="Locations">Locations</a></li>
                                 <li><a href="<?php echo BASE_PATH; ?>contact.php">Live demo</a></li>
+                                <li><a href="<?php echo BASE_PATH; ?>certifications">View Our Certifications</a></li>
                             </ul>
                             <span id="skipNavigation761" class="invisible"></span>
                         </nav>

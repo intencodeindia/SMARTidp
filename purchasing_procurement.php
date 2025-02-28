@@ -52,7 +52,9 @@
         </div>
 
         <div class="mt-5"></div>
-        <?php include_once("smartidp_logos.php"); ?>
+        <?php 
+        // include_once("smartidp_logos.php"); 
+        ?>
 
         <div class="container-fluid py-md-4 py-2">
             <div class="container">

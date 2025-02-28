@@ -72,11 +72,15 @@
 
         <!-- Content Section -->
         <div class="mt-5"></div>
-        <?php include_once("smartidp_logos.php"); ?>
+        <?php
+        //  include_once("smartidp_logos.php"); 
+        ?>
 
         <!-- first card -->
-        <div class="mt-3"></div>
-        <?php include_once("smartidp_logos.php"); ?>
+        <!-- <div class="mt-3"></div> -->
+        <?php
+        //  include_once("smartidp_logos.php"); 
+        ?>
         <div class="container mt-6">
             <h2 class="fw-bold fs-2 text-center justify-content-center py-6">Enterprise content management for <span class="gradient">logistics</span></h2>
             <p class="justify-content-center text-center">Respond faster, streamline communication, and accelerate underwriting and claims processes with SmartIDP. By automating document handling and data extraction, SmartIDP helps you enhance efficiency, improve accuracy, and provide a seamless customer experience. This not only boosts customer loyalty and satisfaction but also lays the foundation for sustainable growth in the insurance industry.</p>
@@ -136,7 +140,7 @@
                         <li>Efficient Stakeholder Management with SmartIDP</li>
                         <li>Success Stories of 4 Digital Pioneers Using SmartIDP</li>
                     </ul>
-                    <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover SmartIDP</a>
+                    <a class="btn rounded-pill px-2 text-white mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover SmartIDP</a>
                 </div>
 
                 <!-- Right Column: Image -->
@@ -280,11 +284,9 @@
                                 </div>
                             </div>
 
-                            <!-- Button Section to Experience smartIDP -->
+                            <!-- Button Section to Experience SmartIDP -->
                             <div class="button-box ce_rsce_oneo_button -left">
-                                <a class="button ce_rsce_oneo_button -left" href="contact">
-                                    Book a demo now
-                                </a>
+                            <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Book Demo now</a>
                             </div>
                         </div>
                     </div>
@@ -305,7 +307,7 @@
                                         <span class="gradient">"Customers and analysts rate SmartIDP & its intelligent automation solutions highly"</span>
                                 </div>
                                 <div class="button-box ce_rsce_oneo_button" style="margin-bottom: 30px;">
-                                    <a href="contact" class="button ce_rsce_oneo_button text-center rounded-pill" style="background-color: #0090f9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Explore now</a>
+                                    <a href="contact" class="button ce_rsce_oneo_button text-center rounded-pill" style="background-color: #0090f9; color: white; padding: 10px 30px; text-decoration: none; border-radius: 5px;">Explore now</a>
                                 </div>
                             </div>
                             <!-- Right Column (Image) -->

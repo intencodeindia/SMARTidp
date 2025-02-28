@@ -189,12 +189,13 @@
                 </div>
 
 
-                <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+                <!-- <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
                     <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
                         SmartIDP</h2>
-                </div>
-                <?php include_once("smartidp_logos.php"); ?>
-            </div>
+                </div> -->
+                 <?php 
+                 // include_once("smartidp_logos.php"); 
+                 ?> 
         </div>
         <div class="container pb-md-5 pb-3" id="article-42568">
             <div class="text-center mb-5">
@@ -290,7 +291,7 @@
                                     </h2>
                                 </div>
                                 <div class="button-box ce_rsce_oneo_button" style="margin-bottom: 30px;">
-                                    <a href="javascript:void(0)" class="button ce_rsce_oneo_button text-center" style="background-color: #0090f9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Read more</a>
+                                    <a href="javascript:void(0)" class="button ce_rsce_oneo_button text-center rounded-pill" style="background-color: #0090f9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;width: 150px;">Read more</a>
                                 </div>
                             </div>
                             <!-- Right Column (Image) -->
@@ -321,7 +322,7 @@
                         <nav class="tab-navigation -columns-4 ce_rsce_oneo_tab_nav">
                             <ul>
                                 <li class="tab-navigation-item">
-                                    <a href="#manufacturing" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">
+                                    <a href="#manufacturing" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width: 150px;">
                                         Manufacturing </a>
                                 </li>
                                 <!-- <li class="tab-navigation-item">
@@ -333,11 +334,11 @@
                                         Insurance </a>
                                 </li> -->
                                 <li class="tab-navigation-item">
-                                    <a href="#logistic" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">
+                                    <a href="#logistic" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width: 150px;">
                                         Logistics </a>
                                 </li>
                                 <li class="tab-navigation-item">
-                                    <a href="#healthcare" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">
+                                    <a href="#healthcare" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width: 150px;">
                                         Healthcare </a>
                                 </li>
                             </ul>
@@ -363,9 +364,8 @@
                                                         satisfaction through the reliable and timely delivery of
                                                         goods.</p>
                                                     <ul>
-                                                        <li>Faster&nbsp;<a
-                                                                href="purchasing_procurement">Purchasing & procurement
-                                                                processes</a></li>
+                                                        <li>Faster Purchasing & procurement
+                                                                processes</li>
                                                         <li>Improved production planning</li>
                                                         <li>Transparent project management</li>
                                                         <li>Documented QM processes</li>

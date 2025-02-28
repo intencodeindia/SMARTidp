@@ -33505,6 +33505,7 @@ form .formbody .arrival-details > .half_sized:not(.widget) > div {
     transform: translateX(-500%); /* This should move only half of the content for a smooth loop */
   }
 }
+
 /* Gradient text styling */
 .gradient {
   background: linear-gradient(331deg, #0090f9 0%, #00b09c 100%);

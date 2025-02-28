@@ -182,15 +182,13 @@
                     beginning. With SmartIDP, automate the processing of documents you receive by mail, ensuring the
                     right information reaches the right people. This drives productivity, streamlines workflows, and
                     accelerates customer service, laying the foundation for more efficient processes.</p>
-                  <p>Want to learn more about smartIDP?</p>
+                  <p>Want to learn more about SmartIDP?</p>
                 </div>
               </div>
 
-              <!-- Button Section to Experience smartIDP -->
+              <!-- Button Section to Experience SmartIDP -->
               <div class="button-box ce_rsce_oneo_button -left">
-                <a class="button ce_rsce_oneo_button -left" href="contact">
-                  Experience smartIDP
-                </a>
+              <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Experience SmartIDP</a>
               </div>
             </div>
           </div>
@@ -221,9 +219,7 @@
       <hr>
       <h2 class="fw-bold mb-3"><span class="gradient">Discover SmartIDP in Action!</span></h2>
       <p class="text-dark fw-bold">Experience SmartIDP in a live demo or directly at your business.</p>
-      <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 15px 30px; text-decoration: none; 
-              border-radius: 50px;">Request live Demo</a>
-      <hr>
+      <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Request Live Demo</a>
 
     </div>
     <div class="mod_article max-width-viewport block" id="article-29432">
@@ -316,13 +312,15 @@
         </div>
       </div>
     </div>
-    <hr>
-    <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+    <!-- <hr> -->
+    <!-- <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
       <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
         SmartIDP</h2>
-    </div>
-    <?php include_once("smartidp_logos.php"); ?>
-    <hr>
+    </div> -->
+    <?php 
+    // include_once("smartidp_logos.php"); 
+    ?>
+    <!-- <hr> -->
     <div class="container py-md-5 justify-content-center">
       <div class="row align-items-center">
         <!-- Left Column: Headline -->
@@ -367,8 +365,7 @@
                   </div>
                 </div>
                 <div class="button-box ce_rsce_oneo_button -left">
-                  <a class="button ce_rsce_oneo_button -left" href="contact">
-                    Read now </a>
+                <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 30px; text-decoration: none;">Read Now</a>
                 </div>
               </div>
               <div
@@ -456,8 +453,7 @@
                   </div>
                 </div>
                 <div class="button-box ce_rsce_oneo_button -left">
-                  <a class="button ce_rsce_oneo_button -left" href="contact">
-                    More details </a>
+                <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 25px; text-decoration: none;">More Details</a>
                 </div>
               </div>
               <div

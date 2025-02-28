@@ -95,7 +95,7 @@
                             </li>
                         </ul>
                         <div class="my-4">
-                            <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                            <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width:150px;">REQUEST DEMO</a>
                         </div>
                     </div>
                     <!-- Right Column: Image Section -->
@@ -111,7 +111,9 @@
                 SmartIDP</h2>
         </div> -->
         <div class="mt-5"></div>
-        <?php include_once("smartidp_logos.php"); ?>
+        <?php
+        //  include_once("smartidp_logos.php"); 
+        ?>
         <div class="container text-center">
             <h2 class="mb-4 responsive-heading1 fw-bold"><span class="gradient">Efficiency</span> begins with an <span class="gradient">AI-powered</span> SmartIDP DMS</h2>
             <p class="mb-4 fs-5">Say goodbye to paper, floating files, email attachments, and file directories. The SmartIDP document management system empowers you to take full control of your documents with seamless digital management of contracts, orders, invoices, HR documents, and more.</p>
@@ -238,7 +240,7 @@
                                     </h2>
                                 </div>
                                 <div class="button-box ce_rsce_oneo_button" style="margin-bottom: 30px;">
-                                    <a href="contact" class="button ce_rsce_oneo_button text-center" style="background-color: #0090f9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Learn more</a>
+                                    <a href="contact" class="button ce_rsce_oneo_button text-center" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 30px; text-decoration: none; border-radius: 20px;">Learn more</a>
                                 </div>
                             </div>
                             <!-- Right Column (Image) -->

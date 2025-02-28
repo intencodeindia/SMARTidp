@@ -63,7 +63,7 @@
                     <!-- Left Column (Text Content) -->
                     <div class="col-lg-6 text-white">
                         <div class="mb-4">
-                            <h2 class="subheadline text-uppercase" style="font-size: 2.5rem; font-weight: 700;">
+                            <h2 class="subheadline text-uppercase">
                                 <span class="text-white">SmartIDP Invoice Automation</span>
                             </h2>
                         </div>
@@ -82,8 +82,7 @@
                             </li>
                         </ul>
                         <div class="mt-4">
-                            <a class="btn rounded-pill px-3 text-white" href="contact.php"
-                                style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                        <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width:150px;">REQUEST DEMO</a>
                         </div>
                     </div>
                 </div>
@@ -92,7 +91,9 @@
         </div>
 
         <div class="mt-5"></div>
-        <?php include_once("smartidp_logos.php"); ?>
+        <?php 
+        // include_once("smartidp_logos.php"); 
+        ?>
         <div class="container text-center">
             <h2 class="mb-3 responsive-heading1 fw-bold"><span class="gradient">High-Speed </span>Invoice Processing
                 with SmartIDP</h2>
@@ -161,9 +162,7 @@
                                     </div>
                                 </div>
                                 <div class="button-box ce_rsce_oneo_button -left">
-                                    <a class="button ce_rsce_oneo_button -left" href="contact.php">
-                                        Check out eDocument Exchange
-                                    </a>
+                                <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Check out eDocument Exchange</a>
                                 </div>
                             </div>
 
@@ -409,9 +408,7 @@
                                     </div>
                                 </div>
                                 <div class="button-box ce_rsce_oneo_button -left">
-                                    <a class="button ce_rsce_oneo_button -left" href="contact.php">
-                                        Experience SmartIDP
-                                    </a>
+                                <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;"> Experience SmartIDP</a>
                                 </div>
                             </div>
                             <div class="col-12 col-lg-6 d-none d-lg-block d-flex justify-content-end align-content-center">

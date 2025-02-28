@@ -103,7 +103,7 @@
                             </h2>
                         </div>
                         <div class="mt-4">
-                            <a class="btn rounded-pill px-4 text-white fw-bold" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                            <a class="btn rounded-pill px-4 text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
                         </div>
                     </div>
                 </div>
@@ -160,10 +160,9 @@
 
         <div class="container text-center py-5">
             <hr>
-            <h2 class="fw-bold mb-3"><span class="gradient">Experience smartIDP Live!</span></h2>
+            <h2 class="fw-bold mb-3"><span class="gradient">Experience SmartIDP Live!</span></h2>
             <p class="text-dark fw-bold">Join a live demo or schedule a personalized session at your workplace.</p>
-            <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 15px 30px; text-decoration: none; 
-              border-radius: 50px;">Request live Demo</a>
+            <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Request Demo</a>
             <hr>
         </div>
 
@@ -208,13 +207,16 @@
             </div>
         </div>
 
-        <div class="container py-md-3">
-            <h2 class="text-center fw-bold mb-3">These companies have already <span class="gradient">integrated smartIDP</span> into their <span class="gradient">Microsoft systems</span></h2>
+        <!-- <div class="container py-md-3">
+            <h2 class="text-center fw-bold mb-3">These companies have already <span class="gradient">integrated SmartIDP</span> into their <span class="gradient">Microsoft systems</span></h2>
             <hr>
             <div class="mt-5"></div>
-            <?php include_once("smartidp_logos.php"); ?>
+            <?php 
+            // include_once("smartidp_logos.php");
+             ?>
             <hr>
-        </div>
+        </div> -->
+        
         <div class="container py-md-5">
             <div class="row align-items-center">
                 <!-- Left Column: Headline -->
@@ -227,7 +229,7 @@
                 <!-- Right Column: Content Text -->
                 <div class="col-lg-6">
                     <div class="content-text">
-                        <p>Emails, presentations, costings, contracts, cover letters: Do you manage an overwhelming array of documents and data from Microsoft Office, Outlook, and SharePoint? It’s a challenge to keep track of file names, storage locations, document versions, and email arrangements. With smartIDP, you can enhance Microsoft’s capabilities with transparent processes, powerful search tools, and secure archiving for your business-critical documents.</p>
+                        <p>Emails, presentations, costings, contracts, cover letters: Do you manage an overwhelming array of documents and data from Microsoft Office, Outlook, and SharePoint? It’s a challenge to keep track of file names, storage locations, document versions, and email arrangements. With SmartIDP, you can enhance Microsoft’s capabilities with transparent processes, powerful search tools, and secure archiving for your business-critical documents.</p>
                     </div>
                 </div>
             </div>
@@ -243,8 +245,7 @@
                     <blockquote class="">
                         <p>Our interconnected eFiles act as central access points to documents from a range of sources, including SAP documents, emails, MS Office, and more, helping us improve operations in various areas, such as customer service.</p>
                     </blockquote>
-                    <a href="contact.php" class="button ce_rsce_oneo_button rounded-eclipse text-center my-md-3 fw-bold" style="background-color: #0090f9; color: white; padding: 10px 30px; text-decoration: none; 
-              border-radius: 50px;">Learn More</a>
+                    <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 30px; text-decoration: none;">Learn More</a>
                 </div>
 
                 <!-- Image Section -->
@@ -264,7 +265,7 @@
 
                 <!-- Right Column: Content Text -->
                 <div class="col-md-6">
-                    <p>Are your Word documents, Excel lists, and PowerPoint presentations scattered across local file directories? It’s easy to lose track of what’s where. With smartIDP, we streamline your document management, providing a full overview and organized structure. Thanks to version control, changes stay traceable. In eFiles, you can quickly access related information connected to your documents. The practical DMS functions from smartIDP are integrated directly into your Microsoft applications:</p>
+                    <p>Are your Word documents, Excel lists, and PowerPoint presentations scattered across local file directories? It’s easy to lose track of what’s where. With SmartIDP, we streamline your document management, providing a full overview and organized structure. Thanks to version control, changes stay traceable. In eFiles, you can quickly access related information connected to your documents. The practical DMS functions from SmartIDP are integrated directly into your Microsoft applications:</p>
                     <ul>
                         <li><strong>Add-in</strong>: Search and manage documents directly from Microsoft applications</li>
                         <li><strong>Annotations</strong>: Collaborate more effectively and coordinate documents</li>
@@ -284,7 +285,7 @@
                             <div class="icon-boxes-item mb-4  -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-archive fa-lg"></i></span>
                                 <h3 class="fw-bold">Audit-proof Email Archiving</h3>
-                                <p>Archive emails and attachments from Microsoft Outlook with smartIDP's email archiving, ensuring redundancy-free and audit-compliant storage: simply via drag-and-drop, automatically, or using journal archiving. This ensures your correspondence is secure while reducing the load on your mailboxes.</p>
+                                <p>Archive emails and attachments from Microsoft Outlook with SmartIDP's email archiving, ensuring redundancy-free and audit-compliant storage: simply via drag-and-drop, automatically, or using journal archiving. This ensures your correspondence is secure while reducing the load on your mailboxes.</p>
                             </div>
                         </div>
                         <div class="row">
@@ -293,7 +294,7 @@
                             <div class="icon-boxes-item mb-4 -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-folder-open fa-lg"></i></span>
                                 <h3 class="fw-bold">Structured, Company-wide Filing</h3>
-                                <p>Share emails across departments and teams with smartIDP: smartIDP eFiles bundle all information about a business case, such as inquiries, orders, and contracts. With the integrated add-in, filing and searching can be done directly from Outlook.</p>
+                                <p>Share emails across departments and teams with SmartIDP: SmartIDP eFiles bundle all information about a business case, such as inquiries, orders, and contracts. With the integrated add-in, filing and searching can be done directly from Outlook.</p>
                             </div>
                         </div>
                         <div class="row">
@@ -302,7 +303,7 @@
                             <div class="icon-boxes-item -large-col-2-1 -large-last -large-first-row -medium-col-2-1 -medium-last -medium-first-row -small-col-1-1 -small-first -small-last -align-left -headline-icon">
                                 <span class="icon-boxes-item-icon"><i class="fas fa-plug fa-lg"></i></span>
                                 <h3 class="fw-bold">Integrate Processes in Outlook</h3>
-                                <p>Automate your inbound mail processing with smartIDP. Emails, correspondence, applications, online forms, and more are captured, classified, and forwarded to the appropriate individuals for processing. For managing all other tasks, use smartIDP BPM.</p>
+                                <p>Automate your inbound mail processing with SmartIDP. Emails, correspondence, applications, online forms, and more are captured, classified, and forwarded to the appropriate individuals for processing. For managing all other tasks, use SmartIDP BPM.</p>
                             </div>
                         </div>
 
@@ -330,7 +331,7 @@
                         <!-- Content Text -->
                         <div class="content-text">
                             <div class="rte">
-                                <p>smartIDP rounds out Microsoft <strong>Dynamics 365 Sales, Dynamics 365 Finance</strong> and <strong>Dynamics 365 Supply Chain Management</strong>.</p>
+                                <p>SmartIDP rounds out Microsoft <strong>Dynamics 365 Sales, Dynamics 365 Finance</strong> and <strong>Dynamics 365 Supply Chain Management</strong>.</p>
                             </div>
                         </div>
                         <!-- Icon Boxes Section -->
@@ -340,7 +341,7 @@
                                 <span class="icon-boxes-item-icon"><i class="fas fa-archive fa-lg"></i></span>
                                 <h3>Archive Data & Documents</h3>
                                 <div class="icon-boxes-item-text">
-                                    <p>Print lists, invoices, quotations: Inbound and outbound documents from Microsoft Dynamics 365 are archived automatically with smartIDP. For example, smartIDP imports customer or vendor master data and stores everything in an audit-proof manner.</p>
+                                    <p>Print lists, invoices, quotations: Inbound and outbound documents from Microsoft Dynamics 365 are archived automatically with SmartIDP. For example, SmartIDP imports customer or vendor master data and stores everything in an audit-proof manner.</p>
                                 </div>
                             </div>
                             <!-- Find All Information -->
@@ -348,7 +349,7 @@
                                 <span class="icon-boxes-item-icon"><i class="fas fa-search fa-lg"></i></span>
                                 <h3>Find All Information</h3>
                                 <div class="icon-boxes-item-text">
-                                    <p>smartIDP provides you with direct access in Microsoft Dynamics to all the relevant information about a transaction. It's easy to switch back and forth between, for example, a smartIDP vendor or customer file and Dynamics at the click of a button.</p>
+                                    <p>SmartIDP provides you with direct access in Microsoft Dynamics to all the relevant information about a transaction. It's easy to switch back and forth between, for example, a SmartIDP vendor or customer file and Dynamics at the click of a button.</p>
                                 </div>
                             </div>
                         </section>
@@ -368,8 +369,8 @@
                                 </div>
                                 <div class="content-text">
                                     <div class="rte">
-                                        <p>smartIDP is a long-standing <strong>certified Gold Partner</strong> of Microsoft: This is the best prerequisite for your integration. Only 1% of all Microsoft partners have achieved Gold status — and smartIDP has been a Gold Partner for over a decade. This guarantees that your smartIDP solutions run with every Microsoft release and ensures both systems are seamlessly integrated.</p>
-                                        <p>smartIDP has achieved Gold status in four categories of Microsoft's partner program:</p>
+                                        <p>SmartIDP is a long-standing <strong>certified Gold Partner</strong> of Microsoft: This is the best prerequisite for your integration. Only 1% of all Microsoft partners have achieved Gold status — and SmartIDP has been a Gold Partner for over a decade. This guarantees that your SmartIDP solutions run with every Microsoft release and ensures both systems are seamlessly integrated.</p>
+                                        <p>SmartIDP has achieved Gold status in four categories of Microsoft's partner program:</p>
                                         <ul>
                                             <li>Application Development</li>
                                             <li>Application Integration</li>

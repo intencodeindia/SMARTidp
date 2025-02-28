@@ -199,7 +199,7 @@
                                             management:
                                             It bridges and automates content across your ecosystem to create a
                                             360° view of business.</p>
-                                            <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Experience SmartIDP</a>
+                                            <a class="btn rounded-pill px-3 text-white mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Experience SmartIDP</a>
                     </div>
                     <!-- Right Column: Image Section -->
                     <div class="col-12 col-lg-6 text-center d-flex align-items-center justify-content-center">

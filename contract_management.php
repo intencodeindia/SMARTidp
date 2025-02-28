@@ -88,17 +88,19 @@
                             </li>
                         </ul>
                         <div class="mt-4">
-                            <a class="btn btn-outline-primary rounded-pill px-5 text-white" href="contact.php"><b>REQUEST DEMO</b></a>
+                        <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width:150px;">REQUEST DEMO</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+        <!-- <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
             <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
                 SmartIDP</h2>
-        </div>
-        <?php include_once("smartidp_logos.php"); ?>
+        </div> -->
+        <?php
+        //  include_once("smartidp_logos.php"); 
+         ?>
         <div class="container ">
             <div class="row text-center ">
                 <h2 class="responsive-heading1 fw-bold">Take control of your company’s global task: <br>contract management with
@@ -160,8 +162,7 @@
                     </div>
                 </div>
                 <div class="button-box ce_rsce_oneo_button   -left">
-                    <a class="button ce_rsce_oneo_button   -left" href="/en/live-demo.html">
-                        Get Demo </a>
+                <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width:150px;">Get DEMO</a>
                 </div>
             </div>
             <br>

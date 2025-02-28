@@ -104,8 +104,8 @@
               </li>
             </ul>
             <div class="mt-4">
-              <a class="btn rounded-pill px-4 text-white fw-bold" href="contact.php"
-                style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+              <a class="btn rounded-pill text-white" href="contact.php"
+                style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width:150px;">REQUEST DEMO</a>
             </div>
           </div>
           <div class="col-12 col-lg-4 text-center d-flex align-items-center justify-content-center">

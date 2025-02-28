@@ -128,14 +128,14 @@
                                 <h3 class="fw-bold">SmartIDP in insurance</h3>
                                 <div class="rte">
                                     <p>Managing multiple cases and need an organized space to handle documents and information? SmartIDP can help. By automating document processing and standardizing workflows, SmartIDP reduces processing times and enhances decision-making, allowing you to deliver faster, more accurate results. This not only keeps customers satisfied but also ensures consistently high-quality outcomes.</p>
-                                    <p>Want to learn more about smartIDP?</p>
+                                    <p>Want to learn more about SmartIDP?</p>
                                 </div>
                             </div>
 
-                            <!-- Button Section to Experience smartIDP -->
+                            <!-- Button Section to Experience SmartIDP -->
                             <div class="button-box ce_rsce_oneo_button -left">
                                 <a class="button ce_rsce_oneo_button -left" href="contact">
-                                    Experience smartIDP
+                                    Experience SmartIDP
                                 </a>
                             </div>
                         </div>

@@ -105,7 +105,7 @@
                 <!-- Changed icon to better match 'Seamless Integration' -->
               </div>
               <h5 class="card-title">Seamless Integration</h5>
-              <p class="card-text">Our global smartIDP team supports your journey, whether on-premises or in the cloud,
+              <p class="card-text">Our global SmartIDP team supports your journey, whether on-premises or in the cloud,
                 ensuring smooth transitions and optimal results.</p>
             </div>
           </div>
@@ -152,12 +152,12 @@
         <!-- Column 2: Text Content -->
         <div class="col-lg-8 col-md-6">
           <div class="mb-4">
-            <p><em>Maximize the value of your smartIDP solutions across your organization!</em></p>
+            <p><em>Maximize the value of your SmartIDP solutions across your organization!</em></p>
           </div>
           <p class="text-justify">
             From strategic planning and implementation to global rollouts and continuous enhancement:
-            The international smartIDP Professional Services team, along with our trusted integration partners, delivers comprehensive solutions.
-            Working closely with you, we ensure that your smartIDP platform is deployed successfully and optimized for performance:
+            The international SmartIDP Professional Services team, along with our trusted integration partners, delivers comprehensive solutions.
+            Working closely with you, we ensure that your SmartIDP platform is deployed successfully and optimized for performance:
             Whether it’s tailored solutions with rapid implementation or complex, enterprise-wide platforms for global organizations;
             from on-premises to cloud environments: We are there wherever you need us.
           </p>
@@ -176,7 +176,7 @@
               <div class="icon-boxes-item mb-4 -large-col-2-1 -large-first -large-first-row -medium-col-2-1 -medium-first -medium-first-row -small-col-1-1 -small-first -small-last -small-first-row -align-left -headline-icon">
                 <span class="icon-boxes-item-icon"><i class="fas fa-cogs fa-md"></i></span> <!-- Changed icon to better represent technical consultants -->
                 <h3 class="fw-bold">Specialized consultants</h3>
-                <p class="text-justify px-2 px-md-0">Our technical consultants handle the infrastructure (databases, operating systems, etc.) that powers your smartIDP solutions. Our ECM cfonsultants fine-tune and optimize your smartIDP systems for maximum performance. Organizational consultants, with their expertise in IT projects, complete our comprehensive Professional Services team.</p>
+                <p class="text-justify px-2 px-md-0">Our technical consultants handle the infrastructure (databases, operating systems, etc.) that powers your SmartIDP solutions. Our ECM consultants fine-tune and optimize your SmartIDP systems for maximum performance. Organizational consultants, with their expertise in IT projects, complete our comprehensive Professional Services team.</p>
               </div>
             </div>
             <div class="row">
@@ -214,7 +214,7 @@
       </div>
       <div class="content-text">
         <div class="rte">
-          <p class="text-justify px-2 px-md-0">At smartIDP, our extensive international team provides everything from a single source. We offer software licenses and services for <a href="cloud-on-premises-hybrid.php" target="_blank">on-premises, cloud, or hybrid</a> environments. Additionally, we serve as a general contractor with a highly experienced multinational partner network. Our mission is to seamlessly integrate your smartIDP solutions into your organization and IT landscape, driving the success of your digital transformation.</p>
+          <p class="text-justify px-2 px-md-0">At SmartIDP, our extensive international team provides everything from a single source. We offer software licenses and services for on-premises, cloud, or hybrid environments. Additionally, we serve as a general contractor with a highly experienced multinational partner network. Our mission is to seamlessly integrate your SmartIDP solutions into your organization and IT landscape, driving the success of your digital transformation.</p>
         </div>
       </div>
       <section class="icon-boxes is-animated does-repeat ce_rsce_oneo_icon_boxes icons-smaller">

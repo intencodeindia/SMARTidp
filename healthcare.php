@@ -36,18 +36,21 @@
                         </div>
 
                         <div class="mt-4">
-                            <a class="btn btn-outline-primary rounded-pill px-5 text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">REQUEST DEMO</a>
+                            <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width:150px;">REQUEST DEMO</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!-- Content Section -->
-        <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
+        <!-- <div class="headline-box ser-headline-box  ce_rsce_ser_headline_box">
             <h2 class="headline -medium " style="color: #4A6A98">These global leaders trust in
                 SmartIDP</h2>
-        </div>
-        <?php include_once("smartidp_logos.php"); ?>
+        </div> -->
+        <?php
+        //  include_once("smartidp_logos.php"); 
+         ?>
+         <div class="mt-5"></div>
         <div class="container">
             <h2 class="text-center fw-bold mt-0"><span class="gradient">Healthcare </span>has become an integral component of digital transformation</h2>
             <p class="text-center">Healthcare has become an integral component of digital transformation, addressing challenges such as a shortage of skilled workers,
@@ -198,7 +201,7 @@
                                     </h2>
                                 </div>
                                 <div class="button-box ce_rsce_oneo_button" style="margin-bottom: 30px;">
-                                    <a href="contact" class="button ce_rsce_oneo_button text-center rounded-pill" style="background-color: #0090f9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Learn more</a>
+                                    <a href="contact" class="button ce_rsce_oneo_button text-center rounded-pill" style="background-color: #0090f9; color: white; padding: 10px 25px; text-decoration: none; border-radius: 5px;">Learn more</a>
                                 </div>
                             </div>
                             <!-- Right Column (Image) -->
@@ -421,8 +424,7 @@
                     </div>
                 </div>
                 <div class="button-box ce_rsce_oneo_button   -left">
-                    <a class="button ce_rsce_oneo_button   -left" href="/en/live-demo.html">
-                        Get Demo </a>
+                <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 30px; text-decoration: none;">Get Demo</a>
                 </div>
             </div>
         </div>

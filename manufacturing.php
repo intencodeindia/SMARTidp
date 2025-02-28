@@ -138,7 +138,7 @@
                         </h1>
                         <p class="fs-5 text-white mb-4">SmartIDP: Bridging Your Supply Chain, Production, and IIoT Systems with People, Machines, and Information.</p>
                         <div class="mt-4">
-                            <a class="btn rounded-pill px-4 text-white" href="contact.php" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover our customer stories</a>
+                            <a class="btn rounded-pill text-white" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);width:150px;">Request Demo</a>
                         </div>
                     </div>
                     <!-- Right Column: Image Section -->
@@ -150,7 +150,9 @@
         </div>
 
         <div class="mt-5"></div>
-        <?php include_once("smartidp_logos.php"); ?>
+        <?php
+        //  include_once("smartidp_logos.php"); 
+        ?>
         <div class="container">
             <div class="serhead-main-headline text-center justify-content-center">
                 <h2 class="fw-bold fs-2"><span class="gradient">"SmartIDP:</span> Driving Digital Transformation in the Manufacturing Sector</h2>
@@ -207,15 +209,13 @@
                                 <h3 class="fw-bold">SmartIDP in Manufacturing</h3>
                                 <div class="rte">
                                     <p>Looking to streamline procurement, supply chain, and daily operations? SmartIDP helps you analyze, process, and ensure your data is accurate, accessible, and error-free, while automating tasks so you can focus on what matters most.</p>
-                                    <p>Want to learn more about smartIDP?</p>
+                                    <p>Want to learn more about SmartIDP?</p>
                                 </div>
                             </div>
 
-                            <!-- Button Section to Experience smartIDP -->
+                            <!-- Button Section to Experience SmartIDP -->
                             <div class="button-box ce_rsce_oneo_button -left">
-                                <a class="button ce_rsce_oneo_button -left" href="contact">
-                                    Experience smartIDP
-                                </a>
+                            <a href="contact" class="button ce_rsce_oneo_button rounded-pill text-center my-md-3" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); color: white; padding: 10px 20px; text-decoration: none;">Experience SmartIDP</a>
                             </div>
                         </div>
                     </div>
@@ -234,7 +234,7 @@
                         <li>The 6 Key Trends in Manufacturing Powered by SmartIDP</li>
                         <li>The 3 Most Promising Digital Transformation Projects with SmartIDP in 2024</li>
                     </ul>
-                    <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Download Industry Study Now</a>
+                    <a class="btn rounded-pill text-white mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%); width:150px;">Learn Now</a>
                 </div>
 
                 <!-- Right Column: Image -->
@@ -362,7 +362,7 @@
                         <li>Fewer delivery delays through advanced supplier management</li>
                         <li>Enhanced compliance across processes</li>
                     </ul>
-                    <a class="btn rounded-pill px-4 text-white fw-bold mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover SmartIDP</a>
+                    <a class="btn rounded-pill px-2 text-white mb-md-0 mb-4" href="contact" style="background: linear-gradient(331deg, #0090f9 0, #00b09c 100%);">Discover SmartIDP</a>
                 </div>
 
                 <!-- Right Column: Image -->
